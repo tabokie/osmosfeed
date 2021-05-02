@@ -26,7 +26,7 @@ sources:
   - href: http://feeds.feedburner.com/blogspot/TuHQT
   - href: http://www.cs.cmu.edu/~pavlo//blog/feed.xml
   - href: https://www.changhai.org/index.php/feed.xml
-  - href: http://www.brendangregg.com/blog/rss.xml
+  # - href: http://www.brendangregg.com/blog/rss.xml
   - href: https://www.ralfj.de/blog/feed.xml
   - href: https://blog.acolyer.org/feed/
   - href: http://smalldatum.blogspot.com/feeds/posts/default?alt=rss
