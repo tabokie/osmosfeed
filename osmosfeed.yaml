@@ -1,6 +1,6 @@
 cacheUrl: https://tabokie.github.io/osmosfeed/cache.json
 sources:
-  - href: https://mlook.mobi/feed/books
+  # - href: https://mlook.mobi/feed/books
   - href: https://www.internalpointers.com/rss
   - href: https://christine.website/blog.rss
   - href: https://www.shironekolabs.com/index.xml
@@ -15,11 +15,11 @@ sources:
   - href: https://www.math.columbia.edu/~woit/wordpress/?feed=rss2
   - href: https://unintendedconsequenc.es/feed/
   - href: https://llogiq.github.io/feed.xml
-  - href: http://www.yinwang.org/atom.xml
+  # - href: http://www.yinwang.org/atom.xml
   - href: https://earlyretirementextreme.com/feed
-  - href: http://www.aaronsw.com/2002/feeds/pgessays.rss
+  # - href: http://www.aaronsw.com/2002/feeds/pgessays.rss
   - href: https://avc.com/feed/
-  - href: https://microship.com/feed/
+  # - href: https://microship.com/feed/
   - href: http://www.cs.uni.edu/~wallingf/blog/index.xml
   - href: https://ciechanow.ski/atom.xml
   - href: https://xenaproject.wordpress.com/feed/
