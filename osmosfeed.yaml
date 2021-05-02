@@ -19,7 +19,7 @@ sources:
   - href: https://earlyretirementextreme.com/feed
   - href: http://www.aaronsw.com/2002/feeds/pgessays.rss
   - href: https://avc.com/feed/
-  - href: https://microship.com/feed/
+  # - href: https://microship.com/feed/
   - href: http://www.cs.uni.edu/~wallingf/blog/index.xml
   - href: https://ciechanow.ski/atom.xml
   - href: https://xenaproject.wordpress.com/feed/
@@ -50,3 +50,9 @@ sources:
   - href: https://thearchivecollective.com/feed/
   - href: https://paper-journal.com/feed/
   - href: https://noicemagazine.com/rss
+  - href: https://phroomplatform.com/feed/
+  - href: https://www.featureshoot.com/feed/
+  - href: https://gupmagazine.com/feed/
+  - href: https://organicamagazine.tumblr.com/rss
+  - href: https://www.aint-bad.com/feed/
+  - href: https://opendoors.gallery/feed
