@@ -4,7 +4,7 @@ sources:
   - href: https://www.internalpointers.com/rss
   - href: https://christine.website/blog.rss
   - href: https://www.shironekolabs.com/index.xml
-  # - href: https://quuxplusone.github.io/blog/feed.xml
+  - href: https://quuxplusone.github.io/blog/feed.xml
   - href: http://www.windytan.com/feeds/posts/default?alt=rss
   - href: https://web.eecs.utk.edu/~azh/blog/feed.rss
   - href: https://filipnikolovski.com/index.xml
@@ -17,9 +17,9 @@ sources:
   - href: https://llogiq.github.io/feed.xml
   # - href: http://www.yinwang.org/atom.xml
   - href: https://earlyretirementextreme.com/feed
-  # - href: http://www.aaronsw.com/2002/feeds/pgessays.rss
+  - href: http://www.aaronsw.com/2002/feeds/pgessays.rss
   - href: https://avc.com/feed/
-  # - href: https://microship.com/feed/
+  - href: https://microship.com/feed/
   - href: http://www.cs.uni.edu/~wallingf/blog/index.xml
   - href: https://ciechanow.ski/atom.xml
   - href: https://xenaproject.wordpress.com/feed/
@@ -35,3 +35,18 @@ sources:
   - href: http://concurrencyfreaks.blogspot.com/feeds/posts/default?alt=rss
   - href: https://randomascii.wordpress.com/feed/
   - href: https://twycinema.wordpress.com/feed/
+  - href: http://ai.googleblog.com/feeds/posts/default?alt=rss
+  - href: https://feeds.feedburner.com/initiative
+  - href: https://www.gcores.com/rss
+  - href: https://theinitium.com/newsfeed/
+  - href: https://www.producthunt.com/feed
+  - href: https://www.cabinetmagazine.org/rss/rss.xml
+  - href: https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/close-read/rss.xml
+  - href: https://www.archdaily.com/feed
+  - href: https://mixmag.net/rss.xml
+  - href: https://thedirectorscommentary.tumblr.com/rss
+  - href: https://www.burnmagazine.org/feed/
+  - href: http://www.somewhere-magazine.com/feed/
+  - href: https://thearchivecollective.com/feed/
+  - href: https://paper-journal.com/feed/
+  - href: https://noicemagazine.com/rss
