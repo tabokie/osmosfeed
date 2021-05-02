@@ -4,7 +4,7 @@ sources:
   - href: https://www.internalpointers.com/rss
   - href: https://christine.website/blog.rss
   - href: https://www.shironekolabs.com/index.xml
-  - href: https://quuxplusone.github.io/blog/feed.xml
+  # - href: https://quuxplusone.github.io/blog/feed.xml
   - href: http://www.windytan.com/feeds/posts/default?alt=rss
   - href: https://web.eecs.utk.edu/~azh/blog/feed.rss
   - href: https://filipnikolovski.com/index.xml
