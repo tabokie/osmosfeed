@@ -97,15 +97,6 @@
           "sourceHref": "https://quuxplusone.github.io/blog/feed.xml",
           "sourceTitle": "Arthur O’Dwyer",
           "title": "Antisocial Homeworlds, and a solitaire challenge"
-        },
-        {
-          "description": "There’s a meme\ngoing around (extracted from Mark Forsyth’s 2013 book\nThe Elements of Eloquence)\nthat postulates an unwritten rule of English:\nAdjectives in English absolutely have to be in this order:\nopinion-size-age-shape-colour-origin-material-purpose Noun.\nSo you can have a lovely little old rectangular green French\nsilver whittling knife. But if you mess with that word order\nin the slightest you’ll sound like a maniac.\nThe existence of compound modifiers complicates matters: personally\nI would interpre…",
-          "link": "https://quuxplusone.github.io/blog/2021/04/03/static-constexpr-whittling-knife/",
-          "publishedOn": "2021-04-03T00:01:00.000Z",
-          "wordCount": 2003,
-          "sourceHref": "https://quuxplusone.github.io/blog/feed.xml",
-          "sourceTitle": "Arthur O’Dwyer",
-          "title": "`static constexpr unsigned long` is C++’s “lovely little old French whittling knife”"
         }
       ]
     },
@@ -318,6 +309,15 @@
     {
       "href": "https://earlyretirementextreme.com/feed",
       "articles": [
+        {
+          "description": "I am currently looking into both in more detail to derive fortitude in the face of the permeating growth/consumerism mentality. Stoicism and Zen Buddhism are very similar. They both try to deal with the problems of the ego. Conversely, consumerism is all about gratifying the ego. I don’t think I’m qualified to comment in detail&#8211;however… [&#8230;]",
+          "link": "https://earlyretirementextreme.com/stoicism-vs-zen-buddhism-very-preliminary.html",
+          "publishedOn": "2021-05-03T02:35:11.000Z",
+          "wordCount": 5361,
+          "sourceHref": "https://earlyretirementextreme.com/feed",
+          "sourceTitle": "Early Retirement Extreme",
+          "title": "Stoicism vs (Zen) Buddhism — preliminary conclusions"
+        },
         {
           "description": "Freedom is not the last word. Freedom is only part of the story and half of the truth. The positive aspect of freedom is responsibleness. That is why I recommend that the Statue of Liberty on the East Coast be supplemented by a Statue of Responsibility on the West Coast. &#8212; Viktor E. Frankl Pertaining [&#8230;]",
           "link": "https://earlyretirementextreme.com/with-great-freedom-comes-great-responsibility.html",
@@ -887,6 +887,69 @@
       "href": "https://www.gcores.com/rss",
       "articles": [
         {
+          "description": "《指环王：护戒使者》开场的这一段念白，也正是这几日心境的代表。接触《魔戒》到现在也正好二十年，一方面，终于在电影院看到了院线版的《护戒使者》《双塔奇兵》，心中的激动与感慨无以复加，另一方面，看到自己喜欢的作品被一星差评， 以及随之而来的又一波相互攻击、拉黑和站队，心情犹如林谷会议中的弗罗多·巴金斯在魔戒上看到争吵的众人。而所见的转发文章中，大多依旧侧重于重申这部作品在幻想文学、电影上的地位。我认同其中的许多观点，但也觉得这样的评论在强调这部作品的门槛之外，并无益于帮助路人和潜在的爱好者更好地理解这部作品。同时也发现这几年重走魔戒之路，重新阅读和观看时，对这部作品新的理解和感悟也很难在现有的文章里找到。这些感慨、不满和诉说的渴望，就是写下本文的动机。\n（注：The Lord of the Rings 按照译法习惯不同，在指电影时用《指环王》，在指书籍时用《魔戒》，译名采用文景版译名。但写到感情上来了也许会混用，请见谅）\n幻想之始\n《魔戒》是引领我进入幻想世界的最早几部作品之一，如今接触了繁多的幻想作品，并投身幻想创作，更能感受到这部作品的朴实无华和澎湃浩瀚，这一次重新观看电影，也是一次返璞归真之旅，如同一个见过…",
+          "link": "https://www.gcores.com/articles/136319",
+          "publishedOn": "2021-05-03T00:00:00.000Z",
+          "wordCount": 229,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "《指环王》重映之际，再谈一谈幻想作品"
+        },
+        {
+          "description": "最早看到《圣莫妮卡》这个游戏是在忘了哪位朋友的朋友圈里，当时他配的那句话大意就是我今天文章的标题。结果看完这哥们的朋友圈之后，我给他回了一个“+1”。 \n\n\n这些年，桌游发新的速度越来越快，我在以前的文章和节目里都有多次聊到这个话题。因为新作品出现速度太快，“酒香不怕巷子深”这句话早就已经不太好使了，哪怕是再优秀的游戏设计、再大拿的设计大师，也得靠游戏美术和颜值先抓住玩家的眼球，先抓住关注的焦点。先让人记住你，才有后面游戏感受如何、平衡怎么样、机制好不好……如果一开始就没能激起个水花，那后面的事怕就没什么可操心的了。\n想必说到这，大家脑海里都能想到几个抓住过自己的高颜值作品，其中的佼佼者们，只靠一个照面就能让人下决心剁手。而在今天，这个队伍里已经又多了这款《圣莫妮卡》。\n\n\n其实要说出版方 AEG 向来都是非常注意游戏产品表现的，尤其在美术方面更是经常会有令人印象深刻的作品，这次能捣鼓出一个如此清新动人的《圣莫妮卡》来，也在情理之中。\n\n(《GTA5》真是经典之作)\n说到《圣莫妮卡》，相信很多人都不陌生，也许你曾经到过实地，也许你在电影和美剧里见过这里，也许你是在旅游图片上曾经看到，又或者你曾经沉迷于《GTA…",
+          "link": "https://www.gcores.com/articles/136734",
+          "publishedOn": "2021-05-02T23:00:00.000Z",
+          "wordCount": 49,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "《圣莫妮卡》：朋友说看了封面就打算剁手"
+        },
+        {
+          "description": "新世纪福音战士新剧场版：终 式波·明日香·兰格雷 最终任务\n由Revolve出品的新世纪福音战士新剧场版：终 式波·明日香·兰格雷 最终任务 手办模型，于4月26号正式开启预定，1/7比例，全高约27cm，售价16720円(含税)，预计22年1月发售。\n\n\n\n\n认真的！？风纪委员 原画：ポップキュン\n由DAIKI工业出品的认真的！？风纪委员 手办模型，于4月26号正式开启预定，1/6比例，全高约25cm，售价19800円(含税)，预计11月发售。\n\n\n\n\n\n\n\n\n高达系列\n由万代出品的RG 机动战士高达：逆袭的夏亚 RX-93  Nu高达［钛金质感］、RG 机动战士高达 逆袭的夏亚 MSN-04 沙扎比［特殊涂层］、RG MSV MS-06R-1A 黑色三连星专用扎古II&amp;3机套装、RG MSV MS-06R-1A 松永真专用扎古II、RG 机动战士高达 MSM-07 量产型魔蟹、RG 机动战士高达SEED DESTINY ZGMF-X20A 强袭自由高达 ［钛金质感］&amp;光翼套件【再版】、RG 机动战士高达SEED Destiny ZGMF-X42S 命运高达［钛金质感］&amp;光翼套件【再…",
+          "link": "https://www.gcores.com/articles/136721",
+          "publishedOn": "2021-05-02T14:30:00.000Z",
+          "wordCount": 190,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "2021年4月第四周手办模型情报总汇"
+        },
+        {
+          "description": "涉及博彩？万代等厂商终止赛事合作\n在4月中旬结束的WUFL（WePlay Ultimate Fighting League）上，主办方携手万代南梦宫和NRS（NetherRealm Studios）为大家献上了《铁拳7》、《真人快da 11》等项目的精彩线下赛事。然而在5月1日，万代南梦宫和NRS同时发表了声明，表示与WUFL在标准等方面存在着差异，因此决定与WUFL终止合作。双方的声明措辞几乎一致，不过在声明中并没有透露终止合作的具体原因。\n\n\nWUFL随后作出回应称，对这两家厂商的声明感到惊讶，表示曾在赛前赛后都试图与对方商讨未来，不过并没有得到对方的回复。\n\n\n据悉，本届WUFL的赞助商为博彩公司1xBet。该公司曾因涉嫌非法活动而被英国相关部门撤销牌照。此前也曾赞助过切尔西和利物浦足球俱乐部，后来同样因涉嫌非法活动而离场。万代南梦宫和NRS或是防止博彩的渗透而作出声明，并中断合作。在赛事期间，万代南梦宫没有对赛事相关报道进行转发，其在赛事期间或有了终止后续合作的打算。\n\n小野义德入职FGO开发商Delightworks\n原《街霸5》制作人小野义德在近期宣布加入FGO开发商Delightworks，担任…",
+          "link": "https://www.gcores.com/articles/136748",
+          "publishedOn": "2021-05-02T14:00:00.000Z",
+          "wordCount": 68,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "涉及博彩？万代等厂商终止赛事合作丨格斗游戏资讯一周回顾"
+        },
+        {
+          "description": "5月2日，《少女前线》迎来来了它的五岁生日。散爆官方也趁着这次机会，在上海中国船舶馆举办了《少女前线》五周年线下嘉年华活动。与此同时，官方公布了《逆向坍塌：面包房行动》的最新宣传和战斗 PV ，揭晓了不少答案。 \n\n\n&lt;内嵌内容，请到原网页查看&gt;\n\n据悉，《逆向坍塌：面包房行动》是由 MICAteam 云母组制作的一款正统的策略战棋类游戏。游戏设定为《少女前线》剧情之后，世界由于新的世界大战而重新分裂成两边格局，被称为“第二次冷战”。 在《逆向坍塌：面包房行动》中，玩家为了争夺能改变战争格局的尖端技术，新兴的“南极联邦”与老牌列强国家组成的“罗克萨特主义合众国联盟”之间的各种冲突在世界各地展开着。 \n\n\n开发者确认，主角的妹妹黎格活了下来并会以更加强力的姿态加入战场。同时，开发者还再次强调《逆向坍塌》是充满爱与希望的故事，之前“妹妹酱”的插曲其实是暗插了黎格特殊体质的线索。\n\n\n正因如此，诺耶露与黎格之间的关系也成为了此次嘉年华中最引人注目的焦点，官方表示此次重制版游戏还将大幅增加两人的剧情篇幅，用来具体阐述她们之间的复杂联系。诺耶露不仅将以一名可爱美少女的形象继续自己的故事，还将作为 BOSS …",
+          "link": "https://www.gcores.com/articles/136754",
+          "publishedOn": "2021-05-02T12:15:00.000Z",
+          "wordCount": 62,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "《逆向坍塌：面包房行动》公布最新预告，展现游戏战斗系统"
+        },
+        {
+          "description": "最近好忙，都没时间催更（画图），这次终于挤出时间更新了（顺便催更）。\n这次我想画的是，这次跑团的关键人物，硬汉雨宫庆的心头好，我们可爱的偶像小姐：山村惠佳子！欢迎登场！！！\n\n(对不起走错了)\n画惠佳子小姐的关键词，当然是可爱可爱非常的可爱。话虽然这么说，为了尽可能画的可爱点狂找参考，不擅长画妹子的我已经尽力了。\n\n\n这时候我忽然想到，我忘了关键的一件事：圣子头！于是火速加上。之前的长发版本就作为惠佳子刚出道时青涩的样子吧。\n改成圣子头，然后继续完成。\n\n\n这就是硬汉雨宫庆的一生推！白发老管家的死宅朋友日思夜想之人！新垣里大哥一面之缘就愿意为之赴汤蹈火的可爱女孩子！我们跑团的关键角色！当当当当~~~\n死忠雨宫庆将自己的偶像惠佳子的照片时刻带在身上，在大阪终于成功的要到了签名。获得关键道具：山村惠佳子的签名照片！\n\n\n多年以后，当雨宫庆回忆这段在大阪的奇特追星经历时，充满了复杂的感受。当他回想起美丽的偶像给自己签名的瞬间时，在感到满满的幸福的同时，还有那不可名状的恐怖……",
+          "link": "https://www.gcores.com/articles/136728",
+          "publishedOn": "2021-05-02T10:00:00.000Z",
+          "wordCount": 42,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "《机核人间观察》跑团头像设计练习（叁）"
+        },
+        {
+          "description": "请到机核网查看",
+          "link": "https://www.gcores.com/articles/136723",
+          "publishedOn": "2021-05-02T08:00:00.000Z",
+          "wordCount": 60,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "【冷知识】在中国，我们每年会过两个“世界微笑日”，但我怀疑有一个是假的"
+        },
+        {
           "description": "自己前后买过不少坦克和装甲车的模型了，其中也发现了一些规律——二战德系的某些坦克，比如大名鼎鼎的虎I坦克往往有许多厂家都会制作模型，这其中有五十多一个的小号手Easy Model的虎I，也有PM A、Artisan这种几百块的虎I，有时甚至有全内构。不过到了某些型号就少有厂家问津了，比如M36坦克歼击车，只有Hobby Master一家推出过成品，类似的情况如果出现在产品线很短而且也不太愿意复刻的厂家身上，估计就意味着永久绝版。\n当然，也有些坦克与战车从未推出过1/72的成品，比如间战期的那些型号，冷战时期像Panzer 61、K1A1或者88式等等，对于这种太冷门的我也不是很报希望有一天会有厂家推出，不过今年倒是意外买到了一款很心仪的冷门战车模型，这就是5M推出的阿奇扎里特战车。\n\n\n(Mk1)(Mk2)(“水族箱”，也就是机枪后面那个观测台)\n\n阿奇扎里特是IDF为了弥补M113运兵车的致命不足而诞生的重型运兵车，M113的防御力很差，面对最先进的反坦克导弹、路边炸弹和反坦克地雷时很脆弱。而随着梅卡瓦坦克的服役，以色列装甲部队里那些在60和70年代缴获的T-54、T-55坦克势必面临退役。这两个问题折衷一…",
           "link": "https://www.gcores.com/articles/136731",
           "publishedOn": "2021-05-02T07:00:00.000Z",
@@ -1065,12 +1128,30 @@
           "sourceHref": "https://www.gcores.com/rss",
           "sourceTitle": "机核",
           "title": "EP10 初遇四剑圣"
+        },
+        {
+          "description": "本期时间轴制作：NoHappyEnding\n本想请求家里援助却被拒绝，无奈的五十铃二七等人打算先回酒店，就在准备离开时突然看到了一个让人后背发凉的鬼影。下意识地掏出相机拍摄，但谁也没想到，这一举动将所有人都拉向了深渊。请听本期COC跑团故事丨《机核人间观察》第六集：灵异鬼影，纠缠不清 ！",
+          "link": "https://www.gcores.com/radios/136740",
+          "publishedOn": "2021-05-01T12:00:00.000Z",
+          "wordCount": 40,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "COC跑团故事丨《机核人间观察》第六集：灵异鬼影，纠缠不清"
         }
       ]
     },
     {
       "href": "https://theinitium.com/newsfeed/",
       "articles": [
+        {
+          "description": "香港攝影記者協會舉辦的《前線‧焦點 2020》新聞攝影比賽，於2021年5月2日晚公布得獎名單，端傳媒共奪得7個獎項，其中包括在7個比賽組別奪得4項冠軍。",
+          "link": "https://theinitium.com/article/20200509-photo-hkppa-2020/",
+          "publishedOn": "2021-05-02T11:10:00.000Z",
+          "wordCount": 2,
+          "sourceHref": "https://theinitium.com/newsfeed/",
+          "sourceTitle": "端傳媒 Initium Media",
+          "title": "端傳媒奪得香港攝影記者協會《前線·焦點2020》七獎"
+        },
         {
           "description": "這個在2021年初意外轟動全台的小型展覽，至今仍讓人念念不忘。我們專訪了策展團隊，探尋其中的艱辛與秘密。",
           "link": "https://theinitium.com/article/20210502-taiwan-rediscovering-taiwanese-modern-art/",
@@ -1527,6 +1608,51 @@
       "href": "https://www.producthunt.com/feed",
       "articles": [
         {
+          "description": "&#8220;\n        Hey Producthunt! 🎉\n\nWe're taking up a big challenge here: Helping people build communities around their passion ☘\n\nOrganic social media content is a great way to reach people at no cost.\nBut creating content is hard.\n\nYou need:\n\n⌚ Time\n\n💡 Ideas &amp; inspiration\n\n💪🏼 Discipline to show up every day\n\n🧠 Marketing &amp; design skills\n\nWe've built a tool to enable you to create content faster than ever! 😉\n\n✅ Our solution to these challenges is to build a tool to create content **in bulk.**\n…",
+          "link": "https://www.producthunt.com/posts/posted-23d8cc8d-f9fb-4aa5-ba92-79f481ea4dc3",
+          "publishedOn": "2021-05-02T13:54:35.000Z",
+          "wordCount": 70,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Posted — Bulk social media content generator"
+        },
+        {
+          "description": "&#8220;\n        We built this product because we needed to use one as investors. Every other product we saw didn't address our need and excluded most Africans.\n\nI'll love everyone's feedback and if you'd be interested in using it as well.\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/achee",
+          "publishedOn": "2021-05-02T13:37:53.000Z",
+          "wordCount": 82,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Achee — Easily track your stocks, crypto and other assets"
+        },
+        {
+          "description": "&#8220;\n        I made this simple bitcoin opportunity cost calculator because I believe the framework my friends use to assess bitcoin is wrong. They all anchor on the recent price movements and say 'Ahh, I missed the run up, it's too late to buy in now' - so they don't. Sound familiar? \n\nUsing this tool, you can calculate the opportunity cost, in terms of both money and (more importantly) your time, of not buying bitcoin, by comparing it to any of the top 50 tech IPOs of the last decade. This should help …",
+          "link": "https://www.producthunt.com/posts/bitcoin-or-ipo",
+          "publishedOn": "2021-05-02T13:24:11.000Z",
+          "wordCount": 79,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Bitcoin or IPO — Calculate the opportunity cost of not buying bitcoin"
+        },
+        {
+          "description": "&#8220;\n        I used to love driving around the GTA (Grand Theft Auto) maps as a teenager and listen to the radio stations which had the best music and hilarious conversations i've ever heard from even real life stations.\n\nSo I've created GTA Radio as a form of virtual escapism, sit back choose your favorite game and station, and enjoy driving visuals from the game. \n\nA little dose of nostalgia for GTA fans, in what has become a bloated and stressful world!\n        &#8221;\n        \nDiscussion\n        |\n  …",
+          "link": "https://www.producthunt.com/posts/gta-radio",
+          "publishedOn": "2021-05-02T07:39:32.000Z",
+          "wordCount": 73,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "GTA Radio — A musical dose of video game nostalgia"
+        },
+        {
+          "description": "&#8220;\n        Hello Product Hunters 👋\n\nWanna build a sincere communication with other Product Makers? This is your new place to hang! 🤩 Product Makers - A slack group to grow together. You can meet tons of new entrepreneur souls just like you. \n\nYou want to be a Product Maker and don’t know where to start? Do you have questions about the process? Who better to answer questions than those who have gone through this before? Also, you can always learn something new 💁\n\nIsn’t it exciting? 🙆🙆🙆\n\nShare your…",
+          "link": "https://www.producthunt.com/posts/product-makers",
+          "publishedOn": "2021-05-02T06:45:16.000Z",
+          "wordCount": 72,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Product Makers — A Slack community to connect with other makers"
+        },
+        {
           "description": "&#8220;\n        It really whips the llama's ass! ⚡\n        &#8221;\n        \nDiscussion\n        |\n        Link",
           "link": "https://www.producthunt.com/posts/re-amp",
           "publishedOn": "2021-05-02T06:22:13.000Z",
@@ -1582,6 +1708,15 @@
         },
         {
           "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/anitar",
+          "publishedOn": "2021-05-01T16:38:57.000Z",
+          "wordCount": 77,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Anitar — Animal avatars placeholders for fun web development"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
           "link": "https://www.producthunt.com/posts/anitar-dev",
           "publishedOn": "2021-05-01T16:38:57.000Z",
           "wordCount": 77,
@@ -1615,6 +1750,15 @@
           "sourceHref": "https://www.producthunt.com/feed",
           "sourceTitle": "Product Hunt — The best new products, every day",
           "title": "play-scales — learn and play scales and chords progressions"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/catastrophe",
+          "publishedOn": "2021-05-01T14:40:32.000Z",
+          "wordCount": 66,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Catastrophe — Hangman remake where you have to prevent catastrophes"
         },
         {
           "description": "&#8220;\n        Somewhere in the middle of these weeks. last year, I was discussing some serious topics with my flatmates and no one stopped arguing with each other until we were exhausted or we were delaying the other things and ran out of time to finally switch to those important issues.\n\nI also have had several long-form discussions with people on the internet. My idea is that 95% of the comments in those discussions were shared for the sake of passing time and not giving meaningful advice.\n\nI have kept …",
@@ -1651,6 +1795,15 @@
           "sourceHref": "https://www.producthunt.com/feed",
           "sourceTitle": "Product Hunt — The best new products, every day",
           "title": "Notmoji — Day planner with emojis"
+        },
+        {
+          "description": "&#8220;\n        Stan and Kirill are members of the Indie Hackers Saint Petersburg community.\n\nThe guys are giving an inspiring example of making an amazing product after their desk jobs 💪 \n\nWay to go! Удачи!\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/metasurvey-2-0",
+          "publishedOn": "2021-05-01T07:15:45.000Z",
+          "wordCount": 66,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "MetaSurvey 2.0 — Light survey maker for startups"
         },
         {
           "description": "&#8220;\n        Stan and Kirill are members of the Indie Hackers Saint Petersburg community.\n\nThe guys are giving an inspiring example of making an amazing product after their desk jobs 💪 \n\nWay to go! Удачи!\n        &#8221;\n        \nDiscussion\n        |\n        Link",
@@ -2018,6 +2171,78 @@
     {
       "href": "https://www.archdaily.com/feed",
       "articles": [
+        {
+          "description": "Set in a residential area of rapidly urbanizing Pondicherry, the new library building is realized as a social infrastructure facilitated through the social organization Nandalal Sewa Samithi.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/uKpf5LnHtB4/nandalal-sewa-samithi-library-anupama-kundoo-architects",
+          "publishedOn": "2021-05-02T19:00:00.000Z",
+          "wordCount": 839,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Nandalal Sewa Samithi Library / Anupama Kundoo Architects"
+        },
+        {
+          "description": "Casa Ter surges from a process of truly listing to the cultural and natural environment it inhabits. The decisions behind its shape and materiality are rooted in touching as little of the natural surroundings as possible, and interpreting the local building culture of the area (the rural fields and towns of l&rsquo;Empord&agrave;), using contemporary construction techniques. Following this premise, Casa Ter aims to create a personal sense of place, in close contact with all elements it&rsquo;s surrounded by…",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/m7oYTbfXBvA/ter-house-mesura",
+          "publishedOn": "2021-05-02T17:00:00.000Z",
+          "wordCount": 1141,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Ter House / MESURA"
+        },
+        {
+          "description": "The life traces in the old city of Beijing, enable the deeply hidden hotel to show the unique spatial quality and continue to attract travelers from afar to stay and experience. Every time walking through the alleys, people could be attracted by different forms of old houses in courtyards of different sizes.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/R-WE2-ffdoI/well-well-well-hotel-renovation-fon-studio",
+          "publishedOn": "2021-05-02T15:00:00.000Z",
+          "wordCount": 1023,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Well Well Well Hotel Renovation / FON STUDIO"
+        },
+        {
+          "description": "Located in the Yucat&aacute;n Country Club Golf Club on the Yucat&aacute;n peninsula.\nThe project was born from a collaboration between friendly firms which have a very similar way of projecting. With simple and clean geometry, a project is developed that revolves around inhabiting the exterior from any point of the house, the terraces being a primary point of the project. Transparency and privacy were the factors to consider when designing the project. With great views of the golf course and the magnificen…",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/gfcpTUPjDsY/gp-house-own-plus-felipe-caboclo-arquitetura",
+          "publishedOn": "2021-05-02T13:00:00.000Z",
+          "wordCount": 970,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "GP House / OWN + Felipe Caboclo Arquitetura"
+        },
+        {
+          "description": "Origins. One of our favourite projects. &ldquo;Total architecture&rdquo;, the whole process. Measurements, conversations, sketches, plans, on-site visits, building works, all kinds of functional details, and the last phase, lighting, and interior design. We turned everything upside down to achieve: Other whole ways of thinking and living in the home that imply very different project techniques and that, without doubt, result in domestic spaces that are, to a greater or lesser extent, far away from the conve…",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/j3g11WnqNX8/residence-l-and-i-studiolarq",
+          "publishedOn": "2021-05-02T11:00:00.000Z",
+          "wordCount": 1019,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Residence L&I / studioLARQ"
+        },
+        {
+          "description": "Just south of Wirdum is a striking transformer house. The transformer house was built in the 1920s in an expressionist architectural style. It was originally built to house the transformer that had to supply Wirdum and the surrounding area with power. The special details make this transformer house a unique building that is part of Dutch cultural heritage. Before we started working on it, it had been empty for more than 20 years and the former owner wanted to demolish the building. We have converted the bui…",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/vp-umXXIens/transformation-house-lautenbag-architectuur",
+          "publishedOn": "2021-05-02T09:00:00.000Z",
+          "wordCount": 1049,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Transformation House / Lautenbag Architectuur + De Stadsmeubelmaker"
+        },
+        {
+          "description": "At the heart of it, architecture is an inter-disciplinary profession. Ranging from structural engineers to quantity surveyors, a design project thrives from the collaboration of individuals from various fields of work. An often-overlooked connection is the link between the fields of architecture and archaeology, which in more ways than one have a lot in common. In a time of increased awareness on issues of sustainability and heritage, the expertise present in the field of archaeology plays a vital part in t…",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/hFSB-CT3jwc/the-link-between-archaeology-and-architecture",
+          "publishedOn": "2021-05-02T07:30:00.000Z",
+          "wordCount": 1385,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "The Link Between Archaeology and Architecture"
+        },
+        {
+          "description": "Overview. Studio Saxe was commissioned to design a home perched on the hilltops of the town of Santa Teresa in Costa Rica. Due to the extreme pitch of the terrain, we decided to sink the private areas of bedrooms into the ground and thus allow the main living area to have the best expansive views on top with floating terraces and a pool.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/1Lm1-dtlUNE/casa-bell-lloc-studio-saxe",
+          "publishedOn": "2021-05-02T06:00:00.000Z",
+          "wordCount": 1005,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Casa Bell Lloc / Studio Saxe"
+        },
         {
           "description": "Location: The subject site is located in the Dingrong Village where is the most northern village in Quanzhou. Dingrong village in the deep Daiyun mountains is well known for its ginkgo trees. There are 27 ancient ginkgo trees with ages of more than 300 years over the village. The leaves of these ginkgo trees turn gold during late autumn and early winter. Such beautiful ‘golden’ trees which are located within a large broad-leaf forest are forming a unique rural environment together with the locally ancient v…",
           "link": "http://feedproxy.google.com/~r/ArchDaily/~3/XE27eAmy_2A/ancient-apricot-mountain-dwelling-home-stay-pan-china-star-resp-studio",
@@ -3030,33 +3255,6 @@
           "sourceHref": "https://mixmag.net/rss.xml",
           "sourceTitle": "Mixmag",
           "title": "Violet returns to Naive for new solo EP 'Espírito'"
-        },
-        {
-          "description": "His latest single ‘Young Lies’ with Damon Albarn is out now\nContinue reading...",
-          "link": "https://mixmag.net/read/pote-a-tenuous-tale-of-her-forthcoming-new-album-bonobo-outlier-news",
-          "publishedOn": "2021-04-03T06:30:00.000Z",
-          "wordCount": 359,
-          "sourceHref": "https://mixmag.net/rss.xml",
-          "sourceTitle": "Mixmag",
-          "title": "Poté tells ‘A Tenuous Tale of Her’ on forthcoming new album"
-        },
-        {
-          "description": "She’s also announced her upcoming album ‘Fatigue’ \nContinue reading...",
-          "link": "https://mixmag.net/read/lrain-two-face-track-release-fatigue-album-announcement-news",
-          "publishedOn": "2021-04-03T06:00:00.000Z",
-          "wordCount": 450,
-          "sourceHref": "https://mixmag.net/rss.xml",
-          "sourceTitle": "Mixmag",
-          "title": "L'Rain is 'Two Face' in latest video"
-        },
-        {
-          "description": "The pieces have been designed with his seamstress wife and inspired by scenes from Tokyo\nContinue reading...",
-          "link": "https://mixmag.net/read/mr-g-clothing-line-g-threadz-news",
-          "publishedOn": "2021-04-03T05:30:00.000Z",
-          "wordCount": 389,
-          "sourceHref": "https://mixmag.net/rss.xml",
-          "sourceTitle": "Mixmag",
-          "title": "Mr G launches exclusive clothing line G Threadz"
         }
       ]
     },
@@ -3644,5 +3842,5 @@
       ]
     }
   ],
-  "cliVersion": "1.2.3"
+  "cliVersion": "1.3.0"
 }
