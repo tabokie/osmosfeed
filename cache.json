@@ -88,15 +88,6 @@
           "sourceHref": "https://quuxplusone.github.io/blog/feed.xml",
           "sourceTitle": "Arthur O’Dwyer",
           "title": "Lineup for next week’s Celebration of Mind"
-        },
-        {
-          "description": "A couple of weeks ago, I came up with a new variant of Binary Homeworlds.\nReaders of this blog will already know Homeworlds as the “space chess”\ngame played with colorful pyramids, invented by John Cooper, and\npopularized mainly by Andy Looney.\nIn fact, this variant was directly inspired by a variant\ninvented by Andy Looney in February 2021, which he called “Peaceful Homeworlds,”\nand which you can read about here.\nFull disclosure: I have not attempted to play “Peaceful Homeworlds,”\nbut I think I wouldn’t li…",
-          "link": "https://quuxplusone.github.io/blog/2021/04/04/antisocial-homeworlds/",
-          "publishedOn": "2021-04-04T00:01:00.000Z",
-          "wordCount": 1156,
-          "sourceHref": "https://quuxplusone.github.io/blog/feed.xml",
-          "sourceTitle": "Arthur O’Dwyer",
-          "title": "Antisocial Homeworlds, and a solitaire challenge"
         }
       ]
     },
@@ -129,6 +120,24 @@
     {
       "href": "https://rimzy.net/feed/",
       "articles": [
+        {
+          "description": "Percona Monitoring and Management has been available for single-click deployment from AWS Marketplace for several years now, and we have hundreds of instances concurrently active and growing rapidly due to unparalleled ease of deployment. Today we’re announcing we are changing pricing for Percona Monitoring and Management on AWS Marketplace. Currently, Percona Monitoring and Management (PMM) […]",
+          "link": "https://www.percona.com/blog/2021/05/03/changes-to-percona-monitoring-and-management-on-aws-marketplace/",
+          "publishedOn": "2021-05-03T10:54:18.000Z",
+          "wordCount": 1069,
+          "sourceHref": "https://rimzy.net/feed/",
+          "sourceTitle": "Personal blog of Yzmir Ramirez",
+          "title": "Changes to Percona Monitoring and Management on AWS Marketplace"
+        },
+        {
+          "description": "It’s widely known that Dell has a debt problem left over from its massive acquisition of EMC in 2016, and it seems to be moving this year to eliminate part of it in multi-billion-dollar chunks. The first step was spinning out VMware as a separate company last month, a move expected to net close to […]",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/NgZH9f4spiI/",
+          "publishedOn": "2021-05-03T05:14:22.000Z",
+          "wordCount": 561,
+          "sourceHref": "https://rimzy.net/feed/",
+          "sourceTitle": "Personal blog of Yzmir Ramirez",
+          "title": "Dell dumps another big asset, moving Boomi to Francisco Partners and TPG for $4B"
+        },
         {
           "description": "In today's world, where customers value experiences over transactions, Analytics as a Service helps businesses dig deeper into their psyche and tap insights to build long-term winning strategies.",
           "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/edCYb5FD9yk/",
@@ -182,6 +191,15 @@
           "sourceHref": "https://rimzy.net/feed/",
           "sourceTitle": "Personal blog of Yzmir Ramirez",
           "title": "Healthcare is the next wave of data liberation"
+        },
+        {
+          "description": "Nothing lasts forever, including hardware running your EC2 instances. You will usually receive an advance warning on hardware degradation and subsequent instance retirement, but sometimes hardware fails unexpectedly. Percona Monitoring and Management (PMM) currently doesn’t have an HA setup, and such failures can leave wide gaps in monitoring if not resolved quickly. In this post, […]",
+          "link": "https://www.percona.com/blog/2021/04/29/improving-percona-monitoring-and-management-ec2-instance-resilience-using-cloudwatch-alarm-actions/",
+          "publishedOn": "2021-04-29T09:52:35.000Z",
+          "wordCount": 2049,
+          "sourceHref": "https://rimzy.net/feed/",
+          "sourceTitle": "Personal blog of Yzmir Ramirez",
+          "title": "Improving Percona Monitoring and Management EC2 Instance Resilience Using CloudWatch Alarm Actions"
         },
         {
           "description": "IBM today made another acquisition to deepen its reach into providing enterprises with AI-based services to manage their networks and workloads. It announced that it is acquiring Turbonomic, a company that provides tools to manage application performance (specifically resource management), along with Kubernetes and network performance — part of its bigger strategy to bring more […]",
@@ -309,6 +327,15 @@
     {
       "href": "https://earlyretirementextreme.com/feed",
       "articles": [
+        {
+          "description": "I&#8217;ve spent some time trying to figure out whether ERE (as the philosophy described in the book/as the common traits of people in the forums) could be easily matched to other subcultures. This would make it easier for me to describe it in one word and it would also make it easier to find others [&#8230;]",
+          "link": "https://earlyretirementextreme.com/what-are-we-bohemians-hippies-neocapitalists.html",
+          "publishedOn": "2021-05-04T02:37:32.000Z",
+          "wordCount": 2888,
+          "sourceHref": "https://earlyretirementextreme.com/feed",
+          "sourceTitle": "Early Retirement Extreme",
+          "title": "What are we? Bohemians? Hippies? Neocapitalists?"
+        },
         {
           "description": "One cooked cauliflower for the elven kings under the sky, an equal volume of boiled potatoes for the dwarf lords, nine dashes of pepper for mortal men, doomed to die. One pan for the dark lord, also a lid, and enough eggs to rule them all and in darkness bind them together in the pan [&#8230;]",
           "link": "https://earlyretirementextreme.com/cauliflower-omelet-another-sub-dollar-meal.html",
@@ -668,6 +695,15 @@
       "href": "http://feeds.feedburner.com/blogspot/TuHQT",
       "articles": [
         {
+          "description": "Note: To demonstrate the correctness and stability due to a sound theoretical foundation relative to the industry&#39;s fad-driven &quot;cookbook&quot; practices, I am re-publishing as &quot;Oldies But Goodies&quot; material from the old DBDebunk.com (2000-06), so that you can judge for yourself how well my arguments hold up and whether the industry has progressed beyond the misconceptions those arguments were intended to dispel. I may revise, break into parts, and/or add comments and/or references.\nThis is…",
+          "link": "http://feedproxy.google.com/~r/blogspot/TuHQT/~3/yXnSPsGa4WA/obg-dont-confuse-levels-of.html",
+          "publishedOn": "2021-05-03T20:44:00.000Z",
+          "wordCount": 2156,
+          "sourceHref": "http://feeds.feedburner.com/blogspot/TuHQT",
+          "sourceTitle": "DATABASE DEBUNKINGS",
+          "title": "(OBG) Don't Confuse Levels of Representation Part 2"
+        },
+        {
           "description": "Amid the plethora of industry misconceptions, an article titled &quot;What if I told you there are no tables in relational databases?&quot; is surprising. That it starts with:\n\n“I’ve seen one sentence about relational databases repeated on the Web many, many times. I’ve seen it in countless comments, I’ve seen it in few articles. Recently I’ve even seen it in one book — which finally made me write this article. The sentence in question goes like this: &quot;Ironically, relational databases deal poorly with …",
           "link": "http://feedproxy.google.com/~r/blogspot/TuHQT/~3/AkiV-S3Jcj8/relational-misconceptions-part-1.html",
           "publishedOn": "2021-04-23T20:45:00.000Z",
@@ -778,6 +814,15 @@
       "href": "http://ai.googleblog.com/feeds/posts/default?alt=rss",
       "articles": [
         {
+          "description": "Posted by Jaqui Herman, Research Specialist and Tim Herrmann, Program Manager \nThe 9th International Conference on Learning Representations (ICLR 2021), a virtual conference focused on deep learning, kicked off this week, offering conference and workshop tracks that present some of the latest research in deep learning and its  applications to  areas such as computer vision, computational biology, speech recognition, text understanding, and more. \n As a Platinum Sponsor of ICLR 2021, Google will have a stron…",
+          "link": "http://feedproxy.google.com/~r/blogspot/gJZg/~3/f9n_VLK8Jfg/google-at-iclr-2021.html",
+          "publishedOn": "2021-05-03T19:06:00.001Z",
+          "wordCount": 3327,
+          "sourceHref": "http://ai.googleblog.com/feeds/posts/default?alt=rss",
+          "sourceTitle": "Google AI Blog",
+          "title": "Google at ICLR 2021"
+        },
+        {
           "description": "Posted by Martin Mladenov, Research Scientist and Chih-wei Hsu, Software Engineer, Google Research \nRecommender systems are the primary interface connecting users to a wide variety of online content, and therefore must overcome a number of challenges across the user population in order to serve them equitably. To this end, in 2019 we released RecSim, a configurable platform for authoring simulation environments to facilitate the study of RL algorithms (the de facto standard ML approach for addressing sequen…",
           "link": "http://feedproxy.google.com/~r/blogspot/gJZg/~3/v7ZbFA6i_DY/flexible-scalable-differentiable.html",
           "publishedOn": "2021-04-29T20:44:00.003Z",
@@ -880,21 +925,39 @@
           "sourceHref": "https://feeds.feedburner.com/initiative",
           "sourceTitle": "Est's Blog",
           "title": "Win10 自动设置开机锁屏壁纸"
-        },
-        {
-          "description": "记录一下，Mac OS X 10.6.8 或更高版本：\n\r\nmdls -name kMDItemDurationSeconds -name kMDItemFSName  1.mp4\r\n\n\r\n这命令有一个很神经病的一点，同一个 .mp4 文件，获取只读的 TF 卡上的就没法获得视频长度，复制到可以读写的本地硬盘上就可以读出来。\n\r\n或者在 Finder 里新建一个叫  Movies 的文件夹，把视频文件放进去，然后列表展示，表头右键，就可以选择显示长度。。\n\r\n同理，建立一个叫  Pictures 的文件夹，可以列表展示图片尺寸。。\n\r\n来自 superuser 。真是神一般的设定。",
-          "link": "https://blog.est.im/202104/stdout-004",
-          "publishedOn": "2021-04-04T12:01:30.000Z",
-          "wordCount": 51,
-          "sourceHref": "https://feeds.feedburner.com/initiative",
-          "sourceTitle": "Est's Blog",
-          "title": "Mac 命令行终端里获得视频文件的长度"
         }
       ]
     },
     {
       "href": "https://www.gcores.com/rss",
       "articles": [
+        {
+          "description": "全新能源需求带来的全新航线\n如果为宇宙世纪人类的主要能源动力分类，大体可以分为两大谱系。\n最为普及也是最为方便的能源自然是由各种太阳能发电卫星收集的太阳能。由于太阳能发电卫星位于宇宙，运行轨道能保证太阳能发电卫星的接受面能始终对准太阳且没有大气层的削弱，光电转换元件的运转效率能达到理论的极限值。而且空间宽阔的宇宙能够部署规模极其庞大的太阳能发电卫星群。\n发电卫星群产生的电力以微波等形式传输到用电端。各个SIDE的发电卫星群产生的电力除了供应本SIDE的生活生产需求外，甚至还能有多余的电力供给地球圈和月球殖民地使用。出售太阳能发电卫星群产生的电力甚至成为各个SIDE相当重要的经济收入来源。\n\n\n(在宽阔的宇宙空间，能够部署海量卫星形成太阳能发电卫星群。太阳能发电卫星群几乎无间断的处于太阳照射下。其产生的电力除了足够供应本SIDE生活生产外，还有相当部分富余。)(单个发电卫星大小便达到了千米级。其产生的电力以微波等形式传输给用电方。)\n\n建造太阳能发电卫星群的技术难度相当低，论需要的技术其实在宇宙世纪之前就已经接近成熟。但是使用太阳能的限制也非常明显：建立大规模的太阳能发电卫星群的初期建设成本并不算低，且大量的太…",
+          "link": "https://www.gcores.com/articles/136176",
+          "publishedOn": "2021-05-03T23:00:00.000Z",
+          "wordCount": 205,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "《机动战士Z高达》：木星归来的虚伪诸神"
+        },
+        {
+          "description": "本期时间轴制作：老斧子\n本期节目不仅会有关于近期的热门游戏《尼尔 人工生命 ver.1.22474487139...》和《RETURNAL》的体验分享，也会聊到一些我们提前体验到的、还未发售一些有趣游戏，包括《Boomerang X》、《钢铁战区》、《迷宫大侦探》、《完美的一天》、《电视台模拟国》等等，而这些游戏，在本次北京核聚变上全部都可以体验到！而Devolver Digital发行新作《Death's Door》将会在现场提供全球首次的试玩机会~ \n\n&lt;请一定要点开这次的核聚变网站看看&gt;\n\n而这些游戏，全部都可以在本次北京核聚变上体验，\n西蒙安利的书可以在我们的店铺【核市奇谭】买到！  \n\n&lt;点击链接在核市购买《迷宫大侦探皮埃尔保卫帝国迷宫塔的宝藏》 &gt;\n\n&lt;点击链接在核市购买《迷宫大侦探皮埃尔 寻找被盗的迷宫石》&gt;",
+          "link": "https://www.gcores.com/radios/136769",
+          "publishedOn": "2021-05-03T15:07:38.000Z",
+          "wordCount": 39,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "啥也不干，只玩游戏：这些游戏陪你渡过五月"
+        },
+        {
+          "description": "今日微软更新了 XGP 五月游戏阵容，包含《勇者斗恶龙：创世小玩家2》、《FIFA 21》、《逃生2》、《Steep》、《最终幻想 10/10-2 高清复刻版》《正当防卫4重装版》《脑航员》《荒野大镖客 Online》《遗迹：灰烬重生》共9款游戏登陆。\n\n\n勇者斗恶龙：创世小玩家2 (XGP for Console &amp; PC, 5月4日)\n\n\n《勇者斗恶龙：创世小玩家2》正式登陆 Xbox 平台并首发 XGP，游戏支持 Xbox Play Anywhere，玩家可跨平台共享主机与PC的游戏进度。\nFIFA 21 (XGP for Console &amp; PC, EA Play, 5月6日)\n\n\n《FIFA》系列最新作，随 EA Play 登陆 XGP。\n逃生2 (XGP for Cloud, Console &amp; PC，5月6日)\n\n\n知名恐怖游戏《逃生》系列续作登陆 XGP，练胆的机会来了。\nSteep (XGP for Cloud &amp; Console，5月6日)\n\n\n在阿尔卑斯山脉的广阔开放世界中，无尽遨游飘落新鲜细雪的天地。 独自一人或与好友一同挑战，称霸最险峻的高山，自由体验…",
+          "link": "https://www.gcores.com/articles/136768",
+          "publishedOn": "2021-05-03T14:06:00.000Z",
+          "wordCount": 162,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "XGP五月游戏更新，《勇者斗恶龙：创世小玩家2》、《FIFA 21》共9款游戏登陆"
+        },
         {
           "description": "作为一名摄影爱好者，发现机核里摄影内容越来越多，像我这种平凡的爱好者，拍完除了朋友圈儿就是微博，也没什么观众，这些年自娱自乐，现在难得有这样一个平台，每个人都有看到彼此的机会。\n以下都是iPhoneSE2拍的，这手机恰好买了有一年，挑选部分适合分享的照片，算是一周年小合集。我没什么固定的主题，手机就是碰到啥拍啥。\n祝各位都可以拍出满意的照片儿，开心最重要。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n完。",
           "link": "https://www.gcores.com/articles/136742",
@@ -1743,6 +1806,105 @@
       "href": "https://www.producthunt.com/feed",
       "articles": [
         {
+          "description": "&#8220;\n        My wife and I teamed up to create Refidesk, a platform to help current and future homeowners make the best mortgage decisions for their finances.\n\nWe created this app for ourselves originally, as we are finance-obsessed nerds. We found ourselves monitoring current mortgage rates daily to determine when we should refinance our own mortgage. So, we created multiple algorithms and models to pull data, crunch the numbers and help us identify the pros and cons of refinancing (potential costs and …",
+          "link": "https://www.producthunt.com/posts/refidesk",
+          "publishedOn": "2021-05-03T17:49:56.000Z",
+          "wordCount": 48,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Refidesk — Your mortgage dashboard"
+        },
+        {
+          "description": "&#8220;\n        👋 Hey folks, Ch Daniel here\n\nLaunching today: the v1.0 of a Cheatsheet, that might one day become a Handbook\n\n🗯️ The problem - why\n\nIt's very simple: I'm running my main business, which has got tens of thousands of paying customers and ~6,000,000+ all-time viewers. \n\n✓ I heard about building in public a few years ago\n✓ It wasn't for my main business' audience\n✓ Recently, however, I started building a side-product for my main business: it's meant to help SaaS founders find&amp;set the perfe…",
+          "link": "https://www.producthunt.com/posts/build-in-public-cheatsheet",
+          "publishedOn": "2021-05-03T17:35:10.000Z",
+          "wordCount": 96,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Build In Public Cheatsheet — All you need to know about building In public 🚀"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/scorecard",
+          "publishedOn": "2021-05-03T17:26:20.000Z",
+          "wordCount": 99,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Scorecard — Keep score in any game"
+        },
+        {
+          "description": "&#8220;\n        Hey Product Hunt 👋\n\nMetalink is a URL shortener that lets you add custom meta tags to any URL. This is super useful for making your links look great when you share them on Twitter, Facebook or Linkedin.\n\nI built Metalink to solve my own problem - I wanted to share a link on Twitter, but it didn't look very nice. After a couple of hours of hacking last night, this is what I came up with.\n\nLet me know if you find this tool useful! What features should I add next?\n\nP.S. I'm building Metalink i…",
+          "link": "https://www.producthunt.com/posts/metalink",
+          "publishedOn": "2021-05-03T16:48:02.000Z",
+          "wordCount": 54,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Metalink — Add custom meta tags to any URL 🔗"
+        },
+        {
+          "description": "&#8220;\n        Hey Product Hunt! 👋\n\nSix months ago, I launched The Top Chat. A Slack add-on allowing you to schedule messages to be sent later.\n\nThe app got immediately the attention and quickly hit 100 signups.\nBy then I realised a need to make it a bit more valuable.\n\nThe idea of recurring messages has been sitting with me for quite some time, but finally decided to make it real.\n\nFrom now on there is an option to set up a recurring message for:\n- ✅ contacts in your DMs\n- ✅ multi-people chats \n- ✅ publi…",
+          "link": "https://www.producthunt.com/posts/the-top-chat-2-0",
+          "publishedOn": "2021-05-03T15:38:54.000Z",
+          "wordCount": 68,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "The Top Chat 2.0 — The best way to send scheduled and recurring Slack messages"
+        },
+        {
+          "description": "&#8220;\n        There are a ton of companies launching into the passion/creator economy space looking for a way to give power back to the artists. We are a firm believer that musicians need a platform that was built specifically for them. What fans want from artists is entirely different from what fans want from a twitch streamer, youtuber, and all other kinds of creators that are successful on websites like Patreon, Bitclout, and OnlyFans.\n\nArtists need something built for them, and that's exactly what we …",
+          "link": "https://www.producthunt.com/posts/roa",
+          "publishedOn": "2021-05-03T15:29:24.000Z",
+          "wordCount": 76,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "ROA — Innovating the artist-fan relationship"
+        },
+        {
+          "description": "&#8220;\n        Hi! I'm Sam, co-founder of Ivy. We created Ivy because we wanted an easier and more social way to share and discover music; if you have any questions you can leave them here, or reach out on Twitter @theivyplatform/@snordale! We hope you love Ivy and follow along as we continue to improve the platform!\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/ivy-977b81a5-b39c-4e8c-b8e9-34d48774b4b0",
+          "publishedOn": "2021-05-03T14:41:47.000Z",
+          "wordCount": 86,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Ivy — Wake up to new playlists curated by the people you know"
+        },
+        {
+          "description": "&#8220;\n        To facilitate the integration of SVG in the Wagtail CMS, I've developed this library with some features.\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/snoweb-svg",
+          "publishedOn": "2021-05-03T12:52:42.000Z",
+          "wordCount": 61,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Snoweb SVG — SVG Database"
+        },
+        {
+          "description": "&#8220;\n        Looking a great job to combine your passion enhanced by the CBD? OMG!!!!!\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/highest-homies",
+          "publishedOn": "2021-05-03T12:04:32.000Z",
+          "wordCount": 78,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Highest Homies — Cannabis personal services and experiences marketplace"
+        },
+        {
+          "description": "&#8220;\n        🤩 It is all about popular, cool products with great conversion potential. No more junky, one off products - a genuine store you can be proud of and make real money from.\n\n🔥 We’re curating a whole lot of fresh &amp; unsaturated products every day so you always have new products to sell. Stay inspired with daily added handpicked, vetted products.\n\n✅ We also offer handwritten product descriptions. Expertly crafted copy sets the scene for the perfect product listing.\n\n👉Try adored now at https…",
+          "link": "https://www.producthunt.com/posts/adored-dropshipping",
+          "publishedOn": "2021-05-03T11:15:13.000Z",
+          "wordCount": 88,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Adored Dropshipping — Dropship AliExpress products you're proud to sell for free"
+        },
+        {
+          "description": "&#8220;\n        Interesting work from the team at Text IQ. By utilizing Text’s IQ’s socio-linguistic hypergraph technology to understand context and patterns within the documents (performance reviews) at scale, the AI is able to efficiently and securely analyze the documents and detect patterns of potential bias. \n\nThe tool is currently free but only suitable for companies with at least 1,000 employees.\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/unconscious-bias-detector-by-text-iq",
+          "publishedOn": "2021-05-03T11:09:30.000Z",
+          "wordCount": 82,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Unconscious Bias Detector by Text IQ — AI powered unconscious bias detector"
+        },
+        {
           "description": "&#8220;\n        I created this website for myself and my friends by simply combining all my saved recipes from various sites I had saved. I hope you find inspiration from my recipe collection and cook something for your loved ones; or share something from your own kitchen to inspire others.\n        &#8221;\n        \nDiscussion\n        |\n        Link",
           "link": "https://www.producthunt.com/posts/theskullery",
           "publishedOn": "2021-05-03T09:04:56.000Z",
@@ -1804,6 +1966,15 @@
           "sourceHref": "https://www.producthunt.com/feed",
           "sourceTitle": "Product Hunt — The best new products, every day",
           "title": "Hitman.app — Collaboration tool to test APIs & publish beautiful API docs"
+        },
+        {
+          "description": "&#8220;\n        This thing is really cool, I am sure I am going to surprise myself after a year by an email I write now. That would be an awesome feeling.\nGreat job. Would even consider using it as a reminder to motivate me.\n\nAlso, the website looks beautiful, Neumorphism was a good choice 👍\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/hime",
+          "publishedOn": "2021-05-03T05:48:46.000Z",
+          "wordCount": 64,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "HIME — Send a message to your future self"
         },
         {
           "description": "&#8220;\n        This is a problem I never knew one might have — but certainly an interesting solution!\n        &#8221;\n        \nDiscussion\n        |\n        Link",
@@ -2495,6 +2666,87 @@
     {
       "href": "https://www.archdaily.com/feed",
       "articles": [
+        {
+          "description": "Himalesque in the plateau of Nepal and against its backdrop of unlimited nature, was another solution to the local climate conditions.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/VshkdHUCidw/himalesque-archium",
+          "publishedOn": "2021-05-03T18:00:00.000Z",
+          "wordCount": 744,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Himalesque / ARCHIUM"
+        },
+        {
+          "description": "Located in San Miguel de Allende (Mexico), Casa Shoemaker is a vacation home built on top of a pronounced semi-arid slope; this last element served as the basis for the creative development of the project and helps to achieve a balanced vision between low cost and functionality. Our objective was to take advantage of the site&rsquo;s conditions and climate from the region, solving the project by two distinct volumetric structures.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/3vP4oYeSywA/shoemaker-house-jaime-juarez-r-arquitecto",
+          "publishedOn": "2021-05-03T16:00:00.000Z",
+          "wordCount": 1200,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Shoemaker House / Jaime Juárez R. Arquitecto"
+        },
+        {
+          "description": "The building is located in a quiet urban environment which stands 1000 feet (300 meters) away from Bosque de Chapultepec, the biggest park in Mexico City. The project has a semi-basement and three floors that hold three 3400 sq. ft (320 sq. m) residences.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/ZwprcOpRJRw/dgb-apartments-estudio-mmx",
+          "publishedOn": "2021-05-03T14:00:00.000Z",
+          "wordCount": 769,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "DGB Apartments / Estudio MMX"
+        },
+        {
+          "description": "We have placed the Architecture at the service of all those who will use the building, those who will work in it, and those who will be responsible for looking after it and preserving it. At the same time, its geometrical structure and rigorous shape allow for an extraordinarily compact, flexible, simple, and easy-to-use spatial organization.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/4g9qFfpz84A/sede-de-la-cruz-roja-espanola-burgos-and-garrido-arquitectos",
+          "publishedOn": "2021-05-03T12:00:00.000Z",
+          "wordCount": 850,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Spanish Red Cross Headquarters / Burgos & Garrido arquitectos"
+        },
+        {
+          "description": "The Rue de la Gauchetière project restores a loft apartment in the Old Port of Montreal. Located in a hundred-year-old heritage building called ‘Unity’, the design seeks to integrate nature and family living into a space that is decisively urban while celebrating its industrial origins. The design is manifested through a simple concept: a box inside the box. Two glazed wooden volumes are thoughtfully arranged within the concrete structure and programmed as bedrooms. They are used to organize the residential…",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/9skU-29MSko/loft-de-la-gauchetiere-future-simple-studio",
+          "publishedOn": "2021-05-03T10:00:00.000Z",
+          "wordCount": 1043,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Loft de la Gauchetière / Future Simple Studio"
+        },
+        {
+          "description": "Part of the Collateral Events of the 17th International Architecture Exhibition, the extensive built work of Yugoslav architect Svetlana Kana Radević (1937-2000) is brought to light from May 22 until November 21 at the Palazzo Palumbo Fossati. Entitled “Skirting the Center: Svetlana Kana Radević on the Periphery of Postwar Architecture”, the exhibition curated by Dijana Vucinic and Anna Kats, aims to highlight the architect’s work and expand her representation.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/HVQ0_zZ5rHQ/yugoslav-architect-svetlana-kana-radevics-legacy-on-postwar-architecture-highlighted-in-the-2021-venice-biennale",
+          "publishedOn": "2021-05-03T08:00:00.000Z",
+          "wordCount": 1257,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Yugoslav Architect Svetlana Kana Radevic's Legacy on Postwar Architecture Highlighted in the 2021 Venice Biennale"
+        },
+        {
+          "description": "More than half the world’s population lives in dense urban areas. Uncomfortably loud restaurants, stores, hotels, or offices are enough to keep patrons away. When planning a meeting or even a night out with friends, we are conscious of selecting a location where we can focus and hear one another. The noisier our world gets, the more difficulty we have focusing on the sounds we actually want to hear.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/4xhc_XPObXQ/basic-principles-of-acoustics-why-architects-shouldnt-leave-it-all-to-consultants",
+          "publishedOn": "2021-05-03T07:30:00.000Z",
+          "wordCount": 1415,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Basic Principles of Acoustics: Why Architects Shouldn’t Leave It All To Consultants"
+        },
+        {
+          "description": "The non-governmental organisation and registered association Projekt Burma e. V. has set itself the goal of improving the living conditions of people affected by poverty in Myanmar. “Helping people to help themselves” is the motto of the association, which Marion Mück founded in Filderstadt near Stuttgart in 2009. Projekt Burma in cooperation with local partners has already realised various projects in the areas of education, health, water, hygiene and disaster prevention. One of them is the high school in…",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/w4zoC5gxIPk/project-burma-hospital-a-plus-r-architekten",
+          "publishedOn": "2021-05-03T07:00:00.000Z",
+          "wordCount": 1379,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Project Burma Hospital / a+r Architekten"
+        },
+        {
+          "description": "Global architecture firm Perkins&amp;Will, in collaboration with ARUP, Grimshaw Architects, EPS , AIM Consulting, and the City of Sacramento, have transformed the city's historic train station into a self-reliant and regenerative transportation hub, making it one of the most sustainable public areas in California. The design team worked alongside the local community to create a people-centric 31-acre master plan that reflects what the community envisions for a public train station and gateway to the city of…",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/vEjMGrqSy9I/perkins-and-will-transform-sacramento-valley-train-station-into-regenerative-master-plan",
+          "publishedOn": "2021-05-03T06:30:00.000Z",
+          "wordCount": 1038,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Perkins&Will Transform Sacramento Valley Train Station into Regenerative Master Plan"
+        },
         {
           "description": "The owners of the apartment are a young couple that completely entrusted me with the design of the apartments. They liked my non-standard approach to design. Having taken this project, I decided to create a bold project that will give you the opportunity to forget about the hard everyday life and help you take a break from the noisy metropolis. Light, gentle, slightly heady interior. Terracotta-pink walls add originality to the entire design.",
           "link": "http://feedproxy.google.com/~r/ArchDaily/~3/DrRcLx8hy-I/apartment-new-york-reutov-design",
@@ -3642,33 +3894,6 @@
           "sourceHref": "https://mixmag.net/rss.xml",
           "sourceTitle": "Mixmag",
           "title": "A 3,000-person club night will take place in Liverpool this month"
-        },
-        {
-          "description": "She’s also been announced as the headliner for Another Rhythm’s event in June\nContinue reading...",
-          "link": "https://mixmag.net/read/amyelle-feel-the-heat-single-release-news",
-          "publishedOn": "2021-04-04T06:30:00.000Z",
-          "wordCount": 368,
-          "sourceHref": "https://mixmag.net/rss.xml",
-          "sourceTitle": "Mixmag",
-          "title": "AmyElle wants you to 'Feel The Heat' on newest single"
-        },
-        {
-          "description": "It’s called OTMI, or Otrast Mitades, is launching with a two-track from Anz herself\nContinue reading...",
-          "link": "https://mixmag.net/read/anz-record-label-launch-otmi-news",
-          "publishedOn": "2021-04-04T06:00:00.000Z",
-          "wordCount": 381,
-          "sourceHref": "https://mixmag.net/rss.xml",
-          "sourceTitle": "Mixmag",
-          "title": "Anz is launching a record label"
-        },
-        {
-          "description": "It’s her first solo Naive EP since her 2017 breakthrough ‘Togetherness’\nContinue reading...",
-          "link": "https://mixmag.net/read/violet-naive-return-solo-ep-espirito-news",
-          "publishedOn": "2021-04-04T05:30:00.000Z",
-          "wordCount": 360,
-          "sourceHref": "https://mixmag.net/rss.xml",
-          "sourceTitle": "Mixmag",
-          "title": "Violet returns to Naive for new solo EP 'Espírito'"
         }
       ]
     },
@@ -3711,6 +3936,42 @@
     {
       "href": "http://www.somewhere-magazine.com/feed/",
       "articles": [
+        {
+          "description": "Visitors of the IKEA Taiwan&#8217;s Neihu branch will have the chance to try out new interesting and unique flavors of ice cream in the coming weeks. IKEA Neihu’s restaurant and gourmet station feature a variety of foods such as “Garlic Butter Mussels”, “White Shrimp Roasted Vegetable Noodles”, and “Roasted Duck Breast in Sauce with Cherries&#8221;, but&#8230;",
+          "link": "http://www.somewhere-magazine.com/hami-melon-and-durian-ice-cream-are-on-the-taiwanese-ikea-menu/",
+          "publishedOn": "2021-05-03T12:12:58.000Z",
+          "wordCount": 275,
+          "sourceHref": "http://www.somewhere-magazine.com/feed/",
+          "sourceTitle": "Somewhere – Documenting Culture",
+          "title": "“Hami Melon” and “Durian” ice cream are on the Taiwanese IKEA menu"
+        },
+        {
+          "description": "Expanding their series of inclusive emojis and pictograms focused around diversity, Apple and Google continue to suggest new ideas to the Unicode Consortium to add more diverse skin tones to emojis. The latest in line to have more skin tones introduced soon is the handshake emoji. The Emoji 14.0 update from Unicode Consortium will include an&#8230;",
+          "link": "http://www.somewhere-magazine.com/multi-skin-tone-handshake-emojis-are-coming-in-2022/",
+          "publishedOn": "2021-05-03T12:06:34.000Z",
+          "wordCount": 365,
+          "sourceHref": "http://www.somewhere-magazine.com/feed/",
+          "sourceTitle": "Somewhere – Documenting Culture",
+          "title": "Multi skin tone handshake emojis are coming in 2022"
+        },
+        {
+          "description": "Femme assise en costume vert, a famed 1952 painting by Pablo Picasso depicting artist Françoise Gilot, one of his muses, will soon be offered at an upcoming sale this May 12 as part of Sotheby’s Impressionist and modern art evening auction. The painting was recently on view at Sotheby’s galleries in London and is currently on display at the&#8230;",
+          "link": "http://www.somewhere-magazine.com/picassos-portrait-of-francoise-gilot-to-fetch-over-14-million-at-sothebys/",
+          "publishedOn": "2021-05-03T11:57:22.000Z",
+          "wordCount": 372,
+          "sourceHref": "http://www.somewhere-magazine.com/feed/",
+          "sourceTitle": "Somewhere – Documenting Culture",
+          "title": "Picasso’s portrait of Françoise Gilot to fetch over $14 million at Sotheby’s"
+        },
+        {
+          "description": "Following the premiere of Netflix&#8217;s new anime &#8220;Yasuke&#8221; on April 29, Flying Lotus has unveiled the full soundtrack of the series. It features 45 minutes of themed music across 26 tracks, and also includes some guest appearances from Thundercat on “Black Gold,” Denzel Curry on “African Samurai” and Niki Randa on “Between Memories” and “Hiding in the Shadows.” Flying Lotus utilizes hybridizing&#8230;",
+          "link": "http://www.somewhere-magazine.com/flying-lotus-yasuke-soundtrack-featuring-denzel-curry-thundercat-niki-randa-available-now/",
+          "publishedOn": "2021-05-03T11:49:34.000Z",
+          "wordCount": 380,
+          "sourceHref": "http://www.somewhere-magazine.com/feed/",
+          "sourceTitle": "Somewhere – Documenting Culture",
+          "title": "Flying Lotus’ “Yasuke” soundtrack featuring Denzel Curry, Thundercat, Niki Randa available now"
+        },
         {
           "description": "Charli XCX hops on the remix of Bladee and Mechatok’s “Drama,” a song that originally appeared on Bladee and Mechatok&#8217;s collaborative project Good Luck. When it comes to weirdo pop music, names like Charli XCX and Bladee instantly pop to mind , and fans of both have long been eager for a collaboration. You can stream the&#8230;",
           "link": "http://www.somewhere-magazine.com/bladee-and-mechatok-enlist-charli-xcx-for-drama-remix/",
@@ -3997,6 +4258,15 @@
       "href": "https://gupmagazine.com/feed/",
       "articles": [
         {
+          "description": "Prism, Scout by Cig Harvey, 2017 © Cig Harvey\n&#8230;\nThe post Taylor Wessing Photographic Portrait Prize 2021 appeared first on GUP Magazine.",
+          "link": "https://gupmagazine.com/open-call/taylor-wessing-photographic-portrait-prize-2021/",
+          "publishedOn": "2021-05-03T13:33:52.000Z",
+          "wordCount": 493,
+          "sourceHref": "https://gupmagazine.com/feed/",
+          "sourceTitle": "GUP Magazine",
+          "title": "Taylor Wessing Photographic Portrait Prize 2021"
+        },
+        {
           "description": "&#8230;\nThe post Joanna Piotrowska: Stable Vices appeared first on GUP Magazine.",
           "link": "https://gupmagazine.com/books/joanna-piotrowska-stable-vices/",
           "publishedOn": "2021-04-28T03:30:00.000Z",
@@ -4095,6 +4365,15 @@
     {
       "href": "https://www.aint-bad.com/feed/",
       "articles": [
+        {
+          "description": "Alissa Ohashi is a lens-based, mixed media artist working with experimental photography, collage, and installation. Ohashi is currently based in Columbus, Ohio where she graduated with her Master of Fine&#8230; Read More\nThe post Alissa Ohashi appeared first on AINT—BAD.",
+          "link": "https://www.aint-bad.com/article/2021/05/03/alissa-ohashi-2/",
+          "publishedOn": "2021-05-03T12:00:00.000Z",
+          "wordCount": 732,
+          "sourceHref": "https://www.aint-bad.com/feed/",
+          "sourceTitle": "AINT—BAD",
+          "title": "Alissa Ohashi"
+        },
         {
           "description": "Jin Chan recently graduated from the Photography and Related Media MFA program at Rochester Institute of Technology in 2020, and currently resides and works between Ithaca and Rochester New York.&#8230; Read More\nThe post jin chan appeared first on AINT—BAD.",
           "link": "https://www.aint-bad.com/article/2021/04/30/jin-chan/",
