@@ -304,15 +304,6 @@
           "sourceHref": "https://www.math.columbia.edu/~woit/wordpress/?feed=rss2",
           "sourceTitle": "Not Even Wrong",
           "title": "Muon g-2 Result"
-        },
-        {
-          "description": "When I was out for a bike ride yesterday I stopped by a large book store and looked to see if they had a copy of Michio Kaku&#8217;s new book The God Equation. They didn&#8217;t, but did have plenty of &#8230; Continue reading &#8594;",
-          "link": "https://www.math.columbia.edu/~woit/wordpress/?p=12269",
-          "publishedOn": "2021-04-04T16:23:49.000Z",
-          "wordCount": 3819,
-          "sourceHref": "https://www.math.columbia.edu/~woit/wordpress/?feed=rss2",
-          "sourceTitle": "Not Even Wrong",
-          "title": "The God Equation"
         }
       ]
     },
@@ -932,6 +923,69 @@
       "href": "https://www.gcores.com/rss",
       "articles": [
         {
+          "description": "翻译自己说的英语然后给自己说英语的视频加双语字幕，活得这个拧巴呀。",
+          "link": "https://www.gcores.com/videos/136744",
+          "publishedOn": "2021-05-04T04:30:00.000Z",
+          "wordCount": 26,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "英语如何一步步让我沦陷？怎样学更有趣？"
+        },
+        {
+          "description": "今日微软更新了支持 FPS Boost 功能的游戏列表，新增大批游戏，现已有97款游戏支持该功能，这些游戏将在 Xbox Series X|S 上获得 60 或 120 帧 + Auto HDR 效果，具体列表如下：\n\n\n\n异形：隔离\n圣歌\n刺客信条3：高清复刻版\n刺客信条：叛变复刻版\n刺客信条：艾吉奥合集\n刺客信条：大革命\nBattle Chasers：Nightwar\n战地1\n战地4\n战地：硬仗\n战地5\n旁观者：完整版\n死亡岛：终极版\n死亡岛：激流终极版\n杀出重围：人类分裂\n尘埃4\n羞辱：终极版\n羞辱：界外魔之死\n饥荒：巨人版\n龙腾世纪：审判\n地牢守护者2\n消逝的光芒\n辐射4\n辐射76\n孤岛惊魂4\n孤岛惊魂5\n孤岛惊魂：新曙光\n孤岛惊魂：原始杀戮\n战争机器4\nGolf with your Friends \n光环战争2\n光环：斯巴达突袭\n空洞骑士：虚空之心版\n国土防线：革命\nHyper Space\nIsland Saver\n乐高蝙蝠侠3：飞跃哥谭市\n乐高侏罗纪世界\n乐高漫威超级英雄\n乐高漫威超级英雄2\n乐高漫威复仇者联盟\n乐高星球大战：原力觉醒\n乐高霍比特人\n乐高超人总动员\n乐高世界\n奇异人生\n奇异人生2\n…",
+          "link": "https://www.gcores.com/articles/136780",
+          "publishedOn": "2021-05-04T03:21:19.000Z",
+          "wordCount": 91,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "Xbox FPS Boost 游戏阵容大幅更新，现有97款游戏支持"
+        },
+        {
+          "description": "太长不看版：\n\n\n正文：\n小渣是一名喜欢3A游戏的大学生，今天早上刚看完《生化危机：村庄》的最新演示视频，心头一热打开Steam就准备预购，只是豪华版472，标准版396的定价让他有点下不去手。\n\n\n小渣一边在心里痛骂黑心日厂游戏越卖越贵，一边打开福报家想找便宜的商家代购。曾几何时，福报家国区8折礼物是他入手最新大作的惯用渠道：在福报家下单之后，商家会用机器人小号加自己Steam好友，然后发送国区礼物并入库激活。小渣觉得这种购买方式不仅简单而且安全，虽然偶尔也看到过黑礼物被收回的情况，但他坚信这种小概率事件不会发生在自己身上。\n然而由于历史原因，《生化危机》系列游戏已经被福报家屏蔽了搜索，小渣问了几个熟悉的店家，要么只提供低价区代购，要么是国区98折，他都不太能接受。\n此时小渣想到了另外一种低价买国区游戏的方法——Steam充值卡。有些店铺会出售低价充值卡，50美元的面额通常只卖240人民币左右，也相当于打了7-8折。但是Valve官方在2020年出台了充值卡锁区政策，禁止跨区充值，想要走这个路子只能改区让店家代充，需要把Steam账号密码交给商家，这让小渣不太放心。\n\n\n店家还提供Steam市场余额交易等变…",
+          "link": "https://www.gcores.com/articles/136741",
+          "publishedOn": "2021-05-04T03:00:00.000Z",
+          "wordCount": 67,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "Steam后国区时代，如何买到便宜靠谱的新游戏：以《生化危机8》为例"
+        },
+        {
+          "description": "火星内战\n在荷鲁斯之乱爆发后，这场内战对帝国分裂之深逐渐显现：不仅仅是帝皇的九个星际战士军团调转矛头，其中更有原火星铸造总监卡尔博哈尔也站到了战帅一边，只为求得开发帝皇禁止的禁忌科技，并最终引发了可怕的火星内战。而这一切还要从当时的火星局势说起。\n当时的火星正值大远征的后期，火星内部逐渐对于帝皇是否是欧姆尼赛亚，以及帝皇的各种政策展开了各种激烈的辩论，并使得火星乃至整个机械教逐渐分为了以卡尔博哈尔为代表的，“帝皇不是圣灵，并且帝皇还禁止了机械教对于禁忌技术的研发”一派；以及他们的反对派。而随着火星的局势逐渐紧张，准备叛乱的战帅便看准时机向火星秘密派出了曾经火星在战帅身旁的代表作为秘密特使，也就是鲁古鲁斯。此人向着当时卡尔博哈尔许诺只要他们站到战帅一边，他们可以在之后自由研究任何禁忌的技术，并且还给他们开启曾经由帝皇亲自封印的莫拉维地堡。\n在莫拉维地堡开启之后，包括卡尔博哈尔在内的一系列当时在场的火星机械教高层都被包含亚空间力量的腐化废码所感染，瞬间被腐化，并很快接受了混沌力量，向战帅宣誓了效忠，并誓要将火星献给战帅。\n\n(死颅军团的战帅级泰坦，其与很多其他战帅级一起在火星内战初期进行了堪称可怖的残酷屠杀与毁灭…",
+          "link": "https://www.gcores.com/articles/136743",
+          "publishedOn": "2021-05-04T02:00:00.000Z",
+          "wordCount": 35,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "灭世之战：战锤40K战帅级泰坦的经典战例"
+        },
+        {
+          "description": "体验过《上古卷轴5》的玩家一定都对游戏中在酒馆出现的几首民谣印象深刻。这些歌曲不仅曲调悠扬动听，还很好的反映了游戏设定的背景，使玩家能够通过音乐更加沉浸投入到游戏的世界中。《上古卷轴OL》很好地沿袭了这个元素，并且精心谱写了更多贴合游戏背景的民谣，用吟游诗人的歌声带领玩家们领略庞大的游戏世界。今天我们就一起来聊聊这些在原版游戏中出现的吟游诗人歌谣和它们背后蕴含的故事。\n阵营类：女王艾琳颂，三心合一，格林纳巴沼泽之战\n在泰伯·塞普汀的统治到来以前，整个泰姆瑞尔帝国处于一片混乱之中，以致于诗人特拉西翠斯把那段时期称之为持续动荡的“洋溢着鲜血和邪恶的日日夜夜”。\n\n——《帝国简史，卷一》\n在《上古卷轴》的世界线中，第二纪元是一个充满纷争与变革的时代。西罗帝尔帝国失去了它的继承人，进入了王位空位期。围绕着王权长达五百年的争斗使帝国的力量逐渐衰弱，而泰姆瑞尔各个角落上的势力则相继崛起，渴望接过帝国的大旗。在东部的天际，晨风和黑沼泽，诺德人、暗精灵和亚龙人组成了黑檀心公约（Ebonheart Pact）；在西部的高岩和落锤，布莱顿人、红卫和兽人组建了匕落联盟（Daggerfall Covenant）；在南部的夏暮群岛、威…",
+          "link": "https://www.gcores.com/articles/135814",
+          "publishedOn": "2021-05-04T01:30:00.000Z",
+          "wordCount": 1656,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "《上古卷轴OL》中的那些歌谣背后的故事"
+        },
+        {
+          "description": "大家好，我是老刘！\n为什么把这个math for game develop系列进行搬运翻译？我们大多数人喜欢Unity里面，可视化拖拽的shader编辑器，对于写代码的态度，那是能不写就不写。\n但是其实它就是可视化的数学。\n当我们提到“数学”，总有先入为主的偏见，大多数人，看见这俩字就头疼。当我们在学校学习“数学”的时候，大多数是因为应付考试，但是时至今日，“数学”对于游戏开发，乃至大数媒领域的工作都至关重要。\n我搬运这个系列课程的初衷，就是现在的大学课程，不能覆盖游戏开发行业所需，或者是大数媒领域，你几乎找不到数学在该领域的实际应用性课程。我真诚的希望，通过我们MCATIN译制的这个系列教程，能帮你在这个行业走得更顺，也能走得更远！\n汉化不易，希望给我B站账号一键三连，点关注错不了。",
+          "link": "https://www.gcores.com/videos/136553",
+          "publishedOn": "2021-05-04T01:00:00.000Z",
+          "wordCount": 46,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "译介丨游戏开发知识分享：Math For Game Devs-part1（4/13）"
+        },
+        {
+          "description": "文章包含剧透内容，请谨慎阅读\n在中国第五代导演中，张艺谋可以说是最优秀和最高产的，特别是近几年来，拍片的速度不断加快，让人感觉已经70岁的他颇有些中国版“伊斯特伍德”的意思。 在今年的“五一档”，张艺谋执导的《悬崖之上》公映，看了将近一年的贴片预告后终于能看到正片，这让我十分期待，于是第一时间便买了票观看。\n先说总体感受：《悬崖之上》是一部张艺谋风格很浓重的电影，虽然称不上是神作，但可以看作是张艺谋写给同行看的一篇高分作文。\n\n\n十多年前，谍战剧题材在国产电视剧行业内着实火了一把，其中不乏经典佳作，比如《暗算》、《潜伏》、《黎明之前》以及与本片有着千丝万缕联系的《悬崖》等。然而在国产电影行业，却鲜见这种题材的作品，时至今日能让人印象深刻的，似乎也只有《风声》这一部作品。\n我个人分析，这很大程度的原因是谍战题材的作品往往在时间和空间上有一个比较长的延续性，而电影的时长不太能满足这种需求，电视剧则因为集数较多，可以很好的将谍战过程中敌我双方的斗智斗勇展现出来。《风声》之所以能够成功，很大程度上靠的也是故事本身具有“密室杀人”性质的色彩，将空间与时间都缩到了一个点上，从而将整个故事更好的呈现出来。\n\n\n而《悬崖之上…",
+          "link": "https://www.gcores.com/articles/136739",
+          "publishedOn": "2021-05-04T00:00:00.000Z",
+          "wordCount": 34,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "《悬崖之上》：一篇高分作文"
+        },
+        {
           "description": "全新能源需求带来的全新航线\n如果为宇宙世纪人类的主要能源动力分类，大体可以分为两大谱系。\n最为普及也是最为方便的能源自然是由各种太阳能发电卫星收集的太阳能。由于太阳能发电卫星位于宇宙，运行轨道能保证太阳能发电卫星的接受面能始终对准太阳且没有大气层的削弱，光电转换元件的运转效率能达到理论的极限值。而且空间宽阔的宇宙能够部署规模极其庞大的太阳能发电卫星群。\n发电卫星群产生的电力以微波等形式传输到用电端。各个SIDE的发电卫星群产生的电力除了供应本SIDE的生活生产需求外，甚至还能有多余的电力供给地球圈和月球殖民地使用。出售太阳能发电卫星群产生的电力甚至成为各个SIDE相当重要的经济收入来源。\n\n\n(在宽阔的宇宙空间，能够部署海量卫星形成太阳能发电卫星群。太阳能发电卫星群几乎无间断的处于太阳照射下。其产生的电力除了足够供应本SIDE生活生产外，还有相当部分富余。)(单个发电卫星大小便达到了千米级。其产生的电力以微波等形式传输给用电方。)\n\n建造太阳能发电卫星群的技术难度相当低，论需要的技术其实在宇宙世纪之前就已经接近成熟。但是使用太阳能的限制也非常明显：建立大规模的太阳能发电卫星群的初期建设成本并不算低，且大量的太…",
           "link": "https://www.gcores.com/articles/136176",
           "publishedOn": "2021-05-03T23:00:00.000Z",
@@ -1296,6 +1350,15 @@
     {
       "href": "https://theinitium.com/newsfeed/",
       "articles": [
+        {
+          "description": "美國總統拜登週一宣布 ，美國每年接收難民上限從1萬5000人提高到6萬2500人。此前數月，民主黨內進步派和難民機構對拜登政府強力施壓，要求放寬接收難民政策。",
+          "link": "https://theinitium.com/article/20210504-morning-brief/",
+          "publishedOn": "2021-05-04T02:55:00.000Z",
+          "wordCount": 2,
+          "sourceHref": "https://theinitium.com/newsfeed/",
+          "sourceTitle": "端傳媒 Initium Media",
+          "title": "早報：拜登宣布美國年接收難民上限從1萬5000人增至6萬2500人"
+        },
         {
           "description": "美國國務院在七國集團外長會議舉行前夕發表聲明，表示要讓中俄為侵犯人權付出代價。 美國國務卿布林肯（Antony Blinken）接受 CBS 節目《六十分鐘時事雜誌》專訪時指出 ，美中走向軍事對抗不符兩國利益，但美國有必要制止中方侵犯人權、以及讓中方認清後果，促使中方退讓。",
           "link": "https://theinitium.com/article/20210503-evening-brief/",
@@ -1966,6 +2029,15 @@
           "sourceHref": "https://www.producthunt.com/feed",
           "sourceTitle": "Product Hunt — The best new products, every day",
           "title": "Hitman.app — Collaboration tool to test APIs & publish beautiful API docs"
+        },
+        {
+          "description": "&#8220;\n        Automatic investing is a very big dream of free-economies to come, we're an example that there's a lot of wealth out there, and the wealth is in the people! Investing might suck, but people don't need to learn/know how to invest, it's hard! let US(🤖🤖🤖) do it for you? then we, Uhm, 😉😉😉 share profits 🥴🥴🥴💵💵💵\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/stoqey",
+          "publishedOn": "2021-05-03T05:54:43.000Z",
+          "wordCount": 49,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Stoqey — Stupid simple investing"
         },
         {
           "description": "&#8220;\n        This thing is really cool, I am sure I am going to surprise myself after a year by an email I write now. That would be an awesome feeling.\nGreat job. Would even consider using it as a reminder to motivate me.\n\nAlso, the website looks beautiful, Neumorphism was a good choice 👍\n        &#8221;\n        \nDiscussion\n        |\n        Link",
@@ -2666,6 +2738,42 @@
     {
       "href": "https://www.archdaily.com/feed",
       "articles": [
+        {
+          "description": "On the north side of this project is a commercial Hutong-- West Sanding Factory Street, while on the south side is residential Luanqing Hutong, which is a typical small courtyard that is very suitable for living at that time.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/KXQogDmL_MA/quad-of-gourd-n7-luanqing-hutong-urbanus",
+          "publishedOn": "2021-05-04T01:00:00.000Z",
+          "wordCount": 1033,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Luanqing Hutong Courtyard House / URBANUS"
+        },
+        {
+          "description": "This is a renovation of a 40-year-old wooden house built on the approach to Shimogamo Shrine in Kyoto. It is in a great location with a forest-like park on the front and a river on the back. It had an underground storeroom and a loft, and we think the possibility of a space that spreads vertically. Therefore, we considered a wall for a diagonal structure that opens the four layers from the basement to the loft and divides the internal space into two, the forest side and the river side.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/-x7lsg6Wq3Q/house-in-shimogamo-td-atelier-plus-endo-shojiro-design",
+          "publishedOn": "2021-05-04T00:00:00.000Z",
+          "wordCount": 844,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "House in Shimogamo / td-Atelier + ENDO SHOJIRO DESIGN"
+        },
+        {
+          "description": "\"Sora no Mori\" is a legally recognized medical facility equipped with the world's highest level of medical staff and the latest equipment, but the people who come are not sick. I wanted to create a village that would gently help the natural desires of their children.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/kmr1eLpTkM8/sora-no-mori-tezuka-architects",
+          "publishedOn": "2021-05-03T22:00:00.000Z",
+          "wordCount": 1193,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Sora No Mori Healthcare Center / Tezuka Architects"
+        },
+        {
+          "description": "At its heart, Akanyang is a social learning environment where students can gather to learn in new and interactive ways. Located on the Hatfield Campus of the University of Pretoria, Akanyang provides a safe space for students. The building emphasises the Universities contemporary approach to education. Akanyang solves the need of the university’s growing demand for socially interactive learning environments, by providing educational and leisure spaces for the students.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/8aUMoSsgdws/university-of-pretoria-akanyang-two-five-five-architects",
+          "publishedOn": "2021-05-03T20:00:00.000Z",
+          "wordCount": 1188,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "University of Pretoria - Akanyang / Two Five Five Architects"
+        },
         {
           "description": "Himalesque in the plateau of Nepal and against its backdrop of unlimited nature, was another solution to the local climate conditions.",
           "link": "http://feedproxy.google.com/~r/ArchDaily/~3/VshkdHUCidw/himalesque-archium",
@@ -4163,6 +4271,15 @@
       "href": "https://www.featureshoot.com/feed/",
       "articles": [
         {
+          "description": "In October of last year, the photojournalist Natalia Kepesz visited a military-themed club for children and young people near Gdansk, Poland. As the kids marched, like soldiers, toward a training&#8230;\nThe post Inside Poland&#8217;s Military Camps for Children appeared first on Feature Shoot.",
+          "link": "https://www.featureshoot.com/2021/05/inside-polands-military-camps-for-children/",
+          "publishedOn": "2021-05-04T03:06:23.000Z",
+          "wordCount": 834,
+          "sourceHref": "https://www.featureshoot.com/feed/",
+          "sourceTitle": "Feature Shoot",
+          "title": "Inside Poland’s Military Camps for Children"
+        },
+        {
           "description": "In the past year, we&#8217;ve seen the photography community come together in powerful ways, from raising money for COVID-19 relief to calling for more inclusive hiring practices. Time and again,&#8230;\nThe post 5 Quick and Easy Ways Photographers Can Give Back appeared first on Feature Shoot.",
           "link": "https://www.featureshoot.com/2021/04/5-quick-and-easy-ways-photographers-can-give-back/",
           "publishedOn": "2021-04-28T02:35:40.000Z",
@@ -4533,6 +4650,101 @@
           "title": "Saïdou Dicko: The Shadowed People"
         }
       ]
+    },
+    {
+      "href": "https://rss.datatube.dev/ncm/artist/66263",
+      "articles": []
+    },
+    {
+      "href": "https://rss.datatube.dev/ncm/artist/40193",
+      "articles": []
+    },
+    {
+      "href": "https://rss.datatube.dev/ncm/artist/30513832",
+      "articles": []
+    },
+    {
+      "href": "https://rss.datatube.dev/ncm/artist/28421010",
+      "articles": []
+    },
+    {
+      "href": "https://rss.datatube.dev/ncm/artist/89463",
+      "articles": []
+    },
+    {
+      "href": "https://rss.datatube.dev/ncm/artist/816314",
+      "articles": []
+    },
+    {
+      "href": "https://rss.datatube.dev/ncm/artist/181007",
+      "articles": [
+        {
+          "description": "歌手：窦靖童/陈建斌/黄少峰/贾轶男/Jose Heredia\n专辑：第十一回 电影原声大碟\n日期：4/19/2021",
+          "link": "https://music.163.com/#/album?id=126092596",
+          "publishedOn": "2021-04-18T16:00:00.000Z",
+          "wordCount": 6727,
+          "sourceHref": "https://rss.datatube.dev/ncm/artist/181007",
+          "sourceTitle": "窦靖童",
+          "title": "第十一回 电影原声大碟 - 窦靖童/陈建斌/黄少峰/贾轶男/Jose Heredia"
+        }
+      ]
+    },
+    {
+      "href": "https://rss.datatube.dev/ncm/artist/40676",
+      "articles": []
+    },
+    {
+      "href": "https://rss.datatube.dev/ncm/artist/13226266",
+      "articles": []
+    },
+    {
+      "href": "https://rss.datatube.dev/ncm/artist/56808",
+      "articles": [
+        {
+          "description": "歌手：Flying Lotus\n专辑：Yasuke\n日期：4/30/2021",
+          "link": "https://music.163.com/#/album?id=126536845",
+          "publishedOn": "2021-04-29T16:00:00.000Z",
+          "wordCount": 6727,
+          "sourceHref": "https://rss.datatube.dev/ncm/artist/56808",
+          "sourceTitle": "Flying Lotus",
+          "title": "Yasuke - Flying Lotus"
+        },
+        {
+          "description": "歌手：Flying Lotus\n专辑：Black Gold / Between Memories\n日期：4/20/2021",
+          "link": "https://music.163.com/#/album?id=126262228",
+          "publishedOn": "2021-04-19T16:00:00.000Z",
+          "wordCount": 6727,
+          "sourceHref": "https://rss.datatube.dev/ncm/artist/56808",
+          "sourceTitle": "Flying Lotus",
+          "title": "Black Gold / Between Memories - Flying Lotus"
+        }
+      ]
+    },
+    {
+      "href": "https://rss.datatube.dev/ncm/artist/55984",
+      "articles": []
+    },
+    {
+      "href": "https://rss.datatube.dev/ncm/artist/28039287",
+      "articles": [
+        {
+          "description": "歌手：Nathan Micay\n专辑：Industry (Green Light/Fun Night Breaks Mix)\n日期：4/20/2021",
+          "link": "https://music.163.com/#/album?id=126205656",
+          "publishedOn": "2021-04-19T16:00:00.000Z",
+          "wordCount": 6727,
+          "sourceHref": "https://rss.datatube.dev/ncm/artist/28039287",
+          "sourceTitle": "Nathan Micay",
+          "title": "Industry (Green Light/Fun Night Breaks Mix) - Nathan Micay"
+        }
+      ]
+    },
+    {
+      "href": "https://rss.datatube.dev/ncm/artist/55333",
+      "articles": []
+    },
+    {
+      "href": "https://rss.datatube.dev/ncm/artist/51817",
+      "articles": []
     }
   ],
   "cliVersion": "1.3.0"
