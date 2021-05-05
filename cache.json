@@ -52,15 +52,6 @@
           "sourceHref": "https://christine.website/blog.rss",
           "sourceTitle": "Christine Dodrill's Blog",
           "title": "Immigration"
-        },
-        {
-          "description": "Prometheus and Aegis\nLast time in the christine dot website cinematic\nuniverse:\nUnix sockets started to be used to grace the cluster. Things were at peace.\nThen, a realization came through:\n\n    \n&lt;Mara&gt; What about Prometheus? Doesn't it need a direct line of fire to the service to\nscrape metrics?\nThis could not do! Without observability the people of the Discord wouldn't have\na livefeed of the infrastructure falling over! This cannot stand! Look, our hero\ntakes action!\n\n    \n&lt;Cadey&gt; It will soon…",
-          "link": "https://christine.website/blog/aegis-prometheus-2021-04-05",
-          "publishedOn": "2021-04-05T00:00:00.000Z",
-          "wordCount": 1220,
-          "sourceHref": "https://christine.website/blog.rss",
-          "sourceTitle": "Christine Dodrill's Blog",
-          "title": "Prometheus and Aegis"
         }
       ]
     },
@@ -71,6 +62,15 @@
     {
       "href": "https://quuxplusone.github.io/blog/feed.xml",
       "articles": [
+        {
+          "description": "C++Now 2021 is happening this week. Normally it’s in Aspen, Colorado, but this year it’s\ncompletely online. I presented two talks:\n“When Should You Give Two Things the Same Name?”,\n  based on this blog post of mine from October 2020\n“The Complete Guide to return x”,\n  based on my committee papers\n  P1155 “More Implicit Move”\n  (adopted into C++20) and\n  P2266 “Simpler Implicit Move”\n  (proposed for C++23).\nIn my return x talk, slide 77 showed a table illustrating how\nP2266’s value-category changes affected …",
+          "link": "https://quuxplusone.github.io/blog/2021/05/04/p2266-decltype-auto/",
+          "publishedOn": "2021-05-04T00:01:00.000Z",
+          "wordCount": 470,
+          "sourceHref": "https://quuxplusone.github.io/blog/feed.xml",
+          "sourceTitle": "Arthur O’Dwyer",
+          "title": "P2266’s interaction with `decltype(auto)`"
+        },
         {
           "description": "Back in early March, Lukas Böger asked on StackOverflow:\n“Where do standard library or compilers leverage noexcept move semantics (other than vector growth)?”\nSo I got nerdsniped into looking at all the places libc++ tests the noexceptness\nof any user-defined operation. This circuitously led to my finding an absolutely massive\nnumber of corner-case bugs in libc++’s string::append member function.\nIn hindsight, it was a mistake for C++ to use the same keyword for “making a function (conditionally)\nnoexcept” …",
           "link": "https://quuxplusone.github.io/blog/2021/04/17/pathological-string-appends/",
@@ -120,6 +120,42 @@
     {
       "href": "https://rimzy.net/feed/",
       "articles": [
+        {
+          "description": "Today we talk with Drupal Association CTO Tim Lehnen and Acquia Principal Software Engineer Ted Bowman about the Automatic Updates Initiative. www.talkingdrupal.com/293 Topics  Nic - new mic John - Drupal Event Organizers Group Stephen - Drutiny Tim - ...",
+          "link": "https://sacstudio.libsyn.com/talking-drupal-293-automatic-updates",
+          "publishedOn": "2021-05-04T11:35:34.000Z",
+          "wordCount": 245,
+          "sourceHref": "https://rimzy.net/feed/",
+          "sourceTitle": "Personal blog of Yzmir Ramirez",
+          "title": "Talking Drupal #293 – Automatic Updates"
+        },
+        {
+          "description": "We tend to think of venture capital in tens or hundreds of millions, even billions of dollars, so it’s refreshing to find Evening Fund, a new $2 million micro fund that focuses on small investments between $50,000 and $100,000 as it seeks to help young startups with early funding. The new fund was launched by […]",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/82Dv-ElMjQQ/",
+          "publishedOn": "2021-05-04T07:04:00.000Z",
+          "wordCount": 603,
+          "sourceHref": "https://rimzy.net/feed/",
+          "sourceTitle": "Personal blog of Yzmir Ramirez",
+          "title": "Evening Fund debuts with $2M micro fund focused on investments between $50K  and $100K"
+        },
+        {
+          "description": "As he looked back on the one-year mark, Klein sat down to discuss the unique set of challenges he faced.",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/ZB-9pPqusmQ/",
+          "publishedOn": "2021-05-04T05:58:23.000Z",
+          "wordCount": 458,
+          "sourceHref": "https://rimzy.net/feed/",
+          "sourceTitle": "Personal blog of Yzmir Ramirez",
+          "title": "SAP CEO Christian Klein looks back on his first year"
+        },
+        {
+          "description": "Activist investor Starboard Value is clearly fed up with Box and it let the cloud content management know it in no uncertain terms in a letter published yesterday. The firm, which bought a 7.7% stake in Box two years ago, claims the company is underperforming, executing poorly and making bad business decisions — and it […]",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/QqAFQuxg7h4/",
+          "publishedOn": "2021-05-04T04:33:52.000Z",
+          "wordCount": 782,
+          "sourceHref": "https://rimzy.net/feed/",
+          "sourceTitle": "Personal blog of Yzmir Ramirez",
+          "title": "Starboard Value puts Box on notice that it’s looking to take over board"
+        },
         {
           "description": "Percona Monitoring and Management has been available for single-click deployment from AWS Marketplace for several years now, and we have hundreds of instances concurrently active and growing rapidly due to unparalleled ease of deployment. Today we’re announcing we are changing pricing for Percona Monitoring and Management on AWS Marketplace. Currently, Percona Monitoring and Management (PMM) […]",
           "link": "https://www.percona.com/blog/2021/05/03/changes-to-percona-monitoring-and-management-on-aws-marketplace/",
@@ -318,6 +354,24 @@
     {
       "href": "https://earlyretirementextreme.com/feed",
       "articles": [
+        {
+          "description": "I think the idea of splurging a little to feel rich while not being rich and in particular while paying off debt is misguided and up there along with &#8220;what kind of candy bars do you have in your weight loss plan?&#8221;. It seems obviously self-contradictory, so why does it exist? The reason is that [&#8230;]",
+          "link": "https://earlyretirementextreme.com/what-makes-me-feel-rich.html",
+          "publishedOn": "2021-05-05T02:41:21.000Z",
+          "wordCount": 2837,
+          "sourceHref": "https://earlyretirementextreme.com/feed",
+          "sourceTitle": "Early Retirement Extreme",
+          "title": "What makes me feel rich"
+        },
+        {
+          "description": "&#8230; are the four ways I can think of as monetizing a blog, or perhaps more accurately, make money as a writer. eBooks has become a popular way to make money on your writing and I must say that I far prefer this model to the advertising model. It is very clear that most (I [&#8230;]",
+          "link": "https://earlyretirementextreme.com/books-ebooks-advertising-and-donations.html",
+          "publishedOn": "2021-05-04T14:39:34.000Z",
+          "wordCount": 4418,
+          "sourceHref": "https://earlyretirementextreme.com/feed",
+          "sourceTitle": "Early Retirement Extreme",
+          "title": "Books, ebooks, advertising, and donations"
+        },
         {
           "description": "I&#8217;ve spent some time trying to figure out whether ERE (as the philosophy described in the book/as the common traits of people in the forums) could be easily matched to other subcultures. This would make it easier for me to describe it in one word and it would also make it easier to find others [&#8230;]",
           "link": "https://earlyretirementextreme.com/what-are-we-bohemians-hippies-neocapitalists.html",
@@ -530,6 +584,15 @@
     {
       "href": "https://avc.com/feed/",
       "articles": [
+        {
+          "description": "My friend Seth Levine and Elizabeth MacBride have written an important book about the changing face of entrepreneurship in the US. It is called The New Builders and it came out this week. You can purchase it at all the places listed here. This bit from the book&#8217;s Amazon page explains The New Builders&#8217; message: [&#8230;]",
+          "link": "https://avc.com/2021/05/the-new-builders/",
+          "publishedOn": "2021-05-04T10:16:25.000Z",
+          "wordCount": 277,
+          "sourceHref": "https://avc.com/feed/",
+          "sourceTitle": "AVC",
+          "title": "The New Builders"
+        },
         {
           "description": "I was purchasing some domains with Ethereum yesterday and ran out of funds in my wallet and went to Coinbase to buy some more ETH. The price was approaching $3000 and I thought to myself, &#8220;the demand side of this network is exploding.&#8221; The way crypto-networks work is that the supply side gets built first [&#8230;]",
           "link": "https://avc.com/2021/05/the-demand-side-of-a-crypto-network/",
@@ -805,6 +868,15 @@
       "href": "http://ai.googleblog.com/feeds/posts/default?alt=rss",
       "articles": [
         {
+          "description": "Posted by Thao Nguyen, AI Resident, Google Research \nA common practice to improve a neural network’s performance and tailor it to available computational resources is to adjust the architecture depth and width. Indeed, popular families of neural networks, including EfficientNet, ResNet and Transformers, consist of a set of architectures of flexible depths and widths. However, beyond the effect on accuracy, there is limited understanding of how these fundamental choices of architecture design affect the mode…",
+          "link": "http://feedproxy.google.com/~r/blogspot/gJZg/~3/rkMCax837Nk/do-wide-and-deep-networks-learn-same.html",
+          "publishedOn": "2021-05-04T19:54:00.001Z",
+          "wordCount": 2038,
+          "sourceHref": "http://ai.googleblog.com/feeds/posts/default?alt=rss",
+          "sourceTitle": "Google AI Blog",
+          "title": "Do Wide and Deep Networks Learn the Same Things?"
+        },
+        {
           "description": "Posted by Jaqui Herman, Research Specialist and Tim Herrmann, Program Manager \nThe 9th International Conference on Learning Representations (ICLR 2021), a virtual conference focused on deep learning, kicked off this week, offering conference and workshop tracks that present some of the latest research in deep learning and its  applications to  areas such as computer vision, computational biology, speech recognition, text understanding, and more. \n As a Platinum Sponsor of ICLR 2021, Google will have a stron…",
           "link": "http://feedproxy.google.com/~r/blogspot/gJZg/~3/f9n_VLK8Jfg/google-at-iclr-2021.html",
           "publishedOn": "2021-05-03T19:06:00.001Z",
@@ -922,6 +994,87 @@
     {
       "href": "https://www.gcores.com/rss",
       "articles": [
+        {
+          "description": "还是和上次一样再次感谢SUNWING 旭翼文化 的代理（就剩众筹的《枪与枪》了，求求你别再咕了）。这个游戏的规则方面简单来说就是互相凑牌型组成役然后加分的游戏，在这里也把官方的试玩也贴出来供大家欣赏一下。我的试玩下个月一定会写的，绝对不鸽。\n我居然发现了动漫麻将扑克！？【废品遗迹】\n\n\n&lt;内嵌内容，请到原网页查看&gt;\n\n闲言少叙，图片流开箱开始。 \n首先是外盒展示，有一说一这次没采用日版的小盒而是跟上一个开箱中的忍尾将棋一样的大薄盒的设计个人觉得有点难受（因为不好带出门去奶茶店坐着打牌了）上一个的传送门： 忍者主题桌游《忍尾将棋》预售版开箱。\n\n\n\n\n开盒之后依旧是那张小卡片。这个桌游的卫星什么时候落地啊，难受。\n\n\n说明书，简中繁中各一份，好评。\n\n\n计分板。讲真单看起来还是很好看的，也是简中繁中各一份。对我来说繁中的就是备用品了。\n\n\n下面的就是剩下的牌和金属token了。这就是为什么我反而不喜欢这次设计的原因，太空了。\n\n\n先从右边的人物卡和功能卡牌堆开始介绍（这一摞是简繁中各一份，只做部分展示）。首先是我们的人物卡，也就是你的初始五选二，然后当对面到达15分（赛程过半时）可启用仅一次的二选一…",
+          "link": "https://www.gcores.com/articles/136757",
+          "publishedOn": "2021-05-05T00:00:00.000Z",
+          "wordCount": 44,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "蒸汽朋克风双人卡牌桌游《废品遗迹》预售版开箱"
+        },
+        {
+          "description": "这篇文章原用白桦这个笔名发于 IT 之家\n文稿、设计：南桥北桥不是桥\nEpic Game 与 Apple 关于垄断的庭审已开庭。而这场没有硝烟的战争，从进入大众视线起到现在已经有近一年的时间。\n事情起源于 Epic 绕开苹果商店提供内购通道，苹果随即以其违反商店规定为由将《堡垒之夜》下架，并威胁 Epic Game 要关闭其开发者账户。平台与开发商\\发行商间的矛盾再一次进入大众视线。同时，Epic 自家运营的游戏平台又在 PC 上卷起了新的浪潮，而这对玩家有着怎样的影响？开发者又将如何做出抉择？\n游戏产业稳健增长，PC 成为兵家重地\n近年，游戏产业正在稳步增长，据相关数据统计，2020年游戏产业在全球范围内的营收将达到1646亿美元。全球78亿人口中有26.9亿游戏玩家，平均每三个人中就有一位游戏玩家。尽管2018年开始总体增速有小幅度下滑，但随着疫情等因素的影响，全球游戏营收预计在未来两年加速增长。\n\n\n其中 PC 游戏部分预计占据 2020 全年游戏产业营收的 36.9%。考虑到PC设备的保有量，PC 平台将一直是各大游戏公司的必争之地，极具潜力。\n30% 抽成——秩序与变革\n根据公开数据收集，16 个平…",
+          "link": "https://www.gcores.com/articles/136762",
+          "publishedOn": "2021-05-04T23:00:00.000Z",
+          "wordCount": 163,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "苹果 VS Epic ，平台垄断下开发者的挣扎与抉择"
+        },
+        {
+          "description": "本期时间轴制作：NoHappyEnding\n在前段时间举办的2021上海车展活动上，厂商们各显肌肉，带来了耀眼夺目的多款新车。从领克02Hatchback到上汽奥迪A7L，从极氪001到宝马iX，到底哪些车值得我们持续关注？本期电台节目，让我们跟汽车媒体人@元何元 一起聊聊新车！",
+          "link": "https://www.gcores.com/radios/136797",
+          "publishedOn": "2021-05-04T14:44:32.000Z",
+          "wordCount": 35,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "上海车展之后，这些车值得关注"
+        },
+        {
+          "description": "索尼互动娱乐现已与 Discord 达成战略合作伙伴关系。从明年年初开始，PlayStation 主机及 APP 将与 Discord 进行深度集成，从而让玩家享受更为优质的社交沟通体验。Discord 是一款专为社区设计的免费网络实时通话软件与数字发行平台，用户之间可以在聊天频道通过信息、图片、视频和音频进行互动，其用户总数超过1.4亿。\n\n\n索尼互娱总裁兼首席执行官 Jim Ryan 表示，双方在愿景及价值观方面可以说是志同道合，而在其本人与 Discord 联合创始人 Jason Citron 和 Stan Vishnevskiy 进行沟通后，索尼互娱最终参投了 Discord H轮融资，从而让双方的关系更为紧密。\n此前，微软曾作价百亿美元试图收购 Discord，但最终未能达成协议。有鉴于 Discord 与索尼互娱的本次达成的深度合作，Discord 似乎拒绝投入微软的怀抱，而是选择在保持独立的前提下与索尼共同发展。",
+          "link": "https://www.gcores.com/articles/136775",
+          "publishedOn": "2021-05-04T12:11:00.000Z",
+          "wordCount": 71,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "索尼互动娱乐与Discord达成战略合作伙伴关系，强化玩家社交体验"
+        },
+        {
+          "description": "本文在《连线》杂志发布于5月1日，作者： Will Bedingfield\n原文链接请点击此处\n\n\n我第一次了解到《死亡回归》这款游戏是去年六月份索尼PS5的发布会上，但我得承认我当时对这款游戏没多大兴趣。特别是这款游戏的科幻主题在游戏界抬头一看是比比皆是：太空人驾驶飞船坠落在神秘星球，然后需要在充斥黑暗与风暴的星球上，在外星生物的围堵中杀出一条血路，再加上制作组刻意冠上的夸张名称，呵呵，很牛逼嘛？\n但在这里，我很高兴地说我这种刻板印象大错特错！《死亡回归》这款刚刚发售的游戏有很多让人欣喜的东西，说的简单一点：这款游戏给我们带来的是只有游戏能够为我们带来的独特体验，这让我对游戏媒介的未来极为兴奋。\n《死亡回归》的女主瑟琳是一名宇航员。她除了有虹膜异色症之外这个特征之外，以游戏世界的标准来说，就实在没啥值得称道的特点了。她既不是七尺身的超级战士，也不是《龙与地下城》里面拥有拯救世界这种标配“爱好”的美女模特。剧情的设定也是稀松平常：游戏开始于瑟琳的宇宙船穿过了叫做Atropos（亚戳波斯）星球上马毛猬磔的云层，循着被称为“白色阴影”的信号声来到了这个神秘的星球。一道闪电“不可避免”地击中了飞船的外壳，然后瑟琳也…",
+          "link": "https://www.gcores.com/articles/136763",
+          "publishedOn": "2021-05-04T12:05:00.000Z",
+          "wordCount": 40,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "译介丨在《死亡回归》中司空见惯的“死亡”——值！"
+        },
+        {
+          "description": "E3 主办方娱乐软件协会于日前发表声明，就原定出席今年展会的科乐美宣布退出活动一事做出回应。娱乐软件协会表示，支持其不参加今年活动的决定，协会也期待科乐美在明年重返 E3 时凭借准备就绪的游戏会带给广大玩家什么样的惊喜。与此同时，主办方也强调今年的活动会有来自其他公司的诸多重磅消息，也请玩家期待今年的展会。\n\n\n科乐美此前表示，退出今年的 E3 是由于目前公司的一些关键游戏项目需要更多的时间，他们也会在未来的数月中适时将详情公之于众。尽管最终决定退出 E3，公司也会一如既往的支持娱乐软件协会，并提前预祝今年的展会举办顺利。\n\n\n今年4月，科乐美注册了《潜龙谍影崛起》及《恶魔城》系列商标，同时《潜龙谍影》官方社交媒体还暗示将推出《潜龙谍影2》重制版，或许这些就正是科乐美所说的“关键游戏项目”。不论科乐美是否真的在开发传闻中的游戏，看起来我们都能在今年获得旗下 IP 的新消息。",
+          "link": "https://www.gcores.com/articles/136774",
+          "publishedOn": "2021-05-04T09:00:00.000Z",
+          "wordCount": 56,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "E3主办方就科乐美退出活动发表声明，表示支持其决定"
+        },
+        {
+          "description": "文章包含剧透内容，请谨慎阅读\n\n\n\n与漫画的回忆\n大今良时老师开始看漫画是受到哥哥的影响，因为哥哥经常看，所以家里经常散落着青年志、少年志啥的，老师就捡剩读一读。其中老师最喜欢的是《YOUNG JUMP》、《Young Magazine》的画风和氛围。另一方面老师觉得少年漫画杂志画面比较紧凑，读起来相对困难一些。\n因为家里没有人读少女漫画，所以这方面的内容老师基本没有涉猎。有一次老师看到了一部主要面向小女孩儿的少女漫画，剧情是朋友用自己的手掌去温暖被敌人冰冻的主角，然后敌人一边感叹说：这就是友情的力量么一边离场了。因为完全不习惯这种演出，大今良时老师就吐槽：这怎么可能嘛！\n大今良时老师第一部沉迷的作品是小学四年级时在杂志上看到的《3×3EYES》，看到那个画面的瞬间线条也变得闪闪发光了，因为画得太好了让老师十分动容，便收集了全部的单行本。老师说自己当时彻头彻尾地迷上了主人公八云。\n漫画这方面老师还沉迷过《幽游白书》，动画的话则是《无限的未知》，游戏方面老师喜欢的是《时空之轮》。\n\n\n\n创作者的起点\n除了一直坚持画画，大今良时老师还同时学习了日本民舞。原先老师经常在练习结束后和朋友们一起出去玩儿。这份爱好也一直…",
+          "link": "https://www.gcores.com/articles/136755",
+          "publishedOn": "2021-05-04T08:10:00.000Z",
+          "wordCount": 40,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "从《声之形》到《致不灭的你》：大今良时的创作之路"
+        },
+        {
+          "description": "超推荐这部曼达洛人！ 没看的快去看！ 看了你就会想买了！ \n\n—— 单车小可爱 \n\nBGM: Ludwig Göransson - The Mandalorian \n\nThis is the way.\nB站链接",
+          "link": "https://www.gcores.com/videos/134259",
+          "publishedOn": "2021-05-04T08:00:00.000Z",
+          "wordCount": 40,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "星战孩之宝黑盒曼达洛人+铁匠+重装曼达洛三合一鉴赏！"
+        },
+        {
+          "description": "未知再次降临，蛹隐藏在梦里。",
+          "link": "https://www.gcores.com/articles/136747",
+          "publishedOn": "2021-05-04T05:15:00.000Z",
+          "wordCount": 29,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "原创漫画丨《蛹》"
+        },
         {
           "description": "翻译自己说的英语然后给自己说英语的视频加双语字幕，活得这个拧巴呀。",
           "link": "https://www.gcores.com/videos/136744",
@@ -1350,6 +1503,78 @@
     {
       "href": "https://theinitium.com/newsfeed/",
       "articles": [
+        {
+          "description": "懸掛五星紅旗的空間站中會播放東方紅麼？",
+          "link": "https://theinitium.com/article/20210505-technology-chinese-space-station/",
+          "publishedOn": "2021-05-04T23:00:00.000Z",
+          "wordCount": 2,
+          "sourceHref": "https://theinitium.com/newsfeed/",
+          "sourceTitle": "端傳媒 Initium Media",
+          "title": "中國發射的空間站核心艙代表著什麼？"
+        },
+        {
+          "description": "「陰陽合同」是限薪令的備用方案，而演員的薪酬證明行業價值的標準早已回不去了。",
+          "link": "https://theinitium.com/article/20210505-culture-performerssalary-yinyang-contract/",
+          "publishedOn": "2021-05-04T21:02:00.000Z",
+          "wordCount": 2,
+          "sourceHref": "https://theinitium.com/newsfeed/",
+          "sourceTitle": "端傳媒 Initium Media",
+          "title": "娛樂觀察：鄭爽引發「陰陽合同」爆雷，炸向何處？"
+        },
+        {
+          "description": "反修例已過，疫情未了，娛樂業本已衰退的香港，突又掀起聲勢浩大的新娛樂時代？但這一次，連什麼叫「娛樂圈」也已完全變化⋯⋯",
+          "link": "https://theinitium.com/article/20210505-culture-new-wave-hk-entertainment-youtubers/",
+          "publishedOn": "2021-05-04T16:00:00.000Z",
+          "wordCount": 2,
+          "sourceHref": "https://theinitium.com/newsfeed/",
+          "sourceTitle": "端傳媒 Initium Media",
+          "title": "一沉百踩，借屍還魂，但有《試當真》和香港新娛樂時代？"
+        },
+        {
+          "description": "菲律賓外交部長洛欽（Teodoro Locsin Jr.）早前在 Twitter 發表夾雜租言穢語的帖文，要求中國船隻離開南沙群島。他後來再發帖文，稱願意為傷害到中國國務委員兼外交部長王毅的感情致歉，但不會對其他任何人士感到抱歉。",
+          "link": "https://theinitium.com/article/20210504-evening-brief/",
+          "publishedOn": "2021-05-04T10:16:00.000Z",
+          "wordCount": 2,
+          "sourceHref": "https://theinitium.com/newsfeed/",
+          "sourceTitle": "端傳媒 Initium Media",
+          "title": "晚報：菲律賓外長昨以粗言要求中國滾出南沙群島，今稱只對王毅感抱歉"
+        },
+        {
+          "description": "「它們或許確實沒有跟上技術迭代的節奏，但根本原因仍然是國情所致——在今天的環境下，它們必須衰落。」",
+          "link": "https://theinitium.com/article/20210504-mainland-bbs-died/",
+          "publishedOn": "2021-05-04T09:49:00.000Z",
+          "wordCount": 2,
+          "sourceHref": "https://theinitium.com/newsfeed/",
+          "sourceTitle": "端傳媒 Initium Media",
+          "title": "兩個論壇的衰亡和「公共領域」的消失"
+        },
+        {
+          "description": "晶片短缺令全球汽車製造商舉步維艱。現在其他行業也感受到壓力。這種稀缺性意味著消費者需要支付更高價格、等待商品的時間更長。",
+          "link": "https://theinitium.com/article/20210504-wsj-chip-shortage/",
+          "publishedOn": "2021-05-04T09:42:00.000Z",
+          "wordCount": 2,
+          "sourceHref": "https://theinitium.com/newsfeed/",
+          "sourceTitle": "端傳媒 Initium Media",
+          "title": "全球「芯荒」成疾，各行業恐無一倖免"
+        },
+        {
+          "description": "面對嚴格的審計，實在很難想像華融的壞賬和減值處理會寬鬆如常。一旦變成資不抵債，全體國字號的債券評級將可能受到影響。",
+          "link": "https://theinitium.com/article/20210504-opinion-huarong-hk-listed-companies-audit/",
+          "publishedOn": "2021-05-04T08:15:00.000Z",
+          "wordCount": 2,
+          "sourceHref": "https://theinitium.com/newsfeed/",
+          "sourceTitle": "端傳媒 Initium Media",
+          "title": "香港上市公司的審計新規，是否會讓問題重重的華融就此倒下？"
+        },
+        {
+          "description": "在這場亞裔風暴中，那些他者和被他者化的故事。",
+          "link": "https://theinitium.com/article/20210504-upcoming-event-asian-discrimination/",
+          "publishedOn": "2021-05-04T06:04:00.000Z",
+          "wordCount": 2,
+          "sourceHref": "https://theinitium.com/newsfeed/",
+          "sourceTitle": "端傳媒 Initium Media",
+          "title": "【會員活動預告】小端夜聊：你是個「模範」的亞裔人嗎？歐美視角下的種族歧視"
+        },
         {
           "description": "美國總統拜登週一宣布 ，美國每年接收難民上限從1萬5000人提高到6萬2500人。此前數月，民主黨內進步派和難民機構對拜登政府強力施壓，要求放寬接收難民政策。",
           "link": "https://theinitium.com/article/20210504-morning-brief/",
@@ -1869,6 +2094,312 @@
       "href": "https://www.producthunt.com/feed",
       "articles": [
         {
+          "description": "&#8220;\n        As an open source project I want to improve it continously, hoping to find open-minded people that can help me to reach that goal in any way improving the experience for every user.\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/benotes",
+          "publishedOn": "2021-05-04T12:32:52.000Z",
+          "wordCount": 59,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Benotes — Open source web app for your notes and bookmarks"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/akounto",
+          "publishedOn": "2021-05-04T11:10:18.000Z",
+          "wordCount": 62,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Akounto — All-in-one accounting software"
+        },
+        {
+          "description": "&#8220;\n        A few years ago I made a popular App HockeyTracker, but with the pandemic, and Hockey being somewhat maligned as an indoor sport, I decided to to build Athlytic.  My vision was to take all the data available in Apple Health from the Apple Watch and iPhone and provide a detailed and robust Apple Watch and iPhone experience for serious athletes to monitor their Recovery, Daily Exertion, Per Workout Exertion, Sleep, and Energy expended and consumed.  One app that could pull all of this informat…",
+          "link": "https://www.producthunt.com/posts/athlytic",
+          "publishedOn": "2021-05-04T10:54:49.000Z",
+          "wordCount": 71,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Athlytic — AI health & fitness coach"
+        },
+        {
+          "description": "&#8220;\n        Hi Product Hunt! Happy to answer any questions about Rinder.\n\nTry it out and swipe some rings and then join the community by sharing your own rings.\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/rinder-1",
+          "publishedOn": "2021-05-04T09:38:14.000Z",
+          "wordCount": 61,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Rinder — Tinder for rings"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/master-vim",
+          "publishedOn": "2021-05-04T09:35:26.000Z",
+          "wordCount": 51,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Master Vim — Learn Vim with interactive exercises"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/qualdo",
+          "publishedOn": "2021-05-04T08:31:28.000Z",
+          "wordCount": 55,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Qualdo™ — Monitor mission-critical data quality & ML issues and drifts"
+        },
+        {
+          "description": "&#8220;\n        Scan your code for bugs, security issues and tokens leaks. Trivial setup, no software installation, compatible with many programming languages (PHP, Python, Ruby, Javascript, GO). Open to B2B Customers now. Feel free to contact me if you want to know more and/or are interested to work on this further (Sales &amp; Tech)\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/scanmycode",
+          "publishedOn": "2021-05-04T08:15:33.000Z",
+          "wordCount": 51,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Scanmycode — Test your code with 500+ code checks"
+        },
+        {
+          "description": "&#8220;\n        Hi Product Hunt!\n\nI'm Tom, COO at EmailOctopus. We're very excited to finally be launching on Product Hunt today.\n\nEmailOctopus was started six years ago, so many of you may already be familiar with the product. But over those six years we've vastly improved upon what was originally released, with a focus on making EmailOctopus the simplest, and most affordable, email marketing platform around.\n\nWe're particularly proud of how people can sign up and send their campaigns or newsletters within…",
+          "link": "https://www.producthunt.com/posts/emailoctopus",
+          "publishedOn": "2021-05-04T08:15:30.000Z",
+          "wordCount": 65,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "EmailOctopus — Email marketing made easy"
+        },
+        {
+          "description": "&#8220;\n        👋 Salute, Product Hunters!\n\nI'm Maksim, co-founder of Dashword App. I'm excited to join to Product Hunt.🥳\n\nOur small team (@valery_grebenev, @ilsuraptukov and me) once decided the existing tools for creating notes are too bulky, with lots of functions too detailed to learn them all. And we decided to reinvent it\n\nDashword is a tool for those who want to concentrate on the work that needs to be done (write, take notes, reason, build, create) and not to search for a necessary app function. I…",
+          "link": "https://www.producthunt.com/posts/dashword-app",
+          "publishedOn": "2021-05-04T07:53:09.000Z",
+          "wordCount": 82,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Dashword App — Structure ideas, projects & concepts"
+        },
+        {
+          "description": "&#8220;\n        The Newsdata.io's news API was developed to provide global news from thousands of sources with exceptional response times. It is also possible to retrieve top stories based on country, as well as search all news data and filter by category, language, source, publish date, and more. Newsdata.io API provides live headlines, images, and other article metadata from a range of popular news sources an API Key.\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/newsdata-api",
+          "publishedOn": "2021-05-04T07:40:22.000Z",
+          "wordCount": 69,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Newsdata API — Platform to search and collect worldwide news"
+        },
+        {
+          "description": "&#8220;\n        Hi Product Hunt!\n\nMy name is Kornel, I’m the maker of NextFullMoon.org. Our aim is to be a destination for everyone for getting exact time and date of the next full moon. \n\nYou can easily check today’s moon phase here. (Moon phase data is calculated real time and updated every second.) You can also use our monthly  and yearly moon phase   calendars to check the exact full moon dates. Were you born on a full moon? No you can easily find this out, too. Check Moon Phase for any dates here.\n\nI h…",
+          "link": "https://www.producthunt.com/posts/next-full-moon",
+          "publishedOn": "2021-05-04T07:24:27.000Z",
+          "wordCount": 94,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Next Full Moon — All in one calendar to find the next full moon date"
+        },
+        {
+          "description": "&#8220;\n        As piano player I wanted to make learning piano notes more fun and I hope that it might help some others as well.\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/notejumper",
+          "publishedOn": "2021-05-04T07:15:09.000Z",
+          "wordCount": 72,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Notejumper — Learn piano notes easily"
+        },
+        {
+          "description": "&#8220;\n        Hey Product Hunters! Kirby here, cofounder of Eureka Surveys.\n\n📝 What we do\nToday, we're super excited to launch Eureka Surveys. Simply create a survey, select a target audience, and watch the responses come in within minutes. We have a community of over 1 million survey participants, ready to share their opinions. Startups and large enterprises alike rely on our surveys to better understand consumer behavior and remove the guesswork from building products. Using Eureka Surveys is as simple…",
+          "link": "https://www.producthunt.com/posts/eureka-surveys",
+          "publishedOn": "2021-05-04T07:13:13.000Z",
+          "wordCount": 77,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Eureka Surveys — Survey over 1 million people within minutes"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/docusutra",
+          "publishedOn": "2021-05-04T07:09:55.000Z",
+          "wordCount": 56,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "DocuSutra — Document extraction for humans"
+        },
+        {
+          "description": "&#8220;\n        Usual note managers doesn't provide both agile and  simple aggregation of data. I've created personaldb to help solve this problem. \nIt allows to create notes with agile properties, which can be simple tags, or props with type like number or text or many other extendable types. It allows to create custom aggregations and keep it in convenient space\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/personaldb",
+          "publishedOn": "2021-05-04T07:08:25.000Z",
+          "wordCount": 31,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Personaldb — Note taking with non-linear power"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/helpdesk-by-labidesk",
+          "publishedOn": "2021-05-04T07:06:11.000Z",
+          "wordCount": 85,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Helpdesk by LabiDesk — All-in-one helpdesk to assist, engage & sell to leads"
+        },
+        {
+          "description": "&#8220;\n        Getting a domain name for your company is hard. Equally hard is getting your desired username on social sites.\n\nHow many times have you found out the ideal domain name only to realize that the social accounts have been already taken?\n\nWe got frustrated and decided to come up with a solution. Enter UserHunt.co - a username search engine that goes to all the social, tech, creative and blog sites to check if your desired username is available. If it's available, you can click on the link and qu…",
+          "link": "https://www.producthunt.com/posts/userhunt",
+          "publishedOn": "2021-05-04T06:25:49.000Z",
+          "wordCount": 83,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "UserHunt — Hunt down accounts by username across social networks"
+        },
+        {
+          "description": "&#8220;\n        Howdy y'all. Been working on this fun little app the past couple months and thought it was time to share it out into the world during this crazy crypto bull market.\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/fomo-cryptocurrency-calculator",
+          "publishedOn": "2021-05-04T06:09:28.000Z",
+          "wordCount": 70,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Fomo Cryptocurrency Calculator — Calculate your regret for not investing in crypto sooner"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/modula-email-templates",
+          "publishedOn": "2021-05-04T06:08:12.000Z",
+          "wordCount": 74,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Modula Email Templates — Users interact more with emails, make them pretty"
+        },
+        {
+          "description": "&#8220;\n        DISCOVERED THIS webapp with a random google search while I was looking for something else. I tried it and enjoyed the clean, minimal interface and speedy operation. \n\nThey say: \"We help programmers and designers edit their images and icons for free. We have processed millions of images and icons, do not hesitate to try one of our online tools!\"  🇨🇦 Made in Canada\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/redketchup",
+          "publishedOn": "2021-05-04T06:07:04.000Z",
+          "wordCount": 75,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "RedKetchup — Free and easy image & video editing tools in your browser!"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/mindbreath",
+          "publishedOn": "2021-05-04T05:03:19.000Z",
+          "wordCount": 67,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Mindbreath — Breathing Exercises & Heart Rate Monitoring"
+        },
+        {
+          "description": "&#8220;\n        Love the evolution of this platform to iPad. Seriously makes me want an iPad Pro just to play with Allo!\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/allo-for-ipad",
+          "publishedOn": "2021-05-04T04:29:30.000Z",
+          "wordCount": 87,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "ALLO for iPad — Turn your iPad into a remote office"
+        },
+        {
+          "description": "&#8220;\n        I have discovered this product for all types of service industries how they took help from their past work to get new work. \"We are the generation of TikTok who love to watch videos instead of read scrape in Orkut\"\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/feedfleet",
+          "publishedOn": "2021-05-04T04:21:24.000Z",
+          "wordCount": 75,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Feedfleet — Get personalized video testimonials for your business"
+        },
+        {
+          "description": "&#8220;\n        Synthetic hairs on the market are filled with nasty chemicals that cause breakouts and allergic reactions for people with sensitive scalps. \n\nThere were no natural alternatives. Every time I would want to do my hair, I would have to buy the hair and soak it in vinegar and to remove the chemicals. That was hassle for me, and after speaking about the issue with some friend's, I realized how common this issue was.\n\nSo I set out to create Unclouded. The first organic, hypoallergenic, synthetic h…",
+          "link": "https://www.producthunt.com/posts/unclouded",
+          "publishedOn": "2021-05-04T03:56:28.000Z",
+          "wordCount": 62,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Unclouded — Organic, hypoallergenic, synthetic hair alternative"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/cuisine",
+          "publishedOn": "2021-05-04T03:42:34.000Z",
+          "wordCount": 72,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Cuisine — Meal planification and preparation made simple"
+        },
+        {
+          "description": "&#8220;\n        I've built so many projects in the hopes that one of them would become an overnight success. After too painfully long, I started to realize that I was doing something wrong. How did other people launch products with such success immediately? THAT is where I was wrong. It wasn't immediate, and it reminded me of the famous quote by Y-Combinator's co-founder, Paul Graham. \n\n\"Do things that don't scale\".\n\nIt seemed counter-intuitive when I read it the first time, but the more I thought about it,…",
+          "link": "https://www.producthunt.com/posts/betaforbeta",
+          "publishedOn": "2021-05-04T01:23:14.000Z",
+          "wordCount": 73,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "betaForBeta — Follow for follow? Beta for beta."
+        },
+        {
+          "description": "&#8220;\n        Have to brag a little :-)\nIPster made it to the front page of Hacker News\nhttps://twitter.com/ipster_io/status/1389438918097993729\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/ipster",
+          "publishedOn": "2021-05-04T01:01:24.000Z",
+          "wordCount": 65,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "IPster — Peer-to-peer job notifications"
+        },
+        {
+          "description": "&#8220;\n        This is the 1st global Matching as a Service Platform that connects +50.000 FinTechs (InsurTechs, PropTechs, RegTechs, LegalTechs, WealthTechs, eHealths, etc.) with +10.000 Corporations and +5.000 Investors to reinvent finance.\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/finnovating",
+          "publishedOn": "2021-05-04T00:15:19.000Z",
+          "wordCount": 72,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Finnovating — Global fintech matching as a service platform"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/hence",
+          "publishedOn": "2021-05-04T00:14:05.000Z",
+          "wordCount": 57,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Hence — Take control of your consulting and legal relationships"
+        },
+        {
+          "description": "&#8220;\n        A brilliant way to support local bookshops and the community.\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/bookshop-uk",
+          "publishedOn": "2021-05-03T23:59:07.000Z",
+          "wordCount": 44,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Bookshop UK — Support local bookshops"
+        },
+        {
+          "description": "&#8220;\n        I love my Bose headphones and I use them almost all-day\n\nHowever, I've had them die unexpectedly during deep-work sessions or zoom meetings several times now\n\nOn iPhone/Android you can see their battery level in the top corner and within Bose's mobile apps but Bose decided not to make anything for Desktop users\n\nAnother problem is that these headphones can be connected to several devices at once (For example: Laptop &amp; Mobile) and sometimes they are clever enough to figure out which devic…",
+          "link": "https://www.producthunt.com/posts/boze-app",
+          "publishedOn": "2021-05-03T23:37:36.000Z",
+          "wordCount": 68,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Boze App — Control your Bose headphones from your Mac's menubar"
+        },
+        {
+          "description": "&#8220;\n        Ok, added in the ability to find your lead's emails! Still free.\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/jiffy-lead",
+          "publishedOn": "2021-05-03T21:33:32.000Z",
+          "wordCount": 55,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Jiffy Lead — Free, fast data on your sales leads"
+        },
+        {
+          "description": "&#8220;\n        Hello Product Hunt,\n\nIn both small- and large-sized tech companies I have worked for, reserving a staging environment to test a feature has been unnecessarily challenging. You need to communicate with the whole team that you are going to deploy your branch to a specific staging environment.\n\nMost of the time, developers simply send a message like 'Hey, I am going to deploy my branch to staging #2, is anyone else using it right now?' to a team channel in Slack. That works, but not everyone is…",
+          "link": "https://www.producthunt.com/posts/staging-app",
+          "publishedOn": "2021-05-03T20:32:11.000Z",
+          "wordCount": 55,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Staging App — Manage your staging environments right from Slack"
+        },
+        {
+          "description": "&#8220;\n        Hi I'm Daniel! I worked at various privacy-conscious companies such as @getkeepsafe and @cliqz because I love creating cool things without selling out users' personal data.\n\nAfter going indie, I wanted to know how my apps were doing, so I hacked up a quick dashboard of how many users each app had per day, what were the retention numbers, which kinds of features did people use? All of this of course armed with the experience of how to run statistical analysis of large anonymous datasets to ge…",
+          "link": "https://www.producthunt.com/posts/apptelemetry",
+          "publishedOn": "2021-05-03T20:25:19.000Z",
+          "wordCount": 72,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "AppTelemetry — Privacy-first lightweight analytics for apps"
+        },
+        {
           "description": "&#8220;\n        My wife and I teamed up to create Refidesk, a platform to help current and future homeowners make the best mortgage decisions for their finances.\n\nWe created this app for ourselves originally, as we are finance-obsessed nerds. We found ourselves monitoring current mortgage rates daily to determine when we should refinance our own mortgage. So, we created multiple algorithms and models to pull data, crunch the numbers and help us identify the pros and cons of refinancing (potential costs and …",
           "link": "https://www.producthunt.com/posts/refidesk",
           "publishedOn": "2021-05-03T17:49:56.000Z",
@@ -1923,6 +2454,24 @@
           "title": "ROA — Innovating the artist-fan relationship"
         },
         {
+          "description": "&#8220;\n        I created MicroQuiz because I wanted to know what my peers were thinking across of range of topics from the tech world. It's been great to share and to see all the subscribers answering the questions each week.  I love it!\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/microquiz",
+          "publishedOn": "2021-05-03T15:15:09.000Z",
+          "wordCount": 81,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "MicroQuiz — Weekly inbox poll for digital people"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/onautopilot",
+          "publishedOn": "2021-05-03T14:52:35.000Z",
+          "wordCount": 65,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Autopilot — Your perfect morning, every morning"
+        },
+        {
           "description": "&#8220;\n        Hi! I'm Sam, co-founder of Ivy. We created Ivy because we wanted an easier and more social way to share and discover music; if you have any questions you can leave them here, or reach out on Twitter @theivyplatform/@snordale! We hope you love Ivy and follow along as we continue to improve the platform!\n        &#8221;\n        \nDiscussion\n        |\n        Link",
           "link": "https://www.producthunt.com/posts/ivy-977b81a5-b39c-4e8c-b8e9-34d48774b4b0",
           "publishedOn": "2021-05-03T14:41:47.000Z",
@@ -1966,6 +2515,24 @@
           "sourceHref": "https://www.producthunt.com/feed",
           "sourceTitle": "Product Hunt — The best new products, every day",
           "title": "Unconscious Bias Detector by Text IQ — AI powered unconscious bias detector"
+        },
+        {
+          "description": "&#8220;\n        Hello, hunters!\n\nI'm very excited to share zemo.live, a web-based video chat application I built \nthat lets you strike up a conversation with random developers, meet interesting people, and create new friendships in the tech industry.\n\nPS, This is my first Launch\n\nIf you have any questions please feel free to contact me! Thanks!\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/zemo",
+          "publishedOn": "2021-05-03T09:54:41.000Z",
+          "wordCount": 68,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Zemo — Fun 1 on 1 video chat with random developers"
+        },
+        {
+          "description": "&#8220;\n        Hey Product Hunters! 🔨\n\nI've just released SEO Toolbelt, a side-project I've been working on alongside my full-time job as an Ecommerce SEO consultant.\n\nI've created this free resource for one simple reason.\n\n🌟 To provide a go-to place for finding the best SEO tool for the job. \n\nWhich is something that's becoming harder in an ever-growing industry with an increasing amount of useful innovating tools being released.\n\nWhy use SEO Toolbelt?\n\n⏲ It'll save you time\n🤓 A full-time SEO consultan…",
+          "link": "https://www.producthunt.com/posts/seo-toolbelt",
+          "publishedOn": "2021-05-03T09:15:26.000Z",
+          "wordCount": 73,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "SEO Toolbelt — Find the best SEO tools for the job"
         },
         {
           "description": "&#8220;\n        I created this website for myself and my friends by simply combining all my saved recipes from various sites I had saved. I hope you find inspiration from my recipe collection and cook something for your loved ones; or share something from your own kitchen to inspire others.\n        &#8221;\n        \nDiscussion\n        |\n        Link",
@@ -2739,6 +3306,150 @@
       "href": "https://www.archdaily.com/feed",
       "articles": [
         {
+          "description": "Completed in 2020, Fleming Park House was conceived to accommodate a family of 7, including 5 teenage boys. Being well under 200 square meters i n area, this beautiful house overlooks the l ocal football ground and dog-park. At i ts essence, Fleming Park House i s an adaptable, flexible collection of spaces capable of ‘ bending’ to the needs of occupants i nto the future.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/6L8216dH7yc/fleming-park-house-cloud-architecture-studio",
+          "publishedOn": "2021-05-04T18:00:00.000Z",
+          "wordCount": 1047,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Fleming Park House / Cloud Architecture Studio"
+        },
+        {
+          "description": "Winter House is a single residential unit whose main goal is being a shelter and a setting for the enjoyment of the land property&rsquo;s pristine privileged nature, such as the outdoors and the country lifestyle. These are the main reasons why the blueprint is organized into four blocks, linked through the occupants&rsquo; control of permeability from the inside-out of the residence, for the layout to approach thanks to the textures accomplished on the volumes, rifts, and spans, into dynamic filters which …",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/OE6Tz4RRZ_A/winter-house-laar",
+          "publishedOn": "2021-05-04T16:00:00.000Z",
+          "wordCount": 971,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Winter House / LAAR"
+        },
+        {
+          "description": "Legend tells that Harding and Son’s Windmill, operating during the 18th-century on a once-existing island between Camden and Philadelphia, is buried under Camden. During low tide, a sandbar from what is now Coopers Poynt Park formed a land passage directly to the island critical for transporting goods, helping first make Camden a vital hub. Camden abounds with lost history.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/Hh0qdeuLjDQ/turntable-pavilion-slo-architecture",
+          "publishedOn": "2021-05-04T14:00:00.000Z",
+          "wordCount": 814,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Turntable Pavilion / SLO Architecture"
+        },
+        {
+          "description": "The Mountain Aparthotel Resort in the heart of the winter capital of Poland. The Mountain Aparthotel Resort in Zakopane designed by Polish studio Karpiel Steindel Architektura has cast new light on the character of contemporary leisure architecture in the vicinity of the Tatra Mountains.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/5s7FAQ9odxk/bachleda-club-residence-karpiel-steindel-architektura",
+          "publishedOn": "2021-05-04T12:00:00.000Z",
+          "wordCount": 1002,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Bachleda Club Residence / Karpiel Steindel Architektura"
+        },
+        {
+          "description": "The Archdiocese of Brisbane has unveiled plans to build an eight-story office block adjacent to the city's historic St. Patrick’s Church in Australia. Designed by architecture practice BVN, the project was made to respond to both the existing church and the urban fabric of Fortitude Valley. The proposed development would preserve views to the church from James and McLachlan streets with over 11,000 square meters of office space.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/wcXL1xgp9Tc/brisbane-office-block-to-hover-above-historic-st-patricks-church",
+          "publishedOn": "2021-05-04T11:00:00.000Z",
+          "wordCount": 732,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Brisbane Office Block to Hover Above Historic St. Patrick’s Church"
+        },
+        {
+          "description": "The preschool Ugglan (the Owl) is situated in Alby, a suburb in southern Stockholm. The project has been initiated as the previous premises burned down during the summer of 2006. The design of this new preschool has a strong emphasis on security, in form of fire, vandalism, and burglary prevention.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/35OZ05xFoW0/preschool-ugglan-3do-arkitekter",
+          "publishedOn": "2021-05-04T10:00:00.000Z",
+          "wordCount": 977,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Preschool Ugglan / 3dO Arkitekter"
+        },
+        {
+          "description": "Many describe the work of Alvar Aalto as an embodiment of the concept of Gesamtkunstwerk (a total work of art), where architecture, design, and art merge into one. The Finnish architect is a pioneer in the so-called organic strand of modern architecture in the early 20th century and has strongly influenced what we know today as Scandinavian architecture. According to a description on the MoMA website: \"his work reflected a deep desire to humanize architecture through an unorthodox handling of shapes and mat…",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/fhRBKk2vSO8/alvar-aalto-and-the-use-of-timber-from-stools-to-ceilings-and-structures",
+          "publishedOn": "2021-05-04T07:30:00.000Z",
+          "wordCount": 1504,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Alvar Aalto and the Use of Timber: From Stools to Ceilings and Structures"
+        },
+        {
+          "description": "This project treats architecture as a diversifier of urban centres (Productive Urban Housing + Education Space). In Latin America, the growing urbanization process of recent years has produced innumerable changes, the loss of vitality of the traditional central areas being the most damaging.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/POrmp89eqJ0/housing-and-educational-space-la-casa-que-habita-natura-futura-arquitectura",
+          "publishedOn": "2021-05-04T07:00:00.000Z",
+          "wordCount": 1154,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Housing and Educational Space La Casa que Habita / Natura Futura Arquitectura"
+        },
+        {
+          "description": "Situated at the northern part of Brooklyn where Newton Creek and the East River intersect, OMA New York / Jason Long's Greenpoint Landing residential towers have reached their latest phase of development; The North Tower is currently at 300 ft. and the South Tower is at 400 ft. The buildings are expected to provide 745 units of mixed-income housing, and will expand an acre beyond the existing esplanade, creating a new section of public waterfront that overlooks the Manhattan skyline.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/VdtwgJW38hE/oma-jason-longs-new-york-greenpoint-landing-towers-reach-highest-point-of-construction",
+          "publishedOn": "2021-05-04T06:30:00.000Z",
+          "wordCount": 1103,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "OMA / Jason Long's New York Greenpoint Landing Towers Reach Highest Point of Construction"
+        },
+        {
+          "description": "The client wishes to realize a dog therapy center within an existing warehouse of approximately 1.250m2, as well as an adjacent office building of around 120m2. The warehouse has a loading dock on the north side of the site.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/dlb6KlWADbE/hachiko-warehouse-refurbishment-we-s-architecten",
+          "publishedOn": "2021-05-04T06:00:00.000Z",
+          "wordCount": 840,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "HACHIKO Warehouse Refurbishment / WE-S architecten"
+        },
+        {
+          "description": "For the 17th International Architecture Exhibition of La Biennale di Venezia, Finland's Pavilion revisits a moment in local history when a refugee crisis led to new ways of building and a reconfiguration of domestic space, which ended up influencing different places around the world. Titled New Standards, the exhibition curated by Laura Berger, Philip Tidwell and Kristo Vesikansa presents the story of Puutalo Oy, an industrial enterprise specialized in prefabricated wooden buildings that set new standards f…",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/wZtr1euMMQg/finnish-pavilion-presents-the-countrys-history-of-prefabricated-wooden-houses-at-the-2021-venice-biennale",
+          "publishedOn": "2021-05-04T05:30:00.000Z",
+          "wordCount": 1113,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Finnish Pavilion Presents the Country's History of Prefabricated Wooden Houses at the 2021 Venice Biennale"
+        },
+        {
+          "description": "Rojkind Arquitectos, Esrawe Studio, and Slade Architecture have unveiled their proposal for a 2,685-square-meter beach club in New Jersey, United States. According to the firms, the project seeks to activate the beachside of the street and provide amenities and services to the beach in this town resort.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/dLgb3XwQJq4/rojkind-arquitectos-esrawe-studio-and-slade-architecture-to-design-a-beach-club-in-new-jersey",
+          "publishedOn": "2021-05-04T05:00:00.000Z",
+          "wordCount": 1025,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Rojkind Arquitectos, Esrawe Studio and Slade Architecture to Design a Beach Club in New Jersey"
+        },
+        {
+          "description": "As global urbanization accelerates at a rapid pace, living spaces in contemporary cities and the projected cities of the future grow ever smaller. To anticipate these changes, product design firm AXOR has partnered with The Future Laboratory, a leading international consulting firm for future trends, for the development of their project 'Compact Luxury.' Aimed at uncovering the major influences of urbanization and adapting luxury spaces for these anticipated global changes, the Compact Luxury project identi…",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/Nggr0-GAYVw/compact-luxury-exploring-the-future-of-urban-living",
+          "publishedOn": "2021-05-04T04:30:00.000Z",
+          "wordCount": 1007,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Compact Luxury: Exploring the Future of Urban Living"
+        },
+        {
+          "description": "Milan’s urban fabric has long been defined by change. In a city known for its historic monuments, from the Piazza Duomo and Milan Cathedral to works like Velasca Tower, contemporary architecture must balance many existing contexts. Emerging as a global center for design and culture, Milan has become home to new buildings and structures addressing this condition as iconic landmarks and expressive forms. Actively building upon its legacy, Milan has turned its attention to the sky.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/EmKQ03TalBE/vertical-urbanism-milan-highrises-reaching-new-heights",
+          "publishedOn": "2021-05-04T04:00:00.000Z",
+          "wordCount": 1175,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Vertical Urbanism: Milan Highrises Reaching New Heights"
+        },
+        {
+          "description": "The restaurant-grocery store in Monteiro Lobato was conceived as a strategic project that seeks to cause a positive impact on the region, blend in with the landscape and respond to local economic demands.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/zxjZzegnTDA/restaurant-and-grocery-store-in-monteiro-lobato-metamoorfose-studio",
+          "publishedOn": "2021-05-04T03:00:00.000Z",
+          "wordCount": 1053,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Restaurant & Grocery Store in Monteiro Lobato / Metamoorfose Studio"
+        },
+        {
+          "description": "A clearing amongst Aspen and Pine makes way for an understated home, positioned to take in long views across Snake River Valley and the mountains beyond. Our clients wanted a house that embraced this majestic setting. A peaceful, modern retreat to recharge whilst immersed in nature.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/tu6_sLTMoDM/snake-river-cabin-mclean-quinlan",
+          "publishedOn": "2021-05-04T02:00:00.000Z",
+          "wordCount": 895,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Snake River Cabin / McLean Quinlan"
+        },
+        {
           "description": "On the north side of this project is a commercial Hutong-- West Sanding Factory Street, while on the south side is residential Luanqing Hutong, which is a typical small courtyard that is very suitable for living at that time.",
           "link": "http://feedproxy.google.com/~r/ArchDaily/~3/KXQogDmL_MA/quad-of-gourd-n7-luanqing-hutong-urbanus",
           "publishedOn": "2021-05-04T01:00:00.000Z",
@@ -3184,6 +3895,510 @@
     {
       "href": "https://mixmag.net/rss.xml",
       "articles": [
+        {
+          "description": "The Ibiza icon has said the club will return &quot;before 2022&quot; in a new interview\nContinue reading...",
+          "link": "https://mixmag.net/read/space-ibiza-owner-pepe-rosello-carl-cox-return-news",
+          "publishedOn": "2021-05-04T14:00:00.000Z",
+          "wordCount": 573,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Space Ibiza owner Pepe Roselló plans to reopen the club this year"
+        },
+        {
+          "description": "Mark Radford is joined by  Carnao Beats, Nightshift and Ian Solo for a two-hour hour session\nContinue reading...",
+          "link": "https://mixmag.net/read/audio-rehab-takeover-lab-ldn-mark-radford-dj-lab",
+          "publishedOn": "2021-05-04T14:00:00.000Z",
+          "wordCount": 357,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Audio Rehab takeover in The Lab LDN"
+        },
+        {
+          "description": "Jayda G&#039;s &#039;Both Of Us&#039; was a crossover hit and marks an evolution in her musical trajectory to more accessible sounds - while still keeping her infectious personality at the fore. Ralph Moore talks to the Canadian artist about how the pandemic has &quot;boosted her creative flow&quot; and more\nContinue reading...",
+          "link": "https://mixmag.net/feature/jayda-g-cover-interview-grammy-dj-kicks",
+          "publishedOn": "2021-05-04T12:53:00.000Z",
+          "wordCount": 2495,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "From leftfield house to the GRAMMYs: Jayda G is taking her sound to another level"
+        },
+        {
+          "description": "Jayda G picks out a selection of classic disco and soul records for her Cover Mix playlist\nContinue reading...",
+          "link": "https://mixmag.net/feature/jayda-g-cover-mix-playlist-disco-soul",
+          "publishedOn": "2021-05-04T12:50:00.000Z",
+          "wordCount": 230,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "The Cover Mix: Jayda G"
+        },
+        {
+          "description": "Defected Records has fully remastered over 140 of Todd Edwards&#039; vinyl-only tracks\nContinue reading...",
+          "link": "https://mixmag.net/read/todd-edwards-back-catalogue-digital-news",
+          "publishedOn": "2021-05-04T12:00:00.000Z",
+          "wordCount": 404,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "​Todd Edwards’ back catalogue to be released on digital for the first time"
+        },
+        {
+          "description": "Tony Smith is best known for helping make disco a global force through being a resident at a number of clubs in New York\nContinue reading...",
+          "link": "https://mixmag.net/read/veteran-new-york-disco-dj-tony-smith-has-died-news",
+          "publishedOn": "2021-05-04T12:00:00.000Z",
+          "wordCount": 489,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Veteran New York disco DJ Tony Smith has died"
+        },
+        {
+          "description": "The European Commission plans to open the EU to international travel by the start of June\nContinue reading...",
+          "link": "https://mixmag.net/read/ibiza-holiday-june-news",
+          "publishedOn": "2021-05-04T11:23:07.000Z",
+          "wordCount": 507,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Ibiza tourism could begin by the start of June \"at the latest\""
+        },
+        {
+          "description": "Nightclubs have launched legal action against the Scottish government over “no longer justifiable” coronavirus restrictions\nContinue reading...",
+          "link": "https://mixmag.net/read/scottish-nightclubs-legal-action-news",
+          "publishedOn": "2021-05-04T11:00:00.000Z",
+          "wordCount": 550,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "​Scottish nightclubs launch legal action against Covid restrictions"
+        },
+        {
+          "description": "Three fixed penalty notices were handed out to party goers for breaching coronavirus restrictions\nContinue reading...",
+          "link": "https://mixmag.net/read/minibuses-rave-surrey-news",
+          "publishedOn": "2021-05-04T11:00:00.000Z",
+          "wordCount": 370,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "​Minibuses full of people turned away from illegal rave in Surrey"
+        },
+        {
+          "description": "‘Kilometre’ is out everywhere now\nContinue reading...",
+          "link": "https://mixmag.net/read/burna-boy-new-single-kilometre-news",
+          "publishedOn": "2021-05-02T06:30:00.000Z",
+          "wordCount": 336,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Burna Boy is back with a new single"
+        },
+        {
+          "description": "The Austrian producer released his new euphoric house single this week\nContinue reading...",
+          "link": "https://mixmag.net/read/salute-want-u-there-single-release-news",
+          "publishedOn": "2021-05-02T06:00:00.000Z",
+          "wordCount": 366,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Salute really does 'Want U There' on newest single"
+        },
+        {
+          "description": "Her latest single ‘Say Something’ is out now\nContinue reading...",
+          "link": "https://mixmag.net/read/emma-jean-thackray-yellow-album-announcement-jazz-warp-news",
+          "publishedOn": "2021-05-02T05:30:00.000Z",
+          "wordCount": 402,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Emma-Jean Thackray announces new album 'Yellow'"
+        },
+        {
+          "description": "She has also released her latest single ‘Never Lose’ featuring Spent\nContinue reading...",
+          "link": "https://mixmag.net/read/taahliah-debut-ep-announcement-angelica-spent-single-release-news",
+          "publishedOn": "2021-05-01T06:30:00.000Z",
+          "wordCount": 367,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "TAAHLIAH announces her debut EP 'Angelica' out in May"
+        },
+        {
+          "description": "He also released the lead single ‘Modulatrum’ this week\nContinue reading...",
+          "link": "https://mixmag.net/read/tsvi-sogno-ep-announcement-nervous-horizon-news",
+          "publishedOn": "2021-05-01T06:00:00.000Z",
+          "wordCount": 364,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "TSVI announces new EP 'Sogno'"
+        },
+        {
+          "description": "She’s also shared a video for her single ‘Crossroads’\nContinue reading...",
+          "link": "https://mixmag.net/read/nia-archives-headz-gone-west-debut-ep-release-jungle-news",
+          "publishedOn": "2021-05-01T05:30:00.000Z",
+          "wordCount": 423,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Nia Archives' 'Headz Gone West' on debut EP"
+        },
+        {
+          "description": "Clubbing is back in the UK, and it feels like the good times are returning\nContinue reading...",
+          "link": "https://mixmag.net/feature/review-circus-liverpool-clubbing-erp-review",
+          "publishedOn": "2021-05-01T04:48:00.000Z",
+          "wordCount": 1126,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Review: The UK's first club night back was an ecstatic reminder of pre-pandemic life"
+        },
+        {
+          "description": "As the COVID crisis escalates in India, some of the country&#039;s biggest and best electronic music artists have come together to release a compilation to raise funds for the Hemkunt Foundation\nContinue reading...",
+          "link": "https://mixmag.net/read/indias-top-electronic-artists-release-covid-relief-charity-compilation-news",
+          "publishedOn": "2021-04-30T15:50:00.000Z",
+          "wordCount": 292,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "India's top electronic artists release Covid relief charity compilation"
+        },
+        {
+          "description": "The line-up includes Seth Troxler, Nicole Moudaber, DJ Heather, Derrick Carter and more \nContinue reading...",
+          "link": "https://mixmag.net/read/arc-new-house-music-festival-chicago-news",
+          "publishedOn": "2021-04-30T13:49:00.000Z",
+          "wordCount": 431,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "ARC is a new house music festival heading to Chicago"
+        },
+        {
+          "description": "BABii&#039;s new album ‘MiiRROR’ explores the conflicting emotions of her nomadic childhood and reconnecting with her estranged mother through a fantastical lens. She expands on the story in conversation with Ben Jolley\nContinue reading...",
+          "link": "https://mixmag.net/feature/babii-miirror-gloo-margate-interview",
+          "publishedOn": "2021-04-29T13:56:00.000Z",
+          "wordCount": 1952,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Escapist metaphors: BABii’s fantasy storytelling reflects the darkness and light of reality"
+        },
+        {
+          "description": "The 80,000-person event will close its doors until 2022\nContinue reading...",
+          "link": "https://mixmag.net/read/burning-man-2021-has-been-cancelled-news",
+          "publishedOn": "2021-04-29T11:05:17.000Z",
+          "wordCount": 428,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Burning Man 2021 has been cancelled"
+        },
+        {
+          "description": "Yousef talks to Tope Olufemi about throwing the first club night in the UK for over a year\nContinue reading...",
+          "link": "https://mixmag.net/feature/yousef-circus-liverpool-covid-test-event",
+          "publishedOn": "2021-04-29T10:18:00.000Z",
+          "wordCount": 1261,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Yousef on 3000-person test event: \"It’s going to make people feel amazing\""
+        },
+        {
+          "description": "‘Andy C All Night Wembley’ will take place in October\nContinue reading...",
+          "link": "https://mixmag.net/read/andy-c-headline-show-wembley-sse-arena-news",
+          "publishedOn": "2021-04-29T09:36:00.000Z",
+          "wordCount": 489,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Andy C announces all-night headline show at Wembley"
+        },
+        {
+          "description": "Michael Lawson traces the roots of NTS to celebrate 10 years of the gamechanging station\nContinue reading...",
+          "link": "https://mixmag.net/feature/nts-radio-oral-history",
+          "publishedOn": "2021-04-28T16:05:00.000Z",
+          "wordCount": 2655,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "An oral history of NTS Radio"
+        },
+        {
+          "description": "The organisation aims to generate $100 million by 2030\nContinue reading...",
+          "link": "https://mixmag.net/read/brian-eno-launches-earthpercent-news",
+          "publishedOn": "2021-04-28T15:46:00.000Z",
+          "wordCount": 532,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "​Brian Eno launches EarthPercent, a climate change initiative for the music industry"
+        },
+        {
+          "description": "The Mixmag guide to the best wireless headphones and earbuds in 2021\nContinue reading...",
+          "link": "https://mixmag.net/feature/best-wireless-headphones-and-earbuds",
+          "publishedOn": "2021-04-28T14:19:00.000Z",
+          "wordCount": 1883,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "14 of the best wireless headphones and earbuds"
+        },
+        {
+          "description": "The film explores the LAPD&#039;s alleged involvement and withholding of evidence\nContinue reading...",
+          "link": "https://mixmag.net/read/documentary-biggie-tupac-suge-knight-lapd-new-evidence-news",
+          "publishedOn": "2021-04-28T14:09:00.000Z",
+          "wordCount": 738,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Documentary claims to produce \"new evidence\" on murders of Tupac and Biggie"
+        },
+        {
+          "description": "&quot;There is no sign that suggests transmission took place during the event,&quot; said an infectious diseases specialist \nContinue reading...",
+          "link": "https://mixmag.net/read/5000-person-barcelona-covid-19-infections-safe-news",
+          "publishedOn": "2021-04-28T12:08:00.000Z",
+          "wordCount": 506,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "“No sign” 5,000 person Barcelona concert caused COVID infections"
+        },
+        {
+          "description": "Emily Eavis is aiming for the event to take place in September\nContinue reading...",
+          "link": "https://mixmag.net/read/glastonbury-two-day-festival-worthy-farm-2021-news",
+          "publishedOn": "2021-04-28T10:36:26.000Z",
+          "wordCount": 569,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Glastonbury organisers plan two-day festival at Worthy Farm"
+        },
+        {
+          "description": "Jemima Skala speaks to Grove, whose empowerment anthems will make you &quot;get down and dutty wine!&quot;\nContinue reading...",
+          "link": "https://mixmag.net/feature/grove-impact-interview-dj-mix",
+          "publishedOn": "2021-04-28T09:52:00.000Z",
+          "wordCount": 3155,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Grove’s radical self-expression inspires collective freedom"
+        },
+        {
+          "description": "It&#039;ll boost your dance music documentary binges too\nContinue reading...",
+          "link": "https://mixmag.net/feature/sonos-arc-review",
+          "publishedOn": "2021-04-28T05:00:00.000Z",
+          "wordCount": 607,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Sonos Arc takes lockdown raving in your living room to the next level"
+        },
+        {
+          "description": "The money was raised through a sold-out collaboration with Balenciaga\nContinue reading...",
+          "link": "https://mixmag.net/read/kanye-west-1-million-dmx-balenciaga-news",
+          "publishedOn": "2021-04-27T15:32:00.000Z",
+          "wordCount": 361,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Kanye West raises $1 million for DMX’s family"
+        },
+        {
+          "description": "AIAIAI has teamed up with Ninja Tune to create headphones from the label&#039;s unsold vinyl\nContinue reading...",
+          "link": "https://mixmag.net/read/aiaiai-ninja-tune-recycled-headphones-news",
+          "publishedOn": "2021-04-27T15:23:28.000Z",
+          "wordCount": 589,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "You can now buy headphones made out of recycled vinyl"
+        },
+        {
+          "description": "DJ Michelle is the competition&#039;s youngest ever competitor \nContinue reading...",
+          "link": "https://mixmag.net/read/nine-year-old-girl-dmc-world-dj-championships-news",
+          "publishedOn": "2021-04-27T15:13:00.000Z",
+          "wordCount": 528,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "A nine-year-old girl has entered the DMC World DJ Championships"
+        },
+        {
+          "description": "The sale is three times higher than the previous record\nContinue reading...",
+          "link": "https://mixmag.net/read/kanye-wests-yeezy-shoes-auction-news",
+          "publishedOn": "2021-04-27T14:22:57.000Z",
+          "wordCount": 525,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Kanye West's Yeezy shoes sell for record-breaking $1.8 million"
+        },
+        {
+          "description": "The LC6000 PRIME is priced at £599.99\nContinue reading...",
+          "link": "https://mixmag.net/read/denon-dj-versatile-controller-lc6000-prime-tech",
+          "publishedOn": "2021-04-27T14:00:00.000Z",
+          "wordCount": 488,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Denon DJ announces \"the world’s most versatile controller\""
+        },
+        {
+          "description": "Goldie playing back-to-back with Martyn, Sicaria Sound, Paranoid London and more feature\nContinue reading...",
+          "link": "https://mixmag.net/read/patterns-brighton-reopening-parties-news",
+          "publishedOn": "2021-04-27T12:12:00.000Z",
+          "wordCount": 471,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Patterns announces four month run of reopening parties"
+        },
+        {
+          "description": "Touts looking to profit from reopening events are endangering the safety of attendees by impairing COVID tracing\nContinue reading...",
+          "link": "https://mixmag.net/read/ticket-touts-threatening-safety-festivals-covid-tracing-news",
+          "publishedOn": "2021-04-27T11:50:00.000Z",
+          "wordCount": 692,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Ticket touts are threatening the safety of festivals this summer"
+        },
+        {
+          "description": "Travellers will be able to show their Covid status using a digital certificate\nContinue reading...",
+          "link": "https://mixmag.net/read/ibiza-coronavirus-test-quarantine-summer-news",
+          "publishedOn": "2021-04-27T10:55:00.000Z",
+          "wordCount": 589,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Ibiza will not require a coronavirus test or quarantine for travellers this summer"
+        },
+        {
+          "description": "Oli Freke presents a synthesizer timeline\nContinue reading...",
+          "link": "https://mixmag.net/feature/the-10-most-influential-synths-of-all-time",
+          "publishedOn": "2021-04-26T16:35:00.000Z",
+          "wordCount": 4267,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "The 10 most influential synths of all time"
+        },
+        {
+          "description": "Lock in for a blend of Italo house, disco and acid\nContinue reading...",
+          "link": "https://mixmag.net/read/demi-riquisimo-in-the-lab-ldn-dj-lab",
+          "publishedOn": "2021-04-26T15:27:00.000Z",
+          "wordCount": 324,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Demi Riquísimo in The Lab LDN"
+        },
+        {
+          "description": "Musicians have responded by criticising Spotify&#039;s treatment of artists\nContinue reading...",
+          "link": "https://mixmag.net/read/spotify-ceo-daniel-ek-arsenal-fc-news",
+          "publishedOn": "2021-04-26T14:08:00.000Z",
+          "wordCount": 709,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Spotify’s CEO Daniel Ek declares interest in buying Arsenal FC"
+        },
+        {
+          "description": "Only 7.5% of festivals say they would be happy to go ahead without it\nContinue reading...",
+          "link": "https://mixmag.net/read/last-chance-government-backed-covid-insurance-festival-cancellation-news",
+          "publishedOn": "2021-04-26T13:39:00.000Z",
+          "wordCount": 616,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Last chance for government-backed insurance before raft of festival cancellations, warns AIF"
+        },
+        {
+          "description": "“I’m still processing Sophie’s life… her nature, her work, her beauty,” said the PC Music founder in a touching tribute\nContinue reading...",
+          "link": "https://mixmag.net/read/a-g-cook-sophie-tribute-news",
+          "publishedOn": "2021-04-26T12:04:12.000Z",
+          "wordCount": 552,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "A. G. Cook on SOPHIE: \"It’s indescribable to have lost a friend who was so caring and so real\""
+        },
+        {
+          "description": "His memorial was attended by thousands, including Kanye West and Nas\nContinue reading...",
+          "link": "https://mixmag.net/read/new-york-state-declares-december-18-earl-dmx-simmons-day-news",
+          "publishedOn": "2021-04-26T11:24:22.000Z",
+          "wordCount": 548,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "New York declares December 18 as Earl ‘DMX’ Simmons Day"
+        },
+        {
+          "description": "The heavyweight vehicle was flanked by thousands of motorbike riders\nContinue reading...",
+          "link": "https://mixmag.net/read/dmxs-casket-transported-memorial-service-monster-truck-news",
+          "publishedOn": "2021-04-26T11:00:00.000Z",
+          "wordCount": 597,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "DMX's casket was transported to memorial service on a monster truck"
+        },
+        {
+          "description": "It will be released everywhere next week on April 30\nContinue reading...",
+          "link": "https://mixmag.net/read/dego-the-negative-positive-upcoming-album-news",
+          "publishedOn": "2021-04-25T07:00:00.000Z",
+          "wordCount": 340,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Dego considers 'The Negative Positive' on upcoming new album"
+        },
+        {
+          "description": "Hudd Traxx has long been a prominent bastion of deep house in Yorkshire\nContinue reading...",
+          "link": "https://mixmag.net/read/nightmares-on-wax-jovonn-mark-hawkins-hudd-traxx-15-year-anniversary-compilation-news",
+          "publishedOn": "2021-04-25T06:30:00.000Z",
+          "wordCount": 377,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Nightmares on Wax, Jovonn, Mark Hawkins and more contribute to Hudd Traxx's 15-year anniversary compilation"
+        },
+        {
+          "description": "Get in touch with your favourite artists and ephemera from the sesh\nContinue reading...",
+          "link": "https://mixmag.net/read/ifeoluwa-digital-dance-music-archive-submissions-news",
+          "publishedOn": "2021-04-25T06:00:00.000Z",
+          "wordCount": 441,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Ifeoluwa is starting a dance music archive that you can submit to now"
+        },
+        {
+          "description": "The title track is out now everywhere\nContinue reading...",
+          "link": "https://mixmag.net/read/kojaque-towns-dead-debut-album-announcement-dublin-news",
+          "publishedOn": "2021-04-25T05:30:00.000Z",
+          "wordCount": 615,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Kojaque declares 'Town's Dead' as he announces his debut album"
+        },
+        {
+          "description": "It had an official release this Friday April 23\nContinue reading...",
+          "link": "https://mixmag.net/read/sisters-with-transistors-new-documentary-film-women-synth-pioneers-news",
+          "publishedOn": "2021-04-24T06:30:00.000Z",
+          "wordCount": 418,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "'Sisters with Transistors' is a new film about women synth pioneers"
+        },
+        {
+          "description": "This was announced before Earth Day\nContinue reading...",
+          "link": "https://mixmag.net/read/beggars-group-ninja-tune-carbon-negative-pledge-2022-news",
+          "publishedOn": "2021-04-24T06:00:00.000Z",
+          "wordCount": 471,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Beggars Group and Ninja Tune have pledged to be carbon negative by the end of 2022"
+        },
+        {
+          "description": "The debut release will be a three-track EP from the label boss himself\nContinue reading...",
+          "link": "https://mixmag.net/read/skream-new-label-imprint-ifeel-news",
+          "publishedOn": "2021-04-24T05:30:00.000Z",
+          "wordCount": 445,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Skream is setting up a new imprint IFEEL"
+        },
+        {
+          "description": "‘Siena (Feat. Clara La San)’ and two other tracks feature on the digital deluxe version of &#039;Isles&#039;\nContinue reading...",
+          "link": "https://mixmag.net/read/bicep-just-released-three-new-tracks-news",
+          "publishedOn": "2021-04-23T16:28:00.000Z",
+          "wordCount": 528,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Bicep just released three new tracks"
+        },
+        {
+          "description": "He co-produced 2pac&#039;s debut album ‘2Pacalypse Now’\nContinue reading...",
+          "link": "https://mixmag.net/read/shock-g-pioneering-rapper-digital-underground-died-news",
+          "publishedOn": "2021-04-23T16:21:59.000Z",
+          "wordCount": 483,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Shock G, pioneering rapper and Digital Underground co-founder, has died"
+        },
+        {
+          "description": "The Clean Scene collective has shared a new report about the dance music industry&#039;s environmental impact\nContinue reading...",
+          "link": "https://mixmag.net/read/touring-djs-51-000-flights-2019-clean-scene-report-news",
+          "publishedOn": "2021-04-23T14:50:58.000Z",
+          "wordCount": 524,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "1000 touring DJs took more than 51,000 flights in 2019"
+        },
+        {
+          "description": "The duo are back with their first release since 2019\nContinue reading...",
+          "link": "https://mixmag.net/read/listen-chemical-brothers-new-single-the-darkness-that-you-fear-news",
+          "publishedOn": "2021-04-23T12:10:00.000Z",
+          "wordCount": 492,
+          "sourceHref": "https://mixmag.net/rss.xml",
+          "sourceTitle": "Mixmag",
+          "title": "Listen to The Chemical Brothers new single ‘The Darkness That You Fear’"
+        },
         {
           "description": "It’s the 6 Figure Gang member’s latest release under their new identity\nContinue reading...",
           "link": "https://mixmag.net/read/lcy-pulling-teeth-ep-news",
@@ -4045,6 +5260,51 @@
       "href": "http://www.somewhere-magazine.com/feed/",
       "articles": [
         {
+          "description": "It&#8217;s been confirmed that Travis Scott&#8217;s Astroworld festival is returning to Houston this year. The 2021 edition and the third edition since its creation has been expanded to two days and will take place on November 5 and 6. Sadly, no line-up details have been announced yet, but you can buy general admission and VIP&#8230;",
+          "link": "http://www.somewhere-magazine.com/astroworld-is-coming-back-in-2021/",
+          "publishedOn": "2021-05-04T10:24:07.000Z",
+          "wordCount": 249,
+          "sourceHref": "http://www.somewhere-magazine.com/feed/",
+          "sourceTitle": "Somewhere – Documenting Culture",
+          "title": "Astroworld is coming back in 2021"
+        },
+        {
+          "description": "The Weeknd and Ariana Grande‘s remix of “Save Your Tears” has jumped to the No. 1 spot on the Billboard Hot 100, moving up 5 spaces from its debut spot at No. 6. Additionally, all versions of the track earned a combined 30.4 million U.S. streams and sold 18,000 downloads in the week ending April 29. Kudos to both singers&#8230;",
+          "link": "http://www.somewhere-magazine.com/the-weeknds-save-your-tears-remix-with-ariana-grande-climbs-to-no-1-on-billboard-hot-100/",
+          "publishedOn": "2021-05-04T10:18:46.000Z",
+          "wordCount": 262,
+          "sourceHref": "http://www.somewhere-magazine.com/feed/",
+          "sourceTitle": "Somewhere – Documenting Culture",
+          "title": "The Weeknd’s “Save Your Tears (Remix)” with Ariana Grande climbs to No. 1 on Billboard Hot 100"
+        },
+        {
+          "description": "After venturing out into the NFT space through Nifty Gateway, Playboy is now announcing a virtual art gallery in partnership with the blockchain-powered auction to show off their NFT works. The upcoming show will feature a range of original NFT art created by digital collage artist Slimesunday in collaboration with Playboy‘s editorial and archival curators, titled “Liquid Summer.” Each virtually-mastered&#8230;",
+          "link": "http://www.somewhere-magazine.com/playboy-is-hosting-a-virtual-art-gallery-to-showcase-new-nft-collection/",
+          "publishedOn": "2021-05-04T10:09:14.000Z",
+          "wordCount": 342,
+          "sourceHref": "http://www.somewhere-magazine.com/feed/",
+          "sourceTitle": "Somewhere – Documenting Culture",
+          "title": "Playboy is hosting a virtual art gallery to showcase new NFT collection"
+        },
+        {
+          "description": "NASA&#8217;s Hubble Space Telescope has captured new images of a dazzling cluster of stellar bodies which the European Space Agency (ESA) describes as “a diamond necklace of cosmic proportions,” otherwise known as the &#8220;Necklace Nebula.&#8221; This beautiful intergalactic landmark is located about 15,000 light-years away from Earth in the Sagitta Constellation. A nebula is an interstellar cloud of dust,&#8230;",
+          "link": "http://www.somewhere-magazine.com/new-images-by-nasa-show-a-cluster-of-cosmic-diamonds-known-as-necklace-nebula/",
+          "publishedOn": "2021-05-04T09:50:15.000Z",
+          "wordCount": 370,
+          "sourceHref": "http://www.somewhere-magazine.com/feed/",
+          "sourceTitle": "Somewhere – Documenting Culture",
+          "title": "New images by NASA show a cluster of cosmic diamonds known as “Necklace Nebula”"
+        },
+        {
+          "description": "Los Angeles-based artist Joseph Lee has launched his first NFT collection of his abstract impasto portraits. The artist is known for known for his heavily-layered portraits that hide the facial expressions and details of his various subjects. The NFT collection features animated versions of his best known original paintings, such as his take on Johannes Vermeer’s Girl with&#8230;",
+          "link": "http://www.somewhere-magazine.com/joseph-lee-releases-first-nft-collection-of-animated-abstract-paintings/",
+          "publishedOn": "2021-05-04T09:42:04.000Z",
+          "wordCount": 335,
+          "sourceHref": "http://www.somewhere-magazine.com/feed/",
+          "sourceTitle": "Somewhere – Documenting Culture",
+          "title": "Joseph Lee releases first NFT collection of animated abstract paintings"
+        },
+        {
           "description": "Visitors of the IKEA Taiwan&#8217;s Neihu branch will have the chance to try out new interesting and unique flavors of ice cream in the coming weeks. IKEA Neihu’s restaurant and gourmet station feature a variety of foods such as “Garlic Butter Mussels”, “White Shrimp Roasted Vegetable Noodles”, and “Roasted Duck Breast in Sauce with Cherries&#8221;, but&#8230;",
           "link": "http://www.somewhere-magazine.com/hami-melon-and-durian-ice-cream-are-on-the-taiwanese-ikea-menu/",
           "publishedOn": "2021-05-03T12:12:58.000Z",
@@ -4359,21 +5619,21 @@
           "sourceHref": "https://www.featureshoot.com/feed/",
           "sourceTitle": "Feature Shoot",
           "title": "The Heroic People Who Care for Thailand’s Street Dogs"
-        },
-        {
-          "description": "American photographer Donna Ferrato is possessed with a candor you rarely find, a willingness to traverse the most delicate, vulnerable parts of life and do so with extraordinary courage and&#8230;\nThe post Donna Ferrato Presents a Lifetime of Work Honoring the Stories of Women appeared first on Feature Shoot.",
-          "link": "https://www.featureshoot.com/2021/04/donna-ferrato-presents-a-lifetime-of-work-honoring-the-stories-of-women/",
-          "publishedOn": "2021-04-05T11:50:10.000Z",
-          "wordCount": 2012,
-          "sourceHref": "https://www.featureshoot.com/feed/",
-          "sourceTitle": "Feature Shoot",
-          "title": "Donna Ferrato Presents a Lifetime of Work Honoring the Stories of Women"
         }
       ]
     },
     {
       "href": "https://gupmagazine.com/feed/",
       "articles": [
+        {
+          "description": "&#8230;\nThe post Dawn Kim: Whistling in the Dark appeared first on GUP Magazine.",
+          "link": "https://gupmagazine.com/portfolios/dawn-kim-whistling-in-the-dark/",
+          "publishedOn": "2021-05-04T12:01:59.000Z",
+          "wordCount": 918,
+          "sourceHref": "https://gupmagazine.com/feed/",
+          "sourceTitle": "GUP Magazine",
+          "title": "Dawn Kim: Whistling in the Dark"
+        },
         {
           "description": "Prism, Scout by Cig Harvey, 2017 © Cig Harvey\n&#8230;\nThe post Taylor Wessing Photographic Portrait Prize 2021 appeared first on GUP Magazine.",
           "link": "https://gupmagazine.com/open-call/taylor-wessing-photographic-portrait-prize-2021/",
@@ -4482,6 +5742,15 @@
     {
       "href": "https://www.aint-bad.com/feed/",
       "articles": [
+        {
+          "description": "Mateo Ruiz Gonzalez is an emerging photographer born in Bogota, Colombia, educated in Buenos Aires, Argentina, and living in Brooklyn, New York, who aptly navigates the disciplines of storytelling, editorial,&#8230; Read More\nThe post Mateo Ruiz Gonzalez appeared first on AINT—BAD.",
+          "link": "https://www.aint-bad.com/article/2021/05/04/mateo-ruiz-gonzalez/",
+          "publishedOn": "2021-05-04T12:00:00.000Z",
+          "wordCount": 608,
+          "sourceHref": "https://www.aint-bad.com/feed/",
+          "sourceTitle": "AINT—BAD",
+          "title": "Mateo Ruiz Gonzalez"
+        },
         {
           "description": "Alissa Ohashi is a lens-based, mixed media artist working with experimental photography, collage, and installation. Ohashi is currently based in Columbus, Ohio where she graduated with her Master of Fine&#8230; Read More\nThe post Alissa Ohashi appeared first on AINT—BAD.",
           "link": "https://www.aint-bad.com/article/2021/05/03/alissa-ohashi-2/",
@@ -4625,15 +5894,6 @@
           "sourceHref": "https://www.aint-bad.com/feed/",
           "sourceTitle": "AINT—BAD",
           "title": "Sara Abbaspour"
-        },
-        {
-          "description": "KJ (she/her) is a visual artist, illustrator and designer from Edinburgh, Scotland. KJ creates dynamic digital works with satisfying gradients and hazy colour palettes. Since graduating from a BA in&#8230; Read More\nThe post KJ appeared first on AINT—BAD.",
-          "link": "https://www.aint-bad.com/article/2021/04/05/kj/",
-          "publishedOn": "2021-04-05T12:00:00.000Z",
-          "wordCount": 678,
-          "sourceHref": "https://www.aint-bad.com/feed/",
-          "sourceTitle": "AINT—BAD",
-          "title": "KJ"
         }
       ]
     },
@@ -4747,5 +6007,5 @@
       "articles": []
     }
   ],
-  "cliVersion": "1.3.0"
+  "cliVersion": "1.3.1"
 }
