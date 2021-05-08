@@ -63,6 +63,15 @@
       "href": "https://quuxplusone.github.io/blog/feed.xml",
       "articles": [
         {
+          "description": "Earlier this week Eric Fiselier pointed out something that came as an unpleasant surprise\n(to me, at least): Even though C++11 deprecated inheritance-from-std::unary_function,\nand C++14 deprecated inheritance-from-std::iterator, the actual library vendors\ncannot remove those deprecated relationships from their libraries without taking an ABI break!\nThis is eerily apropos to Bryce Adelstein Lelbach’s closing keynote\nat C++Now 2021, in which ABI breakage was a major theme.\nBackground\nC++98 didn’t have auto, s…",
+          "link": "https://quuxplusone.github.io/blog/2021/05/07/std-iterator-as-a-base-class/",
+          "publishedOn": "2021-05-07T00:01:00.000Z",
+          "wordCount": 1133,
+          "sourceHref": "https://quuxplusone.github.io/blog/feed.xml",
+          "sourceTitle": "Arthur O’Dwyer",
+          "title": "Removing an empty base class can break ABI"
+        },
+        {
           "description": "In his C++Now talk\n“Preconditions, Postconditions, Invariants: How They Help Write Robust Programs,”\nAndrzej Krzemieński used as an example a function inRange with signature\n\nbool inRange(int val, int lo, int hi)\n    [[pre: lo &lt;= hi]]\n{\n    return (lo &lt;= val &amp;&amp; val &lt;= hi);\n}\n\n\nPart of why we want to specify a precondition here is that it is astoundingly\neasy for the human programmer to mix up the order of their arguments:\n\nvoid assertInConfiguredRange(int existingValue) {\n    int lower = co…",
           "link": "https://quuxplusone.github.io/blog/2021/05/05/its-clamping-time/",
           "publishedOn": "2021-05-05T00:01:00.000Z",
@@ -129,6 +138,15 @@
     {
       "href": "https://rimzy.net/feed/",
       "articles": [
+        {
+          "description": "We spoke to five investors to find out more about RPA. The general consensus? We're just getting started.",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/hhXC4tcYtUs/",
+          "publishedOn": "2021-05-07T04:16:31.000Z",
+          "wordCount": 1045,
+          "sourceHref": "https://rimzy.net/feed/",
+          "sourceTitle": "Personal blog of Yzmir Ramirez",
+          "title": "5 investors discuss the future of RPA after UiPath’s IPO"
+        },
         {
           "description": "We are in the “home stretch” for Percona Live and I am continuing to highlight some of the great content out there!  Today I would like to focus on content I think will be very interesting to the developers and contributors who are working on the core elements of open source database projects.  We have […]",
           "link": "https://www.percona.com/blog/2021/05/06/percona-live-sessions-for-engineers-working-on-building-and-developing-databases/",
@@ -362,15 +380,6 @@
           "sourceHref": "https://pudding.cool/feed/index.xml",
           "sourceTitle": "The Pudding",
           "title": "How many artists overshadow their band after going solo?"
-        },
-        {
-          "description": "The songs that are popular, far away from you",
-          "link": "https://pudding.cool/2021/04/music-bubble",
-          "publishedOn": "2021-04-08T04:00:00.000Z",
-          "wordCount": 313,
-          "sourceHref": "https://pudding.cool/feed/index.xml",
-          "sourceTitle": "The Pudding",
-          "title": "Get out of your geographic music bubble"
         }
       ]
     },
@@ -403,15 +412,6 @@
           "sourceHref": "https://www.math.columbia.edu/~woit/wordpress/?feed=rss2",
           "sourceTitle": "Not Even Wrong",
           "title": "Hawking Hawking"
-        },
-        {
-          "description": "The long awaited FNAL muon g-2 result was announced today, you can watch a video of the seminar here, look at the paper and a discussion of it at Physical Review Letters, or read stories from Natalie Wolchover at Quanta &#8230; Continue reading &#8594;",
-          "link": "https://www.math.columbia.edu/~woit/wordpress/?p=12292",
-          "publishedOn": "2021-04-07T17:45:45.000Z",
-          "wordCount": 7362,
-          "sourceHref": "https://www.math.columbia.edu/~woit/wordpress/?feed=rss2",
-          "sourceTitle": "Not Even Wrong",
-          "title": "Muon g-2 Result"
         }
       ]
     },
@@ -426,6 +426,24 @@
     {
       "href": "https://earlyretirementextreme.com/feed",
       "articles": [
+        {
+          "description": "This guest post is from Todd Tresidder who retired at age 35&#8230; 13 years ago. He wrote a book teaching you when to retire and publishes the web site FinancialMentor.Com providing various retirement planning tools including articles and calculators. I retired at age 35 (I&#8217;m now 48) and learned a few lessons along the way. [&#8230;]",
+          "link": "https://earlyretirementextreme.com/when-to-retire-try-age-35.html",
+          "publishedOn": "2021-05-08T02:51:39.000Z",
+          "wordCount": 7712,
+          "sourceHref": "https://earlyretirementextreme.com/feed",
+          "sourceTitle": "Early Retirement Extreme",
+          "title": "When To Retire? – Try Age 35"
+        },
+        {
+          "description": "I just spent money on a &#8220;want&#8221; for the first time in over six months(*). Obviously I had a bit of a streak going there, so what caused me to break it? A new pair of headphones that&#8217;s what. I just bought a pair of Grado SR60 headphones and compared to the free airline headphones [&#8230;]",
+          "link": "https://earlyretirementextreme.com/upgrade-your-music-collectionwith-quality-headphones.html",
+          "publishedOn": "2021-05-07T14:49:01.000Z",
+          "wordCount": 2692,
+          "sourceHref": "https://earlyretirementextreme.com/feed",
+          "sourceTitle": "Early Retirement Extreme",
+          "title": "Upgrade your music collection with quality headphones"
+        },
         {
           "description": "Game theory is the mathematical description of the structure of strategic decisions when the choices of two agents directly influence the other. Much work has been dedicated towards finding optimal strategies; in fact much military and political strategy is built on mathematical foundations, but it also governs economic decisions. Consequently some knowledge of game theory [&#8230;]",
           "link": "https://earlyretirementextreme.com/zero-sum-games.html",
@@ -692,6 +710,15 @@
     {
       "href": "https://avc.com/feed/",
       "articles": [
+        {
+          "description": "Longtime AVC reader Alex Wolf has a Kickstarter project that I think is awesome. She has long been working on a &#8220;pattern alphabet&#8221; to encode the patterns of nature and life. This project turns this alphabet into cards that can be used by kids in school and at home to learn. I backed the project [&#8230;]",
+          "link": "https://avc.com/2021/05/funding-friday-pattern-alphabet-cards-for-exploring-nature/",
+          "publishedOn": "2021-05-07T10:50:07.000Z",
+          "wordCount": 123,
+          "sourceHref": "https://avc.com/feed/",
+          "sourceTitle": "AVC",
+          "title": "Funding Friday: Pattern Alphabet cards for exploring nature"
+        },
         {
           "description": "Yesterday&#8217;s post has this line in it: I suspect all buy maybe two of those eleven funds have outperformed the public markets As you can see, there is a typo there. &#8220;buy&#8221; should be &#8220;but&#8221; A number of readers let me know about the typo, which I very much appreciate. But for some reason, I [&#8230;]",
           "link": "https://avc.com/2021/05/typos/",
@@ -1118,15 +1145,6 @@
           "sourceHref": "http://ai.googleblog.com/feeds/posts/default?alt=rss",
           "sourceTitle": "Google AI Blog",
           "title": "Monster Mash: A Sketch-Based Tool for Casual 3D Modeling and Animation"
-        },
-        {
-          "description": "Posted by Negar Saei, Program Manager, University Relations  \nIn March 2020 we introduced the Research Scholar Program, an effort focused on developing collaborations with new professors and encouraging the formation of long-term relationships with the academic community. In November we opened the inaugural call for proposals for this program, which was received with enthusiastic interest from faculty who are working on cutting edge research across many research areas in computer science, including machine …",
-          "link": "http://feedproxy.google.com/~r/blogspot/gJZg/~3/Bdcs4rYxl5E/announcing-2021-research-scholar.html",
-          "publishedOn": "2021-04-07T20:23:00.001Z",
-          "wordCount": 1977,
-          "sourceHref": "http://ai.googleblog.com/feeds/posts/default?alt=rss",
-          "sourceTitle": "Google AI Blog",
-          "title": "Announcing the 2021 Research Scholar Program Recipients"
         }
       ]
     },
@@ -1147,6 +1165,186 @@
     {
       "href": "https://www.gcores.com/rss",
       "articles": [
+        {
+          "description": "大家好，今年是公元2021年了，给大家推荐一款游戏叫做——\n《辐射4》。\n我想跳过RPG内容，故事游玩或者战斗，因为在我将近400+h里大概百分之九十都在致力于废土房地产开发与建设维护方面。小小借助魔法之力：\n\nsetav 349 3675555555.00\nsetav 34B 3675555555.00\ngetav 349\ngetav 34B\n解锁了官方设定的最大建筑空间限制以后，就《辐射4》感觉完全变成了另外一个游戏了。但一通胡乱违章搭建以后，又发现合理规划建设其实还挺重要的，尤其是刚走出自己的第一个小破红火箭加油站来到巨大的星光停车场，或者在林奇农场高架桥下对着巨大空间不知所措。甚至会跑去书店随便在建筑书籍区域内抓一本书来寻求帮助。 比如：\n\n\n然而得到的结果可能在哲学层面并不会有什么突破性进展，但可能在一些很小很小的方面会给你些突破性的灵光一闪。\n\n\n\n\n\n\n\n\n\n\n并且，可以合理利用手边的笔，在建筑打下地基前稍微在纸面上演习演习。我就准备了这么一本本子来做热身，以免建到一半的时候觉得这是什么鬼东西，但又舍不得在上面耗费的时间。毕竟在游戏里想方设法对准一些地板墙面形成刁钻角度来完成你想要的结构还是挺不…",
+          "link": "https://www.gcores.com/articles/99573",
+          "publishedOn": "2021-05-08T00:00:00.000Z",
+          "wordCount": 46,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "《辐射4》废土地产开发指南"
+        },
+        {
+          "description": "不记得从什么时候开始，也忘记了是哪一次的机遇，年幼的我开始接触到了摄影，当我拿到了人生中第一台手机——iPhone 4s开始，也相当于拿到了自己人生中的第一台相机，从此对摄影的探索和学习就从未停止。\n近日翻看了自己的相册，偶然间发现自己拍摄题材最多的似乎是天空，可能也是对于天空总有无限的向往吧。恰好发现机核上关于摄影的投稿居然开始多了起来，也想借此机会与各位分享我曾捕捉的天空，也请各位多多指教！\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n希望同一片天空下的你，也能每日收获美好，祝你快乐。",
+          "link": "https://www.gcores.com/articles/136863",
+          "publishedOn": "2021-05-07T23:00:00.000Z",
+          "wordCount": 30,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "摄影分享丨捕捉天空的人"
+        },
+        {
+          "description": "本期时间轴制作：脆脆\n模界村Pro 是《模界村》中一档专注于模玩业界采访与话题的子栏目，在节目中我们会邀请行业内的嘉宾深入交流一些关于原型、设计、制作的模玩相关话题。第一期嘉宾，我们邀请到了曾参与过机核电台录制的丸子，一起和他聊了聊，在其投身模玩行业之后自己的第一款机娘模型是如何诞生出来的。",
+          "link": "https://www.gcores.com/radios/136901",
+          "publishedOn": "2021-05-07T15:20:10.000Z",
+          "wordCount": 37,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "模界村Pro：从零开始，一款成品模型是这样设计出来的"
+        },
+        {
+          "description": "世嘉在今晚的“审判之日”直播活动上，公布了《审判之眼》系列新作《审判之逝：湮灭的记忆》。在本作中，木村拓哉依旧饰演主角八神隆之，木村先生在直播上还带来了八神隆之在新作中的背景故事介绍。而且他表示，虽然《审判之逝：湮灭的记忆》是系列新作，就算大家没有玩过前作也能毫无压力地在新游戏中玩地十分开心。另外，前作中的中尾彬将继续出演外，山本耕史、玉木宏、光石研等演员也将加入《审判之逝：湮灭的记忆》。\n\n\n&lt;内嵌内容，请到原网页查看&gt;\n\n\n\n\n\n\n\n在《审判之逝：湮灭的记忆》中，我们来到了横滨进行探索。新作中，世嘉对原作中的调查动作有了进一步的强化，而且战斗动作也更加丰富，并将战斗风格增加到了三种，其中包括全新登场以柔克刚来压制敌人的“流”战斗风格。更多详解大家也能从下面的完整直播视频中观看，请快进至4分钟处。\n\n\n&lt;内嵌内容，请到原网页查看&gt;\n(完整直播视频，请从4分钟开始观看，有战斗与系统详解)\n\n\n\n\n\n\n另外在媒体提问环节，世嘉还征集了我们对于《审判之逝：湮灭的记忆》的一个问题。雪豆表示十分喜欢《人中之龙7》中的赵天佑，不知道在新作中是否有更多有趣的中国角色出现。名越稔洋先生表示，可以确定…",
+          "link": "https://www.gcores.com/articles/136900",
+          "publishedOn": "2021-05-07T14:45:39.000Z",
+          "wordCount": 58,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "扭曲的正义，《审判之逝：湮灭的记忆》将于9月24日发售"
+        },
+        {
+          "description": "要说国产的音乐手游，前有《Cytus》一鸣惊人，后有《Muse Dash》出圈火爆，还有《喵赛克》、《DEEMO》、《兰空VOEZ》……在手机游戏崛起的大背景下，这些优秀的国产音游除了让玩家感觉眼前一亮的同时，更给了小团队们大展身手的全新舞台。\n\n(前一阵这个gif有多火就不用多说了吧)\n音游这个东西，开发起来不难，但想正儿八经拿出有创意有想法的成果，却是一件挺考验开发团队功底的事儿——一局只要两分钟的单局时长，很适合碎片化的手机平台；而触屏的操作方式，更能够实现各种奇想天外的操作体验。\n今日，由由阿诺瓦工作室开发、维克斯游戏发行的新国风音乐音乐节奏游戏《阳春艺曲》的安卓端在TapTap独家上线。这款游戏其实早在2017年以《阳春白雪》的名字与大家见面过，而这次上线的版本，可以说是经历过数次更新之后的完整版。\n\n\n总的来说，作为“国风”这样一个到现在也不会显得过时的题材，《阳春白雪》的整体表现令人眼前一亮。虽然从玩法和歌曲质量上来看仍然有进步余地，但在感受诗词隽美的同时，作为打发时间的手段，本作倒确实值得试上一试。\n\n画风不错，但稍显朴素\n采用了二次元风格的《阳春艺曲》，以柔和的色调、融贯古今的角色产生出了一…",
+          "link": "https://www.gcores.com/articles/136883",
+          "publishedOn": "2021-05-07T11:00:00.000Z",
+          "wordCount": 43,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "国风vs潮流，打造与众不同的音游：《阳春艺曲》简评"
+        },
+        {
+          "description": "大家好！下周节目如图所示！五一假期结束归来后，下周末就是核聚变啦！在此之前，周一西蒙、Moby、以及优斯迪吧的老李这三位“爱吃之人”将为大家介绍很多北京的好吃的！特别期待！除此之外，CT老师将继续为大家介绍核聚变上能玩到的独立游戏。而在周三，四十二将为大家好好聊聊他一直非常喜欢的赛博朋克小说《雪崩》，而周五，大元的《红旗下的车轮》系列还在继续。\n除此之外，下周《天天ACG》和《游戏新闻》将继续照常更新。\n祝大家周末愉快，核聚变见！\n\n&lt;点击这里了解核聚变2021&gt;",
+          "link": "https://www.gcores.com/articles/136897",
+          "publishedOn": "2021-05-07T10:59:54.000Z",
+          "wordCount": 46,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "下周节目预告5.10~5.16"
+        },
+        {
+          "description": "Square Enix 宣布，即日起接受亚洲地区《最终幻想7 重制版 Intergrade》实体版预购。除了常规内容之外在部分商店将赠送店面预购特典“《最终幻想7 重制版 Intergrade》迷你海报”，数量有限，先到先得。 除此之外，所有预购玩家还可获得尤菲武器“仙人掌手里剑” ，该内容预计于预购期间结束后另外销售。\n\n(预购海报)\n据悉，拥有 PlayStation 4 版《最终幻想7 重制版》游戏的玩家，可于发售日后免费升级为 PlayStation 5 版游戏，也能继承 PlayStation 4 版的保存资料。不过，追加内容“尤菲的新篇章”必须于发售日后另外购买（SE确认该追加内容不开放预购）。若要游玩尤菲的新篇章，必须更新为 PS5 版并将游戏更新为最新版本。 \n\n\n&lt;内嵌内容，请到原网页查看&gt;\n\nPS5 版《最终幻想7 重制版 Intergrade》强化了光源、材质与背景等表现，可以享受更加身历其境的游戏体验。开发者新增可自由选择注重4K高画质的“图像模式”和注重60fps流畅动作的“性能模式”两种游戏模式，以及拍摄游戏场面留作纪念的“拍照模式”等新要素。追加内容当中，则以两个章节…",
+          "link": "https://www.gcores.com/articles/136888",
+          "publishedOn": "2021-05-07T10:47:00.000Z",
+          "wordCount": 79,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "《最终幻想7 重制版 Intergrade》开启线下预购，精选店铺可获迷你海报"
+        },
+        {
+          "description": "移动运营商大户 Verizon 近日在其官方油管频道上传了一段名为““The Reset” | 5G Built For Gamers | Verizon”的广告，主要是为了宣传其 5G 通信技术能为大家带来低延迟的使用体验，不过这段广告拍的真的很有意思。需要注意的是，这段广告并不包含影射任何真实游戏的意图。",
+          "link": "https://www.gcores.com/videos/136894",
+          "publishedOn": "2021-05-07T09:37:03.000Z",
+          "wordCount": 40,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "“地球OL Bug合集”Verizon这个5G广告还挺逗"
+        },
+        {
+          "description": "Gearbox 首席执行官 Randy Pitchford 在推特表示，有关共同开发《无主之地》的传言均不属实。 Randy Pitchford 强调，未来的所有《无主之地》 IP 游戏（包括衍生作品）将继续全权由 Gearbox 负责，没有也不会与其他开发者共同打造《无主之地》。\n\n\n除了驳斥传言之外， Randy Pitchford 还表示 Gearbox 正在打造自认能让玩家感到惊喜的《无主之地》 “大动作”（the big one），目前全体成员也正为之而努力。他也鼓励所有能助其一臂之力的人才通过官方招聘渠道加入工作室。",
+          "link": "https://www.gcores.com/articles/136884",
+          "publishedOn": "2021-05-07T09:28:00.000Z",
+          "wordCount": 66,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "Gearbox：与其他工作室共同开发《无主之地》传言不实，但大动作在路上"
+        },
+        {
+          "description": "文章包含《正义联盟》导演剪辑版剧透内容，请谨慎阅读\n\n前言\n我又来更新了。最近一直在忙6月份的wf没来得及更新这个专题，之前参加了“夜城迷梦”的活动居然还拿到了特别奖，在这篇文章开头先感谢下，奖品也收到了~机组的衣服非常合适~在这里再次感谢机核做了一个这么好的平台，可惜北京核聚变去不了，期待广州站。\n第一章：别指望（咸鱼）了，蝙蝠侠\n扎导版本的《正义联盟》看完后，对最后末日梦境的沙漠老爷、钢骨、媚拉、钢骨、小丑、丧钟小队疯狂种草。因为一直在收六寸，自然第一时间就开始找蚂蚁、mafex、DC这几个牌子，无奈扎导版本一上各大牌子的DC角色基本都上涨，逛了好几天咸鱼也没有啥好价出现。\n这里有个插曲，比起HT的12寸——当然也是大涨——野兽国的9寸沙漠蝙蝠倒是没有咋涨价。不过看了实物后我还是没能说服自己花原价购入，第一当然是因为大货灾难级别的生产和9寸配件的不好寻找。\n这里配个图我们一起感受下真正的“恶梦”蝙蝠侠。\n\n\n黝黑的皮肤，洁白的牙齿！反复对比了下还是DIY吧，正好之前还可以去香港的时候入了一只mafex的轻甲蝙蝠侠，之后因为入手了蚂蚁的轻甲这只就束之高阁了。这次翻箱倒柜找了出来。\n嗯嗯，我们可以开始了。\n第…",
+          "link": "https://www.gcores.com/articles/136849",
+          "publishedOn": "2021-05-07T09:00:00.000Z",
+          "wordCount": 44,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "从玩胶到做胶（十二）：沙漠蝙蝠侠DIY"
+        },
+        {
+          "description": "在这个环节里，你能看见最近的一些傻缺动图、怪新闻、视频以及一些奇怪的东西。    \n生化8 托马斯小火车mod\n油管 Crazy Potato\n\n\n&lt;内嵌内容，请到原网页查看&gt;\n\n\n\n\n\n\n\n灵魂暴击\n\n\nasaha@vpandav\n\n\n\n\nEveryday One Cat@motions_cat\n\n\nAPEX日常，想摸个紫甲，但就只有个紫盾\nにしの介@totora2600\n\n\n なつや有償依頼受付中\n@color_isnothing \n\n\nST＠五航戦瑞鶴原理主義穏健派@KirisameTypeST\n\n\nzest@z_e_s_t\n\n\nモヤン@moyan0802\n\n\nMaciej Kuciara@maciej_kuciara\n\n\nとさしん。@tosashin1028\n\n\n大張正己 Masami Obari@G1_BARI\n\n\n Apex 瓦尔基里\n風間雷太RaitaKazama@kazamaraita\n\n\nゆっきー(日下氏)@yukkieeeeeen\n\n\nカンザリンfanbox開始@kanzarinsan\n\n\n肉ネーム@mn38ka\n\n\n\n\nCutesexyrobutts@cutesexyrobu…",
+          "link": "https://www.gcores.com/articles/136771",
+          "publishedOn": "2021-05-07T08:30:00.000Z",
+          "wordCount": 69,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "哪来的傻缺图七十六期：辗转腾挪斗大妈，这就试试生化8"
+        },
+        {
+          "description": "IOI于日前宣布，《杀手3》七宗罪系列第二章“傲慢”将于5月10日发售。作为分成7部分的扩展包，七宗罪系列将带领玩家深潜进入杀手47的内心。开发者介绍到，第二章“傲慢”以原作重庆地图为基础，除了新契约和剧情外，玩家还将可解锁独特西装和七宗罪主题的物品。 \n\n\n&lt;内嵌内容，请到原网页查看&gt;\n\n据悉，《杀手3》七宗罪系列将在2021年内全部推出，其发售顺序为贪婪、傲慢、懒惰、色欲、暴食、愤怒及嫉妒。除了以2.49美元的价格单独购买之外，玩家还可用优惠价购买包含全部内容的“七宗罪合集”。",
+          "link": "https://www.gcores.com/articles/136879",
+          "publishedOn": "2021-05-07T08:21:00.000Z",
+          "wordCount": 51,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "《杀手3》七宗罪系列第二章“傲慢”将于5月10日发售"
+        },
+        {
+          "description": "苹果通过官方油管频道发布了名为“Shot on iPhone 12——Everyday Experiments: Full Bloom”的手机拍摄效果展示。其中包括延时摄影、慢镜头摄影和定格动画的成片。不过苹果这也就是让大家看看自家手机能拍出这个效果，能不能拍出来还要看自己的技术了。",
+          "link": "https://www.gcores.com/videos/136889",
+          "publishedOn": "2021-05-07T08:19:03.000Z",
+          "wordCount": 35,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "你学废了么？苹果教你iPhone 12的特殊拍摄技巧"
+        },
+        {
+          "description": "Netflix《怪奇物语》第四季再度发布先导预告，本季预计将于今年下半年上线。\n\n\n&lt;内嵌内容，请到原网页查看&gt;\n(《怪奇物语》第四季预告)\n《怪奇物语》第四季将由达菲兄弟继续执导，主要演员包括米莉·波比·布朗、薇诺娜·瑞德、大卫·哈伯、菲恩·伍法德、伽塔·马塔拉佐、凯莱布·麦克劳克林、娜塔莉·戴尔、查理·希顿、玛雅·霍克、杰米·坎贝尔·鲍尔。本季中的故事将首次超越霍金斯小镇，比如在此次的预告中，为孩子们做心灵实验的实验室再度出现。一句“小11，你有在听么？”更增强了诡异氛围。\n\n\n\n\n\n\n《怪奇物语》第四季共9集，预计将于今年放出，但目前还未确定具体日期，让我们期待本季的早日上线！",
+          "link": "https://www.gcores.com/articles/136864",
+          "publishedOn": "2021-05-07T08:00:00.000Z",
+          "wordCount": 47,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "Netflix《怪奇物语》第四季再度发布先导预告"
+        },
+        {
+          "description": "再也找不出像他这样的肌肉型横纲了。 \n\n—— 早木\n原来《街霸》系列中的人气角色本田的出处源自于此，一生无悔的生涯感动世人。\n这次有幸得到巨鹿格斗的早木同学正式授权搬运他的优质内容作品过来，我也非常热血！果然格斗是无法回避的诱人内容！\nB站链接",
+          "link": "https://www.gcores.com/videos/136517",
+          "publishedOn": "2021-05-07T08:00:00.000Z",
+          "wordCount": 30,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "1045胜！日本相扑最凶猛肌肉型横纲，《街霸》本田的原型"
+        },
+        {
+          "description": "在经历漫长的等待后，《寂静之地2》终于确定将在5月28日登录北美院线上映，并曝光了终极预告。\n\n\n&lt;内嵌内容，请到原网页查看&gt;\n(《寂静之地2》预告)\n《寂静之地2》将依旧由约翰·卡拉辛斯基执导，主演包括艾米莉·布朗、基利安·墨菲、米莉森·西蒙斯、诺亚·尤佩和杰曼·翰苏等。\n此次的续集将延续第一部的“无声”设定，并展现更为宏大的世界观。故事讲述伊芙琳一家将离开藏身的小屋，寻找下一个落脚点，广阔世界中杀机暗藏，无论是嗜杀成性的怪兽，还是叵测未知的人性，都将成为他们求生路上的难题，母子四人怎样撑过危险重重的逃生之旅。\n\n\n\n\n《寂静之地2》受疫情影响多次改档，目前本片正式确定将在5月28日登录北美院线上映，敬请期待。\n\n(《寂静之地2》海报)",
+          "link": "https://www.gcores.com/articles/136869",
+          "publishedOn": "2021-05-07T07:11:00.000Z",
+          "wordCount": 52,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "值得等待！惊悚片《寂静之地2》曝终极预告"
+        },
+        {
+          "description": "万代南梦宫美国官方油管在5月6日晚发布了《绯红结系》（SCARLET NEXUS）的开场动画，该作将于6月24日正式发售，登陆PS4/PS5/Xbox One/Xbox Series X|S/Steam平台（Steam版6月25日发售），支持中文。\n\n\n&lt;内嵌内容，请到原网页查看&gt;\n\n\n\n\n\n\n\n本作采取双主角设定，男女主角同为“怪异讨伐军”的成员，运用“超脑力”来保护人类远离“怪异”的威胁。游戏主题曲为THE ORAL CIGARETTES演唱的《Dream In Drive》，MV在此前已公布。同名TV动画将于2021年夏季播出，由日升负责动画制作。《绯红结系》将于6月24日正式发售，登陆PS4/PS5/Xbox One/Xbox Series X|S/Steam平台（Steam版6月25日发售），支持中文。",
+          "link": "https://www.gcores.com/articles/136877",
+          "publishedOn": "2021-05-07T07:05:00.000Z",
+          "wordCount": 60,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "《绯红结系》开场动画公布，6月24日正式发售"
+        },
+        {
+          "description": "众所周知《骑马与砍杀：霸主》的故事背景基于内雷泽斯的愚行，但是随着版本的更新，各国城市定居点故事的完善，T社正在努力给大家呈现出一个更为丰富完善的世界观。下文将以城市故事为基础进行分析巴丹尼亚和帝国之间的历史积怨，大家如果觉得尚有缺陷欢迎斧正。\n注：本文均基于1.5.9版本下《骑马与砍杀2：霸主》的城市传记故事\n我国春秋时期郑国商人弦高在经商途中得知秦军将袭击郑国，便伪装成郑国特使，以12头牛作为礼物犒劳秦军，让秦军误以为郑国已知偷袭计划被迫班师回朝，以成功救下郑国。\n从上面的故事看出，商人在国家气运中起到极大的作用，可惜游戏故事中的商人并非救星而是灭国代表。\n\n\n根据最早的记录，帝国和巴丹尼亚的冲突起源于拉革塔。帝国是通过非常不光彩的阴谋诡计获取拉革塔的——一位遭受流放的帝国商人谋杀了雇佣他的帕拉人酋长，占领城寨并卖力地邀请帝国殖民者前来，最后商人将拉革塔成功献给了帝国。虽然元老院对商人的恶劣行为严加谴责，却依然将拉革塔收入囊中，将其并入帝国版图。\n\n\n故事背景设定中在11世纪，卡拉德帝国统治了大部分的卡拉迪亚大陆，而巴旦尼亚多次巧妙地抵御了帝国军团的进攻，但是依然会遭受类似于拉革塔这样的吃瘪事件。作为报复…",
+          "link": "https://www.gcores.com/articles/136848",
+          "publishedOn": "2021-05-07T07:00:00.000Z",
+          "wordCount": 36,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "考察鲜有人知的《骑砍》城邦故事：巴丹尼亚和帝国积怨篇"
+        },
+        {
+          "description": "《全境封锁》作为育碧基于原作世界观推出的原创 IP，系列游戏打破了育碧多项销售记录。官方今天宣布，作为系列品牌拓展的一部分，将推出基于《全境封锁》世界的全新免费游戏《The Division: Heartland》。该游戏由曾参与《全境封锁》及《全境封锁2》项目的育碧Red Storm Entertainment负责研发，并将于2021年至2022年间登陆PC、主机以及云游戏平台。\n\n\n《全境封锁2》将于今年下半年带来由Massive工作与育碧布加勒斯特工作室联合推出的全新游戏模式更新内容，关于该更新的更多细节将于未来公布。\n\n\n此外，官方表示《全境封锁》品牌还将拓展其跨媒体内容，包括此前公布的由杰西卡·查斯坦以及杰克·吉伦哈尔参演，Netflix制作，罗森·马歇尔·瑟伯执导，基于原游戏事件改编的真人电影。此外，《全境封锁》还将推出即将由Aconyte发行的原创小说。故事将设定在《全境封锁2》事件发生之后并将诠释当危机爆发时特工们保全供应线而战。更多相关信息将于今年公布。",
+          "link": "https://www.gcores.com/articles/136881",
+          "publishedOn": "2021-05-07T06:40:25.000Z",
+          "wordCount": 54,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "《全境封锁》“宇宙”！育碧将推出系列新游戏、电影以及原创小说"
+        },
+        {
+          "description": "感谢我的好友——机核网CEO西蒙的每次邀请与抬爱，我自15年开始拍摄核聚变，拍了有五个年头，共9次现场。疫情原因，核聚变停办一年，今年再次启动，为了给核聚变2021预热，我选出了一些我比较喜欢的或是印象比较深的照片（不论形式还是内容），也算自己对这几年拍摄核聚变的回顾与总结吧。没有选到的朋友请多多包涵，大家也可以翻看历年拍摄的完整版核聚变现场照片。\n\n&lt;核影&gt;\n\n自己在整理照片的时候也非常感动，回忆满满。再次感谢机核网！\n照片顺序没有特别编辑，根据时间依次排列，细节丰盈请各位仔细阅读。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n谢谢大家！",
+          "link": "https://www.gcores.com/articles/136875",
+          "publishedOn": "2021-05-07T06:15:00.000Z",
+          "wordCount": 33,
+          "sourceHref": "https://www.gcores.com/rss",
+          "sourceTitle": "机核",
+          "title": "核影丨核聚变五年摄影精选"
+        },
         {
           "description": "前言\n20世纪是人类使用蒸汽、钢铁和火药争雄海洋的盛大舞台。在波涛汹涌的蓝色世界中，曾经有无数的水手凭借傲人的胆识和技术驾驭宏伟战舰，在弹雨和火焰的交织中献出生命，迷失大海或是成为佩戴光辉勋章的战争英雄，并在短暂的一生去见证人类以勇气、莽撞、智慧以及野心作为旗帜，统御波涛的传奇时代。\n本系列文章将以舰船参数，舰船简介和舰船建造与服役记录三个角度，按照舰船建成时间的顺序，对20世纪主要海军国家进行设计和建造的火炮主力战舰（包括战列舰，战列巡洋舰，重巡洋舰和轻巡洋舰）进行简要历史记录，资料均来源于公开渠道期刊杂志与数据库。本文内容不包含任何对战舰的详细评价和讨论，仅作为了解海军战舰发展历程的简单资料整理和展示。希望能够为对海军和相关海战游戏感兴趣的玩家提供游玩和知识的参考~\n笔者水平有限，时间紧张，因而文中错漏之处还请各位读者提出指教，笔者将第一时间加以查证和修订！ \n5 旧日本帝国海军 Imperial Japanese Navy\n5.1 天龙级轻巡洋舰Tenryu（1919.11）\n\n\n\n\n舰船简介\n受到英国皇家海军林仙级轻巡的启发，日本海军决定建造类似的高速轻巡以领导驱逐舰队和水雷舰队作战。天龙级即为日本第…",
           "link": "https://www.gcores.com/articles/136827",
@@ -2035,6 +2233,33 @@
       "href": "https://theinitium.com/newsfeed/",
       "articles": [
         {
+          "description": "印度衛生部公佈數據，顯示截至當地今早八時的過去24個小時內， 印度新增逾41.4萬宗「2019 冠狀病毒」確診病例 ，再度打破全球單一國家單日新增病例數目的紀錄。印度最高法院頒令，要求中央政府提前準備應對新一波疫情，包括確保氧氣供應。",
+          "link": "https://theinitium.com/article/20210507-evening-brief/",
+          "publishedOn": "2021-05-07T09:52:00.000Z",
+          "wordCount": 2,
+          "sourceHref": "https://theinitium.com/newsfeed/",
+          "sourceTitle": "端傳媒 Initium Media",
+          "title": "晚報：印度單日新增41萬宗確診病例，法院頒令政府提前準備應對新一波疫情"
+        },
+        {
+          "description": "2020年公開的蔣經國日記，是胡佛研究所學者林孝庭長達六年蔣經國研究的「最後一塊拼圖」，如今，拼圖成果將展現在世人面前。",
+          "link": "https://theinitium.com/article/20210507-taiwan-the-chiang-ching-kuo-era-lin-hsiao-ting/",
+          "publishedOn": "2021-05-07T06:46:00.000Z",
+          "wordCount": 2,
+          "sourceHref": "https://theinitium.com/newsfeed/",
+          "sourceTitle": "端傳媒 Initium Media",
+          "title": "誰是蔣經國：中華民國在台灣，意外的國度如何有了意外的民主？"
+        },
+        {
+          "description": "就美國拜登政府週三表態支持放棄對2019冠狀病毒疫苗專利保護， 德國政府週四發表聲明 提出反對。德方指出，專利保護並沒有阻撓疫苗生產，制約疫苗生產的因素是產能和高質量標準。",
+          "link": "https://theinitium.com/article/20210507-morning-brief/",
+          "publishedOn": "2021-05-07T02:47:00.000Z",
+          "wordCount": 2,
+          "sourceHref": "https://theinitium.com/newsfeed/",
+          "sourceTitle": "端傳媒 Initium Media",
+          "title": "早報：德國反對拜登政府支持放棄疫苗專利保護，歐盟已準備好討論"
+        },
+        {
           "description": "除了習近平的企圖心外，還取決於中美以及中國和西方的對抗成本，是否大到和武攻台灣是一樣的代價。",
           "link": "https://theinitium.com/article/20210506-opinion-will0-bj-take-taiwan-by-force-in-10-years/",
           "publishedOn": "2021-05-06T09:50:00.000Z",
@@ -2706,6 +2931,294 @@
       "href": "https://www.producthunt.com/feed",
       "articles": [
         {
+          "description": "&#8220;\n        Dear Product Hunt Community — I'm excited to launch SVG Shaper for SwiftUI, an app for SwiftUI software developers. It can convert simple SVGs into SwiftUI Shapes (i.e. Swift source code for use in SwiftUI apps). Free demo is available on the website: https://zeezide.de/en/products/svgshaper/\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/svg-shaper-for-swiftui",
+          "publishedOn": "2021-05-07T13:17:38.000Z",
+          "wordCount": 59,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "SVG Shaper for SwiftUI — Easily convert SVGs to SwiftUI shapes"
+        },
+        {
+          "description": "&#8220;\n        Hey product hunt\n\nJust created a new product I think would be useful for you.\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/soundcloud-music-downloader",
+          "publishedOn": "2021-05-07T13:01:24.000Z",
+          "wordCount": 71,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Soundcloud Music Downloader — Download songs using the soundcloud music downloader"
+        },
+        {
+          "description": "&#8220;\n        **How it all started**\nIt has been a long and exciting journey from when we first envisioned the idea behind Flowborne. Four years ago, we sat together in a tiny university office, brainstorming ideas for our PhD research, eager to come up with something innovative and yet practical and helpful. Equipped with a white-board and a marker, we started scribbling down our rough ideas and areas of interest. Admittedly, most of them were rather half-baked and lacked either practical feasibility or …",
+          "link": "https://www.producthunt.com/posts/flowborne",
+          "publishedOn": "2021-05-07T12:51:19.000Z",
+          "wordCount": 66,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Flowborne — Healthy breathing game to help you focus, relax and sleep"
+        },
+        {
+          "description": "&#8220;\n        Hello hunters! 👋 \n\nThis is the first product I worked on, after I set out to start my own business journey at the end of last year. I had had the idea, but the real motivation to get it done in three months came once I knew there would be no going back. The book was self-published and released in early February this year. It took a few more cycles of polishing and corrections with a close circle of early backers, until I decided to bring it out to the general public. \n\nI have released the b…",
+          "link": "https://www.producthunt.com/posts/generative-art-in-go",
+          "publishedOn": "2021-05-07T12:34:54.000Z",
+          "wordCount": 94,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Generative Art in Go — Learn the basics of algorithmic art with the Go language"
+        },
+        {
+          "description": "&#8220;\n        The founder is ready to answer questions.\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/dobrosfera",
+          "publishedOn": "2021-05-07T12:12:27.000Z",
+          "wordCount": 59,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "DOBROSFERA — Now build a dome house by yourself"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/zoopscoop",
+          "publishedOn": "2021-05-07T11:53:03.000Z",
+          "wordCount": 50,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "ZoopScoop — The intelligent scooping system"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/common-crawl-2",
+          "publishedOn": "2021-05-07T10:46:09.000Z",
+          "wordCount": 74,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Common Crawl — Start a phrase and let the web complete it"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/fathgrid",
+          "publishedOn": "2021-05-07T10:24:51.000Z",
+          "wordCount": 52,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "FathGrid — No dependency, pure JavaScript component for data entry"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/webchanical",
+          "publishedOn": "2021-05-07T09:20:05.000Z",
+          "wordCount": 74,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Webchanical — Amazon affiliate web page generator"
+        },
+        {
+          "description": "&#8220;\n        Hello! \n\nWe’ve been busy bees at https://sifted.eu/ recently 🐝\n\nIncluding launching a new newsletter for European startup folk, called Startup Life.\n\nEvery week, Amy ( journalist 🖊️) and Anisah (CTO, community person 💻) ask the kind of questions that everyone working at startups needs answered at some point.\n\nLike…\nHow can we make meetings less crappy?\nWhat do you do if there’s a bully in your workplace?\nHow can you nail customer service?\nWhat alternatives are there to VC funding? \n\nOur r…",
+          "link": "https://www.producthunt.com/posts/startup-life-by-sifted",
+          "publishedOn": "2021-05-07T08:25:40.000Z",
+          "wordCount": 104,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Startup Life by Sifted — Asking the best startup folk the questions you want answered"
+        },
+        {
+          "description": "&#8220;\n        We're so happy to be in the store! It's time to feel better, with this small &amp; delightful app. Let us know your thoughts, we're thankful for every feedback from you. ☺️\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/helsie",
+          "publishedOn": "2021-05-07T07:40:15.000Z",
+          "wordCount": 79,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Helsie — Your mental health companion"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/programmerhumor-io",
+          "publishedOn": "2021-05-07T07:38:21.000Z",
+          "wordCount": 63,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "ProgrammerHumor.io — Humor only programmers can understand"
+        },
+        {
+          "description": "&#8220;\n        Hey hunters,\n\nI am the maker of Logic Sheet, the all-in-one data processing tool for Google Sheets. Logic Sheet is an add-on for Google Sheets, you can install it directly from your worksheet and start using it.\n\nI am a tech journalist and I use Google Sheets a lot to deal with data in my work. I learned Google Apps Script last year to facilitate my work, doing tasks like import stock price data into a spreadsheet and do statistical analysis. After realizing how people really like scripts I …",
+          "link": "https://www.producthunt.com/posts/logic-sheet",
+          "publishedOn": "2021-05-07T07:34:38.000Z",
+          "wordCount": 74,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Logic Sheet — The all-in-one data-processing tool for Google Sheets"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/meditation-music-by-zenmix",
+          "publishedOn": "2021-05-07T07:09:46.000Z",
+          "wordCount": 64,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Meditation Music by ZENmix — Royalty free meditation music for commercial use"
+        },
+        {
+          "description": "&#8220;\n        On December 18th, 2020, my friend Simon messaged the group chat that we have for dumb/brilliant business and app ideas:\n\n\"A map that tells you how far away you are from somewhere in hilAArious units of measure. e.g. I am 12,564 ducks away from the station\"\n\nSo I made it! Thanks to Simon Carter, Sunil Pithwa and Steve Sellick for their designs, feedback, ideas &amp; support\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/how-far-in-ducks",
+          "publishedOn": "2021-05-07T07:04:54.000Z",
+          "wordCount": 76,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "How far in ducks? — Navigate in annoying units"
+        },
+        {
+          "description": "&#8220;\n        Hey PH 👋\n\nIt’s been hard for me to find time to read books 📚, and there’s a ton of things I want to read, so I built Blog Books to solve this.\n\nBlog Books makes it easier to read more books by bringing the books directly to your inbox that you already check every day.\n\nYou choose how much you want to read (e.g. 500 words), and how often (e.g. weekly), and the book contents will be sent to your email inbox or RSS reader on that schedule.\n\nIt’s mostly limited to books in the public domain ri…",
+          "link": "https://www.producthunt.com/posts/blog-books",
+          "publishedOn": "2021-05-07T07:01:43.000Z",
+          "wordCount": 83,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Blog Books — Book chapters delivered to your inbox"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/etherlite",
+          "publishedOn": "2021-05-07T06:58:40.000Z",
+          "wordCount": 57,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "EtherLite — Blockchain platform for building decentralized applications"
+        },
+        {
+          "description": "&#8220;\n        Hey Product Hunt👋, I am grateful that our 'Finance Tracker' template got much love and we were delighted to find out how much it helped you all! Prototion brings you this amazing Meal Planning Template for Notion, that helps you organize your meals for the day, keep track of the calories and macros present, along the freedom to supplement your recipes with pictures - Just adds a special something to the meal planning process!\n\nI have added some amazing features that enhance the meal plannin…",
+          "link": "https://www.producthunt.com/posts/notion-meal-planner",
+          "publishedOn": "2021-05-07T06:55:43.000Z",
+          "wordCount": 86,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Notion Meal Planner — Calorie counter and meal planner, now in Notion"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/whatsapp-chatbot-by-botsify",
+          "publishedOn": "2021-05-07T06:41:08.000Z",
+          "wordCount": 80,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "WhatsApp Chatbot by Botsify — No-Code chatbot automation for WhatsApp business API"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/incognito-for-slack",
+          "publishedOn": "2021-05-07T06:30:39.000Z",
+          "wordCount": 91,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Incognito for Slack — Know team's honesty by anonymous messages & polls in Slack"
+        },
+        {
+          "description": "&#8220;\n        I am fed up with looking at a stock ... \n\n  And being plagued with a dozen different “metrics” to help me determine whether it’s a buy or not.\n\n  I needed a way of quarantining different categories of fundamentals (i.e “cashflow”, “dilution”)\n\n  Into distinct groups and get a clear picture how each aspect continued to the overall “score” of the stock.\n\n  And if I’m not interested in a particular aspect, say “cashflow”, I should just be able to switch it off and get a new “score” that does no…",
+          "link": "https://www.producthunt.com/posts/risk-and-relax-3",
+          "publishedOn": "2021-05-07T06:27:25.000Z",
+          "wordCount": 58,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Risk and Relax — Focus on the investment fundamentals that speak to you"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/easywp-2",
+          "publishedOn": "2021-05-07T06:03:12.000Z",
+          "wordCount": 102,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "EasyWP — Get a WordPress website online in under 60 seconds"
+        },
+        {
+          "description": "&#8220;\n        When debugging a production site, sometimes it is hard because all of the classes that was shipped is already tree shaken (only classes we use on development get shipped). This addons will inject all of the classes available from the Tailwindcss CDN to the website!\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/tailwindcss-injector",
+          "publishedOn": "2021-05-07T05:21:49.000Z",
+          "wordCount": 84,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Tailwindcss Injector — Inject Tailwindcss classes from CDN to the head document"
+        },
+        {
+          "description": "&#8220;\n        I was exploring the features of my Cloudflare account and I discovered the WARP VPN client is now available for desktop. I installed it and immediately noticed a download speed boost, and it also obfuscated my location —&nbsp;showing I was located in San Francisco, when I'm actually in Oregon. It looks like the encrypted data tunnel is working. Also, it's free. There is a paid upgrade called WARP+ that has some additional features.\n\n→ If you appreciate this hunt, please give me a follow here…",
+          "link": "https://www.producthunt.com/posts/warp-by-cloudflare",
+          "publishedOn": "2021-05-07T05:10:07.000Z",
+          "wordCount": 78,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "WARP by Cloudflare — Privacy, security and speed for everyone"
+        },
+        {
+          "description": "&#8220;\n        Hey hunters,\n\nWe have all heard about AI, machine learning, and the wonders they can do. But we also know that they involve lots of algorithms and maths, being hard to master.\n\nOur customers, startups, and small companies often don't have the resources to hire a data scientist for analyzing their data. Thus, they often lose insights by not looking deep enough into it and risk not going from good to great because of this.\n\nUsing Anon, an automated machine learning cloud service, they could ge…",
+          "link": "https://www.producthunt.com/posts/anon",
+          "publishedOn": "2021-05-07T04:36:23.000Z",
+          "wordCount": 60,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "anon — Machine learning, automated"
+        },
+        {
+          "description": "&#8220;\n        I built this app as a personal project because I couldn't quite find the type of companion prayer app that I wanted. One that looked clean, was easy to use and didn't confuse me with a whole lot of features. Being religious in nature, it's quite different from what you usually see on here, but hope you enjoy it nonetheless. Feedback is more than welcome!\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/altar-3",
+          "publishedOn": "2021-05-07T04:28:48.000Z",
+          "wordCount": 86,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Altar — Prayer journal app that helps you keep track of prayers"
+        },
+        {
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/facebook-cover-maker",
+          "publishedOn": "2021-05-07T04:25:32.000Z",
+          "wordCount": 69,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Facebook Cover Maker — Make your profile pic look integrated with your cover photo"
+        },
+        {
+          "description": "&#8220;\n        Hey Product Hunters!! Thanks so much for checking out this product! \n\nThe basis for making this Notion template is the PARA method by Tiago Forte, as well as the Make time Framework by Jake Knapp and John Zeratsky!\n\nYou'll be able to keep track of your areas, projects, tasks, and resources all in one Notion page. So, instead of going to your desktop, your documents, trello, google drive, slack, etc... all you need to do is to go to your brand-new notion hub!\n\nI also have a daily-optimization…",
+          "link": "https://www.producthunt.com/posts/notion-hub",
+          "publishedOn": "2021-05-07T04:23:00.000Z",
+          "wordCount": 84,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Notion Hub — Productivity tool to manage your tasks in Notion"
+        },
+        {
+          "description": "&#8220;\n        Being one of the very first project management mobile apps that have a Timeline feature, Quire lets you have a beautiful Gantt chart to visualize and schedule your tasks without being overwhelmed by the complexity of a traditional Gantt chart 🏆\n\nFeaturing the iconic Nested task list, Kanban Board, Sublist and now Timeline, Quire Mobile 7.0 offers the finest workflow that helps you get more done with less effort. You can swiftly switch among three different views for one project, so that you…",
+          "link": "https://www.producthunt.com/posts/gantt-chart-app-by-quire",
+          "publishedOn": "2021-05-07T04:03:35.000Z",
+          "wordCount": 87,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Gantt Chart App by Quire — Map out project timeline on your mobile phone"
+        },
+        {
+          "description": "&#8220;\n        I saw somebody recommend this on a Facebook group so I checked it out. It's a solid, more affordable HubSpot alternative. A lot of tools in one product. It's designed to serve small and medium-sized businesses. A good  option to consider if you're looking for a CRM with sales and marketing automation features. \n\n→ If you appreciate this hunt, please give me a follow here on PH. :)\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/engagebay-2",
+          "publishedOn": "2021-05-07T03:34:21.000Z",
+          "wordCount": 77,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "EngageBay — All-in-one SaaS CRM for marketing, sales, & customer support"
+        },
+        {
+          "description": "&#8220;\n        This is an AI supported face animation App. It supports multi-face animation and pets animation. Feel free to try it out and comment any thoughts or insights!\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/vidavatar",
+          "publishedOn": "2021-05-07T02:11:42.000Z",
+          "wordCount": 83,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "VidAvatar — Face animation ＆ talking photo"
+        },
+        {
+          "description": "&#8220;\n        I discovered this project when it launched at a Docker meetup in NYC in 2014 as the first private container registry. It later ended up being the first thing I worked on when I got hired at @CoreOS.\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/quay-2",
+          "publishedOn": "2021-05-06T21:20:47.000Z",
+          "wordCount": 65,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Quay — Build, analyze & distributes your container images"
+        },
+        {
           "description": "&#8220;\n        A natural add for Substack. Can let writers break into specific sections like a blockchain newsletter break out into NFT, Defi, Alt coins, etc.\n        &#8221;\n        \nDiscussion\n        |\n        Link",
           "link": "https://www.producthunt.com/posts/sections-by-substack",
           "publishedOn": "2021-05-06T19:30:04.000Z",
@@ -2722,6 +3235,15 @@
           "sourceHref": "https://www.producthunt.com/feed",
           "sourceTitle": "Product Hunt — The best new products, every day",
           "title": "Bitski — It's like Shopify for NFTs"
+        },
+        {
+          "description": "&#8220;\n        We all know what it feels like to spend an hour on Netflix to look for a great movie only to resort back to watching a movie we have seen a million times already. \n\nStamp Social is a really cool app to to discover what movies your friends and family are recommending and a perfect product to kick off the weekend.\n\nGood luck with the launch 🚀\n        &#8221;\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/stamp-social",
+          "publishedOn": "2021-05-06T14:32:42.000Z",
+          "wordCount": 75,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "Stamp Social — Introducing the social way to watch movies"
         },
         {
           "description": "Discussion\n        |\n        Link",
@@ -2785,6 +3307,15 @@
           "sourceHref": "https://www.producthunt.com/feed",
           "sourceTitle": "Product Hunt — The best new products, every day",
           "title": "The Major Vest by Play Out Apparel — Shop your style, not your gender"
+        },
+        {
+          "description": "&#8220;\n        The 1inch Labs team is excited to release the 1inch Wallet for iOS, which includes the web version’s features, as well as innovative mobile wallet functionality.\nAs more and more users prefer to do swaps, trades and other transactions on their mobile devices, the 1inch Wallet offers the main 1inch advantages they are used to in addition to mobile simplicity. Users can instantly swap tokens at the best rates in DeFi, using the same settings and aggregation functionality as the 1inch dApp for …",
+          "link": "https://www.producthunt.com/posts/1inch-defi-wallet",
+          "publishedOn": "2021-05-06T08:56:19.000Z",
+          "wordCount": 75,
+          "sourceHref": "https://www.producthunt.com/feed",
+          "sourceTitle": "Product Hunt — The best new products, every day",
+          "title": "1inch DeFi Wallet — A user‑friendly wallet as an entry point to DeFi"
         },
         {
           "description": "&#8220;\n        The 1inch Labs team is excited to release the 1inch Wallet for iOS, which includes the web version’s features, as well as innovative mobile wallet functionality.\nAs more and more users prefer to do swaps, trades and other transactions on their mobile devices, the 1inch Wallet offers the main 1inch advantages they are used to in addition to mobile simplicity. Users can instantly swap tokens at the best rates in DeFi, using the same settings and aggregation functionality as the 1inch dApp for …",
@@ -4654,6 +5185,168 @@
     {
       "href": "https://www.archdaily.com/feed",
       "articles": [
+        {
+          "description": "The project is located at the crossing of the river, bridge, and road, with the Chen Yuan (College of Arts and Media) and the library to the northwest. The original building is a two-stories, four-pitched roof old building. As an important node in the historical environment of the campus, the university expects it to be an important public space of the campus with the functions of \"bookstore, coffee, creative arts and salon\" after its renewal.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/QsSlhgVzmkM/long-shang-bookstore-acre-atelier",
+          "publishedOn": "2021-05-07T20:00:00.000Z",
+          "wordCount": 1830,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Long Shang Bookstore / A.C.R.E. Atelier"
+        },
+        {
+          "description": "The Open Mind Place Heidentempel (pagan temple) is a place to rest and to get in contact with nature and people. It is located directly on the popular trail Heidenstrasse (pagan road), a medieval trade route between Cologne and Leipzig in Germany that dates back more than 1,000 years.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/hUONBNleKMA/heidentempel-pavilion-christoph-hesse-architects",
+          "publishedOn": "2021-05-07T18:00:00.000Z",
+          "wordCount": 735,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Heidentempel Pavilion / Christoph Hesse Architects"
+        },
+        {
+          "description": "This renovation and extension to a narrow single fronted terrace house was the beginning of a family’s unconventional move from suburbia to inner city Fitzroy. Our clients sought to create an edgy yet comfortable urban home for themselves and their two grown up children.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/9hbt5t7vNkI/fitzroy-house-mitsuori-architects",
+          "publishedOn": "2021-05-07T16:00:00.000Z",
+          "wordCount": 827,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Fitzroy House / Mitsuori Architects"
+        },
+        {
+          "description": "Ajuala is the result of interpreting a customer's passion for what he does; this project, its materiality, and concept, is defined and arises from the first meetings and conversations with Chef Saverio Stassi, the passion and stories that each of its dishes have, was something that infected us to transfer in the Architecture of this project. So, from the beginning we understood that our project had to tell a story, that each of its materials has a strong intention or stories behind it and with this transmit…",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/lUdlXzw2Ecw/ajuala-restaurant-portafoglio-grupo-arquitectonico-plus-grupo-hcr",
+          "publishedOn": "2021-05-07T14:00:00.000Z",
+          "wordCount": 1117,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Ajuala Restaurant / Portafoglio Grupo Arquitectónico + Grupo HCR"
+        },
+        {
+          "description": "The Gruss Center for Art and Design is a new 21st-century student learning center and maker space at The Lawrenceville School that bridges museum space and the school’s visual arts studios. The strategy for enclosure responds to this new typology with simple, neutral materials that allow for transparency and student engagement with the activities happening inside.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/utuPWJ0LU9g/the-lawrenceville-school-gruss-center-for-art-and-design-sasaki",
+          "publishedOn": "2021-05-07T12:00:00.000Z",
+          "wordCount": 812,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "The Lawrenceville School Gruss Center for Art and Design / Sasaki"
+        },
+        {
+          "description": "Would you like to participate in the latest project by renowned photographer, Aldo Amoretti?",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/ZE_bMmUrQJI/call-for-submission-from-your-eyes-to-my-eyes",
+          "publishedOn": "2021-05-07T11:40:00.000Z",
+          "wordCount": 680,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Call for Submission: From Your Eyes to my Eyes"
+        },
+        {
+          "description": "One of the most iconic examples of Metabolist architecture, Kisho Kurokawa's Nakagin Capsule Tower, might be headed for demolition, as the building was sold by the management association to the landowner earlier this year, as reported by Japan Forward. The tower's demise has been intensely speculated in recent years due to the structure's precarious state and incompatibility with current seismic standards.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/gkAgtzVAx-8/nakagin-capsule-tower-could-face-demolition",
+          "publishedOn": "2021-05-07T11:00:00.000Z",
+          "wordCount": 833,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Nakagin Capsule Tower Could Face Demolition"
+        },
+        {
+          "description": "The building shows how we imagine people living in the future. The rooftop garden increases the biodiversity of cities, enhances the air quality, and cools down the building through shading and water vaporization. Furthermore, the residents share the garden to grow vegetables and fruits close to their homes. The idea of community is a cornerstone of this project. The image of the building is based on its historic appearance, which was demolished during the bombing of World War II. Unfinished, raw, and open,…",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/zLq7w244YHQ/plant-house-buro-fur-bauform",
+          "publishedOn": "2021-05-07T10:00:00.000Z",
+          "wordCount": 1050,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Plant House / büro für bauform"
+        },
+        {
+          "description": "The U House is widely regarded as one of the masterpieces of Pritzker Prize winning architect Toyo Ito. It was designed specifically to nurture his sister and two daughters after they lost their father to cancer. Decades later, the house sat empty once the family had eventually moved on from the grips of their grief. In 1997, the house was demolished to clear the site for sale and today the building only lives on in memory, drawing, and images. In this episode of Architecture with Stewart, he reconstructs t…",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/DlguaNP-b08/lost-architecture-resurrecting-the-u-house-by-toyo-ito",
+          "publishedOn": "2021-05-07T09:30:00.000Z",
+          "wordCount": 853,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Lost Architecture: Resurrecting the U House by Toyo Ito"
+        },
+        {
+          "description": "The role of an architect has not always been what it is today. Historically, and almost since its inception, it was viewed as a “one-man show”, where the architect was the artist, the sculptor, and the visionary of a structure. As the practice has continued to evolve, it has become a much more collaborative, and much less individualistic profession in nature, continuously understanding the importance of considering outside perspectives- even those not traditionally trained in design.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/ULvxA-IFpu0/the-value-in-non-traditional-expertise-how-the-design-profession-has-evolved-to-make-architecture-better",
+          "publishedOn": "2021-05-07T07:30:00.000Z",
+          "wordCount": 1233,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "The Value in Non-Traditional Expertise: How the Design Profession Has Evolved to Make Architecture Better"
+        },
+        {
+          "description": "Background. The Tambacounda Maternity and Paediatric hospital builds upon 15 years of extraordinary work in rural eastern Senegal by the Albers Foundation and Le Korsa. Echoing Josef and Anni Albers’ shared ethos and belief in the use of ‘minimal means for maximum effect’, this project goes far beyond a single architectural structure, embedding itself within the local community, economy and landscape.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/Z28rm53aopA/tambacounda-hospital-manuel-herz-architects",
+          "publishedOn": "2021-05-07T07:00:00.000Z",
+          "wordCount": 1277,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Tambacounda Hospital / Manuel Herz Architects"
+        },
+        {
+          "description": "Titled \"Architecture as Measure\", the Turkish pavilion at the 17th International Architecture Exhibition – La Biennale di Venezia, seeks to explore what and how architecture can contribute to the environment in the light of the current climate crisis, beyond technological dependence. Curated by Neyran Turan, the pavilion will be on display at the country's long-term venue, the Sale d’Armi, Arsenale from May 22nd to November 21st, 2021.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/-YYpg4Oeve8/the-turkish-pavilion-at-the-2021-venice-biennale-explores-climate-change-through-a-renewed-architectural-imagination",
+          "publishedOn": "2021-05-07T06:30:00.000Z",
+          "wordCount": 1198,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "The Turkish Pavilion at the 2021 Venice Biennale Explores Climate Change through a Renewed Architectural Imagination"
+        },
+        {
+          "description": "The building appears as a reticular structure perched above the railway, on the hills facing Lake Lugano, containing 14 dwellings behind its concrete envelope. As a project, it is driven by a reflection on the lifespan of materials and how they can enable a transformation over a 50-100 year cycle.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/sIYMoUirDEk/aprtment-building-on-via-carona-df-dc",
+          "publishedOn": "2021-05-07T06:00:00.000Z",
+          "wordCount": 779,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Aprtment Building on Via Carona  / DF_DC"
+        },
+        {
+          "description": "Lehrer Architects converts several leftover plots in Los Angeles into micro-homes developments, unfolding an experimental template for tackling homelessness. Together with the Bureau of Engineering for the City of Los Angeles, the architecture firm creates an efficient yet functional design using prefabricated pallet shelters and brings character to the project through vibrant colours to shape a new sense of community and restore dignity through design.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/_j-8tEHnHqE/lehrer-architects-designs-tiny-house-communities-for-the-homeless-of-los-angeles",
+          "publishedOn": "2021-05-07T05:30:00.000Z",
+          "wordCount": 1010,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Lehrer Architects Designs Tiny House Communities for the Homeless of Los Angeles"
+        },
+        {
+          "description": "Rendering has become indispensable to most architectural offices. To understand how these images can assist during the design process, how they have evolved, and especially, what aspects should be considered to create an outstanding visualization of a project, we talked to Guilherme Bravin and Marcus Vinicius Damon, co-founders of Estúdio Módulo, and coordinators of {CURA}, an open architecture school focused mainly on architectural visualization.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/CHqfdLuV8L0/the-perfect-render-understanding-and-mastering-rendering-techniques",
+          "publishedOn": "2021-05-07T05:00:00.000Z",
+          "wordCount": 1687,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "The Perfect Render: Understanding and Mastering Rendering Techniques"
+        },
+        {
+          "description": "This article was originally published on Common Edge.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/cLKJzzsAkaY/new-york-city-promises-affordability-through-rezoning-but-delivers-gentrification",
+          "publishedOn": "2021-05-07T03:30:00.000Z",
+          "wordCount": 2115,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "New York City Promises Affordability Through Rezoning But Delivers Gentrification"
+        },
+        {
+          "description": "Self-initiated in 2011, this redesign and restoration project saw the architects actively engage in preserving the existing Brutalist structure and its original architectural identity, reflecting CHYBIK + KRISTOF’s commitment to perpetuating architectural heritage. Stressing the station’s central role in the city and region’s sociocultural fabric, they address the urgency to rethink the use of a decaying transportation hub and public space. Placing transparency, and access, at the root of their design, they…",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/bHcRYbBytGc/zvonarka-central-bus-terminal-chybik-plus-kristof",
+          "publishedOn": "2021-05-07T03:00:00.000Z",
+          "wordCount": 1525,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Zvonarka Central Bus Terminal  / CHYBIK + KRISTOF"
+        },
+        {
+          "description": "For 10 years now, MBL architectes has been working on the progressive transformation of a former industrial mill in Boissy-le-Châtel, France, into a contemporary art venue for Galleria Continua. Started in 2013, the project aims to maintain and preserve the industrial wasteland, typical of the site. Residues of fallen down constructions, underlined by the presence of horticultural plants and the development of wild endemic species, merge and grow alongside the diversity of industrial buildings.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/hNnDlIwIFx8/skatepark-continua-mbl-architectes",
+          "publishedOn": "2021-05-07T02:00:00.000Z",
+          "wordCount": 1086,
+          "sourceHref": "https://www.archdaily.com/feed",
+          "sourceTitle": "ArchDaily",
+          "title": "Skatepark Continua / MBL architectes + bureau David Apheceix"
+        },
         {
           "description": "The house is located in a large new suburban subdivision in Wellington, on a long and slender site located between the road and a planted valley reserve containing the beginnings of the Porirua Stream. The overall subdivision consists of mainly kitset and building company housing, finished in shades of cream, beige and grey, waiting until planting grows tall enough to soften it.",
           "link": "http://feedproxy.google.com/~r/ArchDaily/~3/PS8WmrEV3yo/long-house-parsonson-architects",
@@ -6782,69 +7475,6 @@
           "sourceHref": "https://mixmag.net/rss.xml",
           "sourceTitle": "Mixmag",
           "title": "New report shows UK festival line-ups still have a gender balance problem"
-        },
-        {
-          "description": "The Detroit-born artist was a DJ, producer, label owner and fashion brand founder\nContinue reading...",
-          "link": "https://mixmag.net/read/detroit-techno-house-dj-tim-baker-elephanthaus-died-news",
-          "publishedOn": "2021-04-08T11:33:13.000Z",
-          "wordCount": 504,
-          "sourceHref": "https://mixmag.net/rss.xml",
-          "sourceTitle": "Mixmag",
-          "title": "Detroit techno and house DJ Tim Baker has died"
-        },
-        {
-          "description": "Freddie Gibbs selects some back catalogue favourites in this exclusive playlist\nContinue reading...",
-          "link": "https://mixmag.net/feature/cover-mix-freddie-gibbs-hip-hop-playlist",
-          "publishedOn": "2021-04-08T10:24:00.000Z",
-          "wordCount": 197,
-          "sourceHref": "https://mixmag.net/rss.xml",
-          "sourceTitle": "Mixmag",
-          "title": "The Cover Mix: Freddie Gibbs"
-        },
-        {
-          "description": "Tobacco Dock Virtual welcomed the likes of Chase &amp; Status, Skream and SHERELLE to its VR Easter weekender\nContinue reading...",
-          "link": "https://mixmag.net/feature/tobacco-dock-virtual-took-raving-into-the-future",
-          "publishedOn": "2021-04-08T07:32:00.000Z",
-          "wordCount": 483,
-          "sourceHref": "https://mixmag.net/rss.xml",
-          "sourceTitle": "Mixmag",
-          "title": "Tobacco Dock Virtual took raving into the future"
-        },
-        {
-          "description": "The collective will be releasing a collaborative 23-track LP on April 30 followed by an event in London on May 3\nContinue reading...",
-          "link": "https://mixmag.net/read/stand-together-drum-n-bass-racism-compilation-fundraiser-news",
-          "publishedOn": "2021-04-08T06:00:00.000Z",
-          "wordCount": 616,
-          "sourceHref": "https://mixmag.net/rss.xml",
-          "sourceTitle": "Mixmag",
-          "title": "​Stand Together unites drum 'n' bass labels to tackle racism, launches compilation and fundraiser event"
-        },
-        {
-          "description": "Cédric Hervet has given Hong Kong’s renowned Cassio venue an impressive redesign\nContinue reading...",
-          "link": "https://mixmag.net/read/nightclub-designed-daft-punk-creative-director-news",
-          "publishedOn": "2021-04-07T16:40:58.000Z",
-          "wordCount": 450,
-          "sourceHref": "https://mixmag.net/rss.xml",
-          "sourceTitle": "Mixmag",
-          "title": "You can now visit a nightclub designed by Daft Punk's creative director"
-        },
-        {
-          "description": "Mind-expanding selections\nContinue reading...",
-          "link": "https://mixmag.net/feature/ambient-playlist-curated-nous-alpha-our-silent-canvas",
-          "publishedOn": "2021-04-07T16:01:00.000Z",
-          "wordCount": 630,
-          "sourceHref": "https://mixmag.net/rss.xml",
-          "sourceTitle": "Mixmag",
-          "title": "Listen to an ambient playlist curated by Nous Alpha"
-        },
-        {
-          "description": "Dynamic sounds for the dancefloor\nContinue reading...",
-          "link": "https://mixmag.net/read/a-g-in-the-lab-ldn-dj-lab",
-          "publishedOn": "2021-04-07T14:30:00.000Z",
-          "wordCount": 316,
-          "sourceHref": "https://mixmag.net/rss.xml",
-          "sourceTitle": "Mixmag",
-          "title": "A.G in The Lab LDN"
         }
       ]
     },
@@ -6855,6 +7485,15 @@
     {
       "href": "https://www.burnmagazine.org/feed/",
       "articles": [
+        {
+          "description": "&#160; Mathieu Chaze Rock, Paper, Scissors My boys, One morning, walking behind you through the misty sandy lanes of our local woods, I had a realisation. I suddenly, for the first time in my life, remembered being your age and my dad mine &#8230; Days fast turning into months and into years. How much longer &#8230;\n  Mathieu Chaze &#8211; Rock, Paper, Scissors Read More &#187;",
+          "link": "https://www.burnmagazine.org/essays/2021/05/mathieu-chaze-rock-paper-scissors/",
+          "publishedOn": "2021-05-06T21:33:43.000Z",
+          "wordCount": 1240,
+          "sourceHref": "https://www.burnmagazine.org/feed/",
+          "sourceTitle": "burn magazine",
+          "title": "Mathieu Chaze – Rock, Paper, Scissors"
+        },
         {
           "description": "LAYERED BEAUTY Tanja Houwerzijl Tanja evolved her visual style into analogue collage making. Her collages consist mostly of vintage Japanese materials, i.e. handmade paper, old photographs, schoolbooks and magazines. She collects from antique markets, bookstores and online sellers in Japan. Tanja likes to deconstruct materials and then cut or tear apart before layering and gluing &#8230;\n  LAYERED BEAUTY &#8211; Tanja Houwerzijl Read More &#187;",
           "link": "https://www.burnmagazine.org/essays/2021/04/layered_beauty_tanja_houwerzijl/",
@@ -6887,6 +7526,51 @@
     {
       "href": "http://www.somewhere-magazine.com/feed/",
       "articles": [
+        {
+          "description": "French distributor Pathé has shared a trailer to Paul Verhoeven’s long-awaited film Benedetta. The film is a follow-up to his 2016 thriller Elle, and will have its world premiere at the 2021 Cannes Film Festival. The trailer hints that the movie is going to be an &#8220;erotic lesbian nun horror,&#8221; showing An Impossible Love’s Virginie Efira as the nun alongside Charlotte Rampling,&#8230;",
+          "link": "http://www.somewhere-magazine.com/paul-verhoevens-benedetta-trailer-is-here/",
+          "publishedOn": "2021-05-07T12:43:00.000Z",
+          "wordCount": 343,
+          "sourceHref": "http://www.somewhere-magazine.com/feed/",
+          "sourceTitle": "Somewhere – Documenting Culture",
+          "title": "Paul Verhoeven’s “Benedetta” trailer is here"
+        },
+        {
+          "description": "Precisely a week ahead of the release of his upcoming studio album The Off-Season, J. Cole has dropped the album&#8217;s debut single titled &#8220;i n t e r l u d e.&#8221; The track features production from T-Minus, Tommy parker and Cole himself, and hears the Dreamville head further tease the upcoming record. “Told myself I would drop the album&#8230;",
+          "link": "http://www.somewhere-magazine.com/listen-to-j-coles-first-track-i-n-t-e-r-l-u-d-e-from-upcoming-album-the-off-season/",
+          "publishedOn": "2021-05-07T12:32:53.000Z",
+          "wordCount": 275,
+          "sourceHref": "http://www.somewhere-magazine.com/feed/",
+          "sourceTitle": "Somewhere – Documenting Culture",
+          "title": "Listen to J. Cole’s first track “i n t e r l u d e” from upcoming album “The Off-Season”"
+        },
+        {
+          "description": "Continuing its Architecture series, LEGO has released a set of the popular UNESCO World Heritage building Taj Mahal. The new architectural version features 2,022 pieces and is in line with LEGO Architecture’s clean aesthetic and simple colors and shades, compared to the second version released in 2017 that came in at around 6,000 bricks and stood&#8230;",
+          "link": "http://www.somewhere-magazine.com/lego-releases-unesco-world-heritage-taj-mahal-set/",
+          "publishedOn": "2021-05-07T12:27:08.000Z",
+          "wordCount": 244,
+          "sourceHref": "http://www.somewhere-magazine.com/feed/",
+          "sourceTitle": "Somewhere – Documenting Culture",
+          "title": "LEGO releases UNESCO World Heritage Taj Mahal set"
+        },
+        {
+          "description": "Fans of the highly-anticipated series finally have a reason to celebrate, as Stranger Things unveiled the teaser for its upcoming fourth season. The eerie, just over one minute video clip returns to the Hawkins Laboratory and starts with kids playing with toy cars, chess and a Plinko-esque contraption. The camera then pans down a hallway and&#8230;",
+          "link": "http://www.somewhere-magazine.com/stranger-things-unveils-season-4-teaser/",
+          "publishedOn": "2021-05-07T12:20:54.000Z",
+          "wordCount": 336,
+          "sourceHref": "http://www.somewhere-magazine.com/feed/",
+          "sourceTitle": "Somewhere – Documenting Culture",
+          "title": "“Stranger Things” unveils season 4 teaser"
+        },
+        {
+          "description": "As per CoinMarketCap, SafeMoon has surpassed Bitcoin and became the number one watched coin. The novel cryptocurrency continues to push forward in the crypto world as it recently finished its CertiK audit and is now listed on seven exchanges including MXC and ZBG. The 1.3 million watchers SafeMoon garnered as of today over Bitcoin&#8217;s 1.2 million, marks&#8230;",
+          "link": "http://www.somewhere-magazine.com/safemoon-becomes-coinmarketcaps-most-watched-cryptocurrency-after-bitcoin/",
+          "publishedOn": "2021-05-07T12:11:34.000Z",
+          "wordCount": 232,
+          "sourceHref": "http://www.somewhere-magazine.com/feed/",
+          "sourceTitle": "Somewhere – Documenting Culture",
+          "title": "SafeMoon becomes CoinMarketCap’s most watched cryptocurrency after Bitcoin"
+        },
         {
           "description": "Lovely Zendaya has shared a behind the scenes sneak peak of the highly-anticipated HBO show Euphoria&#8217;s second season. The Emmy winner posted an image on her Instagram story yesterday, showing actor Angus Cloud, who plays drug dealer Fez, alongside the caption, “Missed this kid”. A second image shows lighting technician Danny Durr and friend Alex chilling on&#8230;",
           "link": "http://www.somewhere-magazine.com/zendaya-shares-behind-the-scenes-stories-from-the-euphoria-season-2-set/",
@@ -7515,6 +8199,15 @@
       "href": "https://www.aint-bad.com/feed/",
       "articles": [
         {
+          "description": "I came to Canada from Kyiv Ukraine 11 years ago when I was 23 years old. The first few years were very tough just like for many newcomers. In these&#8230; Read More\nThe post Bogdan Grygorenko appeared first on AINT—BAD.",
+          "link": "https://www.aint-bad.com/article/2021/05/07/bogdan-grygorenko/",
+          "publishedOn": "2021-05-07T12:00:00.000Z",
+          "wordCount": 507,
+          "sourceHref": "https://www.aint-bad.com/feed/",
+          "sourceTitle": "AINT—BAD",
+          "title": "Bogdan Grygorenko"
+        },
+        {
           "description": "In recent years, Steven Piper has used his photography to help define life&#8217;s experiences that he couldn&#8217;t describe otherwise. However, he hasn&#8217;t always had this medium to help express his&#8230; Read More\nThe post Steven Piper appeared first on AINT—BAD.",
           "link": "https://www.aint-bad.com/article/2021/05/06/steven-piper/",
           "publishedOn": "2021-05-06T12:00:00.000Z",
@@ -7791,6 +8484,24 @@
       "href": "https://www.criterion.com/feeds/the-daily",
       "articles": [
         {
+          "description": "This week we celebrate Elaine May, Ulrike Ottinger, Liza Minnelli, and Madonna while paging through the new Senses of Cinema.",
+          "link": "https://www.criterion.com/current/posts/7383-masculin-f-minin",
+          "publishedOn": "2021-05-07T16:13:11.000Z",
+          "wordCount": 1281,
+          "sourceHref": "https://www.criterion.com/feeds/the-daily",
+          "sourceTitle": "The Criterion Collection: On Film / The Daily",
+          "title": "Masculin féminin"
+        },
+        {
+          "description": "Critics celebrate the new 4K restoration of The Story of a Three Day Pass (1968).",
+          "link": "https://www.criterion.com/current/posts/7382-melvin-van-peebles-s-bold-debut",
+          "publishedOn": "2021-05-07T15:58:57.000Z",
+          "wordCount": 1194,
+          "sourceHref": "https://www.criterion.com/feeds/the-daily",
+          "sourceTitle": "The Criterion Collection: On Film / The Daily",
+          "title": "Melvin Van Peebles’s Bold Debut"
+        },
+        {
           "description": "Many lucky enough to have worked with her remember the star who broke through in Moonstruck.",
           "link": "https://www.criterion.com/current/posts/7380-laughter-and-tears-with-olympia-dukakis",
           "publishedOn": "2021-05-05T11:58:58.000Z",
@@ -7942,15 +8653,6 @@
           "sourceHref": "https://www.criterion.com/feeds/the-daily",
           "sourceTitle": "The Criterion Collection: On Film / The Daily",
           "title": "A Fable from Lesotho"
-        },
-        {
-          "description": "The four-part series forages for the roots of the ideology of white supremacy.",
-          "link": "https://www.criterion.com/current/posts/7351-raoul-peck-s-exterminate-all-the-brutes",
-          "publishedOn": "2021-04-07T16:48:42.000Z",
-          "wordCount": 872,
-          "sourceHref": "https://www.criterion.com/feeds/the-daily",
-          "sourceTitle": "The Criterion Collection: On Film / The Daily",
-          "title": "Raoul Peck’s Exterminate All the Brutes"
         }
       ]
     },
