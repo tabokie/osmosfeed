@@ -2,10 +2,313 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tabokie.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-08T07:29:32.526Z</updated>
+    <updated>2021-05-09T00:18:19.944Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="https://tabokie.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://tabokie.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to remove rust using things from your garage only]]></title>
+        <id>http://earlyretirementextreme.com/?p=2112</id>
+        <link href="https://earlyretirementextreme.com/how-to-remove-rust-using-things-from-your-garage-only.html"/>
+        <updated>2021-05-09T02:55:05.000Z</updated>
+        <summary type="html"><![CDATA[Earlier I showed how to remove rust using kitchen utensils. This works great for relatively flat areas, but it can be a pain for things with intricate corners and crevices, like nuts and bolts. Today, I&#8217;m going to show you how to use stuff from your garage(*). (*) If you don&#8217;t know where that is, [&#8230;]]]></summary>
+        <author>
+            <name>Jacob</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[攻防流转的艺术：《荣耀战魂》战斗系统设计分析（1/3）]]></title>
+        <id>https://www.gcores.com/articles/136874</id>
+        <link href="https://www.gcores.com/articles/136874"/>
+        <updated>2021-05-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文共计1898字，阅读预计3-5分钟。本文会有一些3D动作游戏、格斗游戏特有名词。
+游戏基础介绍：
+《荣耀战魂》是由育碧于2017年2月发售的主打PVP的第三人称格斗游戏,。主要游戏模式为1V1，4V4的PVP对战，在2020年加入了新的PVE模式。
+目前是游戏发售第5年，游戏Steam在线稳定在5000人上下。根据谷歌趋势（Google Trend），以《荣耀战魂》全球过去一年热度为1个单位的话，《我的世界》为85单位，《CS：GO》为10单位，《无畏契约/Valorant》为8单位，《彩虹六号：围攻》为3单位。
+
+游戏美术风格：照片级写实画风 + 无魔力的虚构中世纪背景 + 西欧/东方/南欧混合风格
+游戏整体设计：无社交 + 基本公平PVP + 难上手难精通  + 极少叙事性
+平均游戏时间：1V1为3-5分钟，4V4为10-20分钟
+程序实现难点：1.快节奏战斗对延迟/卡顿极其敏感  2.手脚不同步的复杂动画系统所需的Motion Matching 技术
+游戏变现模型：本体收费 + 季票/VIP + 装饰品固定收费
+2.三种架势练我300小时：基础战斗篇
+架势(Guard)
+《荣耀战魂》在传统2D横板格…]]></summary>
+        <author>
+            <name>哪谁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pransa Commercial and Office Complex / DOT ARCHITECTS]]></title>
+        <id>https://www.archdaily.com/961318/pransa-commercial-and-office-complex-dot-architects</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/_qITP1EVcqQ/pransa-commercial-and-office-complex-dot-architects"/>
+        <updated>2021-05-08T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Brief - After the fire in Tehran Grand Bazaar crystal sellers relocated to Sabounian Street, adjacent to Shoush Square. Due to the poor state of the historical fabric of this area, there was an urgent need for local regeneration. An initiative was for formed by local trade’s union to create a commercial centre. It aimed to concentrate local crystal sector under one umbrella and facilitate an organic long-term regeneration in the local vicinity.]]></summary>
+        <author>
+            <name>Hana Abdel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Woodnest Cabin / Helen & Hard]]></title>
+        <id>https://www.archdaily.com/953847/woodnest-cabin-helen-and-hard</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/uq9G41rcvBA/woodnest-cabin-helen-and-hard"/>
+        <updated>2021-05-08T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stemming from the client’s wish to create a unique spatial experience that connects to both the ordinary and extraordinary sensation of climbing and exploring trees, our aim was to create a space that truly embodies what it means to dwell in nature.]]></summary>
+        <author>
+            <name>Valeria Silva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[共同努力！GadioNews05.08]]></title>
+        <id>https://www.gcores.com/radios/136932</id>
+        <link href="https://www.gcores.com/radios/136932"/>
+        <updated>2021-05-08T15:11:46.000Z</updated>
+        <summary type="html"><![CDATA[本期时间轴制作：佟和
+本周新闻：《Apex英雄》第九赛季上线，Steam在线人数创历史新高；Gamescom 2021将采用线上模式举办；PlayStation中国将于5月15日举办国行PS5上市庆典；任天堂公开《Game Builder Garage》预告片，在游戏里学习做游戏；微软宣布Microsoft Store PC游戏开发者抽成费用将降低至12%。本周主题：共同努力！]]></summary>
+        <author>
+            <name>Hardy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LimmatSpot Apartments / Holzer Kobler Architekturen]]></title>
+        <id>https://www.archdaily.com/961160/limmatspot-apartments-holzer-kobler-architekturen</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/sVoGW-lh_Vk/limmatspot-apartments-holzer-kobler-architekturen"/>
+        <updated>2021-05-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Outside of Zurich, the "LimmatSpot" presents itself as a new urban development in Spreitenbach (Switzerland). The multifunctional building complex of more than 50'000 sq. encompasses a large array of spaces for service providers, retailers, gastronomy, offices, a multiplex movie theatre with 10 halls as well as 195 apartments. Parking is available in the two underground stories, connected to the buildings.]]></summary>
+        <author>
+            <name>Andreas Luco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I would teach children about savings]]></title>
+        <id>http://earlyretirementextreme.com/2008/01/what-i-would-teach-a-child-about-savings.html</id>
+        <link href="https://earlyretirementextreme.com/what-i-would-teach-a-child-about-savings.html"/>
+        <updated>2021-05-08T14:54:39.000Z</updated>
+        <summary type="html"><![CDATA[I do not have any children, so this discussion will be largely academic. However, if I had children, I believe that instilling the proper financial values so that children know what to expect from money is much more valuable than a 529 plan or any kind of donation, gift, or allowance. My parents saved about [&#8230;]]]></summary>
+        <author>
+            <name>Jacob</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZIO Apartment Block / Alexis Papadopoulos Architectural Practice]]></title>
+        <id>https://www.archdaily.com/961095/zio-apartment-block-alexis-papadopoulos-architectural-practice</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/Aa-ywtXWPbw/zio-apartment-block-alexis-papadopoulos-architectural-practice"/>
+        <updated>2021-05-08T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A four-storey apartment block with six apartments was designed to create a pleasant living experience while optimizing construction and maximizing material and energy savings. The compact central volume of the cube-shaped block is juxtaposed with lightweight metal structures that are the suspended balconies for private mainly outdoor use. The compact block includes a high level of insulation aiming to leave a small ecological footprint and be economically efficient. Shadings for the edifice and solar, power…]]></summary>
+        <author>
+            <name>Andreas Luco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《海洋之歌》制作组全新动画电影《狼行者》宣布将引进内地院线，即将定档]]></title>
+        <id>https://www.gcores.com/articles/136916</id>
+        <link href="https://www.gcores.com/articles/136916"/>
+        <updated>2021-05-08T12:42:00.000Z</updated>
+        <summary type="html"><![CDATA[由《海洋之歌》制作组卡通沙龙制作的《狼行者》确认引进，同时放出中文海报和预告。
+
+
+&lt;内嵌内容，请到原网页查看&gt;
+(《狼行者》预告)
+本片为卡通沙龙团队全新动画作品，由《海洋之歌》导演汤姆·摩尔和罗斯·斯图尔特共同执导，肖恩·宾、霍纳·妮芙茜、伊娃·惠塔克参与配音。本片曾入围今年奥斯卡最佳动画长片，并在第48届安妮奖摘得包括最佳独立动画长片在内的五项大奖。
+电影讲述了11岁女孩罗芬的神奇经历，作为一个年轻的学徒猎人，她和父亲一起来到爱尔兰，准备消灭那里的最后一批狼。然而在过程中，她偶然遇到了“狼行者”，此后一连串古怪的故事就此展开…… 
+
+
+
+
+
+
+《狼行者》全新的简体中文海报由著名海报设计师黄海设计，期待本片的正式定档！
+有关《狼行者》背后的卡通沙龙的介绍请看动画学术趴的文章：
+所有作品都杀入了奥斯卡！这个爱尔兰小作坊怎么做到的？
+
+(《狼行者》中文海报)]]></summary>
+        <author>
+            <name>名侦探老张</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奇幻丨圣山行·第六章：叶零]]></title>
+        <id>https://www.gcores.com/articles/136853</id>
+        <link href="https://www.gcores.com/articles/136853"/>
+        <updated>2021-05-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[茫茫冰原上，雪白一片。已经分不清被覆盖冰雪的是大地还是天空，天与地的边界被混淆，倘若没有登山的高低之差，人在此甚至分不清东西南北。就在这无暇的洁白宣纸上，有一滴墨水，轻轻流过。
+索尔已经不知道自己走了多少时日，身体太累，路途太远。在他身后，叶芙林躺在拆掉帐篷，用支架和布料制成的担架上，用绳子绑住固定身体，呼吸微弱。每走一段时间，索尔就必须停下脚步，不只是为了休息，还要检查叶芙林的身体状况。他要注意按摩叶芙林的肌肉，保持温度，还要记得让她按时吃下东西。索尔也不记得自己已经有多久没睡过一顿好觉，因为在夜晚，他就要升起篝火，用这宝贵的火焰为叶芙林取暖，并时刻警惕周遭环境。他已经数不清自己多少次差点倒地睡死过去，多少次被一点点风吹草动惊得身体打颤。没有用餐时欢快的谈话，也没有睡前听到的故事。幸好，每当他感到孤寂时，怀抱手杖，就能安心下来。
+让他感到振奋的是，自己的努力并没有白费，叶芙林慢慢恢复了意识。即便如此，得不到妥善救治的她身体仍旧虚弱，神志也不清晰。嘴中常常念念有词，说出来的语句却总是被风吹散。有几次在篝火旁，叶芙林似乎清醒了一些，说的话也能让索尔听得清，只是必须说得很慢，很轻。她张开眼睛第一句，就是对索尔的轻…]]></summary>
+        <author>
+            <name>Sopa133</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manufacturing Technology and Engineering Center / JGMA]]></title>
+        <id>https://www.archdaily.com/961069/manufacturing-technology-and-engineering-center-jgma</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/OJgURBFjpso/manufacturing-technology-and-engineering-center-jgma"/>
+        <updated>2021-05-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rising from the transformed parking lot south of 76th Street, the new Manufacturing, Technology, and Engineering Center (MTEC) becomes a timeless addition to the Richard J Daley campus and sets the framework for a wider master plan. The project unifies the existing complex by creating a campus environment with engaging pathways and collaborative spaces throughout. The Daley College MTEC project speaks to issues larger than architecture; it is the embodiment of the community and seeks to revitalize this sout…]]></summary>
+        <author>
+            <name>Andreas Luco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流離失所或有水之地：2021台灣國際紀錄片影展的2位焦點影人與香港單元]]></title>
+        <id>https://theinitium.com/article/20210508-culture-documentary-list-tidf/</id>
+        <link href="https://theinitium.com/article/20210508-culture-documentary-list-tidf/"/>
+        <updated>2021-05-08T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[「有人說，若你生於有水之地，或是在海邊出生，你終將回到水邊。那股『海的崇高』將會永存你心。」]]></summary>
+        <author>
+            <name>特約撰稿人 謝以萱</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptgeon — Securely share self-destructing notes]]></title>
+        <id>https://www.producthunt.com/posts/cryptgeon</id>
+        <link href="https://www.producthunt.com/posts/cryptgeon"/>
+        <updated>2021-05-08T09:46:26.000Z</updated>
+        <summary type="html"><![CDATA[&#8220;
+        DIscovered this amazing product through the Github. The maker Nicco (https://nicco.io/) got me curious about the mechanics behind encrypted note sharing, and since I love hunting FOSS projects, I sent him an email and here we are! 
+
+It's written on Rust ⚙. Deploy in seconds using Docker 🐳.
+Thanks for reading and have a productive weekend!
+        &#8221;
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国产克苏鲁风格FPS《众王之末》发布首支预告]]></title>
+        <id>https://www.gcores.com/articles/136907</id>
+        <link href="https://www.gcores.com/articles/136907"/>
+        <updated>2021-05-08T09:37:00.000Z</updated>
+        <summary type="html"><![CDATA[5月6号，国内游戏工作室 CDPandaRider 在其社交平台账号上发布了其工作室克苏鲁风格FPS《众王之末》首支实机概念预告PV。
+
+
+&lt;内嵌内容，请到原网页查看&gt;
+(《众王之末》首支实机概念 PV，片中配音为黄莺老师)
+《众王之末》使用虚幻引擎打造，为 CDPandaRider 的首款作品，游戏背景取材自克苏鲁神话，类型为第一人称射击游戏，搭配技能树系统（应该不会是魔法系统，多半是生存型的辅助系统）。据工作室描述，该游戏目前只有黑暗帝国-卡尔克萨这一个地图设计，但是从预告片末尾来看，世界观应体量该不会小。
+
+
+以下摘自团队在b站评论区中对于《众王之末》和工作室形象的描述：
+首先，感谢各位的关注和支持以及各方面的建议和意见。我们确实是一个年轻的团队，没有其他的宏图大志和过多的野心，只是单纯想做一款游戏。关于项目组名字和logo问题，因为工作场地在成都，成员大多来自四川，又热爱着特摄和机车，所以取了“熊猫骑士”这个id，并不是在刻意去蹭流量。
+克苏鲁的爱好者可能会对“众王之末”这个词好奇，其实这个词的灵感源于黄衣之王剧本结尾，哈斯塔对卡西露达说道：“泰尔是诸王之宗；我们是列王之末。”这是我们题材…]]></summary>
+        <author>
+            <name>东厂老沙雕</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[众筹动作音游《UNBEATABLE》现已推出独立演示“[white label]”，预计2023年正式发售]]></title>
+        <id>https://www.gcores.com/articles/136920</id>
+        <link href="https://www.gcores.com/articles/136920"/>
+        <updated>2021-05-08T09:35:00.000Z</updated>
+        <summary type="html"><![CDATA[《UNBEATABLE》是一款动画风格的动作音游。在一个音乐被视为违法行为的世界，主角与她的朋友为重新夺回享受音乐的权利而展开了一系列冒险。随着 Kickstarter 众筹达到相应目标，开发者也在 Steam 免费推出了采用了90年代 VHS 画面风格的独立演示“《UNBEATABLE》[white label]”。
+
+
+&lt;内嵌内容，请到原网页查看&gt;
+
+据悉，开发者预计逐渐为“[white label]”发布数个章节，最终变为完整的衍生故事。尽管音游部难度较高，但仅想要了解剧情和欣赏音乐的玩家可使用辅助选项或是自动模式。作为本作的一大亮点，游戏所有歌曲的作曲、作词、编曲、混音以及演唱等均由开发者制作。除在游戏内欣赏外，玩家还可购买独立原声曲以支持开发团队。
+
+
+《UNBEATABLE》预计将于2023年正式发售。
+
+
+&lt;内嵌内容，请到原网页查看&gt;]]></summary>
+        <author>
+            <name>YTYTYTYT😀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一名華裔商人將承認向中國走私美國海洋技術]]></title>
+        <id>https://theinitium.com/article/20210508-wsj-marine-tech-to-china/</id>
+        <link href="https://theinitium.com/article/20210508-wsj-marine-tech-to-china/"/>
+        <updated>2021-05-08T09:31:00.000Z</updated>
+        <summary type="html"><![CDATA[定居美國馬薩諸塞州的華裔商人Qin Shuren周三承認非法出口設備，美國官員認為設備可以幫助中國打造水下無人機艦隊。]]></summary>
+        <author>
+            <name>華爾街日報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【票务通知】核聚变实体票即将停售，想留住精美门票伙伴们抓紧啦]]></title>
+        <id>https://www.gcores.com/articles/136913</id>
+        <link href="https://www.gcores.com/articles/136913"/>
+        <updated>2021-05-08T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[票务通知：实体票即将停售
+自从4月15日核聚变2021北京站开票以来，受到了各位朋友、伙伴们的大力支持，感谢大家～
+同时自开票以来我们也陆续收到很多朋友们“关于门票售卖时间太短，无法提前安排出行计划“的反馈。但是由于我们准备的纪念门票需要一个快递物流的时间，所以也为了保证可以及时的把门票送到购票者手中，我们在这里要正式的通知大家，核聚变2021北京站 的实体门票售卖（含精美纪念门票），将在5月10日零点正式关闭。
+请注意这只是实体门票售卖的关闭，5月10日之后将调整为电子门票（价格不变 129/元，但将不提供纪念门票），需要提前告知大家的是，由于是电子门票，将无法为各位玩家提供实体纪念门票了，想要保留纪念门票的大家，还请抓紧购买实体票比较稳妥哦～
+
+&lt;获得核聚变2021北京站 门票&gt;
+
+(核聚变2021北京站限定门票)
+
+
+购票注意事项：
+
+请观众在大麦网，凭实际到场人员的有效身份证件（身份证、护照、港澳通行证等）购买门票，购买实体票的朋友，完成购票后大麦网会寄出纸质门票（白色门票）以及核聚变精美纪念票；注意：购买电子票不含核聚变精美纪念票哦。
+核聚变期间，购买实体门票的观众必须同时携带纸质门票（…]]></summary>
+        <author>
+            <name>bazingga二七</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barn in Spierdijk / Kevin Veenhuizen Architects]]></title>
+        <id>https://www.archdaily.com/961119/barn-in-spierdijk-kevin-veenhuizen-architects</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/koI9d-NuT70/barn-in-spierdijk-kevin-veenhuizen-architects"/>
+        <updated>2021-05-08T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The typical open Dutch landscape in Spierdijk provided the inspiration for the design of this barn house. We wanted to give all rooms a nice view and draw the landscape inward.]]></summary>
+        <author>
+            <name>Paula Pintos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由于“不可预知的技术问题”，《狙击手：幽灵战士契约2》PS5版宣告延期]]></title>
+        <id>https://www.gcores.com/articles/136912</id>
+        <link href="https://www.gcores.com/articles/136912"/>
+        <updated>2021-05-08T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[CI Games 宣布，由于“不可预知的技术问题”，《狙击手：幽灵战士契约 2》PS5 版宣告延期。开发者表示，其经验丰富的团队正与索尼一同努力，争取早日解决该问题。与此同时，本作仍计划于6月5日同步在各大平台发售，而 PS5 玩家可通过向下兼容游玩 PS4 版游戏。
+
+
+&lt;内嵌内容，请到原网页查看&gt;
+
+作为补偿，所有购买 PS4 版《狙击手：幽灵战士契约 2》的玩家均可免费升级至 PS5 版。在 PS5 中，玩家将可以原生4K分辨率、增强的纹理及视觉效果以及更快的加载速度体验游戏，对于延期造成的不便，开发者也深表歉意。
+
+
+
+
+《狙击手幽灵战士契约2》的背景在中东，是一款现代战争战术类射击游戏。 玩家扮演代号渡鸦的契约狙击手刺客，接受一系列新的契约，在中东黎巴嫩和叙利亚边界上一块不受法律约束的地区战斗。玩家要执行的是看似不可能完成的任务：瓦解暗中为害的犯罪集团，让他们接受正义的制裁。]]></summary>
+        <author>
+            <name>YTYTYTYT😀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[译介丨《摇曳露营△》第二季制作人员访谈系列第2弹——原纱友里（大垣千明 役）]]></title>
+        <id>https://www.gcores.com/articles/136898</id>
+        <link href="https://www.gcores.com/articles/136898"/>
+        <updated>2021-05-08T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[《摇曳露营△SEASON2》是电视动画片《摇曳露营△》的第2期作品，2021年1月开播。日本杂志NewType在2021年2月10日发售的4月号中刊载了对参与了《摇曳露营△SEASON2》的监督等制作人员，以及主要角色声优的采访。轻之文库联合羚邦及NewType编辑部，对此部分内容进行了翻译整理，并呈现给各位读者，在此也对羚邦及NewType的工作人员表示感谢！
+翻译内容将分段放出，感兴趣的读者请保持对轻之文库VOL.1的关注。此次内容为访谈系列第2弹，大垣千明的声优原纱友里的访谈。
+吵闹与冷静都是千明的本质
+NewType（以下简称NT）：千明是个有着独特情绪感的角色呢！
+原纱友里（以下简称原）：我是在接受第1季第试音时初次拜读的原作，试音时说可以选择自己喜欢的角色，于是就选择了千明与抚子并且提交了试音音源。结果最后到录音棚只让我进行了千明的试音，我自己也有一种恍然大悟的感觉（笑）。
+NT：这样实际和原小姐对话听下来，有种和千明在交谈的感觉呢。
+原：真的吗？但是，偶尔会有那种搞笑场景的时候，我就试图按照从漫画图片里的印象来表现千明，会被认成我好像平时就是会这样说话的。
+NT：话虽如此，但也没有恶意吧？
+原：…]]></summary>
+        <author>
+            <name>轻之文库</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Beirut, after the Dust Settles" in Design and the City Podcast]]></title>
+        <id>https://www.archdaily.com/961336/christele-harrouk-and-salim-rouhana-on-rebuilding-beirut-in-design-and-the-city-podcast</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/YR-__fw_Ba0/christele-harrouk-and-salim-rouhana-on-rebuilding-beirut-in-design-and-the-city-podcast"/>
+        <updated>2021-05-08T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[For Design and the City's sixth episode - a podcast by reSITE on how to make cities more liveable, the team interviewed Christele Harrouk, Archdaily's Managing Editor and Salim Rouhana, Senior Urban Governance and Resilience Task Team Leader at the World Bank Group. The two Beirut natives talk about the devastating explosion in August last year and share their perspectives on what rebuilding the city could look like.]]></summary>
+        <author>
+            <name>Andreea Cutieru</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《猎人竞技场：传奇》将于5月14日在PlayStation平台开启封测]]></title>
         <id>https://www.gcores.com/articles/136915</id>
@@ -112,6 +415,16 @@ B站链接]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[House in Estrela / Aires Mateus]]></title>
+        <id>https://www.archdaily.com/908196/house-in-estrela-aires-mateus</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/hNpu9FcwNoE/house-in-estrela-aires-mateus"/>
+        <updated>2021-05-08T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The house is located on a ridge above the Lisbon estuary. It faces the Estrela Basilica on one side, and the river on the other. The house, with an extensive brief, requires the use of two circuits: one interior and the other exterior, alternating in order to facilitate the independence of the parents and their children’s lives. The house revives the form of a traditional street front house, in this case entirely in face concrete, both inside and outside. Thus, it opens up via the relationship between its c…]]></summary>
+        <author>
+            <name>Martita Vial della Maggiora</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ace ASL by SignAll — AI-based app providing immediate feedback on signing]]></title>
         <id>https://www.producthunt.com/posts/ace-asl-by-signall</id>
         <link href="https://www.producthunt.com/posts/ace-asl-by-signall"/>
@@ -140,6 +453,16 @@ B站链接]]></summary>
 &lt;内嵌内容，请到原网页查看&gt;]]></summary>
         <author>
             <name>YTYTYTYT😀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When the Earth is gone, at least the internet will still be working]]></title>
+        <id>https://techcrunch.com/?p=2147523</id>
+        <link href="http://feedproxy.google.com/~r/techcrunchIt/~3/86w_Blffh8M/"/>
+        <updated>2021-05-08T05:15:27.000Z</updated>
+        <summary type="html"><![CDATA[The internet is now our nervous system. We are constantly streaming and buying and watching and liking, our brains locked into the global information matrix as one universal and coruscating emanation of thought and emotion. What happens when the machine stops though? It’s a question that E.M. Forster was intensely focused on more than a […]]]></summary>
+        <author>
+            <name>Danny Crichton</name>
         </author>
     </entry>
     <entry>
@@ -490,6 +813,18 @@ Discussion
         <summary type="html"><![CDATA[The project is located at the crossing of the river, bridge, and road, with the Chen Yuan (College of Arts and Media) and the library to the northwest. The original building is a two-stories, four-pitched roof old building. As an important node in the historical environment of the campus, the university expects it to be an important public space of the campus with the functions of "bookstore, coffee, creative arts and salon" after its renewal.]]></summary>
         <author>
             <name>ArchDaily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sandland — Natural sleep aids to help you get a good night's rest]]></title>
+        <id>https://www.producthunt.com/posts/sandland</id>
+        <link href="https://www.producthunt.com/posts/sandland"/>
+        <updated>2021-05-07T19:09:16.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
         </author>
     </entry>
     <entry>
@@ -959,6 +1294,16 @@ PS5 版《最终幻想7 重制版 Intergrade》强化了光源、材质与背景
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MyDumper 0.10.5 is Now Available]]></title>
+        <id>https://www.percona.com/blog/?p=75883</id>
+        <link href="https://www.percona.com/blog/2021/05/07/mydumper-0-10-5-is-now-available/"/>
+        <updated>2021-05-07T08:53:47.000Z</updated>
+        <summary type="html"><![CDATA[The new MyDumper 0.10.5 version, which includes many new features and bug fixes, is now available.  You can download the code from here. For this release, we focused on fixing some old issues and testing old pull requests to get higher quality code. On releases 0.10.1, 0.10.3, and 0.10.5, we released the packages compiled against […]]]></summary>
+        <author>
+            <name>David Ducos</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[哪来的傻缺图七十六期：辗转腾挪斗大妈，这就试试生化8]]></title>
         <id>https://www.gcores.com/articles/136771</id>
         <link href="https://www.gcores.com/articles/136771"/>
@@ -1171,6 +1516,16 @@ I am a tech journalist and I use Google Sheets a lot to deal with data in my wor
         <summary type="html"><![CDATA[The role of an architect has not always been what it is today. Historically, and almost since its inception, it was viewed as a “one-man show”, where the architect was the artist, the sculptor, and the visionary of a structure. As the practice has continued to evolve, it has become a much more collaborative, and much less individualistic profession in nature, continuously understanding the importance of considering outside perspectives- even those not traditionally trained in design.]]></summary>
         <author>
             <name>ArchDaily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cool New Projects, Technology, and Broadening My Horizons at Percona Live]]></title>
+        <id>https://www.percona.com/blog/?p=75937</id>
+        <link href="https://www.percona.com/blog/2021/05/07/cool-new-projects-technology-and-broadening-my-horizons-at-percona-live/"/>
+        <updated>2021-05-07T07:28:00.000Z</updated>
+        <summary type="html"><![CDATA[I love learning from others and exploring the implementation details other database engines provide. Percona Live has no shortage of new databases, tools, and discussions on interesting new features or ways of tackling old problems. I went through the agenda and wanted to highlight a few new databases and tools (new to me or new […]]]></summary>
+        <author>
+            <name>Matt Yonkovit</name>
         </author>
     </entry>
     <entry>
@@ -1597,6 +1952,16 @@ I have added some amazing features that enhance the meal plannin…]]></summary>
         <summary type="html"><![CDATA[Lehrer Architects converts several leftover plots in Los Angeles into micro-homes developments, unfolding an experimental template for tackling homelessness. Together with the Bureau of Engineering for the City of Los Angeles, the architecture firm creates an efficient yet functional design using prefabricated pallet shelters and brings character to the project through vibrant colours to shape a new sense of community and restore dignity through design.]]></summary>
         <author>
             <name>ArchDaily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webinar June 8: The Pros and Cons of AWS, Azure, and Google Cloud – Which Cloud Provider is Right for Your Business?]]></title>
+        <id>https://www.percona.com/blog/?p=75905</id>
+        <link href="https://www.percona.com/blog/2021/05/07/webinar-june-8-the-pros-and-cons-of-aws-azure-and-google-cloud-which-cloud-provider-is-right-for-your-business/"/>
+        <updated>2021-05-07T05:27:30.000Z</updated>
+        <summary type="html"><![CDATA[Considering a move to the cloud, but unsure which provider is right for you? According to the results of our 2020 Open Source Data Management Software Survey, AWS continues to dominate the public cloud provider market, with 50% of respondents using its cloud platform in 2020, with Microsoft Azure quickly gaining market share with 23% adoption […]]]></summary>
+        <author>
+            <name>David Quilty</name>
         </author>
     </entry>
     <entry>
@@ -13287,82 +13652,6 @@ Continue reading...]]></summary>
 The post Journal of Grievances Vol. 3: Fool’s Paradise appeared first on GUP Magazine.]]></summary>
         <author>
             <name>GUP Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jenny + Allie (Jenny McClary and Allie Leepson)]]></title>
-        <id>https://www.aint-bad.com/article/2021/04/09/jenny-allie/</id>
-        <link href="https://www.aint-bad.com/article/2021/04/09/jenny-allie/"/>
-        <updated>2021-04-09T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Jenny + Allie (Jenny McClary b. 1987 and Allie Leepson b. 1988) are a wife-and-wife photography team. Drawing from personal experiences lacking representation, their focus is on capturing stories of&#8230; Read More
-The post Jenny + Allie (Jenny McClary and Allie Leepson) appeared first on AINT—BAD.]]></summary>
-        <author>
-            <name>AINT—BAD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic mushroom service centers are going to be introduced in Oregon]]></title>
-        <id>https://mixmag.net/read/magic-mushroom-service-centers-oregon-news</id>
-        <link href="https://mixmag.net/read/magic-mushroom-service-centers-oregon-news"/>
-        <updated>2021-04-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Psilocybin service centers are going to be introduced to the US state from 2023
-Continue reading...]]></summary>
-        <author>
-            <name>Mixmag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[69% of nightlife businesses say Covid Status Certification would be damaging]]></title>
-        <id>https://mixmag.net/read/ntia-covid-status-certification-nightlife-poll-news</id>
-        <link href="https://mixmag.net/read/ntia-covid-status-certification-nightlife-poll-news"/>
-        <updated>2021-04-09T10:46:00.000Z</updated>
-        <summary type="html"><![CDATA[70% of businesses in a new poll also said they felt Covid Status Certification is not necessary for reopening safely
-Continue reading...]]></summary>
-        <author>
-            <name>Mixmag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A traffic light system will allow UK tourists to enter Ibiza this summer]]></title>
-        <id>https://mixmag.net/read/traffic-light-system-uk-tourists-ibiza-news</id>
-        <link href="https://mixmag.net/read/traffic-light-system-uk-tourists-ibiza-news"/>
-        <updated>2021-04-09T10:23:00.000Z</updated>
-        <summary type="html"><![CDATA[The traffic light system determines what precautions travellers will have to take upon their return to the UK
-Continue reading...]]></summary>
-        <author>
-            <name>Mixmag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fatboy Slim adds hometown Brighton date to We've Come A Long Long Way Together tour]]></title>
-        <id>https://mixmag.net/read/fatboy-slim-hometown-brighton-date-tour-news</id>
-        <link href="https://mixmag.net/read/fatboy-slim-hometown-brighton-date-tour-news"/>
-        <updated>2021-04-09T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Fatboy Slim is going on tour in the UK this November 
-Continue reading...]]></summary>
-        <author>
-            <name>Mixmag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast Fashion’s Problem with Modern Slavery]]></title>
-        <id>https://www.featureshoot.com/2021/04/fast-fashions-problem-with-modern-slavery/</id>
-        <link href="https://www.featureshoot.com/2021/04/fast-fashions-problem-with-modern-slavery/"/>
-        <updated>2021-04-09T01:36:26.000Z</updated>
-        <summary type="html"><![CDATA[Last year, a report from the international human rights group Walk Free revealed that one in 130 women and girls around the world are living in modern slavery. Modern slavery&#8230;
-The post Fast Fashion’s Problem with Modern Slavery appeared first on Feature Shoot.]]></summary>
-        <author>
-            <name>Feature Shoot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hawking Hawking]]></title>
-        <id>https://www.math.columbia.edu/~woit/wordpress/?p=12235</id>
-        <link href="https://www.math.columbia.edu/~woit/wordpress/?p=12235"/>
-        <updated>2021-04-09T00:18:16.000Z</updated>
-        <summary type="html"><![CDATA[There&#8217;s a very good new book about Stephen Hawking that just came out, Charles Seife&#8217;s Hawking Hawking. Some detailed reviews can be found at Prospect Magazine (Philip Ball) and the New York Review of Books (James Gleick). Seife has chosen &#8230; Continue reading &#8594;]]></summary>
-        <author>
-            <name>Not Even Wrong</name>
         </author>
     </entry>
 </feed>
