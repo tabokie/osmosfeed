@@ -22,6 +22,15 @@
       "siteUrl": "https://christine.website/blog",
       "articles": [
         {
+          "id": "https://christine.website/talks/systemd-the-good-parts-2021-05-16",
+          "author": null,
+          "description": "systemd: The Good Parts\nVideo\n\nThe slides link will be at the end of the post.\nHello, I'm Xe and today I'm going to do a talk about systemd. More specifically\nthe good parts of systemd. This talk is going to go fast because there's a lot\nof material to cover and the notes are going to be on my website. I have been an\nAlpine user for almost a decade and it's one of my favorite linux distributions.\nThe best things in life come with disclaimers and here are the disclaimers for this talk:\nThis talk may contain …",
+          "link": "https://christine.website/talks/systemd-the-good-parts-2021-05-16",
+          "publishedOn": "2021-05-16T00:00:00.000Z",
+          "wordCount": 2641,
+          "title": "systemd: The Good Parts"
+        },
+        {
           "id": "https://christine.website/blog/morph-setup-2021-04-25",
           "author": null,
           "description": "Using Morph for Deploying to NixOS\nManaging a single NixOS host is easy. Any time you want to edit any settings,\nyou can just change options in /etc/nixos/configuration.nix and then do\nwhatever you want from there. Managing multiple NixOS machines can be\ncomplicated. Morph is a tool that makes it\neasy to manage multiple NixOS machines as if they were one single machine. In\nthis post we're gonna start a new NixOS configuration for a network of servers\nfrom scratch and explain each step in the way.\nnixos-conf…",
@@ -29,15 +38,6 @@
           "publishedOn": "2021-04-25T00:00:00.000Z",
           "wordCount": 1775,
           "title": "Using Morph for Deploying to NixOS"
-        },
-        {
-          "id": "https://christine.website/blog/dev-printerfact-2021-04-17",
-          "author": null,
-          "description": "How I Implemented /dev/printerfact in Rust\nKernel mode programming is a frightful endeavor. One of the big problems with it\nis that C is really your only option on Linux. C has many historical problems\nwith it that can't really be fixed at this point without radically changing the\nlanguage to the point that existing code written in C would be incompatible with\nit.\nDISCLAIMER: This is pre-alpha stuff. I expect this post to bitrot quickly.\n**DO NOT EXPECT THIS TO STILL WORK IN A FEW YEARS.**\n\n    \n&lt;Mara&gt…",
-          "link": "https://christine.website/blog/dev-printerfact-2021-04-17",
-          "publishedOn": "2021-04-17T00:00:00.000Z",
-          "wordCount": 3728,
-          "title": "How I Implemented /dev/printerfact in Rust"
         }
       ]
     },
@@ -96,15 +96,6 @@
           "publishedOn": "2021-05-04T00:01:00.000Z",
           "wordCount": 470,
           "title": "P2266’s interaction with `decltype(auto)`"
-        },
-        {
-          "id": "https://quuxplusone.github.io/blog/2021/04/17/pathological-string-appends/",
-          "author": null,
-          "description": "Back in early March, Lukas Böger asked on StackOverflow:\n“Where do standard library or compilers leverage noexcept move semantics (other than vector growth)?”\nSo I got nerdsniped into looking at all the places libc++ tests the noexceptness\nof any user-defined operation. This circuitously led to my finding an absolutely massive\nnumber of corner-case bugs in libc++’s string::append member function.\nIn hindsight, it was a mistake for C++ to use the same keyword for “making a function (conditionally)\nnoexcept” …",
-          "link": "https://quuxplusone.github.io/blog/2021/04/17/pathological-string-appends/",
-          "publishedOn": "2021-04-17T00:01:00.000Z",
-          "wordCount": 2212,
-          "title": "Optimizing `string::append` is harder than it looks"
         }
       ]
     },
@@ -465,6 +456,24 @@
       "feedUrl": "https://earlyretirementextreme.com/feed",
       "siteUrl": "https://earlyretirementextreme.com",
       "articles": [
+        {
+          "id": "http://earlyretirementextreme.com/?p=290",
+          "author": "Jacob",
+          "description": "When delving into a new endeavor (house owner, car, sport, computer, … ) it is often recommended to buy a “beginner” version or a “starter unit”. The idea, as it goes, is to see if one is “really” into this new activity before committing a lot of money. Now, ab initio this sounds a good […]",
+          "link": "https://earlyretirementextreme.com/buying-the-best-from-the-outset.html",
+          "publishedOn": "2021-05-17T03:20:36.000Z",
+          "wordCount": 2780,
+          "title": "Buying the best from the outset"
+        },
+        {
+          "id": "http://earlyretirementextreme.com/2008/02/my-commute-is-awesome.html",
+          "author": "Jacob",
+          "description": "Note: Technically I don’t have a commute anymore, but I’m posting this anyway to illustrate how living in the right location can turn the commute into a fun activity and eliminate the need for a car. I have the best commute in the world. I travel at top speed and I am rarely bothered by […]",
+          "link": "https://earlyretirementextreme.com/my-commute-is-awesome.html",
+          "publishedOn": "2021-05-16T15:19:21.000Z",
+          "wordCount": 2658,
+          "title": "My commute is awesome"
+        },
         {
           "id": "http://earlyretirementextreme.com/?p=1615",
           "author": "Jacob",
@@ -933,6 +942,15 @@
       "siteUrl": "http://www.dbdebunk.com/",
       "articles": [
         {
+          "id": "tag:blogger.com,1999:blog-6411920579549337139.post-4480766286586518300",
+          "author": "noreply@blogger.com (Fabian Pascal)",
+          "description": "Normal  0    \nNote: Each \"Test Your Foundation Knowledge\" post presents one or more misconceptions about data fundamentals. To test your knowledge, first try to detect them, then proceed to read our debunking, reflecting the current understanding of the RDM, distinct from whatever has passed for it in the industry to date. If there isn't a match, you can review references -- reflecting the current understanding of the RDM, distinct from whatever has passed for it in the industry to date -- which explain and…",
+          "link": "http://feedproxy.google.com/~r/blogspot/TuHQT/~3/cOQJyAhsgmg/tyfk-data-model-logical-model-and-schema.html",
+          "publishedOn": "2021-05-16T15:26:00.000Z",
+          "wordCount": 1861,
+          "title": "(TYFK) Data Model, Logical Model and Schema"
+        },
+        {
           "id": "tag:blogger.com,1999:blog-6411920579549337139.post-901896276186064824",
           "author": "noreply@blogger.com (Fabian Pascal)",
           "description": "Normal  0        \n \nNote: Each \"Test Your Foundation Knowledge\" post presents one or more misconceptions about data fundamentals. To test your knowledge, first try to detect them, then proceed to read our debunking, reflecting the current understanding of the RDM, distinct from whatever has passed for it in the industry to date. If there isn't a match, you can review references -- reflecting the current understanding of the RDM, distinct from whatever has passed for it in the industry to date -- which expla…",
@@ -1241,6 +1259,87 @@
       "feedUrl": "https://www.gcores.com/rss",
       "siteUrl": "https://www.gcores.com",
       "articles": [
+        {
+          "id": "https://www.gcores.com/articles/137170",
+          "author": "熊吉吉",
+          "description": "5月16日，《最终幻想14》第64回制作人来信LIVE于线上粉丝节举行，官方公布了国际服5.55版本后半部分的内容及在6.0之前的时间安排。\n\n\n5.55《黎明的死斗》Part2国际服实装时间：5月25日\n\n\n\n连接6.0的序章\n“天佑女王”任务更新（完结）\n“寄叶异闻：暗黑天启”终章（完结）\n追加集齐九宫幻卡的报酬\nPS5版5月25日正式运营\n\n\n\n高速读取\n4K分辨率\nUI高清\n支持震动反馈、3D Audio\n追加新奖杯\n“天佑女王”更新\n\n\n追加新探索区域“扎图诺尔高原”（ザトゥノル高原）\n\n\n\n\n\n\n\n\n\n开放条件：完成5.4主线&完成5.45“天佑女王”剧情任务\n“天佑女王”最终章展开\n义军等级上限由15提升至25\n追加新冲突战&遭遇战\n大规模决战“旗舰达尔·利亚塔攻略战”实装（最多48人）\n义军等级至25级开放“勋章系统”\n通过分解得到蛮神素材将在5.55统一规则\n\n\n\n原本有些蛮神素材可通过分解极神战报酬入手，有些不能\n为统一规则，5.55之后所有蛮神素材都有可能通过分解获得\n国际服时间表\n\n\n\n5月25日：5.55版本实装\n7月：金蝶节\n6~7月/7~8月：5.57/5.58版本实装\n8月：红…",
+          "link": "https://www.gcores.com/articles/137170",
+          "publishedOn": "2021-05-16T15:19:00.000Z",
+          "wordCount": 79,
+          "title": "祖坚桑，欢迎回来！《最终幻想14》第64回制作人来信情报汇总"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137160",
+          "author": "1zzard",
+          "description": "大赛在即，红牛杯参赛选手公布\n由红牛主办的红牛杯2021（Red Bull Kumite）在本周公布完了所有的参赛选手名单。官方邀请了包括Tokido、Bonchan、Punk等在内的15名职业选手参赛。英国玩家akaJoness则在名额预选赛中夺冠，成为了第16名参赛选手。选手们目前已陆续出发前往比赛地点，在赛前接受赛前隔离。\n\n\n比赛将在5月22日-23日举办，22日为《罪恶装备 奋战》特别节目，23日则为《街霸5》正赛。继去年停办一届后，红牛杯在今年重启了，这或许也是今年最大型的线下比赛，相信选手们会为我们献上相当多的精彩对局。\n\nCygames创意总监：回滚代码是必备的\n《碧蓝幻想》粉丝网站grandcypher.com就该系列7周年之际，对Cygames创意总监福原哲也（Tetsuya Fukuhara）进行了采访，其中包括了部分有关《碧蓝幻想VS》的内容。\n福原哲也在采访中表示，第二季的第5名DLC角色尤斯提斯早在游戏上线之时就已决定进行制作，目的是为了能在系列7周年时公布并上线。项目团队在2020年春季便开始着手该角色的开发，角色也于4月20日正式上线。\n\n\n在联机体验方面，福原哲也对回滚代码表…",
+          "link": "https://www.gcores.com/articles/137160",
+          "publishedOn": "2021-05-16T13:17:00.000Z",
+          "wordCount": 66,
+          "title": "大赛在即，红牛杯参赛选手公布丨格斗游戏资讯一周回顾"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137139",
+          "author": "YTYTYTYT😀",
+          "description": "Unknown Worlds 于今日宣布，旗下《深海迷航：零度之下》现已结束抢先体验阶段并正式在各大平台发售。在1.0正式版中，Unknown Worlds 为游戏进行了诸多错误修正及完善，同时解锁了游戏的终局内容。\n\n\n<内嵌内容，请到原网页查看>\n\n开发者表示，感谢各大玩家对本作一路以来的支持和意见。展望未来，开发团队仍计划持续为《深海迷航》系列的二款游戏带来各类更新。与此同时，此前在抢先体验阶段的存档也可以继续在正式版中游玩，所有数据都不会受到影响。\n\n\n\n\n《深海迷航：零度之下》是一款水下冒险游戏，背景设定在一个外星海洋世界（4546B行星北极地区）。在游戏中，玩家需要搜寻资源、打造装备，在恶劣的气候条件下生存。 \n\n\n<内嵌内容，请到原网页查看>",
+          "link": "https://www.gcores.com/articles/137139",
+          "publishedOn": "2021-05-16T12:12:00.000Z",
+          "wordCount": 60,
+          "title": "《深海迷航：零度之下》结束抢先体验阶段，现已正式发售"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137137",
+          "author": "YTYTYTYT😀",
+          "description": "Tuque Games 于日前宣布，旗下第三人称动作游戏《龙与地下城：黑暗联盟》将于发售首日登录 Xbox Game Pass 及 Xbox 云游戏平台。这也意味着，Xbox Game Pass Ultimate 会员可在 Xbox 系列主机、 Windows 10 PC 以及移动设备（通过云游戏）畅玩本作。\n\n\n<内嵌内容，请到原网页查看>\n\n在《龙与地下城：黑暗联盟》中，玩家可以至多可以四名好友一起勇斗传说中的怪兽（支持跨平台联机）。在严寒的冰风谷中消灭不可一世的头目，获得强大的装备以及解锁新能力来面对更大的挑战。 \n\n\n<内嵌内容，请到原网页查看>\n\n《龙与地下城：黑暗联盟》将于6月22日在 PC 、Xbox One 、Xbox Series X/S 、PlayStation 4 及 PlayStation 5 发售，国区 Steam 售价为284人民币。 即日起，预购玩家均可获得眼魔武器套装，而豪华版则额外包含巫妖武器套装及 DLC 《Echoes of the Blood War》。",
+          "link": "https://www.gcores.com/articles/137137",
+          "publishedOn": "2021-05-16T11:10:00.000Z",
+          "wordCount": 95,
+          "title": "《龙与地下城：黑暗联盟》将于发售首日登录XGP"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137164",
+          "author": "西蒙",
+          "description": "在前一段时间机核举办的《夜城迷梦》征稿活动中，我站作者 小田仙人及团队集体创作的美术作品《吉考斯2077新品展销会》获得全场大奖。\n5月15日，该作品中的其中之一“剥蒜机械手”被发现在未经授权或许可的情况下，小田仙人团队成员使用了微博用户@明日香乃乃超美 的模型作为素材。作为活动发起者，此类活动的原创性始终是我们提倡与坚持的。\n目前，涉嫌盗用（抄袭）的作品已经由创作方在全网渠道全面撤除。小田仙人团队 已向原作者提出公开道歉，并进行了完整详细的说明，同时协商对原作者进行了赔偿，并希望退回《夜城迷梦》征稿活动的大奖。\n机核对此事件感到遗憾。我们将取消《夜城迷梦》征稿活动中《吉考斯2077新品展销会》获得的奖项。新的获奖作品列表如下：\n全场大奖\n\n<银翼杀手2077>\n\n美术类大奖\n\n<2077核>\n\n美术类优秀奖 \n\n<Tears in the Rain>\n\n<《赛博朋克2077》装置延展设计>\n\n增补美术类优秀奖：赛博警匪 作者 DR.MMMMMM\n\n<赛博警匪>\n\n我们将为递补奖项的获奖者与新获奖者重新发送奖品，原有已获奖品仍由获奖者自行保留。",
+          "link": "https://www.gcores.com/articles/137164",
+          "publishedOn": "2021-05-16T10:30:00.000Z",
+          "wordCount": 68,
+          "title": "关于《夜城迷梦》征稿活动获奖作品调整的公告"
+        },
+        {
+          "id": "https://www.gcores.com/videos/137161",
+          "author": "Zoe大宇宙",
+          "description": "专为游戏玩儿的不太行，但喜欢逛游戏周边的朋友们提供的购物指南！\n欢迎来B站找我玩～B站链接",
+          "link": "https://www.gcores.com/videos/137161",
+          "publishedOn": "2021-05-16T06:35:00.000Z",
+          "wordCount": 26,
+          "title": "迟到的“核聚变购物节剁手指南”"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137158",
+          "author": "Ryan_Dawnec",
+          "description": "(排队购场贩小插曲（并不知道是不是在拍我）)\n\n\n\n(《20年前的核聚变》)\n\n\n\n(主视觉)\n\n(《镜面自拍》)\n\n(《队员》)\n\n(直播中的小五)\n\n\n\n\n\n\n\n(《羡     慕》)\n\n(地狱挑战的玩家)\n\n(《字面意思》)\n\n(播片的西蒙)\n\n(剑玉挑战)\n\n(赛场解说)\n\n(《大  老  天》)\n\n(《70年后的核聚变》)\n\n\n\n(《                                                             》)\n\n(《不好好戴口罩的后果》)\n\n(《我拍你，你拍他》)\n\n(《 排 队 2 小 时 的 成 果 》)\nBMPCC6k + 施耐德110mm F2改装放映头  /  美能达 50 F1.7\nDaVinCi + BlackMagic Raw\n请勿转载",
+          "link": "https://www.gcores.com/articles/137158",
+          "publishedOn": "2021-05-16T04:00:00.000Z",
+          "wordCount": 44,
+          "title": "用电影的视角去逛核聚变：图片预告"
+        },
+        {
+          "id": "https://www.gcores.com/videos/137108",
+          "author": "黑胶盒子",
+          "description": "试听时间线：\n2分16秒《一路向北》、7份10秒《夜曲》、11分20秒《枫》、15分36秒《发如雪》\n时隔三个多月，我们周杰伦黑胶套盒开箱第三弹终于来了！今天试听的是《十一月的萧邦》，我们依然按照粉丝投票选出了四首试听的歌曲，首首经典~\n《十一月的萧邦》这张黑胶，相比之前开过的几张又有了一些不一样的设计，周杰伦这套黑胶真的是每张都会有惊喜的感觉！\n值得一提的是，2006年周杰伦为电影《霍元甲》所做的同名主题曲也收录到了这张黑胶之中，虽然没有安排试听，但是已经作为本期的背景音乐，大家可以全程收听了~",
+          "link": "https://www.gcores.com/videos/137108",
+          "publishedOn": "2021-05-16T03:00:00.000Z",
+          "wordCount": 26,
+          "title": "《十一月的萧邦》：6399元的周杰伦黑胶套盒到底值不值？"
+        },
+        {
+          "id": "https://www.gcores.com/videos/136514",
+          "author": "Kazuya",
+          "description": "《街霸 III》系列开始的主角Alex之前都没有什么存在感，虽然我很喜欢这位角色。好在最新版《街霸 V》中终于数值有所调整，希望看到更多关于Alex的性能开发！\nB站链接",
+          "link": "https://www.gcores.com/videos/136514",
+          "publishedOn": "2021-05-16T01:00:00.000Z",
+          "wordCount": 29,
+          "title": "《街霸》神仙对局，100%闪避的ALEX有多可怕？瑜伽告诉你"
+        },
         {
           "id": "https://www.gcores.com/articles/137147",
           "author": "未来事务管理局",
@@ -2293,6 +2392,33 @@
       "siteUrl": "https://theinitium.com/newsfeed/",
       "articles": [
         {
+          "id": "https://theinitium.com/article/20210516-note-reader-voices/",
+          "author": "端傳媒編輯部",
+          "description": "我們期望設立一個新的問答欄目，不由編輯部來主導議題的設置，而是由你們提出想要了解的問題，作出自己的分享，控制討論的方向。",
+          "link": "https://theinitium.com/article/20210516-note-reader-voices/",
+          "publishedOn": "2021-05-16T14:56:00.000Z",
+          "wordCount": 2,
+          "title": "在這個分裂的時候，我們想聽到更多你的聲音"
+        },
+        {
+          "id": "https://theinitium.com/article/20210516-culture-xiao-she-de-education-war-in-china-tv-series/",
+          "author": "特約撰稿人 葉倩雯 發自北京",
+          "description": "這部電視劇本想以教育問題揭開中國階級固化，反卻表明了現實中只有權力上位者才有更多選擇，下位者的 「僭越」要付出更多代價。",
+          "link": "https://theinitium.com/article/20210516-culture-xiao-she-de-education-war-in-china-tv-series/",
+          "publishedOn": "2021-05-16T13:40:00.000Z",
+          "wordCount": 2,
+          "title": "你是什麼階級就要接受什麼命運：《小捨得》真的批判了中國教育現狀嗎？"
+        },
+        {
+          "id": "https://theinitium.com/article/20210516-taiwan-minister-chen-council-of-agriculture/",
+          "author": "端傳媒記者何欣潔 特約撰稿人 張宸邦、林庭葦 發自台北",
+          "description": "台灣本次疫情最嚴重的萬華區，鄰近大台北農產批發交易中心「北農」第一市場。農委會是否有戰略可以確保本土農產供應無虞？",
+          "link": "https://theinitium.com/article/20210516-taiwan-minister-chen-council-of-agriculture/",
+          "publishedOn": "2021-05-15T17:36:00.000Z",
+          "wordCount": 2,
+          "title": "專訪農委會主委陳吉仲：台灣疫情升溫，糧食跟蔬果供應沒問題嗎？為什麼？"
+        },
+        {
           "id": "https://theinitium.com/article/20210515-opinion-wangke-nationalism-china-japan-2/",
           "author": null,
           "description": "由於民眾被「民族」所替代，在20世紀的中國國家思想中主權在民、國民主權的口號變成了一紙空文。",
@@ -2993,6 +3119,132 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/pet-wall",
+          "author": null,
+          "description": "“\n        Hey guys! Guess what? I happen to make the cutest application for our amazing pets!!! It's called Petwall. So, I'm going to Paws-itively emphasize the reasons why I made this application. \n\nFirst, obviously, my family and I love animals... I grew up with different pets since my father is so fond of them ever since. My childhood was not just about playing outside our house or computer games; also, I spent half of my everyday playing with animals. The joy it brought me was just irreplaceable, and I …",
+          "link": "https://www.producthunt.com/posts/pet-wall",
+          "publishedOn": "2021-05-16T13:33:14.000Z",
+          "wordCount": 67,
+          "title": "Pet Wall — A social media app for your pets"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/tint-2",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/tint-2",
+          "publishedOn": "2021-05-16T12:30:48.000Z",
+          "wordCount": 74,
+          "title": "Tint — A better color picker"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/chefpage",
+          "author": null,
+          "description": "“\n        Hi PH, this is a product I've been working on since 2020 to make it easier for people to start a food blog and make money. It was born out of frustration with having to scroll through dozens of ads and pop-ups while trying to follow a recipe and the general lack of tech in this space designed for creators. I've also just added a new feature that makes video recipes easier to follow. \nFor the foodies among you, I'd love to hear your feedback!\n        ”\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/chefpage",
+          "publishedOn": "2021-05-16T09:11:41.000Z",
+          "wordCount": 69,
+          "title": "ChefPage — Publishing platform for food & recipes"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/ai-adulting",
+          "author": null,
+          "description": "“\n        Hey PH,\n\nAfter a few weekends of tinkering around with the app and algorithm, I'm very excited to let this loose on the broader community. A lot of the inspiration came from being cooped up at home during the pandemic; I personally had a tough time remembering all those small errands a \"proper\" adult is supposed to do. \n\nIt became a bit of a pet project for me to play around with Apple's CreateML and SwiftUI (which are pretty powerful tools). The algorithm is trained on the American Time Use Surve…",
+          "link": "https://www.producthunt.com/posts/ai-adulting",
+          "publishedOn": "2021-05-16T08:31:00.000Z",
+          "wordCount": 92,
+          "title": "AI Adulting — Personalised reminders to adult, powered by machine learning"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/fanpassly",
+          "author": null,
+          "description": "“\n        A simple yet powerful and free tool to beautifully showcase promo codes of your product and in addition show your other social links. See analytics on who clicked what links and how many users copied the codes💪🏻\n        ”\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/fanpassly",
+          "publishedOn": "2021-05-16T07:01:48.000Z",
+          "wordCount": 64,
+          "title": "Fanpassly — Showcase promo codes and social links with one single link"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/module",
+          "author": null,
+          "description": "“\n        Hey, hunters! 👋\n\nHappy to introduce our first product - Module!\n\nIdea\nWe interacted with a lot of ready UI kits, but they are all difficult to use. \nIf appeared a task to customize a component, the easiest way was to create a new one by ourselves. Сolor styles consisted of all rainbow colors in dozens of shades.\nSo, we decided to create a really simple in-use design system for Figma. \n\nResult\nModule! Drag'n'drop ready components from only three tabs: icons, components, and spacings. Configure by …",
+          "link": "https://www.producthunt.com/posts/module",
+          "publishedOn": "2021-05-16T07:00:02.000Z",
+          "wordCount": 58,
+          "title": "Module — Drag and drop design system for Figma"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/serverless-nextjs-gpt-3-template",
+          "author": null,
+          "description": "“\n        Feel free to use this to bootstrap your GPT-3 App. \n\nConnect with me @ https://twitter.com/harishkgarg and show me what you come up with.\n        ”\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/serverless-nextjs-gpt-3-template",
+          "publishedOn": "2021-05-16T06:30:49.000Z",
+          "wordCount": 82,
+          "title": "Serverless NextJS/GPT-3 Template — A serverless NextJS/React template to build GPT-3 apps"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/notifinio-robo-advisor",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/notifinio-robo-advisor",
+          "publishedOn": "2021-05-16T06:08:20.000Z",
+          "wordCount": 86,
+          "title": "Notifinio Robo advisor — An ETF portfolio advisor for non-professional investors"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/recent-menu",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/recent-menu",
+          "publishedOn": "2021-05-16T05:14:55.000Z",
+          "wordCount": 80,
+          "title": "Recent Menu — Show recently used menu commands and execute with one click."
+        },
+        {
+          "id": "https://www.producthunt.com/posts/patchwork",
+          "author": null,
+          "description": "“\n        Hey! 👋👋\n\nWith Patchwork, we wanted to provide an easy, straightforward way to gather and connect fragments of content from the web.\nPatchwork allows you to create zen, thematic collections that are visually pleasing and focused on your ideas without the stress/distraction of constant new content suggestions.\n\nWe are really looking forward to your comments and suggestions to iterate around the concept and improve this ongoing project ✨\n        ”\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/patchwork",
+          "publishedOn": "2021-05-16T03:17:56.000Z",
+          "wordCount": 75,
+          "title": "Patchwork — Your curated corner of the web"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/seobundl-analyzer",
+          "author": null,
+          "description": "“\n        Seobundl Website helps to identify your SEO mistakes and optimize your web page contents for a better search engine ranking.\n        ”\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/seobundl-analyzer",
+          "publishedOn": "2021-05-15T21:21:55.000Z",
+          "wordCount": 55,
+          "title": "Seobundl Analyzer — Identify your SEO mistakes & optimize your site"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/voiceform",
+          "author": null,
+          "description": "“\n        Hi ProductHunt folks 👋,\n\nExcited to be here to launch our first product!\n\nVoiceform is a is a simple web app that gives you the ability to create surveys and forms that can be answered with voice. \n\n🚀 Features:\n- Create simple surveys and forms with voice functionality\n- Send to thousands of people or embed on your website/landing page\n- Evaluate the results through audio, transcription, and sentiment analysis\n\n👉Use Cases:\n- Qualitative feedback at scale\n- Validating customer problems\n- Scaling…",
+          "link": "https://www.producthunt.com/posts/voiceform",
+          "publishedOn": "2021-05-15T19:10:28.000Z",
+          "wordCount": 88,
+          "title": "Voiceform — Scale customer interviews with voice powered surveys"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/swiftui-stock-charts-for-ios",
+          "author": null,
+          "description": "“\n        Hey there! 👋🏻\n\nWhat can you do with StockCharts?\nStockCharts is a light weight Swift framework written in SwiftUI to display stock charts in a single line of code.\n\nSo, why this framework? 🤔\nWell, I searched for many weeks a SwiftUI framework to display stock prices charts in my app, but I didn't find anything. So I thought it would be a great idea to develop this framework and open source it. Feel free to pull request some improvements \n\nStockChart is open source, do you want to contribute? ✍\ud83c…",
+          "link": "https://www.producthunt.com/posts/swiftui-stock-charts-for-ios",
+          "publishedOn": "2021-05-15T18:12:43.000Z",
+          "wordCount": 62,
+          "title": "SwiftUI Stock Charts for iOS — Display interactive stock charts easily"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/mendor-space",
+          "author": null,
+          "description": "“\n        Hello everyone, please check it out and share your feedback. This was co-created with @advaith_unnikrishnan 🙂\nThis started as a result of multiple people reaching out to a lot of others who are ready to mentor them. We have been running trials since October 2020 and we believe, this is something that will be useful to a lot of people out there, especially those who're trying to get started with technology. \nWe're looking forward to your feedback on how we can improve this and make it better after…",
+          "link": "https://www.producthunt.com/posts/mendor-space",
+          "publishedOn": "2021-05-15T17:22:52.000Z",
+          "wordCount": 86,
+          "title": "Mendor Space — Find the mentor you need"
+        },
+        {
           "id": "https://www.producthunt.com/posts/shoppalog",
           "author": null,
           "description": "“\n        Hi， we just launched the product in Beta version and hopefully gather some feedback to improve. Please feel free to leave a comment to us. We will definitely read and reply to every single one of them. Cheers ^^\n        ”\n        \nDiscussion\n        |\n        Link",
@@ -3009,6 +3261,51 @@
           "publishedOn": "2021-05-15T12:54:54.000Z",
           "wordCount": 72,
           "title": "Profile Peacock — Show your progress directly on your Twitter profile picture"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/bigbeefit-heart-monitor",
+          "author": null,
+          "description": "“\n        useful for me\n        ”\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/bigbeefit-heart-monitor",
+          "publishedOn": "2021-05-15T12:30:59.000Z",
+          "wordCount": 70,
+          "title": "BigBeeFit: Heart Monitor — Heart rate, blood pressure and stress tracker"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/born-at-x-co",
+          "author": null,
+          "description": "“\n        You can only understand the extent of climate emergency if you \n\n- Know what CO2 PPM you were born at\n- How much it has increased\n- How little carbon budget we have left\n\nInspired by Greta Thunberg, who added \"Born at 375 ppm\" to her Twitter bio, we want everyone to see what CO2 PPM they were born at.\n\nMost of us know that CO2 is increasing, but few people have a sense of how fast it is increasing. We want to bring the extend of the change to more people's notice.\n        ”\n        \nDiscussion\n   …",
+          "link": "https://www.producthunt.com/posts/born-at-x-co",
+          "publishedOn": "2021-05-15T12:20:29.000Z",
+          "wordCount": 101,
+          "title": "Born at X CO₂ — What was the atmospheric CO₂ the day you were born?"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/deepsport",
+          "author": null,
+          "description": "“\n        As two childhood friends, one of us is engineer and the other is an athlete, put heads together for an innovative idea, in a world where digitalization is all around, asking how we can use our talents in developing world. One day, he asked me to write down 25 things that I wanted to have/do in my life. I did it and then he said, now eliminate the 20. I did it (believe me it was hard to leave just 5 things) and realized we both have the things about creating a value left on the list. The rest was e…",
+          "link": "https://www.producthunt.com/posts/deepsport",
+          "publishedOn": "2021-05-15T11:23:26.000Z",
+          "wordCount": 72,
+          "title": "DeepSport — Fitness app that coaches you in real-time"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/document-archiver",
+          "author": null,
+          "description": "“\n        After struggling for years to find a good folder structure for all of my files, I had an epiphany when I saw the GitHub project \"PDF Archiver\". The underlying idea to store PDF files with a fixed naming pattern in a single space (which works cross-platform), including date, description and tags, convinced me.\nSo I created an app that works for all file formats and runs on all mayor platforms (Linux, macOS and Windows) - Document Archiver. See https://document-archiver.github.io/ to learn how it ca…",
+          "link": "https://www.producthunt.com/posts/document-archiver",
+          "publishedOn": "2021-05-15T10:03:08.000Z",
+          "wordCount": 93,
+          "title": "Document Archiver — Archive all your documents in a clean and consistent way"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/zapdeck",
+          "author": null,
+          "description": "“\n        Hey guys, I have been working on this very interesting project for over 2 years now, it has seen many evolutions. I had to grow in capacity to fill in the gap for the things I needed to do to get this out there, and today I launch the waitlist and this is just the beginning. \n\nSignup to the waitlist to help me test and accelerate launch. Exclusive deals for beta testers ✌️.\n\nSome of the things you can do on Zapdeck involve generating:\n- Certification docs\n- Customer birthday shoutout\n- Thank you n…",
+          "link": "https://www.producthunt.com/posts/zapdeck",
+          "publishedOn": "2021-05-15T09:48:02.000Z",
+          "wordCount": 45,
+          "title": "Zapdeck — Generate images for customer engagement"
         },
         {
           "id": "https://www.producthunt.com/posts/sheety-bots",
@@ -3144,6 +3441,15 @@
           "publishedOn": "2021-05-14T17:37:39.000Z",
           "wordCount": 82,
           "title": "Alicia's Row Counter — A row counter for crochet and knitting projects"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/simple-todo-b2bfaf78-4e23-45aa-acf6-4efa6716bbce",
+          "author": null,
+          "description": "“\n        Hi, Arnelle here 👋 I'm the maker of Simple Todo. I built this app mainly to have an app that manages my todos the way I currently do with physical sticky notes. I want my todo list to be visible as often as possible (because when it it out of sight, it is out of mind) so the browser's new tab seems like a good place to put it.\n        ”\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/simple-todo-b2bfaf78-4e23-45aa-acf6-4efa6716bbce",
+          "publishedOn": "2021-05-14T17:21:31.000Z",
+          "wordCount": 70,
+          "title": "Simple Todo — Change browser new tab into a simple todo list"
         },
         {
           "id": "https://www.producthunt.com/posts/worksible-analytics",
@@ -5028,6 +5334,114 @@
       "feedUrl": "https://www.archdaily.com/feed",
       "siteUrl": "https://www.archdaily.com/",
       "articles": [
+        {
+          "id": "https://www.archdaily.com/961527/mustard-building-aurora-arquitectos-plus-furo",
+          "author": "Andreas Luco",
+          "description": "Mustard building - the interior serenity. The second chapter of the rose-house begins with the city code. The rules allow us to construct a new addition to the existent building on the back of the plot facing Princesa Street.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/4fjadwUR9D8/mustard-building-aurora-arquitectos-plus-furo",
+          "publishedOn": "2021-05-16T19:00:00.000Z",
+          "wordCount": 924,
+          "title": "Mustard Building / Aurora Arquitectos + Furo"
+        },
+        {
+          "id": "https://www.archdaily.com/902710/house-in-zengo-maki-yoshimura-architecture-office-myao",
+          "author": "Pilar Caballero",
+          "description": "When I work on design, the ways of life are also rising simultaneously.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/q-olKfONAwk/house-in-zengo-maki-yoshimura-architecture-office-myao",
+          "publishedOn": "2021-05-16T15:00:00.000Z",
+          "wordCount": 749,
+          "title": "House in Zengo / Maki Yoshimura Architecture Office | MYAO"
+        },
+        {
+          "id": "https://www.archdaily.com/961735/p26-building-vox-arquitectura-plus-pdi",
+          "author": "Clara Ott",
+          "description": "In a property with little frontage, but of good depth and with a regulatory limit for the construction of a total height of ten meters above the level of the sidewalk, this project of four apartments per level with different typologies and programs is being developed in the Santa Maria neighborhood",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/9m8Ps_7NQrE/p26-building-vox-arquitectura-plus-pdi",
+          "publishedOn": "2021-05-16T13:00:00.000Z",
+          "wordCount": 836,
+          "title": "P26 Building / VOX arquitectura + PDI"
+        },
+        {
+          "id": "https://www.archdaily.com/961664/a-house-clearspace-design-and-research",
+          "author": "Pilar Caballero",
+          "description": "This building is an old factory that is more than 50 years old. Except for the structural columns, we demolished and retained some brick walls, and rebuilt the building and interior design. A House is a workspace. We hope to bring people home feeling - warm and safe. This allows building a close relationship between people and the environment. The appearance of the sloping roof is like a home. This is a concept that extends from home to the workplace. Work can be like a home where people can generate close …",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/ViFF-LYpuzE/a-house-clearspace-design-and-research",
+          "publishedOn": "2021-05-16T11:00:00.000Z",
+          "wordCount": 1154,
+          "title": "A House / Clearspace Design & Research"
+        },
+        {
+          "id": "https://www.archdaily.com/961601/morrison-building-bboa-balparda-brunel-oficina-de-arquitectura",
+          "author": "Pilar Caballero",
+          "description": "The assignment for this project takes place in Fisherton, a residential borough in the western suburbs of Rosario city, its origin dates from the late 19th century, as a consequence of the development of railway infrastructure that connected the central area of Argentina to the western regions. Initially conceived as a villa for the British hierarchical staff in charge of the railway company, this led to the appearance of constructions and a strong stylistic trend according to English Architecture around th…",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/0tc1WXczA3w/morrison-building-bboa-balparda-brunel-oficina-de-arquitectura",
+          "publishedOn": "2021-05-16T09:00:00.000Z",
+          "wordCount": 1611,
+          "title": "Morrison Building / BBOA - Balparda Brunel Oficina de Arquitectura"
+        },
+        {
+          "id": "https://www.archdaily.com/961546/the-language-of-lighting-how-to-read-light-and-shadow-in-architecture",
+          "author": "Thomas Schielke",
+          "description": "Imagine if light would not only provide optimum visibility for tasks but convey meanings as well. Standards with recommended lux levels for various visual tasks have led to a quantitative understanding of lighting. However, lighting can also be used to contribute to emotion in rooms and to structure architecture. Would it be adequate to regard lighting as language sent by architects or interior designers and being received by inhabitants and citizens? Adding a semiotic perspective can help to recognize how …",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/BzwJSE0dSMc/the-language-of-lighting-how-to-read-light-and-shadow-in-architecture",
+          "publishedOn": "2021-05-16T07:30:00.000Z",
+          "wordCount": 1757,
+          "title": "The Language of Lighting: How to Read Light and Shadow in Architecture"
+        },
+        {
+          "id": "https://www.archdaily.com/961624/e-goi-and-clavels-kitchen-offices-paulo-merlini-arquitetos",
+          "author": "Andreas Luco",
+          "description": "The customers already owned the warehouse adjacent to the intervention area where the companies are based, but with its exponential growth, the need to increase the physical space of the company became perennial.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/uT2x8ggvXRQ/e-goi-and-clavels-kitchen-offices-paulo-merlini-arquitetos",
+          "publishedOn": "2021-05-16T06:00:00.000Z",
+          "wordCount": 1139,
+          "title": "E-goi & Clavel´s Kitchen Offices / Paulo Merlini arquitetos"
+        },
+        {
+          "id": "https://www.archdaily.com/961477/peru-pavilion-in-the-2021-venice-biennale-playground-artifacts-for-interaction",
+          "author": "Fabian Dejtiar",
+          "description": "“Playground, Artifacts for Interaction” by Felipe Ferrer will be featured in the Peru Pavilion in the 2021 Venice Biennale of Architecture. The project was the winner of the Curatorial Competition held by The Cultural Patronage of Peru that aimed to highlight how fences and gates shape our understanding of public spaces.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/iEUJ6O7uGPk/peru-pavilion-in-the-2021-venice-biennale-playground-artifacts-for-interaction",
+          "publishedOn": "2021-05-16T05:00:00.000Z",
+          "wordCount": 1409,
+          "title": "Peru Pavilion in the 2021 Venice Biennale: \"Playground, Artifacts for Interaction\""
+        },
+        {
+          "id": "https://www.archdaily.com/961695/ripple-house-fmd-architects",
+          "author": "Pilar Caballero",
+          "description": "The Ripple House is a series of unfurling spaces defined by subtle shifts in the site and light. Discreetly positioned behind a single-fronted Victorian façade, the addition reinvents the previously disconnected floorplan, creating a highly adaptable family home connected to its garden. The architecture develops a narrative around reverberation and progression, drawing on the ‘ripple’ notion to explore deft forms that mediate the descent of the site’s gentle fall and associated impact on the interior.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/vvWaNwrVoCw/ripple-house-fmd-architects",
+          "publishedOn": "2021-05-16T02:00:00.000Z",
+          "wordCount": 1089,
+          "title": "Ripple House / FMD Architects"
+        },
+        {
+          "id": "https://www.archdaily.com/961505/house-ln-ho-plus-hou-studio-architects",
+          "author": "Yu Xin Li",
+          "description": "This house represents a microcosm of contemporary Taiwan. Our client envisions a home for his male friends, female co-workers, and parents.  He has requested a design that acknowledges his lifestyle while accommodating his work relationships and honoring traditional familial obligations.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/JIfst3BecQY/house-ln-ho-plus-hou-studio-architects",
+          "publishedOn": "2021-05-15T23:00:00.000Z",
+          "wordCount": 864,
+          "title": "House LN / HO+HOU studio architects"
+        },
+        {
+          "id": "https://www.archdaily.com/961705/seaview-escape-house-coates-design-architecture-plus-interiors-seattle-architects",
+          "author": "Paula Pintos",
+          "description": "This shoreline home is a 2800 square foot, 2-bedroom Pacific Northwest-style house anchored into a steep-sloped site. There is an open-concept living, dining, and kitchen area that opens directly to the outdoors with a corner bi-fold door system. A stone mass wall divides the public and private spaces of the house while enclosing the stairs, support areas, and powder room. There are many nature-inspired elements in this home such as pendant light fixtures in the kitchen that are reminiscent of shells and wo…",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/BQ_BCraQJr4/seaview-escape-house-coates-design-architecture-plus-interiors-seattle-architects",
+          "publishedOn": "2021-05-15T21:00:00.000Z",
+          "wordCount": 909,
+          "title": "Seaview Escape House / Coates Design: Architecture + Interiors | Seattle Architects"
+        },
+        {
+          "id": "https://www.archdaily.com/902744/todoroki-house-atelier-tsuyoshi-tane-architects",
+          "author": "Rayen Sagredo",
+          "description": "The Todoroki Ravine is a windy location. Running through a dense urban forest, the air provided near the ground is humid while dry winds constantly blow up towards the sky. The design of the house has been defined by focusing on these two contrasting environmental conditions and through the studies of primitive architectures pieces from both humid and arid areas around the world.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/dhPEciWZ7_s/todoroki-house-atelier-tsuyoshi-tane-architects",
+          "publishedOn": "2021-05-15T17:00:00.000Z",
+          "wordCount": 872,
+          "title": "Todoroki House in Valley / Atelier Tsuyoshi Tane Architects"
+        },
         {
           "id": "https://www.archdaily.com/904156/clear-rock-ranch-lemmo-architecture-and-design",
           "author": "Pilar Caballero",
@@ -7749,24 +8163,6 @@
           "publishedOn": "2021-04-20T14:07:55.000Z",
           "wordCount": 728,
           "title": "Carax and Sparks Will Open Cannes 2021"
-        },
-        {
-          "id": "https://www.criterion.com/current/posts/7358-new-projects-fresh-updates",
-          "author": null,
-          "description": "Catherine Breillat and Todd Field are getting back behind the camera, while Scorsese and Spielberg forge ahead with their latest projects.",
-          "link": "https://www.criterion.com/current/posts/7358-new-projects-fresh-updates",
-          "publishedOn": "2021-04-16T14:05:35.000Z",
-          "wordCount": 2126,
-          "title": "New Projects, Fresh Updates"
-        },
-        {
-          "id": "https://www.criterion.com/current/posts/7359-better-angels",
-          "author": null,
-          "description": "This week we’re checking in on the cinemas of Brazil and South Korea, reading about Terrence Malick, and listening in on Emma Thompson and Tony Kushner.",
-          "link": "https://www.criterion.com/current/posts/7359-better-angels",
-          "publishedOn": "2021-04-16T14:00:47.000Z",
-          "wordCount": 1317,
-          "title": "Better Angels"
         }
       ]
     },
@@ -7974,5 +8370,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.0"
+  "cliVersion": "1.7.1"
 }
