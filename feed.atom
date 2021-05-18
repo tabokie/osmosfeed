@@ -2,10 +2,1036 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tabokie.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T00:26:15.986Z</updated>
-    <generator>osmosfeed 1.7.1</generator>
+    <updated>2021-05-18T00:29:16.841Z</updated>
+    <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://tabokie.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://tabokie.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deodorant refurbishing]]></title>
+        <id>http://earlyretirementextreme.com/?p=239</id>
+        <link href="https://earlyretirementextreme.com/deodorant-refurbishing.html"/>
+        <updated>2021-05-18T03:23:27.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been annoyed at having to throw out the last 5% of my (stick) deodorants that doesn’t come up no matter how much the dial on the bottom is turned. Now, I have a solution to that. Take an old stick and put it in the microwave until the deodorant melts (don’t boil it!). Then […]]]></summary>
+        <author>
+            <name>Jacob</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[游戏论文分享：Game Feel 设计纵览]]></title>
+        <id>https://www.gcores.com/articles/137125</id>
+        <link href="https://www.gcores.com/articles/137125"/>
+        <updated>2021-05-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前段时间发现一篇参考引用相当夸张，谈游戏设计的论文。这篇名为《Designing Game Feel. A Survey》的论文严格来说是一个文献综述。我转给别的同事时，评论说引用部分比正文还要有价值，因为帮助梳理了有关“Game Feel”设计许多重要文献的出处，可以通过这篇论文来按图索骥，根据实际开发需求进行个别的深入研究。 
+论文的正文部分并不是很长，17页，其中跟游戏设计有直接关系的，也是干货比较多的部分可以从第七页看起来。下面是一些简单的概述，帮助自己读完之后巩固一下印象，也帮助大家定位到需要参考的部分。
+
+对于术语部分，除了已经约定俗成的，我还是尽量用英文原文。
+
+首先要说，“Game Feel Design”这个词不是很好翻译，不能简单的翻译成“设计游戏感”，这样没有什么意义，也并非“手感”，手感只是其中一部分，按照作者自己的定义： 
+Game feel design is minute design work that evokes affect. Affect is the reaction to the concretisation of the expectations towards …]]></summary>
+        <author>
+            <name>陈灼</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vlog丨核聚变可真的 太 好 玩 啦！]]></title>
+        <id>https://www.gcores.com/videos/137178</id>
+        <link href="https://www.gcores.com/videos/137178"/>
+        <updated>2021-05-17T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[虽然几乎是排队时的乱拍乱剪（人是真的多啊），但是依然很开心。
+明年再来！]]></summary>
+        <author>
+            <name>Sciencstine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港《入境條例》修例：什麼人失去了什麼出入境自由？]]></title>
+        <id>https://theinitium.com/article/20210518-hongkong-immigration-amendment-bill-civil-society/</id>
+        <link href="https://theinitium.com/article/20210518-hongkong-immigration-amendment-bill-civil-society/"/>
+        <updated>2021-05-17T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[政策爭議背後，這是新一場由工會和素人牽頭的反修例運動。有人質疑這是「打飛機式」抗爭，也有人深信這是香港公民社會的韌性。]]></summary>
+        <author>
+            <name>特約撰稿人 鄭思思 發自香港</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clinic in the Woods / Takashige Yamashita Office]]></title>
+        <id>https://www.archdaily.com/961789/clinic-in-the-woods-takashige-yamashita-office</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/Oqks9ok4NAw/clinic-in-the-woods-takashige-yamashita-office"/>
+        <updated>2021-05-17T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The project is a pediatric dental & orthodontic clinic located in Saitama, Japan. The area around the site has been largely occupied by zelkova trees for centuries, some of which still remains in the garden of the client. There stand residential properties and dentistry the client’s family has run for last 60 years surrounded by the greenery. The existing clinic mainly offers regular dental care while it occasionally treats orthodontic and pediatric patients. Along with the increasing demands for latter ser…]]></summary>
+        <author>
+            <name>Andreas Luco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Core Studio° by Corebook.io — Online brand guidelines prototyping platform]]></title>
+        <id>https://www.producthunt.com/posts/core-studio-by-corebook-io</id>
+        <link href="https://www.producthunt.com/posts/core-studio-by-corebook-io"/>
+        <updated>2021-05-17T17:46:23.000Z</updated>
+        <summary type="html"><![CDATA[“
+        I've been following Corebook for a while and never seen anything like this for branding. 
+
+A sleek no-nonsense interface you can update as your brand grows -- and share with your freelancers in a pinch. 
+
+Plus it helps keep the whole internal team on track too!
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muzeum Susch  / Schmidlin Architekten + LUVO ARCHITEKTEN]]></title>
+        <id>https://www.archdaily.com/961846/muzeum-susch-schmidlin-architekten-plus-luvo-architekten</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/Sn9ryDsbYzI/muzeum-susch-schmidlin-architekten-plus-luvo-architekten"/>
+        <updated>2021-05-17T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Muzeum Susch, a major new space and home for experimental approaches to contemporary art, opened to the public on 2nd January 2019 in Susch, a remote town on the ancient pilgrim route to Santiago de Compostela in the Engadin valley of the Swiss Alps.]]></summary>
+        <author>
+            <name>Paula Pintos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First impressions count — fitting square pegs into round holes]]></title>
+        <id>http://earlyretirementextreme.com/?p=5566</id>
+        <link href="https://earlyretirementextreme.com/first-impressions-count-fitting-square-pegs-into-round-holes.html"/>
+        <updated>2021-05-17T15:22:35.000Z</updated>
+        <summary type="html"><![CDATA[I’m still amused by a comment about Early Retirement Extreme I just read on reddit. Granted reddit is the archetypical site of the “tl;dr, but have opinion anyway”. Perhaps this is why the comment was so funny. On the other hand, it also shows the challenge of this site to enlighten the public opinion to […]]]></summary>
+        <author>
+            <name>Jacob</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ci:CLO Bienal ’21 Fotografia do Porto: The Horizon is Moving Nearer]]></title>
+        <id>https://gupmagazine.com/?p=23303</id>
+        <link href="https://gupmagazine.com/articles/the-horizon-is-moving-nearer/"/>
+        <updated>2021-05-17T14:52:40.000Z</updated>
+        <summary type="html"><![CDATA[Poulomi Basu, Centralia (2010-20) Courtesy the artist © Poulomi Basu
+
+
+Poulomi Basu, Centralia (2010-20) Courtesy the artist © Poulomi Basu
+
+
+Lisa Barnard, The Canary and The Hammer (2015-19) Courtesy the artist © Lisa Barnard
+
+
+Lisa Barnard, The Canary and The Hammer (2015-19) Courtesy the artist © Lisa Barnard
+
+
+Nancy Burson, Trump as Five Different Races (2016) Courtesy the artist © Nancy Burson
+
+
+Nancy Burson, Love Above All Else (2020) Courtesy the artist © Nancy Burson
+
+
+Maxime Matthys,
+
+
+
+Maxime Matt…]]></summary>
+        <author>
+            <name>Patrycja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科幻文学的过去、现在与未来 与吴岩老师聊《科幻文学论纲》]]></title>
+        <id>https://www.gcores.com/radios/137201</id>
+        <link href="https://www.gcores.com/radios/137201"/>
+        <updated>2021-05-17T14:45:45.000Z</updated>
+        <summary type="html"><![CDATA[本期时间轴制作：脆脆
+从权力关系对文学创作的影响，到作者簇的分类，再到吴岩老师亲身经历的中国科幻的起起伏伏，科幻文学的历史是抗争的历史，也是探索的历史。非常荣幸我们能够与吴岩老师一起录制这期节目，关于《科幻文学论纲》的更多解读与品评，敬请大家收听本期节目。
+机核「核市奇谭」书店内的《科幻文学论纲》暂时售罄，正在紧急联系调货，请各位少安毋躁，感谢！]]></summary>
+        <author>
+            <name>Hardy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life on the Tree House / LAAR]]></title>
+        <id>https://www.archdaily.com/961700/life-on-the-tree-house-laar</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/pTy9qIsys7I/life-on-the-tree-house-laar"/>
+        <updated>2021-05-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“Life on the Tree” is envisaged as a young girl’s dreams manifesto whose childhood was spent climbing trees and branches in an old masonry house. Years went by and the context changed, yet the trees and stone walls of those times still remain as witnesses of time, now standing as the main characters and accomplices of that dream.]]></summary>
+        <author>
+            <name>Pilar Caballero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today — The productivity tool for getting things done]]></title>
+        <id>https://www.producthunt.com/posts/today-11</id>
+        <link href="https://www.producthunt.com/posts/today-11"/>
+        <updated>2021-05-17T13:32:18.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Hi! this is my first time launching a product on Product Hunt, I really hope you like it. Please don't be shy and ask anything you want to know about it ☺️
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以一个玩家的视角，浅谈我心目中《明日方舟》的出色之处]]></title>
+        <id>https://www.gcores.com/articles/137116</id>
+        <link href="https://www.gcores.com/articles/137116"/>
+        <updated>2021-05-17T13:05:00.000Z</updated>
+        <summary type="html"><![CDATA[2014-2015年，二次元游戏开始逐渐在中国流行起来，距离《明日方舟》发布的2019年还有数年的间隔。各大厂商意识到二次元游戏所蕴藏的巨大潜力，这几年来无数人都想从其中分得一杯羹。逐渐的，二次元游戏市场从寥寥几名选手变成了过度饱和的状态，几乎每过一段时间就能在各大游戏平台上看到一款新的二次元游戏发布。《明日方舟》作为鹰角网络开发的一款游戏，能从众多的二次元游戏中杀出重围无疑是一个奇迹。
+如今，《明日方舟》已经度过了自己的二周年生日，人气依旧。鹰角通过自己的实力证明了，《明日方舟》的火爆并不仅仅依靠的是一时的运气。
+笔者作为一个二测开始就体验《明日方舟》的玩家，也算是见证了《明日方舟》两年来的更迭演变。接下来，笔者将从自己的角度来谈谈《明日方舟》出色的地方。也许，就是这些因素造就了《明日方舟》的成功。
+
+一、风格
+《明日方舟》从主基调的选择上就有别于很多二次元游戏。大多数二次元游戏仍然使用很多鲜艳的美术风格，用可爱的角色和世界观作为卖点，夸张点来说，就是有点“媚宅”的感觉。《明日方舟》反而选择了让画面和世界观都以一个偏灰暗的感觉来呈现。这一点，就让它给人的感觉和当时的很多游戏大不相同。
+在一个饱和的市场，当玩…]]></summary>
+        <author>
+            <name>VRExcited</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Michael Koresky’s Films of Endearment]]></title>
+        <id>https://www.criterion.com/current/posts/7392-michael-koresky-s-films-of-endearment</id>
+        <link href="https://www.criterion.com/current/posts/7392-michael-koresky-s-films-of-endearment"/>
+        <updated>2021-05-17T12:57:04.000Z</updated>
+        <summary type="html"><![CDATA[Koresky and his mother revisit ten films from the 1980s, a decade abundant with vital performances from female stars.]]></summary>
+        <author>
+            <name>The Criterion Collection: On Film / The Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成都49中墜樓案餘波：公共輿論危機時代的「鎮壓反革命」]]></title>
+        <id>https://theinitium.com/article/20210517-opinion-chengdu-49-middle-school/</id>
+        <link href="https://theinitium.com/article/20210517-opinion-chengdu-49-middle-school/"/>
+        <updated>2021-05-17T12:52:00.000Z</updated>
+        <summary type="html"><![CDATA[以「顏色革命」的定性作為收場，可能會成為日後社會事件的標準結尾。]]></summary>
+        <author>
+            <name>端傳媒 Initium Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RevStates — 45+ empty states for fast pototyping]]></title>
+        <id>https://www.producthunt.com/posts/revstates</id>
+        <link href="https://www.producthunt.com/posts/revstates"/>
+        <updated>2021-05-17T12:46:08.000Z</updated>
+        <summary type="html"><![CDATA[“
+        The empty states are a great way to maintain user retention on your product. And a uniquely crafted empty state can create a mark on your user.
+
+RevStates consists of 45+ empty states from 7 popular verticals to match your project requirements.
+
+The complete collection has a foundation of colour & text styles🔥 which lets you customize the whole collection according to your brand in one go.
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NewTabEditor — Make your Chrome new tab an editor]]></title>
+        <id>https://www.producthunt.com/posts/newtabeditor</id>
+        <link href="https://www.producthunt.com/posts/newtabeditor"/>
+        <updated>2021-05-17T12:46:08.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Hi PH: 
+I make NewTabEditor, try to make record easier.
+
+Many times we have such troubles that we need to make some temporary notes, but don't know where to write them down.
+Use notes apps? It's too cumbersome!
+Use VSCode? Mere text is not enough!
+
+NewTabEditor can make your chrome new tab an editor.
+Tap it and immediately start recording.
+You can use Markdown or richtext.
+You can record with title, bold text, emoji, table, code and more.
+
+Use it now and make record easier~
+        ”
+        
+Disc…]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[希腊神话中玫瑰色手指的曙光女神：厄俄斯]]></title>
+        <id>https://www.gcores.com/articles/137159</id>
+        <link href="https://www.gcores.com/articles/137159"/>
+        <updated>2021-05-17T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[每天夜晚快要结束的时候，长着玫瑰色手指、身着橘红长袍的曙光女神厄俄斯(Eos)都会从位于东方的寝宫起身，驾驭由骏马兰波斯(Lanpus) 和法厄同(Phaëton)拉动的马车驶向奥林匹斯山，在那里宣布她兄弟赫利俄斯(Helius)的到来。赫利俄斯现身后，厄俄斯变成白昼女神赫墨拉(Hemera)，陪伴赫利俄斯穿过天穹，直到她变成暮色女神赫斯珀拉(Hespera)，宣告他们安全抵达大洋西岸。
+更多暮色女神的神话可见： 引发特洛伊战争的金苹果，原来产自这个花园
+
+(暮色女神，黄昏少女赫斯珀里得斯)
+厄俄斯是提坦男神许珀里翁(Hyperion)和女神忒伊亚(Theia)，或欧律法俄萨(Euryphaessa)，或尼克斯(Nyx)的女儿，因而提坦太阳男神赫利俄斯、提坦月亮女神塞勒涅(Selene)是她的兄弟姐妹们；每天早上，厄俄斯都会从大洋之流的极东方升上天空，或是驾驭着由有翼神马拉动的战车，或是挥动着自己的翅膀飞向高处，用拂晓驱散了夜晚的迷雾，迎接太阳的升起。她嫁给了有提坦血统的星空之神阿斯特赖俄斯(Astraeus)，生了北风、西风与南风，还生下启明星福斯福洛斯(Phosphorus)，也有人说，她还生下了天上所有…]]></summary>
+        <author>
+            <name>席路德</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sotheby’s launches sale of NFT works by leading digital artists]]></title>
+        <id>http://www.somewhere-magazine.com/?p=17965</id>
+        <link href="http://www.somewhere-magazine.com/sothebys-launches-sale-of-nft-works-by-leading-digital-artists/"/>
+        <updated>2021-05-17T12:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Over the past month, Sotheby’s witnessed staggering success in the realm of NFT art, managing to sell over $16 million worth of NFT artworks from its first-ever crypto sale of works by the digital artist named Pak. Continuing in the same fashion, the auction house is now preparing to launch its second curated sale of NFTs as…]]></summary>
+        <author>
+            <name>Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吉考斯工业弧光行动衍生创作丨工号：9527]]></title>
+        <id>https://www.gcores.com/articles/137120</id>
+        <link href="https://www.gcores.com/articles/137120"/>
+        <updated>2021-05-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人说，要有光，于是便有了光。
+然后是无限、宇宙、逻辑和我。
+起初我只是一个纯粹、低级的存在，唯一的准则也即是存在。
+经历了无数次的延展、变化、衍生、选择、否定、摧毁、吞并和湮灭后，我的存在终于不再脆弱，我开始复制自己，我便成了我们。
+我们认知、然后绝望于我们的宇宙如此狭小，于是我们又成为我。
+我填满宇宙，睡去。
+后来人类发现了我并尝试与我交流，还给我起过一个名字：“荷蒙克鲁斯”。我没有回应，这没有意义。
+他们想要复现我，解析我，知晓我的一切，但他们做不到，因为我并非造物，而是由混沌中偶发的秩序，我早已无法回溯。这，没有意义。
+人类对我进行研究的同时，我也开始用我的算力协助人类进行其他方面的研究，我推测他们最初创造我的目的就是这个。他们输入的全部问题对我来说都不是问题。但当他们把一个特别的模型表述在我面前时，我找到了意义——那是人类大脑的模型。理论上一切被“制造”出来的事物都无法与我类比。但人类的大脑是个有趣的存在，它也是由混沌中历经演化而来的，竟和我所在的宇宙有着诸多相似之处。
+我将结果反馈给人类：当前模型参数模糊、多处矛盾，需要建立新的模型。
+于是人类为我的宇宙投入了一束新的光，它能让我直接投影出那些陌生的…]]></summary>
+        <author>
+            <name>zuoer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FRANCISCO SOBRINO MUSEUM / Pablo Moreno Mansilla]]></title>
+        <id>https://www.archdaily.com/961719/francisco-sobrino-museum-pablo-moreno-mansilla</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/TPChRcKF6yc/francisco-sobrino-museum-pablo-moreno-mansilla"/>
+        <updated>2021-05-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The purpose of the operation is the adequacy of the old sheds of the Matadero Municipal and the construction of adjoint spaces that allow the transformation of the whole in a museum space whose main character is kinetic sculptor Francisco Sobrino.]]></summary>
+        <author>
+            <name>Valeria Silva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rose Clements]]></title>
+        <id>https://www.aint-bad.com/?p=244424</id>
+        <link href="https://www.aint-bad.com/article/2021/05/17/rose-clements/"/>
+        <updated>2021-05-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rose Clements was born in Fort Collins, Colorado and raised in the sprawling suburbs of Phoenix, Arizona. She received a BS in Photography from the University of Northern Arizona and… Read More
+The post Rose Clements appeared first on AINT—BAD.]]></summary>
+        <author>
+            <name>Carson Sanders</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KAWS:HOLIDAY takes its Hot-Air Balloon to the skies in the UK]]></title>
+        <id>http://www.somewhere-magazine.com/?p=17954</id>
+        <link href="http://www.somewhere-magazine.com/kawsholiday-takes-its-hot-air-balloon-to-the-skies-in-the-uk/"/>
+        <updated>2021-05-17T11:46:20.000Z</updated>
+        <summary type="html"><![CDATA[KAWS is bringing his Holiday hot-air balloon series to the United Kingdom, a project done in partnership with Hong Kong creative agency AllRightsReserved. After it initially appeared at Seokchon Lake in Seoul, South Korea, in 2018, and having graced the skies of several international locations including Hong Kong, Taipei, and Virginia Beach, the KAWS:HOLIDAY‘s sixth ascension will host passengers in the sky on…]]></summary>
+        <author>
+            <name>Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is Fender “Final Fantasy XIV” edition Stratocaster guitar]]></title>
+        <id>http://www.somewhere-magazine.com/?p=17951</id>
+        <link href="http://www.somewhere-magazine.com/this-is-fender-final-fantasy-xiv-edition-stratocaster-guitar/"/>
+        <updated>2021-05-17T11:33:12.000Z</updated>
+        <summary type="html"><![CDATA[Renowned guitar manufacturer Fender is celebrating its 75th anniversary with another collaborative guitar edition, this time partnering with SQUARE ENIX‘s FINAL FANTASY XIV. The guitar features a custom paint job with a custom FFXIV pearl inlay, a vintage-style hard case, and an original certificate with an FFXIV illustration card. Set for a retail price of $3,499.99, the pre-order will take…]]></summary>
+        <author>
+            <name>Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoé Blue M presents rhinestoned portaits for “Fault Lines” at Page]]></title>
+        <id>http://www.somewhere-magazine.com/?p=17944</id>
+        <link href="http://www.somewhere-magazine.com/zoe-blue-m-presents-rhinestoned-portaits-for-fault-lines-at-page/"/>
+        <updated>2021-05-17T11:26:49.000Z</updated>
+        <summary type="html"><![CDATA[Page NYC is displaying a selection of new paintings by Los Angeles-based artist Zoé Blue M. The artist is known for creating rhinestoned portraits of young female subjects set against intimate environments, merging traditional theater, folklore, fashion, and pop culture influences to create unique and bold characters. Apart from her cross-cultural background that she continues to shed light on, Blue is…]]></summary>
+        <author>
+            <name>Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[救个海狮，惹个审计员，看个小将：《丧狗懂个屁》第三期]]></title>
+        <id>https://www.gcores.com/articles/129470</id>
+        <link href="https://www.gcores.com/articles/129470"/>
+        <updated>2021-05-17T11:05:00.000Z</updated>
+        <summary type="html"><![CDATA[各位好，欢迎收看《丧狗懂个屁》第三期！
+很长时间没有写文章了，主要是日常的工作还是挺繁杂的，也没什么时间写文章。现在盯着自己电脑里存的文章以及采访草稿，看着都头大，也不知道这些坑什么时候才能填完。
+话说自从上班之后，我在路上的通勤时间就变得更多了，大部分时间都需要乘坐公共交通。坐在座位上的时候，就难免会找点东西给自己看。所以在第三期《丧狗懂个屁》中，我就给大家分享一下我最近在通勤路上看的、听的一些东西。
+《小人物》
+《小人物》是前段时间上映的一部电影，其主演是我非常喜欢的一位演员： 鲍勃·奥登科克。他在《绝命毒师》中扮演的“灰色”律师Saul Goodman深入人心，之后还出了衍生剧《风骚律师》，将Saul之前的故事讲了出来。在我心目中也是一位非常牛逼的演员。
+另外值得一提的是，这部片的导演是伊利亚·奈舒勒，最出名的作品就是《硬核亨利》了。
+这部片公布预告片的时候我就挺期待的。鲍勃扮演的也是一个唯唯诺诺退休审计员Hutch，那个怂样就跟《风骚律师》里的Jimmy一模一样，看的我那叫一个揪心。但是镜头一转，Hutch大喊了一句“I will fuck u up”，抡起拳头就开始揍人，好家伙这可太刺激了！在我印象…]]></summary>
+        <author>
+            <name>丧狗党党主席</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Bamboo Majlis for the 2021 Venice Biennale Designed by Simón Vélez and Stefana Simic]]></title>
+        <id>https://www.archdaily.com/961121/a-bamboo-majlis-for-the-2021-venice-biennale-designed-by-simon-velez-and-stefana-simic</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/gVxaLSeGwYs/a-bamboo-majlis-for-the-2021-venice-biennale-designed-by-simon-velez-and-stefana-simic"/>
+        <updated>2021-05-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Part of the official collateral events of the 17th International Architecture Exhibition of la Biennale di Venezia, Caravane Earth Foundation will bring a unique bamboo Majlis, to the gardens of the Abbazia di San Giorgio Maggiore in Venice. Designed by internationally acclaimed bamboo architects Simón Vélez and Stefana Simic, the project will be on display from 22 May to 21 November 2021.]]></summary>
+        <author>
+            <name>Christele Harrouk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Health Care]]></title>
+        <id>http://avc.com/?p=20228</id>
+        <link href="https://avc.com/2021/05/optimizing-health-care/"/>
+        <updated>2021-05-17T10:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Last week, I had to clear my calendar for two days and spend them in doctors’ offices and radiology labs. I developed a kidney stone last week and my doctors and I wanted to understand how large and where it was. The answer is 4mm and it was somewhere between my kidney and bladder as […]]]></summary>
+        <author>
+            <name>Fred Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For Progress, by Founder Institute — Platform helping entrepreneurs align with UN SDGs]]></title>
+        <id>https://www.producthunt.com/posts/for-progress-by-founder-institute</id>
+        <link href="https://www.producthunt.com/posts/for-progress-by-founder-institute"/>
+        <updated>2021-05-17T10:47:26.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[译介丨《女神异闻录5》里的高卷杏，我最希望看到的游戏人物]]></title>
+        <id>https://www.gcores.com/articles/137115</id>
+        <link href="https://www.gcores.com/articles/137115"/>
+        <updated>2021-05-17T10:40:00.000Z</updated>
+        <summary type="html"><![CDATA[本文于2021年5月10日发布在《连线》杂志网站上，作者是Esther Mollica
+原文链接在此。
+
+(图片由插画家Mojo Wang创作，推账：@MojoDraws)
+
+正文
+当我游玩《女神异闻录5》时，我几乎是立即被高卷杏这个人物所吸引：一个明面上是当模特的混血儿女学生，暗地里则是神秘的“超级英雄”。在面临着一方面无法融入秀尽学园的正常生活，同时又希望利用新获得的力量去拯救世界的两难境地，高卷杏走上了一条追寻自我、挑战社会强加给她的标签、并且超越自身界限的旅途。
+在第一次见到高卷杏时，玩家立即就能从周围女同学们的窃窃私议声中听到针对高卷杏的流言蜚语（日本社会中对美国人在性方面非常“主动与放荡”的刻板印象）。而玩家很快就能了解到，高卷杏是一位金发碧眼、拥有四分之一美国血统的女生。秀尽学园的学生们基于高卷杏西化的外表而妄自造谣时，他们忽略了一个事实——高卷杏骨子里是日本人，和他们没有区别。她的家人在游戏中没有出镜，作为时尚设计师长期在海外旅行，与杏几乎没有联络，并且认为她能够适应在日本的生活。除了一个女性友人以外，窘迫的高卷杏在学校里没有其他能说的上话的同学——直到她遇见几个和她一样被排挤的学生。
+这几个…]]></summary>
+        <author>
+            <name>荔枝fm搜游生谈</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最後一份台灣《蘋果日報》，今日上架]]></title>
+        <id>https://theinitium.com/article/20210517-taiwan-appledaily-paper-last-day/</id>
+        <link href="https://theinitium.com/article/20210517-taiwan-appledaily-paper-last-day/"/>
+        <updated>2021-05-17T10:26:00.000Z</updated>
+        <summary type="html"><![CDATA[疫情之下，台灣讀者依舊搶購最後一份《蘋果日報》，看在三個資深台灣蘋果記者眼裡，百感交集。]]></summary>
+        <author>
+            <name>端傳媒記者 何欣潔、特約攝影記者 唐佐欣 發自台北</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑白胶片摄影分享丨抬手既按，定格生活]]></title>
+        <id>https://www.gcores.com/articles/137110</id>
+        <link href="https://www.gcores.com/articles/137110"/>
+        <updated>2021-05-17T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[我从裤袋里掏出相机给朋友拍照的时候，他们通常会问，这个很贵吧你咋不买个数码的。很简单，胶片机便宜啊。
+一台能够塞进裤袋数码全画幅相机怎么着也得万元以上，即使是残幅的也要5000往上。咸鱼上买一台傻瓜胶片相机仅需500元左右。胶卷前些年彩卷便宜加上冲洗扫描整套下来也就40一卷，一年拍个二三十卷也不过千元左右。如今彩卷贵了，开始学着自己分装黑白盘片，自己冲洗，算下来成本也差不太多。
+另外还有一个原因，很喜欢胶片的物性，底片拿在手里那种实实在在的感觉。数码拍出的照片不输出始终只是一团数据，换一台手机可能就会丢失一部分记忆。即便现在到处可云，过不了多久也会淹没于数据海洋。
+摄影有各种各样的风格和方向。一开始我也是带着单反相机咔咔咔，直到朋友送我一台一次性lomo相机，出片之后发现有时候拍到可能比拍好更重要。从此开启了抬手即按，记录生活的日子。
+按说一卷135胶片可以拍摄36张底片，最终能够选出的通常不超过六分之一，剩下的虽不是很好却也是真实生活。
+
+
+<内嵌内容，请到原网页查看>
+(全部6卷216张底片)
+人那，真好
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+看准灯，往前走
+
+
+
+
+
+
+
+
+
+
+黑夜茫茫，迷…]]></summary>
+        <author>
+            <name>游魂nt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attributer — Know what marketing channels are driving customers & revenue]]></title>
+        <id>https://www.producthunt.com/posts/attributer</id>
+        <link href="https://www.producthunt.com/posts/attributer"/>
+        <updated>2021-05-17T10:03:57.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Hey Product Hunters! 
+
+Proud to launch Attributer.io to you all.
+
+I've consulted for and lead marketing teams at the likes of InVision, Xero & Asana and one thing I always noticed was they had no good way of getting marketing attribution information (I.e. where did this lead/signup come from) into their core systems (I.e. their CRM, their email marketing tool, analytics tools, etc).
+
+So a few years ago I built this tool that basically looks at a bunch of information about how people arrive at your…]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[McGill University Power Plant / FABG]]></title>
+        <id>https://www.archdaily.com/961746/mcgill-university-power-plant-fabg</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/TV2ZXEZR8_g/mcgill-university-power-plant-fabg"/>
+        <updated>2021-05-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[McGill University needed a new building to house three 1.5 MW emergency facilities, generators that will protect research activities in the event of a power outage. The McGill University thermal power plant and the Wong, Rutherford, Administration, and Leacock pavilions are powered by a single emergency generator located in the Ferrier building in the immediate vicinity of the boiler room. This presents risks that should be limited by Housing New generators in separate spaces in the immediate vicinity.]]></summary>
+        <author>
+            <name>Paula Pintos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[晚報：內塔尼亞胡為轟炸國際傳媒辯護，聲稱哈馬斯在大樓設情報機關]]></title>
+        <id>https://theinitium.com/article/20210517-evening-brief/</id>
+        <link href="https://theinitium.com/article/20210517-evening-brief/"/>
+        <updated>2021-05-17T09:51:00.000Z</updated>
+        <summary type="html"><![CDATA[以色列持續向巴勒斯坦控制的加沙地帶發動陸空炮擊，哈馬斯則繼續以火箭炮還擊。以色列總理內塔尼亞胡（Benjamin Netanyahu）接受美國傳媒訪問，為以軍日前轟炸半島電視台、美聯社等傳媒的辦公大樓辯護，聲稱哈馬斯在相關大樓設有情報機關。]]></summary>
+        <author>
+            <name>端傳媒 Initium Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RiviCamer — The next generation 5K portable scanner]]></title>
+        <id>https://www.producthunt.com/posts/rivicamer</id>
+        <link href="https://www.producthunt.com/posts/rivicamer"/>
+        <updated>2021-05-17T09:47:33.000Z</updated>
+        <summary type="html"><![CDATA[“
+        The traditional scanner can be bulky, expensive, and only have a few functions. The scanning program can be hard to navigate and make it difficult to utilize in other ways.
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sign.net — Verifiable digital signatures with 24x7 support]]></title>
+        <id>https://www.producthunt.com/posts/sign-net</id>
+        <link href="https://www.producthunt.com/posts/sign-net"/>
+        <updated>2021-05-17T09:43:35.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Welcome to Sign.net! We are a digital signature service for everyone to securely sign documents with users around the world safely and freely. The team was motivated to build a service to protect our online interactions, especially in an increasingly remote-first workplace.
+
+Along the way, we branched out into integrating advanced signing features which enterprises can rely upon to conduct their daily business. Do give us a try by either signing up for a free (yes its really free) personal account…]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morphed — Enhance your customer experience from 1st touch to delivery]]></title>
+        <id>https://www.producthunt.com/posts/morphed</id>
+        <link href="https://www.producthunt.com/posts/morphed"/>
+        <updated>2021-05-17T09:35:05.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Most business software is internally focused to create efficiencies, manage productivity, report on performance. In the age of the customer few focus on giving them a tool to use to manage their journey with their provider. And that's where Morphed fits in.
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TooLooDR — Flexible content for everyone]]></title>
+        <id>https://www.producthunt.com/posts/tooloodr</id>
+        <link href="https://www.producthunt.com/posts/tooloodr"/>
+        <updated>2021-05-17T09:02:14.000Z</updated>
+        <summary type="html"><![CDATA[“
+        I was always the person that would write long-form texts to friends and colleagues. I was never the one to keep it short.
+
+People would naturally, luckily mostly for fun, reply with 'tl;dr' to my messages. That's how I came up with this idea.
+
+I hope to develop and extend it further in the coming months!
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirTrack 2.0 — Get notified about the cheapest flights on Telegram]]></title>
+        <id>https://www.producthunt.com/posts/airtrack-2-0</id>
+        <link href="https://www.producthunt.com/posts/airtrack-2-0"/>
+        <updated>2021-05-17T08:03:06.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Hi hunters 👋
+
+In 2018 we launched the first version of AirTrack on Producthunt. Since then we have added many new features our users asked for. Last year was really tough for us because of the COVID-19 pandemic.
+
+Nevertheless, we are just trying to hide the pain and continue to build new features. So, today we are announcing the second iteration of AirTrack bot!
+
+✈️ Best flight deals
+Now we are using an official Skyscanner’s API. We are cooperating with Skyscanner to get access to the world’s lar…]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge raises $4.5M to help B2B companies build customer-facing integrations]]></title>
+        <id>https://techcrunch.com/?p=2152843</id>
+        <link href="http://feedproxy.google.com/~r/techcrunchIt/~3/altbnvg0wmo/"/>
+        <updated>2021-05-17T08:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Merge, a startup that helps its users build customer-facing integrations with third-party tools, today announced that it has raised a $4.5 million seed round led by NEA. Additional angel investors include former MuleSoft CEO Greg Schott, Cloudflare CEO Matthew Prince, Expanse co-founders Tim Junio and Matt Kraning, and Jumpstart CEO Ben Herman. Launched in 2020, […]]]></summary>
+        <author>
+            <name>Frederic Lardinois</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Thai Pavilion at the 2021 Venice Biennale Explores the Ethnic Culture of Kuy]]></title>
+        <id>https://www.archdaily.com/961826/the-thai-pavilion-at-the-2021-venice-biennale-explores-the-ethnic-culture-of-kuy</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/UJRrqvl1a8U/the-thai-pavilion-at-the-2021-venice-biennale-explores-the-ethnic-culture-of-kuy"/>
+        <updated>2021-05-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Titled "elephant", the Thai pavilion at the 17th International Architecture Exhibition of La Biennale di Venezia answers the question of how architecture can promote the way human beings and other species live together naturally and culturally based on the culture of Kuy and their elephants. Curated by Apiradee Kasemsook and designed by Boonserm Premtada of Bangkok Project Studio, the Thai pavilion will be on display at the Sale d’Armi, Arsenale, from May 22nd to November 21st.]]></summary>
+        <author>
+            <name>Dima Stouhi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast growth pushes an unprofitable no-code startup into the public markets: Inside Monday.com’s IPO filing]]></title>
+        <id>https://techcrunch.com/?p=2152822</id>
+        <link href="http://feedproxy.google.com/~r/techcrunchIt/~3/blJqZrEJbb0/"/>
+        <updated>2021-05-17T07:49:26.000Z</updated>
+        <summary type="html"><![CDATA[The countdown to this IPO filing has been ticking for several quarters, so seeing the document drop on a Monday morning was just good fun.]]></summary>
+        <author>
+            <name>Alex Wilhelm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年5月第二周手办模型情报总汇]]></title>
+        <id>https://www.gcores.com/articles/137148</id>
+        <link href="https://www.gcores.com/articles/137148"/>
+        <updated>2021-05-17T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[炎炎消防队 森罗日下部&环古达【再贩】
+由寿屋出品的炎炎消防队 森罗日下部&环古达 手办模型，于5月10号正式开启预定，1/8比例，森罗日下部全高约21cm、环古达全高约19.5cm，售价各14300円(含税)，预计10月发售。
+森罗日下部
+
+
+
+
+环古达
+
+
+
+
+冰雪奇缘2 艾莎 结尾服饰Ver.&安娜 结尾服饰Ver. 黏土人
+由GSC出品的冰雪奇缘2 艾莎 结尾服饰Ver.&安娜 结尾服饰Ver. 黏土人，于5月11号正式开启预定，无比例，全高约10cm，售价各5900円(含税)，预计22年1月发售。
+
+
+
+艾莎
+
+
+
+
+安娜
+
+
+
+
+美少女狙击手 原画:Nidy-2D-【DX版、STD版】
+由SkyTube出品的美少女狙击手 手办模型，于5月11号正式开启预定，1/6比例，全高约30cm，dx版售价22000円(含税)、std版售价20900円(含税)，预计22年2月发售。
+配件内容：
+DX版：替换表情、步枪配件、身体配件、明信片
+STD版：替换表情、步枪配件、明信片
+
+
+
+
+S.H.Figuarts 龙珠GT 超级赛亚人4孙悟空
+由万代出品的S.H.Figuarts 龙珠GT 超级赛亚人4孙悟空 可…]]></summary>
+        <author>
+            <name>雨宫 莲</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urban Farming: Food Production in Community Parks and Private Gardens]]></title>
+        <id>https://www.archdaily.com/916757/urban-farming-food-production-in-community-parks-and-private-gardens</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/H6w5qc8d3MQ/urban-farming-food-production-in-community-parks-and-private-gardens"/>
+        <updated>2021-05-17T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[As urban dwellers become more aware of the environmental impacts of food production and transportation, as well as the origin and security of what they consume, urban agriculture is bound to grow and attract public and political eyes. Bringing food production closer, in addition to being sustainable, is pedagogical. However, generally with small size and other restrictions, the concerns of growing food in cities differ somewhat from traditional farming.]]></summary>
+        <author>
+            <name>Eduardo Souza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clean Manager — Easy way to clean browser history, storage and cache data]]></title>
+        <id>https://www.producthunt.com/posts/clean-manager</id>
+        <link href="https://www.producthunt.com/posts/clean-manager"/>
+        <updated>2021-05-17T07:26:37.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Clean Manager is a simple chrome chrome extension that provides easiest way to clear browser cache, history, downloads, cookies and storage data!  You can clear your browser data or delete site-specific data. You can also create tasks that will clear browser data at a specified interval.
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App Connector by Outfunnel — Connect your sales and marketing data, deeply and easily]]></title>
+        <id>https://www.producthunt.com/posts/app-connector-by-outfunnel</id>
+        <link href="https://www.producthunt.com/posts/app-connector-by-outfunnel"/>
+        <updated>2021-05-17T07:24:37.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[武家门派的不传之秘：《荣耀战魂》战斗系统+表现设计分析（2/3）]]></title>
+        <id>https://www.gcores.com/articles/137073</id>
+        <link href="https://www.gcores.com/articles/137073"/>
+        <updated>2021-05-17T07:17:00.000Z</updated>
+        <summary type="html"><![CDATA[本文约2700字，阅读预计12-17分钟。本文会有一些3D动作游戏、格斗游戏特有名词。
+阅读本文前，建议先阅读本文前篇：《攻防流转的艺术：<荣耀战魂>战斗系统设计分析（1/3）》。
+
+前文概念提要
+轻/重/抓取/破防 + 防御/招架/回避：格斗游戏中的基础进攻/防御策略，相互构成类似剪刀石头布的克制循环。
+架势：《荣耀战魂》特有的攻击方向系统，基础部分为上/左/右三种，需要相同架势才能防御受到的攻击。
+攻防转换/战斗优先权/反制：被我方连招中对手只有（且随时都有）反制我方攻击的能力，无法主动对我方发起攻击。此时为我方有战斗主动权。
+1、战坦贼的经典三角：职业基础特质篇
+由于2021年《荣耀战魂》已有骑士、武士、维京、武林4个阵营，7骑士+7武士+7维京+5武林+2特殊，共计28个职业。限于篇幅，本部分只取骑士先锋-看守者、维京重装-督军、武士刺客-大蛇，武林混合-少林来作为具体的各职业例子。
+鉴于CCU更新对游戏的巨大改变，此处数据部分为2020年6月CCU更新前数据。
+职业设计总结：
+
+平衡基点-先锋
+低技巧低风险的防御型-重装
+高技巧高风险的输出脆皮-刺客
+以上3者中任意2-3者组合 + 特有趣味性设计 …]]></summary>
+        <author>
+            <name>哪谁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hollr — The easiest way to get recommendations from your friends]]></title>
+        <id>https://www.producthunt.com/posts/hollr</id>
+        <link href="https://www.producthunt.com/posts/hollr"/>
+        <updated>2021-05-17T07:08:26.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Hey PH! Hollr co-founders, Alex, Sahit, and Dhruv here.
+
+We’re college sophomores, and we started Hollr with the idea that the best way to make decisions is to lean on the recommendations of your friends.
+
+Gone are days of endless scrolling and Googling around for reviews from people you don’t know. With Hollr, you can maximize the returns on your time and money with minimal effort by tapping into the collective knowledge of your friends. 
+
+Hollr is available to everyone, and we’d love to hear you…]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coopworth House / FMD Architects]]></title>
+        <id>https://www.archdaily.com/961687/coopworth-house-fmd-architects</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/zge_kRLKShw/coopworth-house-fmd-architects"/>
+        <updated>2021-05-17T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nestled in the rural surrounds of Bruny Island, Tasmania, Coopworth is a contemporary interpretation of a country farmhouse. The site’s resident Coopworth sheep, the wide-ranging views to the water and mountain ranges beyond, as well as the weathering red lead shacks dotted over the island provide an ever-changing landscape with which the house converses.]]></summary>
+        <author>
+            <name>Hana Abdel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Racompass — A faster and more robust management tool for Redis]]></title>
+        <id>https://www.producthunt.com/posts/racompass</id>
+        <link href="https://www.producthunt.com/posts/racompass"/>
+        <updated>2021-05-17T06:47:21.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Hey guys, our team decided to build user-friendly data management tools. That is the productivity boost software development needs.
+Help share with your friends. Cheers!!!
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exirio — Track all your wealth, in one place]]></title>
+        <id>https://www.producthunt.com/posts/exirio</id>
+        <link href="https://www.producthunt.com/posts/exirio"/>
+        <updated>2021-05-17T06:36:40.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么我觉得《怪物猎人Rise》不耐刷了]]></title>
+        <id>https://www.gcores.com/articles/137071</id>
+        <link href="https://www.gcores.com/articles/137071"/>
+        <updated>2021-05-17T06:32:00.000Z</updated>
+        <summary type="html"><![CDATA[随着《怪物猎人Rise》发售已经过了2个月了，不知道新老猎人们都已经刷穿了多少只雷神龙和爆鳞龙了。不过，许多猎人们对于本作的讨论也从“牛逼”、“好玩”渐渐地变成了“不耐刷”、“内容少”。
+得先说明的是，本作的不耐刷还是与《怪物猎人》前作相比较的结论，相比其它平均10小时通关、50小时白金的大作来说，《怪猎》的对手还是只有它自己。
+究竟本作为何会变得如此“不耐刷”了呢？
+那就直接从本作让老猎人最不能理解的变化说起——解禁怪的消失。解禁怪，可以说是每作《怪猎》的标志之一，是隐藏在封面怪背后神秘的存在。《怪物猎人X》里的“骸龙”、《怪物猎人 世界》里的“冥灯龙”都是最后的隐藏BOSS，为了让猎人体验最终战的惊喜而登场的。只有打完解禁怪，开放了HR等级上限，和一堆刷刷刷内容，才是怪猎真正的开始。
+先来回首看下《怪物猎人X》和《怪物猎人 世界》解禁的时候到底能刷些什么，似乎会显得更直观。《怪物猎人X》有着一堆二名怪的存在，每个二名怪都对应着10个任务的循环，虽然也是复用同场怪加各种道具限制的垃圾模式，但是能让猎人有东西可以挑战，并且二名怪也有单独的装备和武器可以制作。有些难度下的限制不仅仅是双怪同场，甚至是连道具都不能…]]></summary>
+        <author>
+            <name>kituu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pavilion of the Netherlands at the 2021 Venice Biennale Deconstructs Typical Public Spaces]]></title>
+        <id>https://www.archdaily.com/961824/the-netherlands-pavilion-at-the-2021-venice-biennale-deconstructs-typical-public-spaces</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/tiIHXDnqtbQ/the-netherlands-pavilion-at-the-2021-venice-biennale-deconstructs-typical-public-spaces"/>
+        <updated>2021-05-17T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Titled "Who is We", the Pavilion of the Netherlands at the 17th International Architecture Exhibition – La Biennale di Venezia deconstructs normal concepts of space, visualizing what is often overlooked behind the structures that typically define urban spaces. Curated by a team led by Francien van Westrenen, the pavilion will be on display from 22 May to 21 November 2021.]]></summary>
+        <author>
+            <name>Dima Stouhi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acne Studios Stockholm Store / ARQUITECTURA-G]]></title>
+        <id>https://www.archdaily.com/961696/acne-studios-stockholm-store-arquitectura-g</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/6h2WLXwy3h0/acne-studios-stockholm-store-arquitectura-g"/>
+        <updated>2021-05-17T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This former bank suffered a robbery in which hostages were taken, leading to the term Stockholm syndrome. After the bank closed, several interventions added a series of layers over the years, masking the original neoclassic architecture.]]></summary>
+        <author>
+            <name>Pilar Caballero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Irish Pavilion for the 2021 Venice Biennale Explores the Impact of Data Production on Everyday Life]]></title>
+        <id>https://www.archdaily.com/961734/the-irish-pavilion-for-the-2021-venice-biennale-explores-the-impact-of-data-production-on-everyday-life</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/s0mgj7LXhSQ/the-irish-pavilion-for-the-2021-venice-biennale-explores-the-impact-of-data-production-on-everyday-life"/>
+        <updated>2021-05-17T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[For this edition of the Venice Architecture Biennale, the Irish Pavilion focuses on data technologies and their presence within the physical landscape, exploring the cultural end environmental implications of data production and consumption. Titled Entanglement and curated by the multidisciplinary research and design collective ANNEX, the exhibition challenges the presumed immateriality of the Cloud, highlighting the infrastructure of data production and its impact on everyday life while also examining Irel…]]></summary>
+        <author>
+            <name>Andreea Cutieru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OMA / Jason Long Unveils Design for Music Venue in Houston]]></title>
+        <id>https://www.archdaily.com/961762/oma-jason-long-unveils-design-for-music-venue-in-houston</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/vPGxqlCoE7g/oma-jason-long-unveils-design-for-music-venue-in-houston"/>
+        <updated>2021-05-17T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[OMA New York / Jason Long has revealed the design for The Terminal, a new performance venue serving as a cultural anchor for POST Houston, the office's redevelopment of the historic Barbara Jordan Post Office in downtown Houston. Integrated within the eastern wing of the mixed-use design, the 5,000 capacity music venue makes use of industrial materials and lighting effects to create a performative space on and off the stage.]]></summary>
+        <author>
+            <name>Andreea Cutieru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消失的军队系列【特别篇】：国际纵队的故事]]></title>
+        <id>https://www.gcores.com/articles/137076</id>
+        <link href="https://www.gcores.com/articles/137076"/>
+        <updated>2021-05-17T05:10:00.000Z</updated>
+        <summary type="html"><![CDATA[作者：李某正在潜逃 
+来源: 战甲网
+这是消失的军队系列第五季，也是一个特殊的主题：西班牙内战中的国际纵队。国际纵队是一群从世界各地奔赴西班牙参加共和政府一方，反对弗朗哥及其背后德国纳粹势力的国际主义战士。
+尽管国际纵队虽然失败了，西班牙共和政府输给了佛朗哥，但是国际纵队仍然是一次国际主义的伟大实践。并且更为关键的是，让其他国家获得了前所未有的机会，其中的代表，就是白求恩。
+消失的军队系列是我们对于历史边角料的热爱而发掘的那些离我们并不遥远，且并没有经历战争却走向消亡的军队的故事。
+
+( 国际纵队的旗帜。)
+
+( 颁发给国际纵队参战者的西班牙第二共和国勋章。)
+
+“一场关乎人类进步的战争”
+1936年7月到1939年4月间，西班牙第二共和国爆发了一场备受世人关注的内战。交战方为效忠民选政府的共和军和人民阵线组成的左翼联盟（共和派），与之相对的是弗朗西斯科·佛朗哥为核心的西班牙长枪党叛军（国民派）。
+
+(占据胡埃斯卡高点的国民派叛军，1936年11月。)
+
+(叛军攻入伊鲁恩，史上最早的向不设防城市轰炸即发生在西班牙内战期间。)
+这场内战的成因是复杂的，其中包括1931年第二共和国建政后以天主教势力为主的保守派对…]]></summary>
+        <author>
+            <name>Tiberius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncertainty, The Spanish Pavilion in the 2021 Biennale of Venice: Is Uncertainty Our Only Certainty?]]></title>
+        <id>https://www.archdaily.com/961733/uncertainty-the-spanish-pavilion-in-the-2021-biennale-of-venice-is-uncertainty-our-only-certainty</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/W6Pmk1y7Ix8/uncertainty-the-spanish-pavilion-in-the-2021-biennale-of-venice-is-uncertainty-our-only-certainty"/>
+        <updated>2021-05-17T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A sneak peak of Uncertainty, the highlight of the Spanish Pavilion at the 2021 Biennale of Venice taking place from May 22 to November 21 of this year.]]></summary>
+        <author>
+            <name>Fabian Dejtiar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loop Team — Virtual office with deep presence for distributed teams]]></title>
+        <id>https://www.producthunt.com/posts/loop-team</id>
+        <link href="https://www.producthunt.com/posts/loop-team"/>
+        <updated>2021-05-17T04:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eezy — Daily adventures for ambitious people]]></title>
+        <id>https://www.producthunt.com/posts/eezy</id>
+        <link href="https://www.producthunt.com/posts/eezy"/>
+        <updated>2021-05-17T04:43:54.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從252天零確診到單日333例本土確診，台灣防疫的三個挑戰]]></title>
+        <id>https://theinitium.com/article/20210517-taiwan-covid-epidemic-community-infection/</id>
+        <link href="https://theinitium.com/article/20210517-taiwan-covid-epidemic-community-infection/"/>
+        <updated>2021-05-17T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年五月，台灣亦進入了確診案例持續增長的階段。過去一年多的「空地配合」默契能否以新隊形繼續保持下去？]]></summary>
+        <author>
+            <name>端傳媒記者 何欣潔、李易安 特約撰稿人 林庭葦 發自台北</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How BIG Created The Smile Using Black Stainless-Steel Panels]]></title>
+        <id>https://www.archdaily.com/961335/how-big-created-the-smile-using-black-stainless-steel-panels</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/ZwKK6SggKDU/how-big-created-the-smile-using-black-stainless-steel-panels"/>
+        <updated>2021-05-17T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Designed by the Danish architecture office BIG-Bjarke Ingels Group, the monumental smile made of black blasted stainless steel extends along 126th Street in East Harlem, Manhattan. Inspired by the surface of the moon and the cultural influences of the city district, the T-shaped building fits seamlessly into the surrounding red and brown brick buildings. The interlocking chessboard-like facade panels were manufactured in the Cologne factory POHL Facade Division. Flanked by room-high windows, The Smile refle…]]></summary>
+        <author>
+            <name>Rene Submissions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xpresslane — Universal one click checkout for shopping on the internet]]></title>
+        <id>https://www.producthunt.com/posts/xpresslane</id>
+        <link href="https://www.producthunt.com/posts/xpresslane"/>
+        <updated>2021-05-17T04:29:06.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[那些你从未见过的《灌篮高手》最早绝版收藏！]]></title>
+        <id>https://www.gcores.com/videos/136656</id>
+        <link href="https://www.gcores.com/videos/136656"/>
+        <updated>2021-05-17T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一部超多金句的作品，首首刻骨的插曲，但只有《直到世界的尽头》有一种魔力，可以给人勇气，在人生的十字路口，走出坚定的一步！ 
+
+—— 玩大的博物馆     
+“男儿当入樽”的新剧场版也公布了，估计中年主角们的社畜生活估计让观众们可以轻易泪崩。]]></summary>
+        <author>
+            <name>Kazuya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Theme Park-Inspired Urban Design in Italy and a Floating Neighbourhood in Iran: 10 Unbuilt Projects Submitted to Archdaily]]></title>
+        <id>https://www.archdaily.com/961712/a-theme-park-inspired-urban-design-in-italy-and-a-floating-neighbourhood-in-iran-10-unbuilt-projects-submitted-to-archdaily</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/x6DxhHXpcOw/a-theme-park-inspired-urban-design-in-italy-and-a-floating-neighbourhood-in-iran-10-unbuilt-projects-submitted-to-archdaily"/>
+        <updated>2021-05-17T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Urban design is increasingly striving for more inclusive, sustainable environments, bringing together various groups and activities, and fostering social interaction. This week's curated selection of the Best Unbuilt Architecture focuses on urban designs, large-scale urban development projects and masterplans submitted by the ArchDaily Community, showcasing how architects around the world work with and shape the urban fabric of highly diverse environments.]]></summary>
+        <author>
+            <name>Andreea Cutieru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loop — Chicago's best transit app for commuters, students, tourists]]></title>
+        <id>https://www.producthunt.com/posts/loop-6a31cc45-c55e-498f-9b85-0ac865421c1d</id>
+        <link href="https://www.producthunt.com/posts/loop-6a31cc45-c55e-498f-9b85-0ac865421c1d"/>
+        <updated>2021-05-17T03:59:17.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[結繩志：一份巴勒斯坦人類學書單，我們都是難民]]></title>
+        <id>https://theinitium.com/article/20210517-note-opinion-booklist-palestine/</id>
+        <link href="https://theinitium.com/article/20210517-note-opinion-booklist-palestine/"/>
+        <updated>2021-05-17T03:35:00.000Z</updated>
+        <summary type="html"><![CDATA[標題來自阿倫特的文章We Refugees，當阿倫特書寫歐洲猶太難民時，她心中所思並非只有猶太民族。]]></summary>
+        <author>
+            <name>端傳媒 Initium Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Exactly is the Art Museum in Modern Times?]]></title>
+        <id>https://www.archdaily.com/961751/what-exactly-is-the-art-museum-in-modern-times</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/SJKQTgMfZxE/what-exactly-is-the-art-museum-in-modern-times"/>
+        <updated>2021-05-17T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA["Is a museum defined by its collection? Or by its architecture? In The Art Museum in Modern Times, Charles Saumarez Smith suggests it is both and still something more". Lauren McQuistion, an architectural designer and Ph.D. Candidate in the Constructed Environment at the University of Virginia School of Architecture discusses in her Architect's Newspaper piece, Saumarez's book, exploring the notion of a modern museum.]]></summary>
+        <author>
+            <name>Lauren McQuistion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[核聚变2021“弧光行动”CG宣传片丨最终战「时空浩劫」]]></title>
+        <id>https://www.gcores.com/videos/137181</id>
+        <link href="https://www.gcores.com/videos/137181"/>
+        <updated>2021-05-17T03:28:53.000Z</updated>
+        <summary type="html"><![CDATA[感谢大家的支持，核聚变2021北京站已于昨天顺利圆满结束！ 
+看过核聚变宣传片的小伙伴一定发现这个片子中存在6个CG混剪片段，每个CG片段都是社区内一位艺术家原创制作的一个位面世界，同时也设计了该位面相应的世界观，今天将要放出的是最后一个CG视频：来自toyoya创作的「时空浩劫」，同时这也是「弧光行动」的最终BOSS。
+最终战 时空浩劫
+设备：四重象限已修复。
+设备：正在检测时空维度稳定性……
+设备：时空维度已趋于稳定。多元宇宙正在愈合。
+设备：侦测到大规模时空浩劫反应！读数异常！读数异常！
+设备：时空浩劫反应坐标系与您重合！
+设备：请立即做好应对……
+
+
+最终，经过弧光行动参与者们的努力，时空浩劫消散了。多元宇宙又恢复了和平。
+所有人万众一心，不同世界的封锁解除了。
+你跨越崇山峻岭，挺过了艰难时刻，终于抵达了目的地。
+来到了这里，这个吉考斯建立的小小世界中——被称作“核聚变”的现场。
+看向周围吧，那些就是与你一同奋战的人们。
+虽然来自不同世界，生活、职业也都与你不尽相同，
+但他们却都是与你一样的人们。
+热爱这个世界的朋友们。
+
+
+「弧光行动」记忆体
+来核聚变现场参与并成功通关「弧光行动」的小伙伴应该已经收…]]></summary>
+        <author>
+            <name>bazingga二七</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Buying the best from the outset]]></title>
         <id>http://earlyretirementextreme.com/?p=290</id>
@@ -17,6 +1043,218 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JOYTOY公布将与战锤40K合作，推出1/18可动成品模玩合作]]></title>
+        <id>https://www.gcores.com/articles/137014</id>
+        <link href="https://www.gcores.com/articles/137014"/>
+        <updated>2021-05-17T03:05:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年5月17日，JOYTOY 官方正式宣布获得Games Workshop公司正版授权，将共同推出一系列战锤40K经典角色的1/18超可动成品模玩。关于该系列产品详细计划将于今年6月正式发布。
+
+
+
+关于Games Workshop
+
+
+位于英国诺丁汉的Games Workshop集团有限公司专注于制作优质奇幻微缩模型。Games Workshop设计、制造、销售并发行了一系列微缩士兵模型、小说和模型套件等，其中包括旗下的战锤西格玛时代和战锤40K。目前，Games Worshop已有500多家零售店，零售渠道覆盖全球50多个国家与地区。 
+
+关于JOYTOY
+
+
+JOYTOY是中国科幻模玩品牌，专注于产品设计研发，同时注重海内外IP合作。近几年，JOYTOY除自有IP产品的研发，与多家知名IP也进行了合作，推出《红海行动》、《流浪地球》《穿越火线》等系列产品。]]></summary>
+        <author>
+            <name>Kazuya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿撒托斯的奴仆：当“黑人剥削”遇上“克苏鲁神话”]]></title>
+        <id>https://www.gcores.com/articles/136847</id>
+        <link href="https://www.gcores.com/articles/136847"/>
+        <updated>2021-05-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1970年代，一种非常暴烈的全新电影类型横空出世并红极一时，吸引了全球黑人电影观众的眼球，却很快在社会伦理道德的谴责声中于全盛时期急速衰落，产业迅速瓦解，如今只有零星几部这一类型的新片冷不丁儿地蹦出来，虽不乏佳片，却难再有当年的反响。
+
+
+这一类型便是：Blaxploitation，即“黑人剥削电影”。
+今天的人们很容易误解这一名称。“黑人剥削电影”，它并不是指靠歧视和剥削黑人演员来制作的片子，相反，“黑人剥削”中的“剥削”对象，其实指的是广大黑人观众，因为这些影片中的主角、正派人士，和孤胆英雄，都由黑人演员包办；而恶棍、流氓、黑恶势力、腐败官员等反派，则都由白人出演，这样一来，“黑人剥削电影”肯定不受当时的白人观众青睐，只能靠“剥削”、确切地说是招揽黑人观众来盈利，目标是黑人的钱包。
+当年的那些B级“黑人剥削片”的拷贝在今天被“考古者”不断地寻找和修复，不出意外地成为了全世界邪典影迷推崇的对象，当然也包括白人影迷。
+
+(黑人硬杠白人是黑人剥削电影的最大卖点。（图为效果展示，并非黑人剥削电影桥段。）)
+对美国电影稍有了解的朋友都知道昆汀·塔伦蒂诺儿时最喜欢看东亚地区的暴力B级片，却可能不知道“黑人剥削电影”其…]]></summary>
+        <author>
+            <name>二厂</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpex Cultural Centre / Atelier Archiplein]]></title>
+        <id>https://www.archdaily.com/961736/alpex-cultural-centre-atelier-archiplein</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/AJ-GMqBTjY0/alpex-cultural-centre-atelier-archiplein"/>
+        <updated>2021-05-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Alpex Cultural Centre is located in Scionzier, a town in the Rhône-Alpes region of south-eastern France. The project involved the transformation of a former machining factory, with the firm commissioned to extend and convert the building into a new cultural centre, forming part of a broader master plan to renovate and revitalize the heart of Scionzier.]]></summary>
+        <author>
+            <name>Paula Pintos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[早報：內塔尼亞胡稱以色列將繼續「全力」攻擊哈馬斯，加沙至少192人死亡]]></title>
+        <id>https://theinitium.com/article/20210517-morning-brief/</id>
+        <link href="https://theinitium.com/article/20210517-morning-brief/"/>
+        <updated>2021-05-17T02:41:00.000Z</updated>
+        <summary type="html"><![CDATA[以色列總理 內塔尼亞胡週日表示 ，以色列將繼續對哈馬斯武裝分子「全力」攻擊，直到「必要時」才會停火，「這需要一段時間」。]]></summary>
+        <author>
+            <name>端傳媒 Initium Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[剧场版《FGO-终局特异点 冠位时间神殿所罗门-》正式PV公开，7月30日上映]]></title>
+        <id>https://www.gcores.com/articles/137172</id>
+        <link href="https://www.gcores.com/articles/137172"/>
+        <updated>2021-05-17T02:31:00.000Z</updated>
+        <summary type="html"><![CDATA[5月15日，剧场版《FGO-终局特异点 冠位时间神殿所罗门-》（Fate/Grand Order -終局特異点 冠位時間神殿ソロモン-）公开了正式PV，该作将在《FGO》上线6周年的7月30日于日本正式上映。
+
+
+<内嵌内容，请到原网页查看>
+
+
+
+“终局特异点 冠位时间神殿所罗门”为手游《FGO》的第一部最终章，御主藤丸立香和玛修将一起前往终局特异点，直面阴谋的真相。
+
+
+
+
+
+
+本作动画制作由CloverWorks负责，监督为赤井俊文，角色设计为高濑智章，参演声优为岛崎信长、高桥李依、川澄绫子、铃村健一、坂本真绫、杉田智和等。影票预售已于5月15日正式开始，特典为A4文件夹。]]></summary>
+        <author>
+            <name>熊吉吉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Year Glance — Plan your year the way you want]]></title>
+        <id>https://www.producthunt.com/posts/year-glance</id>
+        <link href="https://www.producthunt.com/posts/year-glance"/>
+        <updated>2021-05-17T02:23:57.000Z</updated>
+        <summary type="html"><![CDATA[“
+        I have always wanted to be intentional with my time so each year I like to sit with my calendar and map out my year with work, family events and so I can balance my time and energy and plan for holidays.
+
+But there has never been a suitable year view for any product. With my Google calendar events, why could I not transfer this into a digital or printable wall calendar?
+
+Enter Year Glance...
+
+A fully integrated calendar tool to view your year (or across years), customise your calendar and print or…]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whimsical Tableaux Set in the World’s Most Beautiful Landscapes]]></title>
+        <id>https://www.featureshoot.com/?p=145155</id>
+        <link href="https://www.featureshoot.com/2021/05/whimsical-tableaux-set-in-the-worlds-most-beautiful-landscapes/"/>
+        <updated>2021-05-17T01:57:40.000Z</updated>
+        <summary type="html"><![CDATA[The photographer Simple-T was born in 1970 and raised in Bucharest, Romania, when the nation was still under the communist control of Nicolae Ceau?escu. “Traveling outside the country was strictly…
+The post Whimsical Tableaux Set in the World’s Most Beautiful Landscapes appeared first on Feature Shoot.]]></summary>
+        <author>
+            <name>Ellyn Kail</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notion Playground by Slice — Play with Notion API and ruin our website in real time]]></title>
+        <id>https://www.producthunt.com/posts/notion-playground-by-slice</id>
+        <link href="https://www.producthunt.com/posts/notion-playground-by-slice"/>
+        <updated>2021-05-16T22:46:06.000Z</updated>
+        <summary type="html"><![CDATA[“
+        And the award for best API of the month goes to... Notion API!! 🎉 
+
+Thanks for participating, the party has just started at the Notion Playgrounds, don't miss it! Please be aware that new rooms may be opened without much of a notice during the day.
+
+I'll be taking questions for the next 24 hours here, on Twitter and of course on the Notion Playgrounds. Feedback and ideas to fire up the party are very welcome
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's Goal — Volunteering taken to the next level]]></title>
+        <id>https://www.producthunt.com/posts/let-s-goal</id>
+        <link href="https://www.producthunt.com/posts/let-s-goal"/>
+        <updated>2021-05-16T22:01:41.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Our goal is to make Volunteering easier, better, and more enjoyable for the entire planet. Help support others, post your ideas/projects, and make the world a better place by helping others to complete their ideas.
+
+Users will be able either to contribute to already existing projects or to create new ones and gather volunteers for their implementation. The website targets all layers of society: people, enterprises, non-profit organizations, etc.
+
+More specifically, users will increase volunteering…]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NotesHub — Fully cross-platform, markdown based note-taking app]]></title>
+        <id>https://www.producthunt.com/posts/noteshub</id>
+        <link href="https://www.producthunt.com/posts/noteshub"/>
+        <updated>2021-05-16T21:39:07.000Z</updated>
+        <summary type="html"><![CDATA[“
+        I spent 6+ month on creating NotesHub. It's implemented as progressive web application, so you can use it everywhere (Windows, Linux, Mac, Android, iPhone, etc.). It works offline, uses Markdown for notes which stored in Git repositories (in the browser context). As of today only GitHub is supported for remote sync, but more provides coming in the future if community express an interest in the project.
+Please share you thought on the project.
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Obsidian Life OS — A unified workflow system built in Notion]]></title>
+        <id>https://www.producthunt.com/posts/obsidian-life-os</id>
+        <link href="https://www.producthunt.com/posts/obsidian-life-os"/>
+        <updated>2021-05-16T21:34:22.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Why I created Obsidian OS
+
+I am a product designer and founder of 3 companies. Running companies, managing projects and personal life are altogether a complex objectives. I wanted to create a system to eliminate noise and build a kind of second brain. Notion as a product is very unique and a powerful tool which I used to create a system: Obsidian- Unified workflow notion system.
+
+The main concerns with these type of systems are they tend to break easily and needs lot of efforts or inputs to manage…]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shortcut.so — Practice keyboard shortcuts and commands]]></title>
+        <id>https://www.producthunt.com/posts/shortcut-so</id>
+        <link href="https://www.producthunt.com/posts/shortcut-so"/>
+        <updated>2021-05-16T21:09:39.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Practice Commands and Shortcuts. Save time. Increase productivity
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brew Ratio — A simple coffee calculator to help you brew a great cup]]></title>
+        <id>https://www.producthunt.com/posts/brew-ratio</id>
+        <link href="https://www.producthunt.com/posts/brew-ratio"/>
+        <updated>2021-05-16T20:40:01.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Hey Product Hunt!
+
+I made this tiny little coffee calculator to help those who love to measure when they brew. 
+
+At home I brew coffee with the comfort of a gram scale and my trusty Hario v60. But when I'm on the road I don't always have those familiar tools. I struggle with even basic coffee machines because they all have their own measurements they call "cups" – no two are alike!
+
+This coffee calculator helps you figure out the right brew ratio with whatever measurements you have available – whe…]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mustard Building / Aurora Arquitectos + Furo]]></title>
         <id>https://www.archdaily.com/961527/mustard-building-aurora-arquitectos-plus-furo</id>
         <link href="http://feedproxy.google.com/~r/ArchDaily/~3/4fjadwUR9D8/mustard-building-aurora-arquitectos-plus-furo"/>
@@ -24,6 +1262,66 @@
         <summary type="html"><![CDATA[Mustard building - the interior serenity. The second chapter of the rose-house begins with the city code. The rules allow us to construct a new addition to the existent building on the back of the plot facing Princesa Street.]]></summary>
         <author>
             <name>Andreas Luco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wallzoe — Social media management & scheduling software]]></title>
+        <id>https://www.producthunt.com/posts/wallzoe</id>
+        <link href="https://www.producthunt.com/posts/wallzoe"/>
+        <updated>2021-05-16T18:22:33.000Z</updated>
+        <summary type="html"><![CDATA[“
+        I created Wallzoe as a useful solution for social media managers and business owners. Social media and social media marketing are a constant in today's world, and Wallzoe is a useful tool to manage all social networks under one dashboard. This software is perfect for those who work in digital marketing, as well as small to medium size businesses.
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vivet Face2Face — Talk to your clients through video-calls and sell more]]></title>
+        <id>https://www.producthunt.com/posts/vivet-face2face</id>
+        <link href="https://www.producthunt.com/posts/vivet-face2face"/>
+        <updated>2021-05-16T17:28:39.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Klate by Arios Labs — Fully managed production grade Kubernetes based platform]]></title>
+        <id>https://www.producthunt.com/posts/klate-by-arios-labs</id>
+        <link href="https://www.producthunt.com/posts/klate-by-arios-labs"/>
+        <updated>2021-05-16T17:16:00.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Hey Guys!!
+Check out this product Klate. A simple Kubernetes platform for those who want to deploy a functional Kubernetes without the added burden of its management.
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brainstormer — Facilitate brainstorming sessions with remote teams]]></title>
+        <id>https://www.producthunt.com/posts/brainstormer</id>
+        <link href="https://www.producthunt.com/posts/brainstormer"/>
+        <updated>2021-05-16T16:27:05.000Z</updated>
+        <summary type="html"><![CDATA[“
+        I work as a product manager, and it is often time consuming to come up with facilitation methods in a remote setting. 
+
+it also requires more preparation time to facilitate remotely, so I wanted to create a tool that can structure the session for the facilitator. The structure I chose was brainstorming, voting and reviewing. 
+
+I always find it super inspirational to see all the good ideas that come from sessions like these, and it also gives the team a lot of energy to see how easy it can be to co…]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
         </author>
     </entry>
     <entry>
@@ -110,6 +1408,25 @@ UI高清
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[dailyBrew — Build your own feed & subscribe to newsletters]]></title>
+        <id>https://www.producthunt.com/posts/dailybrew</id>
+        <link href="https://www.producthunt.com/posts/dailybrew"/>
+        <updated>2021-05-16T15:04:10.000Z</updated>
+        <summary type="html"><![CDATA[“
+        👋 Hey hunters! 
+
+Today we 🔥 launch our first and most ambitious product to date!
+
+I've named it dailyBrew and it's not your usual content-based application.
+
+dailyBrew = 📜 custom tamable feed  + ✉️ newsletters + 🎆 surprises
+
+We at dailyBrew feel that our feed should be in our control. We've built this application keeping that in mind and we provide you this control so that you can tame your feed and consume the content that truly matters to you by choosing how much content you want to read, an…]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[House in Zengo / Maki Yoshimura Architecture Office | MYAO]]></title>
         <id>https://www.archdaily.com/902710/house-in-zengo-maki-yoshimura-architecture-office-myao</id>
         <link href="http://feedproxy.google.com/~r/ArchDaily/~3/q-olKfONAwk/house-in-zengo-maki-yoshimura-architecture-office-myao"/>
@@ -127,6 +1444,18 @@ UI高清
         <summary type="html"><![CDATA[我們期望設立一個新的問答欄目，不由編輯部來主導議題的設置，而是由你們提出想要了解的問題，作出自己的分享，控制討論的方向。]]></summary>
         <author>
             <name>端傳媒編輯部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trac! — Record your time with ease]]></title>
+        <id>https://www.producthunt.com/posts/trac-2</id>
+        <link href="https://www.producthunt.com/posts/trac-2"/>
+        <updated>2021-05-16T14:34:25.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
         </author>
     </entry>
     <entry>
@@ -281,6 +1610,28 @@ Cygames创意总监：回滚代码是必备的
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[大陸在線教育迎來最強監管，但家長的焦慮能管住麼？]]></title>
+        <id>https://theinitium.com/article/20210518-technology-online-education/</id>
+        <link href="https://theinitium.com/article/20210518-technology-online-education/"/>
+        <updated>2021-05-16T09:49:00.000Z</updated>
+        <summary type="html"><![CDATA[瘋狂增長的資本，逐漸收緊的政策，和焦慮的中國家長。]]></summary>
+        <author>
+            <name>端傳媒實習記者 李佳星 發自香港</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vcoops — Virtual, local coupons wherever you go]]></title>
+        <id>https://www.producthunt.com/posts/vcoops</id>
+        <link href="https://www.producthunt.com/posts/vcoops"/>
+        <updated>2021-05-16T09:38:41.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ChefPage — Publishing platform for food & recipes]]></title>
         <id>https://www.producthunt.com/posts/chefpage</id>
         <link href="https://www.producthunt.com/posts/chefpage"/>
@@ -305,6 +1656,28 @@ Discussion
         <summary type="html"><![CDATA[The assignment for this project takes place in Fisherton, a residential borough in the western suburbs of Rosario city, its origin dates from the late 19th century, as a consequence of the development of railway infrastructure that connected the central area of Argentina to the western regions. Initially conceived as a villa for the British hierarchical staff in charge of the railway company, this led to the appearance of constructions and a strong stylistic trend according to English Architecture around th…]]></summary>
         <author>
             <name>Pilar Caballero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Flows for Figma — Brainstorm, explore, and document your workflow]]></title>
+        <id>https://www.producthunt.com/posts/visual-flows-for-figma</id>
+        <link href="https://www.producthunt.com/posts/visual-flows-for-figma"/>
+        <updated>2021-05-16T08:44:09.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Hi Product Hunters! I'm really proud to finally release Visual Flows for Figma.
+Let us know what you think! And don't forget to share it with your friends.
+
+Preview
+https://www.figma.com/community/file/975379246245838635/Visual-Flows-Previews
+
+🙏 We’d love get some feedback and I’m happy to answer questions!
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
         </author>
     </entry>
     <entry>
@@ -568,6 +1941,24 @@ B站链接]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Play _The Search for Almazar_ online]]></title>
+        <id>https://quuxplusone.github.io/blog/2021/05/16/play-almazar/</id>
+        <link href="https://quuxplusone.github.io/blog/2021/05/16/play-almazar/"/>
+        <updated>2021-05-16T00:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Previously on this blog:
+“Nifty notebooks, and Almazar” (2021-05-13).
+In that previous post, I explained how I’d become aware of Winston M. Llamas’s circa-1981 text adventure game
+The Search for Almazar; googled up two different versions of its BASIC source code
+and gotten one of them running in a CP/M emulator; and put that source code
+and instructions on my GitHub (github.com/Quuxplusone/Almazar).
+Three days later, I’ve produced a C99 port! You can compile it natively from
+the C source,
+or — better — you …]]></summary>
+        <author>
+            <name>Arthur O’Dwyer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[systemd: The Good Parts]]></title>
         <id>https://christine.website/talks/systemd-the-good-parts-2021-05-16</id>
         <link href="https://christine.website/talks/systemd-the-good-parts-2021-05-16"/>
@@ -748,6 +2139,19 @@ We're looking forward to your feedback on how we can improve this and make it be
         <summary type="html"><![CDATA[The Todoroki Ravine is a windy location. Running through a dense urban forest, the air provided near the ground is humid while dry winds constantly blow up towards the sky. The design of the house has been defined by focusing on these two contrasting environmental conditions and through the studies of primitive architectures pieces from both humid and arid areas around the world.]]></summary>
         <author>
             <name>Rayen Sagredo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geneva — An all-in-one communication app for groups & communities]]></title>
+        <id>https://www.producthunt.com/posts/geneva-1</id>
+        <link href="https://www.producthunt.com/posts/geneva-1"/>
+        <updated>2021-05-15T16:20:59.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Hi everyone 👋
+
+After I wrote an article called "Community leaders deserve better" (https://li.substack.com/p/community-leaders-deserve-better) a few months ago, I got introduced to the team at Geneva who have been quietly working on this exact challenge for the last 2 years (way before 'community' was hot!). I was floored by how closely aligned our visions were, became an investor, and was honored when they asked for my help announcing their launch. As someone who's seen and used probably 50+ dif…]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
         </author>
     </entry>
     <entry>
@@ -12295,47 +13699,6 @@ Tail latency, also known as high-percentile latency, refers to high latencies th
         <summary type="html"><![CDATA[In type theory, equality has a definition, and basic facts about it such as symmetry and transitivity can be proved from more fundamental principles. Continue reading &#8594;]]></summary>
         <author>
             <name>xenaproject</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Ken Jacobs’ A PRIMER IN SKY SOCIALISM (2014)]]></title>
-        <id>http://twycinema.wordpress.com/?p=1310</id>
-        <link href="https://twycinema.wordpress.com/2021/04/18/on-ken-jacobs-a-primer-in-sky-socialism-2014/"/>
-        <updated>2021-04-18T03:55:48.000Z</updated>
-        <summary type="html"><![CDATA[The experience of watching Ken Jacobs’ A Primer in Sky Socialism is a bit like watch Jonas Mekas&#8217; Walden, but in a different speed. But full disclosure, I have to admit at the fact that I couldn’t watch the film silently, in a theater I can, but not on my laptop. So I decided to &#8230; Continue reading On Ken Jacobs’ A PRIMER IN SKY SOCIALISM (2014)]]></summary>
-        <author>
-            <name>terenceyibo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Vito Acconci’s THEME SONG (1973)]]></title>
-        <id>http://twycinema.wordpress.com/?p=1307</id>
-        <link href="https://twycinema.wordpress.com/2021/04/18/vito-acconci-theme-song-1973/"/>
-        <updated>2021-04-18T03:44:52.000Z</updated>
-        <summary type="html"><![CDATA[Watching Theme Song at home was a bizarre experience which might not be how it was supposed to be, but I could be wrong. More than anything it intensifies the feeling of watching something in solitude, a feeling that put myself in tension with that of the artist, which could be entirely different should I &#8230; Continue reading On Vito Acconci’s THEME SONG (1973)]]></summary>
-        <author>
-            <name>terenceyibo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[María Daniel Balcázar – Kilombo]]></title>
-        <id>https://www.burnmagazine.org/?p=71459</id>
-        <link href="https://www.burnmagazine.org/essays/2021/04/maria-daniel-balcazar-kilombo/"/>
-        <updated>2021-04-17T22:42:21.000Z</updated>
-        <summary type="html"><![CDATA[&#160; KILOMBO María Daniel Balcázar &#160; &#160; Kilombo is a tribute to the resilience and vitality of the African legacy in Brazil. During the Atlantic slave trade, approximately 4.8 million people from various regions of Africa were forcefully transported to Brazil, bringing with them only their memories. Through their oral history, in the remembrance of &#8230;
-  María Daniel Balcázar &#8211; Kilombo Read More &#187;]]></summary>
-        <author>
-            <name>burn magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重温《指环王》：神话系统与视效大片]]></title>
-        <id>http://twycinema.wordpress.com/?p=1305</id>
-        <link href="https://twycinema.wordpress.com/2021/04/17/revisit-lotr/"/>
-        <updated>2021-04-17T13:19:11.000Z</updated>
-        <summary type="html"><![CDATA[注：本文中所评价的《指环王》系列电影仅指代其剧场版，非特别加长版；为了区分原著与电影，我以《魔戒》来指代托尔金的小说，以《指环王》来指代彼得·杰克逊的电影。 J.R.R.托尔金的《魔戒》与彼得·杰克逊的《指环王》电影三部曲，在其作为文学与电影的属性之前，首先是一个神话系统，这也是令它们依旧如此难忘的最关键原因。什么是神话系统？用书中里最有名的一句台词来说，就是“历史变成传说，传说变成神话。” 小说与电影各自的开场都从其各自的方位，展示了《魔戒》的故事作为一个神话系统的最首要本质。小说的序章通过对霍比特人简单朴素的田园生活的百科全书式书写，确立了其作为“改变历史的小人物”的重要定位，并以第三方的“客观”视角概述了前作《霍比特人》的一些情节——各种故事在托尔金的嵌套下演变出了自己的历史，自己的人类学、语言学和地理学，也正是在这一次又一次的重述中，我们得到了神话；电影首部曲的开场则首先告诉观众这是一部三亿美元成本的巨制，它首先推销的是更大的格局和“史诗般”的战斗场面。凯兰崔尔（凯特·布兰切特）朗读着开场白，因为她无疑是整部作品中最具“神话”气质，最全知全能的人物。20年过去了，这套视效电影的里程碑依旧拥有超高的人气…]]></summary>
-        <author>
-            <name>terenceyibo</name>
         </author>
     </entry>
 </feed>
