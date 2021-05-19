@@ -16,7 +16,7 @@ sources:
   - href: https://unintendedconsequenc.es/feed/
   - href: https://llogiq.github.io/feed.xml
   # - href: http://www.yinwang.org/atom.xml
-  - href: https://earlyretirementextreme.com/feed
+  # x href: https://earlyretirementextreme.com/feed
   # - href: http://www.aaronsw.com/2002/feeds/pgessays.rss
   - href: https://avc.com/feed/
   # - href: https://microship.com/feed/
@@ -90,3 +90,5 @@ sources:
   - href: https://rss.datatube.dev/twitter/user/Criterion
   # KK
   - href: https://feedpress.me/TheTechnium
+  # FS
+  - hrf: https://fs.blog/feed/
