@@ -2,10 +2,675 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tabokie.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T00:27:45.656Z</updated>
+    <updated>2021-05-23T00:30:55.162Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://tabokie.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://tabokie.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why I prefer making useless stuff]]></title>
+        <id>https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html</id>
+        <link href="https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html"/>
+        <updated>2021-05-23T01:00:01.000Z</updated>
+        <summary type="html"><![CDATA[https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html]]></summary>
+        <author>
+            <name>azh@utk.edu (Austin Z. Henley)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[造F35战斗机的公司也卖笔记本电脑？拆解修复通用动力MR-1]]></title>
+        <id>https://www.gcores.com/articles/137261</id>
+        <link href="https://www.gcores.com/articles/137261"/>
+        <updated>2021-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1.前言
+不管是前线作战还是洞窟探险，有时候一台有着很好的耐用度的便携设备是非常重要的，有着长续航和金属制成的坚固机身，可以防尘甚至防水，这就是坚固本的定义。
+这次我拿到了能塞进腰包和小背包内的笔记本，它的屏幕尺寸只有7寸左右，但是重量却很惊人，这个规格是目前来说极少见的，在高性能的智能手机和平板出现前，这类笔记本电脑负责文档、地图、网页的等信息的查看和内容记录工作。
+这几台电脑是由 @XYZ70599 委托进行修复，他也是先前委托我修复CF-25的玩家。一起来看一下，这些真正的且由军工企业生产的掌上军用笔记本是什么样。
+注：部分信息可能不准确，如发现请在评论区指出。文章内容未按照线性时间因此可能略有些出错。
+2.开箱
+这次我拿到的这三台笔记本都是来自于General Dynamics，中文名通用动力，这一公司在2005年的时候就已经是世界第六大国防工业承包商
+
+
+这些笔记本归属于Itronix GoBook系列，当年的售价为4450美元上下，它们的发售时间是2007年6月12日，运行Windows XP系统。
+
+
+虽然说轮廓是一模一样的，但三台笔记本如果去除缺损、标签等，实际上有许多不同，一会我会进行说明。…]]></summary>
+        <author>
+            <name>新昼</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House in Sumiregaoka / Design Associates Nakamura]]></title>
+        <id>https://www.archdaily.com/961784/house-in-sumiregaoka-design-associates-nakamura</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/0elfq6q7rZQ/house-in-sumiregaoka-design-associates-nakamura"/>
+        <updated>2021-05-22T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The roof is divided into small volumes that harmonize with the city. The slope direction of each roof is varied to create a continuity with the cityscape.]]></summary>
+        <author>
+            <name>Andreas Luco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Symbiosis University Hospital and Research Centre / IMK Architects]]></title>
+        <id>https://www.archdaily.com/962140/symbiosis-university-hospital-and-research-centre-imk-architects</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/WFL0n5QV2j4/symbiosis-university-hospital-and-research-centre-imk-architects"/>
+        <updated>2021-05-22T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Occupying the lower slopes of a hill within Symbiosis International University’s 260-acre estate in Lavale, Symbiosis University Hospital and Research Centre (SUHRC) is a 41,800-square-metre, 216-bed, multi-specialty hospital that represents a new and progressive face for healthcare infrastructure in India. With its state-of-the-art healthcare facilities and a research centre to enhance skill development, it is firmly anchored today as a COVID-19 quarantine and treatment facility, contributing to Maharashtr…]]></summary>
+        <author>
+            <name>Hana Abdel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重要娱乐，GadioNews05.22]]></title>
+        <id>https://www.gcores.com/radios/137367</id>
+        <link href="https://www.gcores.com/radios/137367"/>
+        <updated>2021-05-22T15:02:34.000Z</updated>
+        <summary type="html"><![CDATA[本期时间轴制作：佟和
+本周新闻：国行Xbox Series X/S将于6月10日发售，XSX定价3899；冒险游戏《我的朋友小猪佩奇》将于10月22日登陆多个平台；Summer Game Fest 2021将于6月10日正式开幕；《GTA V》将于11月11日登陆Xbox Series X/S与PS5；高木谦一郎正为Cygames开发全新主机游戏，暂定名为《Project GAMM》；“午夜黑”与“星尘红”配色DualSense手柄将于6月10日发售。本周主题：重要娱乐。]]></summary>
+        <author>
+            <name>Hardy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Silo / Cobe]]></title>
+        <id>https://www.archdaily.com/874698/the-silo-cobe</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/ZcUrCMkHAKU/the-silo-cobe"/>
+        <updated>2021-05-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Silo is part of the transformation of Copenhagen’s Nordhavn (North Harbour) – a vast post-industrial development, currently being transformed into a new city district. Designed by Danish architects COBE with clients Klaus Kastbjerg and NRE Denmark, a 17-storey former grain silo and the largest industrial building in the area has been transformed into “The Silo”, housing residential apartments and public functions.]]></summary>
+        <author>
+            <name>Rayen Sagredo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《魔兽》同文小说丨《驱煞记》甲卷·叁]]></title>
+        <id>https://www.gcores.com/articles/137222</id>
+        <link href="https://www.gcores.com/articles/137222"/>
+        <updated>2021-05-22T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[本故事纯属虚构，非《魔兽世界》官方设定。 
+
+甲卷·叁 星穹风下
+孟塘雨骑龙来到两人身边，环顾四周后，问道：“怎样，有无受伤？”
+身陷池洼的吉尔雯，奋力撑杖，只想挣扎起身，扑上去和那兽人拚命，但脚下淤泥软化，下半身不管怎么用力，全然站不起。池边的特蕾希头脑一阵晕眩，险些摔倒，虚弱道：“孟大师，快帮帮他。”说罢弯腰干呕。
+“把法杖丢过来，抓住我的棒头！快！”
+吉尔雯听后边挣扎边答应，孟塘雨左手接住飞来的麋鹿号角，朝地面用力一扎，右手探棒于池面，待精灵抓稳，试了两下可行，喊着“抓稳了”，勒缰驱赶坐骑朝后倒退。就听池塘里啵的一声闷响，吉尔雯似旱地拔葱般被拽了出来。
+见两人暂时无恙，孟塘雨立即站在迅猛龙背上，手挺竹棒，挺腰眺望敌人离去的方向，见骑兵人影闪动，不一会儿便没到山坡后，心中奇怪道：“怎去得如此之快？” 想时的那一刹那，号角声方向传来两声惨呼，紧跟着又是一小队座狼的嚎叫。
+孟塘雨心头一紧，暗骂一波刚平一波又起，想都没想，驾龙来到池边，一把抓住侏儒后领，将其提了起来。特蕾希“啊”地低吟，身子已来到孟塘雨怀中，听到身后巨魔冷冷道：“那个谁，任务在肩，身不由己，你自求多福吧。”说完对着满身污泥的吉尔雯抱拳，草草行了…]]></summary>
+        <author>
+            <name>仵空小师傅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年5月第三周手办模型情报总汇]]></title>
+        <id>https://www.gcores.com/articles/137346</id>
+        <link href="https://www.gcores.com/articles/137346"/>
+        <updated>2021-05-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[偶像大师灰姑娘女孩 依田芳乃 逢春花开ver.
+由PLUM出品的偶像大师灰姑娘女孩 依田芳乃 逢春花开ver. 手办模型，于5月17号正式开启预定，1/7比例，全高约21cm，售价17600円(含税)，预计7月发售。
+
+
+
+
+
+
+
+
+Pop Up Parade 游戏王－怪兽之决斗 黑魔导女孩
+由GSC出品的Pop Up Parade 游戏王－怪兽之决斗 黑魔导女孩 手办模型，于5月18号正式开启预定，无比例，全高约17cm，售价3900円(含税)，预计9月发售。
+
+
+
+
+为美好的世界献上祝福！红传说 惠惠 向日葵连衣裙Ver.
+由角川出品的为美好的世界献上祝福！红传说 惠惠 向日葵连衣裙Ver. 手办模型，于5月18号正式开启预定，1/7比例，全高约26cm，售价19250円(含税)，预计11月发售。
+
+
+
+
+ Muv-Luv Alternative 御剑冥夜 兔女郎Ver.
+由FREEing出品的 Muv-Luv Alternative 御剑冥夜 兔女郎Ver.手办模型，于5月18号正式开启预定，1/4比例，全高约41cm，售价30800円(含税)，预计11月发售。
+
+
+
+
+碧蓝航线 天狼星
+由玩达乐出品的…]]></summary>
+        <author>
+            <name>雨宫 莲</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻科幻丨盖勒铁疫·记录二 风暴前兆]]></title>
+        <id>https://www.gcores.com/articles/137298</id>
+        <link href="https://www.gcores.com/articles/137298"/>
+        <updated>2021-05-22T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[146年4月6日 晴
+我在街边、水沟旁看到更多的老鼠尸体。许多人用绳子串着它们的尾巴或是用一个袋子装，尽可能地多带一些回家。
+“这是上天赐予的食物！神也知道这个冬天的日子我们很难过！”许多人这样说，结果让更多人加入到搜集老鼠的行列中，他们从角落里搜出更多老鼠，堂而皇之地拎着，走过大街，进出各种商店。
+下午，诊所里来了一位客人，里斯特。他脱掉帽子，跳过闲聊环节，十分直接的开口：“格勒医生，你也发现，突然出现这么多老鼠，我很担心是……”
+“鼠疫。”我说。
+他没有说话，修剪得整齐的眉毛皱起看着连在一起。
+“我们检测过，没有任何物质对你担心的疫病有反应，也许就是个意外，也许是更糟糕的情况。你的同事们怎么说？”
+“大部分人不以为然，因为检测结果和你的一样。而且一位动物学家告诉我，老鼠们只是在逃避危险。”
+“这可太奇怪了。不过即使是如此，老鼠身上携带的很多病毒，细菌仍然十分危险，就这么放任它们躺在城市的各个角落。某一段时间后，这座城市会为此付出代价。”
+ “我呼吁人民不要食用和收集老鼠，收效甚微，同时清扫队根本找不到几只老鼠，老鼠都让人们捡走了！”
+“我有很不好的预感，里斯特先生。眼下我也不能给出什么很有说服力的猜测。”…]]></summary>
+        <author>
+            <name>战锤wG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[私人恩怨丨《荒野大镖客Online》游玩纪实]]></title>
+        <id>https://www.gcores.com/articles/137342</id>
+        <link href="https://www.gcores.com/articles/137342"/>
+        <updated>2021-05-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[现在是2021年5月3日5:06AM，我刚刚在《荒野大镖客Online》中经历了短暂、难忘、跌宕起伏的一段西部故事。这让我久违地萌生一种想记录下什么的欲望，并且是立刻，马上。我已经很久没有过这种感觉了。
+一切都发生得太快，到现在为止还没有足够的时间去细细品味。烟盒空了，很想下楼去买。但朋友正于我家借宿，似乎睡得并不舒服，于是此时离开并不是一个很好的选择。所以我现在正坐在电脑前回忆着事情的始末，一边敲打起键盘。
+这件事发生于此刻稍早些时候，约莫有一个小时，我已记不太清。似乎那对夫妇，或是情侣，仍留在战局中。事情从我刚完成某个传奇赏金任务，回到自由模式下的安尼斯堡开始——一个因为煤矿资源而建立起来的小镇。屏幕左上角提示我，现在，我可以用左轮玩一些收枪时的花招 (即双击 Tab 收枪的过程中，按住右键转枪，再按住2反向转枪 ) 。学会以后，我颇为兴奋，很想找个玩家炫耀一下“new tricks”。幸运的是在安尼斯堡枪店边上正有一个玩家，于是我不假思索地转着枪走过去，好让他欣赏我新学会的“花招”。
+
+(事情就在枪店左边的弄堂发生)
+他好像不吃这一套，甚至开腔了，用一口地道的，只有native才有的腔调，表示他“rea…]]></summary>
+        <author>
+            <name>Spike_SpiegeI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Casa de Hóspedes / Arriba]]></title>
+        <id>https://www.archdaily.com/961914/casa-de-hospedes-arriba</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/LHVJfCBeDiA/casa-de-hospedes-arriba"/>
+        <updated>2021-05-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The estate is located in the west of Coimbra, on a hillside of dense vegetation with large trees. The main house, built in the 90's, faces south, in a set of fragmented volumes with sloped roofs.]]></summary>
+        <author>
+            <name>Pilar Caballero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北方有道產：在奧尻島沒有肉吃？那就吃鮑魚吧！]]></title>
+        <id>https://theinitium.com/article/20210522-japan-hokkaido-abalone/</id>
+        <link href="https://theinitium.com/article/20210522-japan-hokkaido-abalone/"/>
+        <updated>2021-05-22T12:37:00.000Z</updated>
+        <summary type="html"><![CDATA[這個海對面的鮑魚小島，傳說是源義經以魔法卷軸所造。]]></summary>
+        <author>
+            <name>特約撰稿人 雨飛 發自北海道</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[政府重壓之下，張一鳴成為最新一位辭任的中國科技大佬]]></title>
+        <id>https://theinitium.com/article/20210522-wsj-tiktok-founder-zhang-yiming/</id>
+        <link href="https://theinitium.com/article/20210522-wsj-tiktok-founder-zhang-yiming/"/>
+        <updated>2021-05-22T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[在有關部門收緊對中國科技巨頭的管束之際，中國互聯網行業已有多名企業家遠離聚光燈，最新一位是字節跳動創始人張一鳴。]]></summary>
+        <author>
+            <name>華爾街日報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Country house in Puente Iglesias  / Hernán Arango + MDE estudio]]></title>
+        <id>https://www.archdaily.com/962063/country-house-in-puente-iglesias-hernan-arango-plus-mde-estudio</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/Ehwc_1sD0WM/country-house-in-puente-iglesias-hernan-arango-plus-mde-estudio"/>
+        <updated>2021-05-22T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The house is located on one of the slopes near the Cauca River in the Department of Antioquia. Located at an altitude of 750 meters above sea level, and close to the municipality of Puente Iglesias, it is arranged in such a way that it can capture landscape attributes of great value such as the Cauca River, the La pintada cliffs and Cerro La Mama.]]></summary>
+        <author>
+            <name>Valeria Silva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在核聚变当志愿者是什么体验？]]></title>
+        <id>https://www.gcores.com/videos/137335</id>
+        <link href="https://www.gcores.com/videos/137335"/>
+        <updated>2021-05-22T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[很多机核的pong友们一定很好奇在核聚变当志愿者都需要做什么，会有哪些工作内容，这次我给大家带来核聚变志愿者第一视角的Vlog，以直观的视角给大家展示志愿者的工作。感兴趣的朋友们快来看看吧]]></summary>
+        <author>
+            <name>EZIOYI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P社正式公布《维多利亚3》，Steam商店页现已上线]]></title>
+        <id>https://www.gcores.com/articles/137365</id>
+        <link href="https://www.gcores.com/articles/137365"/>
+        <updated>2021-05-22T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[继此前的开发者论坛泄露，Paradox 于今日正式公布了《维多利亚3》的详情，同时在 Steam 上线了游戏的商店页面。游戏总监马丁·安沃德表示，开发团队自2018年起就一直在致力于本作的开发，他们也很高兴能终于向玩家介绍该作品。
+
+
+<内嵌内容，请到原网页查看>
+
+马丁·安沃德指出，本作仍将给玩家经典的《维多利亚》体验，也就是以经济、政治与内政管理为主轴的游戏，其中包含的人口系统更不仅是核心机制，也比所有前作都更加深入。作为一款全新大作，开发团队的野心是创建与《维多利亚》系列的核心价值相符，而且足以继承前作的作品，同时使用这十年来学到的方法让游戏变得更好操作。
+
+
+有鉴于此，开发团队对《维多利亚3》的愿景是“社会模拟”。在游戏中，政治、经济与外交是游戏最重要的三个部分，战争当然也是游戏的一环 (就像战争是维多利亚时代的一部分，但是本作“不是”一款战争游戏或是跟征服世界有关的游戏，这也将是玩家首次了解有关19世纪国家内政以及在过程中如何形塑社会的游戏，以下是团队在设计游戏时的四大设计主轴： 
+
+
+
+国家园艺：建造、塑形、调整并进化您的国家是游戏的最初与首重的部分国家领土外的事件可以自然地以显著的方式影响您的国…]]></summary>
+        <author>
+            <name>YTYTYTYT😀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mira House / Arturo Sanz]]></title>
+        <id>https://www.archdaily.com/962158/mira-house-arturo-sanz</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/zHgSFBLhFh8/mira-house-arturo-sanz"/>
+        <updated>2021-05-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We refurbished this traditional house in order to improve the functional conditions and to modify the spaces, this way providing better flow, but at the same time, we didn’t want to forget to anchor or connect the intervention to the memory of the place. To achieve this, we had to rescue a large part of the pre-existing elements: the façade, recovering the original arches in the gaps, the interior masonry wall with brick arches, the interior doors, the hydraulic tiles used for the floors were relocated to f…]]></summary>
+        <author>
+            <name>Clara Ott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[王柯：近代中國民族主義的誕生與明治日本（下）——「被害妄想」與民族塑造]]></title>
+        <id>https://theinitium.com/article/20210522-opinion-wangke-nationalism-china-japan-3/</id>
+        <link href="https://theinitium.com/article/20210522-opinion-wangke-nationalism-china-japan-3/"/>
+        <updated>2021-05-22T08:40:00.000Z</updated>
+        <summary type="html"><![CDATA[一方面要誇耀歷史上和文化上的「中華民族」之偉大，另一方面要強調「中華民族」受到了來自「滿清」的深重的民族壓迫。]]></summary>
+        <author>
+            <name>端傳媒 Initium Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在核聚变2021北京站做志愿者]]></title>
+        <id>https://www.gcores.com/videos/137316</id>
+        <link href="https://www.gcores.com/videos/137316"/>
+        <updated>2021-05-22T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[原本还想借着核聚变的热度蹭下流量，谁成想当完志愿者回来就得急性胃炎了（病毒性的与机核饭菜质量无关），导致剪辑进度举步维艰。在度过了几个差点不眠的夜晚之后，终于把我这一次，也是第一次成为核聚变志愿者的体验Vlog剪完了。
+两天时间，看到一个个被我服务过的玩家满意地离去，我很欣慰，感谢机核！]]></summary>
+        <author>
+            <name>Bug</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Houses Are the Most Prevalent Form of Monuments": In Conversation With Bjørn Nørgaard]]></title>
+        <id>https://www.archdaily.com/961484/houses-are-the-most-prevalent-form-of-monuments-in-conversation-with-bjorn-norgaard</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/0oaR2iA9tcg/houses-are-the-most-prevalent-form-of-monuments-in-conversation-with-bjorn-norgaard"/>
+        <updated>2021-05-22T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Talking to the Louisiana Channel, Danish professor, sculptor, and artist Bjørn Nørgaard outlines the philosophy that underpins his work, and reflects upon his architectural projects. Nørgaard describes the strong influence of his mentor in the 1960s - German artist Joseph Bueys - whose theories formed a key part of Nørgaard's evolution and ethos as an artist. The concept of "die soziale Plastik", or social sculpture, would go on to shape Nørgaard's approach to architecture and other forms of art - its main …]]></summary>
+        <author>
+            <name>Matthew Maganga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple illustrations — Awesome vector illustrations for your next project]]></title>
+        <id>https://www.producthunt.com/posts/simple-illustrations</id>
+        <link href="https://www.producthunt.com/posts/simple-illustrations"/>
+        <updated>2021-05-22T07:27:48.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Hello Everyone 👋 
+This is Ramy the founder of Getillustrations Bundle. We created this pack to help designers and developers who are looking for smart, attractive and easy to use illustrations for their projects such as:
+💻 App screens
+📄 Articles
+🖥 Landing pages
+📩 Emails
+📊 Presentations
+
+
+The initial project launch delivers 217 unique illustrations with 300 more coming as a free update to this pack 😉 
+
+Feel free to share your thoughts and check the entire collection of illustrations on our p…]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Know Your Data — Understand datasets & improve data quality, by Google PAIR]]></title>
+        <id>https://www.producthunt.com/posts/know-your-data</id>
+        <link href="https://www.producthunt.com/posts/know-your-data"/>
+        <updated>2021-05-22T07:24:04.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Hey PH friends! 
+
+Happy to hunt Google PAIR (People + AI Research) team's new endeavour, Know Your Data: a new tool to explore datasets. I came across this while reading their launch article on Medium (https://medium.com/people-ai-research/know-your-data-a-new-tool-to-explore-datasets-ba45b7665695). 
+
+Some of the main highlights are:
+
+✔️ Better understand datasets
+✔️ Improve data quality
+✔️ Mitigate bias issues
+✔️ 71 image datasets via TensorFlow Datasets catalogue
+
+Try it for yourself → http://kn…]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Syllabus — Mapping the college curriculum across 7M+ syllabi]]></title>
+        <id>https://www.producthunt.com/posts/open-syllabus</id>
+        <link href="https://www.producthunt.com/posts/open-syllabus"/>
+        <updated>2021-05-22T06:29:59.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sublime Text 4 — The sophisticated text editor for code, markup and prose]]></title>
+        <id>https://www.producthunt.com/posts/sublime-text-4</id>
+        <link href="https://www.producthunt.com/posts/sublime-text-4"/>
+        <updated>2021-05-22T06:03:26.000Z</updated>
+        <summary type="html"><![CDATA[“
+        This is well loved, cross-platform text editor. Nice to see that it's continued to be maintained!
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《爱死机》第二季第八集《溺水的巨人》与历史的幽灵]]></title>
+        <id>https://www.gcores.com/articles/137223</id>
+        <link href="https://www.gcores.com/articles/137223"/>
+        <updated>2021-05-22T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[《爱，死亡和机器人 第二季》第八集《溺水的巨人》改编自J.G.巴拉德的科幻小说《The Drowned Giant》，原文点击这里。
+这是本季最受好评的一集，引发了观众各式各样的解读。
+有人评论说“巨人”是“奇观”，是“上古生物”，是“外星来客”，并且用卡夫卡的《变形记》和梅尔维尔的《白鲸》做一种视觉上的类比。事实上，这样粗浅的比较还是没有点明“巨人”在影片中的具体含义。还有观众认为“巨人”指的是“旧日的辉煌”、“消逝的文明”、“被解构的神圣信仰”等等，“巨人”作为一个含义丰富的能指，在本片中确实指向了某种古典主义的美学，但这样含糊的说法仍旧无助于我们进一步理解这个故事的内涵。
+因此，在这里我就斗胆过度解读一下，尝试在“巨人”图式与“历史”之间建立一种意指关系。
+
+
+一. 作为神话的“巨人”vs.作为历史的“巨人”
+巨人是旧时代的末裔，文本里提的希腊雕塑、荷马史诗，指向的都是古典的神话秩序。较之于《变形记》等作品中对于“新物种的闯入打破了现有秩序”的呈现，这部短片最大的不同是人们并不对巨人的存在感到疑惑和恐惧。镇上的人之所以毫不恐惧地接受，正是因为它并非无端降临的奇观，而是一个原本就存在于观念中的理型（ide…]]></summary>
+        <author>
+            <name>蜥蜥蝠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House Under the Cliff / AUM Pierre Minassian]]></title>
+        <id>https://www.archdaily.com/961931/house-under-the-cliff-aum-pierre-minassian</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/KpZp-23RxFE/house-under-the-cliff-aum-pierre-minassian"/>
+        <updated>2021-05-22T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Maison Sous La Falaise is the result of a very tight collaboration between architect Pierre Minassian and the future occupants of the house. It is located in an exceptional environment, at the foot of the Salève mountain in the French Alps. It is entirely built in concrete whose colour reminds of the mountain in the background.]]></summary>
+        <author>
+            <name>Andreas Luco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Ynspire — Chat with other students on campus]]></title>
+        <id>https://www.producthunt.com/posts/we-ynspire-2</id>
+        <link href="https://www.producthunt.com/posts/we-ynspire-2"/>
+        <updated>2021-05-22T05:59:42.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Are you looking for a student room app where you can meet students and chat with them?
+Do you want to download Student Desk App and Student Wellbeing App where you can post messages and questions and other will be able to help you?
+
+You just got the right place! We developed a Student Desk App named We Ynspire: Study Buddy, Meet Students App - College Campus Chat (College Group chat) where you can join the conversation with other students, you can make relationship with international students.
+
+In…]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“杂交水稻之父”袁隆平先生逝世，享年91岁]]></title>
+        <id>https://www.gcores.com/articles/137360</id>
+        <link href="https://www.gcores.com/articles/137360"/>
+        <updated>2021-05-22T05:46:00.000Z</updated>
+        <summary type="html"><![CDATA[据多方渠道证实，“杂交水稻之父”、中国工程院院士、“共和国勋章”获得者袁隆平因病医治无效，于2021年北京时间5月22日下午13点07分在湖南长沙逝世，享年91岁。 ​
+
+(袁隆平先生在田间)
+袁隆平先生生于1930年， 1953年毕业于西南农学院，1995年被选为中国工程院院士，1999年中国科学院北京天文台施密特CCD小行星项目组发现的一颗小行星被命名为袁隆平星，2000年度获得国家最高科学技术奖，2006年4月当选美国国家科学院外籍院士，2010年荣获澳门科技大学荣誉博士学位。 
+袁隆平先生是杂交水稻研究领域的开创者和带头人，致力于杂交水稻的研究，先后成功研发出“三系法”杂交 水稻、“两系法”杂交水稻、超级杂交稻一期、二期，与此同时，袁隆平提出并实施“种三产四丰产工程”，运用超级杂交稻的技术成果，出版中、英文专著6部，发表论文60余篇。 
+巨星忽陨，哀恸九重，袁隆平先生千古！]]></summary>
+        <author>
+            <name>肖尔</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[leerly — Learn Spanish with compelling, comprehensible input]]></title>
+        <id>https://www.producthunt.com/posts/leerly</id>
+        <link href="https://www.producthunt.com/posts/leerly"/>
+        <updated>2021-05-22T05:45:41.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[讀者十論：剛性制度]]></title>
+        <id>https://theinitium.com/article/20210522-notes-top-comments-of-week/</id>
+        <link href="https://theinitium.com/article/20210522-notes-top-comments-of-week/"/>
+        <updated>2021-05-22T05:27:00.000Z</updated>
+        <summary type="html"><![CDATA[「讀者十論」欄目每週擇選報導及圓桌話題中十組精彩讀者留言刊出。]]></summary>
+        <author>
+            <name>端傳媒 Initium Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[涂装分享丨战争中的罗马帝国士兵]]></title>
+        <id>https://www.gcores.com/articles/137306</id>
+        <link href="https://www.gcores.com/articles/137306"/>
+        <updated>2021-05-22T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[关注机核也有4年多了，17年的时候因为麦教授的Gadio Pro节目开始入坑，平时一直看机核的文章，也算见证了机核这么多年来的变化，二次元，游戏，电影，后来美剧，音乐，汽车，每次都触碰着自己想要写点东西的情绪。奈何实在没有特别拿手的技能，想来也是觉得比较难受。最近因为自己在折腾一些涂装的事，也看过机核大佬们一些涂装战锤的内容。我觉得可以分享一下自己折腾的玩意儿。虽然微缩模型的涂装是一个比较小众的圈子，但可能在这儿能找到更多的朋友。
+我自己是历史人物坑的铁粉，相比于奇幻，更喜欢历史上真实存在的点滴。而又因为自己小时候沉迷《帝国时代》跟西方奇幻的电影，所以咧，对古典时代到中世纪的东西，都特别的沉迷。最近因为工作原因，一口气涂了30个罗马步兵，感觉彻底释放了自己对于古罗马的热情。就分享下这次涂装的简单经历，新人发文，希望大家能喜欢。
+先发两个素模的图吧，俄罗斯朋友的手雕作品。
+
+
+
+
+然后先整体上了肤色，接着就是恐怖的画头了，当面对一个的时候，永远能够拿出最大的耐性，但是30个模型的眼睛，直接把自己眼睛点的不能对焦。
+
+
+这个场景的步兵，其实原作表现的是公元一世纪，提图斯率军围攻耶路撒冷时，遭遇游匪偷袭的一个场景（…]]></summary>
+        <author>
+            <name>新途仔</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出场德班丨《迪迦奥特曼》TV版影评系列连载]]></title>
+        <id>https://www.gcores.com/videos/136967</id>
+        <link href="https://www.gcores.com/videos/136967"/>
+        <updated>2021-05-22T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本集是之后在整个平成奥特曼系列里大放异彩的女性剧本家太田爱的首秀，她的脚本多为温馨细腻，治愈（致郁）风格， 最后讲了马戏团和猎奇怪物之间的渊源，也算是考据了些设定秘闻。可能比较沉重也许会引起不适，提前给大家道歉。 
+
+——诸星    
+本期影评包括《迪迦奥特曼》TV版第二十一至第二十四集 ：《出场德班》、 《大雾来了》、《恐龙星球》和《熊孩公害》的观剧剖析与影评。   
+B站链接]]></summary>
+        <author>
+            <name>Kazuya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台灣共增確診321+400例：案例數「校正回歸」、陳建仁首次針對疫情發文]]></title>
+        <id>https://theinitium.com/article/20210522-taiwan-covid19-epidemic/</id>
+        <link href="https://theinitium.com/article/20210522-taiwan-covid19-epidemic/"/>
+        <updated>2021-05-22T04:09:00.000Z</updated>
+        <summary type="html"><![CDATA[5月22日下午，台灣指揮中心公布國內新增321例本土確診、2例境外移入，確診個案中新增2例死亡，另有400例本土個案為「校正回歸」上週各日個案。 台灣疫情爆發至今 ，已累計17例死亡個案，且單日新增本土確診已連續8天超過百例。]]></summary>
+        <author>
+            <name>端傳媒 台灣組 發自台北</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你听过“威廉尖叫”吗？聊聊经典的电影音效]]></title>
+        <id>https://www.gcores.com/articles/137305</id>
+        <link href="https://www.gcores.com/articles/137305"/>
+        <updated>2021-05-22T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年第九十三届奥斯卡最佳音响颁给了比利时电影《金属之声》。
+对于普通影迷来说，最佳音响和最佳服装设计等技术奖项都是少人关注的小奖，恐怕就连大多数真正资深的迷影人士都不怎么会去争论这些奖项的公正与否。
+但自有声电影诞生的那一天起，音响就是电影工业最不具名的幕后英雄。
+
+
+(音响设计师用半球体模拟马蹄声)(用黏上假指甲的手套模拟蜘蛛爬行声)
+
+在某些场景中，音响或许比视觉更为重要，因人类对声音的敏感度不亚于画面，合理设计电影配乐和音效就能发挥出比画面更强的冲击作用，直击观众心扉。
+优秀的配乐可以在不借助文本的情况下，完美表现角色心理、场景氛围以及故事情绪等各种要素；优秀的音效则能够以最高效率将观众拉入光影世界的情景，不再去过分怀疑那个世界的存在真实性。
+在电影电脑远未普及之时，为戏剧配乐的乐师们绞尽脑汁通过各种各样、天马行空的道具来模拟现实世界的音响。我国的八大样板戏就曾充分利用西洋打击乐来模拟各种音效。笔者少时曾学过横笛，笛子亦有一种模拟马的嘶叫的技法。
+
+(《扬鞭催马运粮忙》这首曲子里就要求演奏者模拟马叫)
+电影界最初亦广泛沿袭戏剧界的作法。
+比如在无厘头喜剧鼻祖英国电影《巨蟒与圣杯》中，演员用敲椰子壳…]]></summary>
+        <author>
+            <name>巴甫洛夫的忌日</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人人都爱策马奔腾！由《对马岛之魂》切入探讨关于骑马的细节]]></title>
+        <id>https://www.gcores.com/articles/137300</id>
+        <link href="https://www.gcores.com/articles/137300"/>
+        <updated>2021-05-22T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[近日继续通关《对马岛》，我十分沉浸在游戏的氛围和快乐之中，但游戏中骑马的细节问题还是十分突兀的。同样，在目前的电子游戏和影视作品中，骑马的细节往往由于冷门和小众反而会被大家所忽视掉。
+借用@小岛秀夫网络女友 大佬的图片
+
+
+
+
+首先，游戏中骑马时手持缰绳的动作是存在很大问题的。
+中国农业出版社09年出版的《马术手册》上告诉大家，正确的持缰方式，无论是单手亦是双手，无一例外都需要让缰绳带上力量。但为什么不说拉紧缰绳呢？拉紧缰绳适用于让马立定停住，也就等同于捏闸刹车，在正常行进中不会也不可能紧紧拉住缰绳，一般会稍稍给缰绳带上力量，既不是太紧，也不是太松，就好像手放在自行车车闸上，给予马儿自由行进的空间，但要保证拉停的时候可以立即勒马。
+
+(书上列出的五种持缰动作)
+当然，也是有放开缰绳的时候存在的，例如下图的长缰，一般用于跑完之后的散步阶段，让马儿放松，不再处于工作状态。
+
+
+
+
+
+
+我们再看开头借用大佬的图片，缰绳的部分是完全松弛的，况且马匹都在受衔工作的状态下，这样其实等同于丝毫没有用到缰绳，类似于林克刚去抓马的时候抓住马鬃骑马一样。
+
+
+受衔是指马匹接受衔铁，接受衔铁表现一般为：口吐白沫，因为他在嚼衔铁。不…]]></summary>
+        <author>
+            <name>科尔多瓦小魔仙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DaisyUI — Free UI components plugin for Tailwind CSS]]></title>
+        <id>https://www.producthunt.com/posts/daisyui</id>
+        <link href="https://www.producthunt.com/posts/daisyui"/>
+        <updated>2021-05-22T03:12:45.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[星海之上，触手可及：从星空中看虚拟游戏与现实世界的边界]]></title>
+        <id>https://www.gcores.com/articles/137211</id>
+        <link href="https://www.gcores.com/articles/137211"/>
+        <updated>2021-05-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[虚拟游戏与现实世界的边界越来越模糊。我们总是喜欢在虚拟中找寻现实。不光是因为在现实中面具戴久了，想在游戏中找回真正的自我，也是因为随着技术的不断进步，游戏中所展现出的世界越来越接近现实，甚至比现实更加“真实”。
+在虚拟中的游戏世界，最直观的便是可以欣赏到游戏中独具特色的景色。我们可以见到许多在现实中难以见到，甚至不可能看到的美景。
+隐于沙漠中的神秘埃及、古希腊的地中海风光、浪漫迷人的北欧自然……但在这篇文章中，我想要介绍一种时常会被忽略的景象——浩瀚星空。
+
+
+我们身上所有的物质都来自于太空，我们生来便是星辰。宇宙的浩瀚，时常让人深感人类的渺小。
+康德曾经说过：“在这个世界上，有两样东西值得我们仰望终生：一是我们头顶上璀璨的星空，二是人们心中高尚的道德律。”
+能和崇高的道德法则相提并论，同样让人感到敬畏的，也许只有那深邃的星空。但想想，我们有多久没有抬头看看夜空了？
+身处于城市之中，面对快节奏的生活，想要坐下来对着星空发呆好像已经变得是一件遥不可及的事。但偶尔停下脚步吧，即使身处尘埃，也要仰望星空。看看星空，说不定能在这一刻感受到心中的宁静。
+我很羡慕这个时代勇于去追星的人，他们会用镜头去记录下星辰的浩瀚。而…]]></summary>
+        <author>
+            <name>浩海</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在管道网络中流淌的德式重策游戏：《石油公司》]]></title>
+        <id>https://www.gcores.com/articles/137302</id>
+        <link href="https://www.gcores.com/articles/137302"/>
+        <updated>2021-05-22T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[从伊拉克到利比亚，还有一回又一回的中东战争，伴随着现代一场场战争的枪炮声，几乎都能看到一样东西的身影，这就是号称“黑金”的石油。有的国家因为这个东西陡然而富，有的国家却因为这个东西被打成一片废墟。 
+公元前10世纪人类就已经发现了沥青的作用，伴随着人类工业时代的进步，石油的价值越发被重视，终于这种地下黑色液体的价值达到了足够吸引人类无视同族体内红色液体的价值，围绕着石油的一场场阴谋和战争已经难以计数。不久之前，美国副总统哈里斯就干脆在讲话里承认美国过去几十年的战争一直是为石油而战。 
+
+
+不过我们今天的话题倒不会一直如此沉重，因为咱要说的归根结底还是桌游，这就是由 Gapstone Games 出品，刚刚通过游人码头公司引进的德式重策游戏：《石油公司》。 
+
+
+说到石油先来段小科普：今天大多数地质学家认为石油像煤和天然气一样，是古代有机物通过漫长的压缩和加热后逐渐形成的，也就是由史前生物和藻类的尸体变化形成的（陆上的植物则一般形成煤）。经过漫长的地质年代这些有机物与淤泥混合，被埋在厚厚的沉积岩下。在地下的高温和高压下它们逐渐转化，逐渐形成石油，石油汇聚在一起变成地下油田。
+不过也有一种说法，被称为非生物成油的…]]></summary>
+        <author>
+            <name>瞬间思路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tee House / CMC architects]]></title>
+        <id>https://www.archdaily.com/962095/tee-house-cmc-architects</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/Ad9FFYZe1Y4/tee-house-cmc-architects"/>
+        <updated>2021-05-22T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On the Eastern edge of the Czech Republic, near the Slovak and Polish borders, the village of Čeladná is surrounded by the beautiful landscape of the Beskydy Mountains. Čeladná has grown in recent years with a number of significant buildings, including hotels and resort-type spas. The latest addition in the area is the Tee House apartment project located in golf and equestrian complex. The aim of the investor was to supplement the offer of services of this area with accommodation facilities and wellness. Th…]]></summary>
+        <author>
+            <name>Pilar Caballero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界军武图鉴：米诺斯（下）]]></title>
+        <id>https://www.gcores.com/articles/137301</id>
+        <link href="https://www.gcores.com/articles/137301"/>
+        <updated>2021-05-22T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[接上回……
+
+
+ 弓箭手
+与埃及艺术作品中的弓箭手，常常弓开满月、成群结队有所不同，米诺斯人表现弓箭手通常是蓄势待发，零星出没。这也许表明，米诺斯弓箭手并非大规模集团使用，而是伴随其他兵种作战，提供近距离火力支援。
+他们一般使用单体木弓，复合弓肯定也有使用，与近东的贸易往来，很容易引进这种技术，只是当复合弓大行其道的年代，米诺斯文明已经灭亡了……虽然弓箭在爱琴海世界远没有剑和长矛那样的地位，但貌似“克里特弓箭手”在古代世界是很受欢迎的佣兵。
+上图中左是米诺斯V型青铜箭头的固定方式。
+上图中右是制作箭杆会用到一种“平滑工具”（这一定是个很解压的东西！）
+图中：
+
+a、菱形燧石箭头
+b、V形燧石箭头
+c、心形燧石箭头
+这些黑曜石和燧石箭头被使用了很久，几乎贯穿米诺斯文明始终。后期c这类心形箭头的造型和制作工艺已近完美，简直就是工艺品。
+上图右下是一组青铜箭头，d是铲形箭头；e是V形，最容易大量生产；f和g是从铜板上直接切割下的；h是在斐斯托斯出土的套管式V型箭头，工艺比较复杂所以数量很少；i和j是带柄箭头，是用在芦苇箭杆上的类型。 
+
+
+高级指挥官或王子
+在“报告杯”上，剑士的对面有一位地位尊贵者，可能是高级指挥…]]></summary>
+        <author>
+            <name>艾洋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在《花园之间》，感受时间的流动，找寻遗失的美好]]></title>
+        <id>https://www.gcores.com/articles/137251</id>
+        <link href="https://www.gcores.com/articles/137251"/>
+        <updated>2021-05-22T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[作者：游信编辑  Legion（本文首发于公众号：三五七游戏网）
+每当时间被拨回到2018年时，我们便能发现《蔚蓝》、《死亡细胞》、《奥伯拉丁的回归》等诸多优秀的独立作品均在这一年涌现。同在2018年由The Voxel Agents开发并发行的《花园之间》虽然没有上述作品的奖项或人气光环，但优秀的关卡设计与情感表达也让笔者认为这是一款可以拿出来品析一番的作品。
+
+(故事的开头便是两名主角在共同搭建的大树小屋中玩耍之时引发了神秘事件，遂与小屋一齐跌入未知水域)
+《花园之间》的游玩舞台设立在未知水域的诸多群岛之上，并基于两名主角Arina和Frendt的童年友情，讲述了一段在幻想与现实交织的舞台上两人一步步重拾美好往日回忆的故事。每片群岛在游戏中都被设计成由诸座石头山岛屿组成的整体，给人清晰与生动并重的山水盆景布局之感。玩家需要解开阻碍前进的一个又一个谜题来达到每座石头的最高点，并通过两名主角Arina和Frendt携手将光球放置于每座岛屿的塔顶机器上来开启前往下一个关卡的道路。当主角团顺利地破解群岛上的谜题时，被封印的过去回忆也逐渐被打开。
+
+(齐心协力，传递光明)
+在PC平台上游玩《花园之间》从山底到山顶，…]]></summary>
+        <author>
+            <name>游信</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wait! Just Listen — Newsletter exploring moments of humanness in digital culture]]></title>
+        <id>https://www.producthunt.com/posts/wait-just-listen</id>
+        <link href="https://www.producthunt.com/posts/wait-just-listen"/>
+        <updated>2021-05-22T00:25:29.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Having worked across several brands and research products around digital culture in over 12 different countries, I realised there was a strong need for a stronger intellectual voice in exploring some of the nuances in how people live with technology. Welcome to Wait! Just Listen.
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overly interoperable libraries, part 2]]></title>
+        <id>https://quuxplusone.github.io/blog/2021/05/22/after-you-part-two/</id>
+        <link href="https://quuxplusone.github.io/blog/2021/05/22/after-you-part-two/"/>
+        <updated>2021-05-22T00:01:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve received a few proposed solutions re
+“Overly interoperable libraries” (2021-05-19).
+It’s become clear that I set the initial goalposts a little too close
+to the kicker. :)
+My post asked for a solution to “the general problem,” but provided only a relatively
+trivial example with two client libraries:
+Foolib provides class Foo, and wants operator^ to exist whenever the left-hand
+  operand is Foo and the right-hand operand U defines U::foolib_compatible.
+Barlib provides class Bar, and wants operator^ to e…]]></summary>
+        <author>
+            <name>Arthur O’Dwyer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从科幻片《降临》谈语言的局限性]]></title>
         <id>https://www.gcores.com/videos/137291</id>
@@ -21,6 +686,119 @@
 原视频链接]]></summary>
         <author>
             <name>肉馅儿的霓虹乐园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Notionpedia — A free template to learn Notion on 1 page]]></title>
+        <id>https://www.producthunt.com/posts/the-ultimate-notionpedia</id>
+        <link href="https://www.producthunt.com/posts/the-ultimate-notionpedia"/>
+        <updated>2021-05-21T23:13:28.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Brendan is a rising Notion creator who has gotten significant attention on Reddit and Substack for his elegant templates and useful Notion productivity hacks. I'm excited to hunt this product because I can see the value it can provide to anyone interested in diving into the world of Notion. Awesome work @brendanshih! 🎉
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Songcraft.io — A platform for songwriters to write, organize & collaborate.]]></title>
+        <id>https://www.producthunt.com/posts/songcraft-io</id>
+        <link href="https://www.producthunt.com/posts/songcraft-io"/>
+        <updated>2021-05-21T23:11:46.000Z</updated>
+        <summary type="html"><![CDATA[“
+        After years of organizing, moving and reorganizing songs in backpack, evernote, onenote, google docs, notion ... i'm settling on this product. I'm delighted with the songwriter-centric nature of this app. Beyond crafting and collaborating with others, there are a suite of useful tools like tuners and dictionaries to help in all aspects of songwriting.
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30th Street House / Blue Truck Studio]]></title>
+        <id>https://www.archdaily.com/929110/30th-street-house-blue-truck-studio</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/qvkp13dWmw4/30th-street-house-blue-truck-studio"/>
+        <updated>2021-05-21T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thrilled with the beach town location of their summer house in the Los Angeles area, but not with its loud ’90s-era architecture, a family of four approached Blue Truck Studio with a directive — tone it down. What they had: a house with wild geometry, such as octagon-shaped rooms and triangular spaces. What they wanted: a home of simple forms and rustic textures, like the ones in the Northern California community of Sea Ranch.]]></summary>
+        <author>
+            <name>Andreas Luco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chili Search — The better search for WordPress]]></title>
+        <id>https://www.producthunt.com/posts/chili-search</id>
+        <link href="https://www.producthunt.com/posts/chili-search"/>
+        <updated>2021-05-21T21:35:04.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Chili Search is there to provide the best search experience for WordPress websites because we believe your website deserves a better UX.
+We are constantly working on it and your comment will help us to make our plugin more amazing.
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Travelo — Plan your next trip with this Notion template]]></title>
+        <id>https://www.producthunt.com/posts/travelo</id>
+        <link href="https://www.producthunt.com/posts/travelo"/>
+        <updated>2021-05-21T21:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typocard — Easily create the perfect quote cards to share online]]></title>
+        <id>https://www.producthunt.com/posts/typocard</id>
+        <link href="https://www.producthunt.com/posts/typocard"/>
+        <updated>2021-05-21T20:35:02.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Now with Twitter no longer cropping images, this tool can be used for content on almost every social platform, Instagram, Twitter, Facebook, Snapchat, etc. Enjoy!
+        ”
+        
+Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dongyang Sports Center / Institute of Shanghai Architectural Design and Research]]></title>
+        <id>https://www.archdaily.com/961949/dongyang-sports-center-institute-of-shanghai-architectural-design-and-research</id>
+        <link href="http://feedproxy.google.com/~r/ArchDaily/~3/b4qzIaeq6YY/dongyang-sports-center-institute-of-shanghai-architectural-design-and-research"/>
+        <updated>2021-05-21T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The project is located in Dongyang City, Zhejiang Province, east of Yingbin Avenue, north of Xingping East Road, and south of Jiangbin South Street. The total site area is 300000m2 and the gross floor area is 131104m2, among which the floor area of phase I gymnasium is 37752m2, and the stadium and natatorium are for the second phase of construction content.]]></summary>
+        <author>
+            <name>Yu Xin Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Funky Monkey NFTs — 1,000 limited-edition monkey NFTs that help save rainforests]]></title>
+        <id>https://www.producthunt.com/posts/funky-monkey-nfts</id>
+        <link href="https://www.producthunt.com/posts/funky-monkey-nfts"/>
+        <updated>2021-05-21T19:30:09.000Z</updated>
+        <summary type="html"><![CDATA[“
+        Hello PH, we wanted to experiment with creating NFTs that positively impact our planet.
+Collecting and trading cute NFTs is great, but what if your NFTs could also help preserve natural rainforests?
+
+The Funky Monkeys smart contract is programmed so that when you adopt a monkey, 50% of that Ether goes into the wallet of The Rainforest Foundation US - a non-profit organization focused on tackling major challenges like: deforestation, the climate crisis, and human rights violations.
+
+We had a lot of…]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
         </author>
     </entry>
     <entry>
@@ -138,6 +916,18 @@ ESA作为 E3展会的主办方，致力于通过创新性的举措来扩大并�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Electify — Create private and anonymous elections instantly]]></title>
+        <id>https://www.producthunt.com/posts/electify</id>
+        <link href="https://www.producthunt.com/posts/electify"/>
+        <updated>2021-05-21T12:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Glue — Stitch long screenshots on iOS]]></title>
         <id>https://www.producthunt.com/posts/glue-3</id>
         <link href="https://www.producthunt.com/posts/glue-3"/>
@@ -172,6 +962,30 @@ Discussion
 The post Hannah Taylor appeared first on AINT—BAD.]]></summary>
         <author>
             <name>Carson Sanders</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ezyCollect — Credit management software]]></title>
+        <id>https://www.producthunt.com/posts/ezycollect</id>
+        <link href="https://www.producthunt.com/posts/ezycollect"/>
+        <updated>2021-05-21T11:55:04.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes Keeper — Create notes, memos and to-do lists in no time]]></title>
+        <id>https://www.producthunt.com/posts/notes-keeper</id>
+        <link href="https://www.producthunt.com/posts/notes-keeper"/>
+        <updated>2021-05-21T11:51:51.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
         </author>
     </entry>
     <entry>
@@ -1078,6 +1892,18 @@ Discussion
 爆肚分好多…]]></summary>
         <author>
             <name>忧郁的皮卡丘</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dead Man's Switch — Push notifications to remind you to check in]]></title>
+        <id>https://www.producthunt.com/posts/dead-man-s-switch-2</id>
+        <link href="https://www.producthunt.com/posts/dead-man-s-switch-2"/>
+        <updated>2021-05-20T21:51:33.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+        |
+        Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
         </author>
     </entry>
     <entry>
@@ -5718,115 +6544,6 @@ Continue reading...]]></summary>
         <link href="https://mixmag.net/read/touring-djs-51-000-flights-2019-clean-scene-report-news"/>
         <updated>2021-04-23T14:50:58.000Z</updated>
         <summary type="html"><![CDATA[The Clean Scene collective has shared a new report about the dance music industry's environmental impact
-Continue reading...]]></summary>
-        <author>
-            <name>Mixmag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Listen to The Chemical Brothers new single ‘The Darkness That You Fear’]]></title>
-        <id>https://mixmag.net/read/listen-chemical-brothers-new-single-the-darkness-that-you-fear-news</id>
-        <link href="https://mixmag.net/read/listen-chemical-brothers-new-single-the-darkness-that-you-fear-news"/>
-        <updated>2021-04-23T12:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The duo are back with their first release since 2019
-Continue reading...]]></summary>
-        <author>
-            <name>Mixmag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Conversation With: Yuge Zhou]]></title>
-        <id>https://www.aint-bad.com/?p=244149</id>
-        <link href="https://www.aint-bad.com/article/2021/04/23/in-conversation-with-yuge-zhou/"/>
-        <updated>2021-04-23T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Yuge Zhou is a Chinese-born, Chicago-based artist whose video art collages footage in intricate, cubist-like ways to explore her story as an immigrant and observer. Her latest project when the East of… Read More
-The post In Conversation With: Yuge Zhou appeared first on AINT—BAD.]]></summary>
-        <author>
-            <name>Emerald Arguelles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolving Reinforcement Learning Algorithms]]></title>
-        <id>http://feedproxy.google.com/~r/blogspot/gJZg/~3/6qxnY87tAUk/evolving-reinforcement-learning.html</id>
-        <link href="http://feedproxy.google.com/~r/blogspot/gJZg/~3/6qxnY87tAUk/evolving-reinforcement-learning.html"/>
-        <updated>2021-04-22T19:28:00.002Z</updated>
-        <summary type="html"><![CDATA[Posted by John D. Co-Reyes, Research Intern and Yingjie Miao, Senior Software Engineer, Google Research 
-A long-term, overarching goal of research into reinforcement learning (RL) is to design a single general purpose learning algorithm that can solve a wide array of problems. However, because the RL algorithm taxonomy is quite large, and designing new RL algorithms requires extensive tuning and validation, this goal is a daunting one.  A possible solution would be to devise a meta-learning method that coul…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monte Hellman’s Sly Humor and Existential Dread]]></title>
-        <id>https://www.criterion.com/current/posts/7366-monte-hellman-s-sly-humor-and-existential-dread</id>
-        <link href="https://www.criterion.com/current/posts/7366-monte-hellman-s-sly-humor-and-existential-dread"/>
-        <updated>2021-04-22T18:47:03.000Z</updated>
-        <summary type="html"><![CDATA[Monte Hellman]]></summary>
-        <author>
-            <name>The Criterion Collection: On Film / The Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LCY drops new EP and visual project ‘Pulling Teeth’]]></title>
-        <id>https://mixmag.net/read/lcy-pulling-teeth-ep-news</id>
-        <link href="https://mixmag.net/read/lcy-pulling-teeth-ep-news"/>
-        <updated>2021-04-22T17:14:00.000Z</updated>
-        <summary type="html"><![CDATA[The release marks LCY's latest release under their new identity
-Continue reading...]]></summary>
-        <author>
-            <name>Mixmag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pacha is opening a new club in London]]></title>
-        <id>https://mixmag.net/read/pacha-new-club-in-london-news</id>
-        <link href="https://mixmag.net/read/pacha-new-club-in-london-news"/>
-        <updated>2021-04-22T16:53:50.000Z</updated>
-        <summary type="html"><![CDATA[The legendary brand is taking over Café de Paris
-Continue reading...]]></summary>
-        <author>
-            <name>Mixmag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Simz reveals 'Sometimes I Might Be Introvert' with new album]]></title>
-        <id>https://mixmag.net/read/little-simz-sometimes-i-might-be-introvert-new-album-news</id>
-        <link href="https://mixmag.net/read/little-simz-sometimes-i-might-be-introvert-new-album-news"/>
-        <updated>2021-04-22T16:46:00.000Z</updated>
-        <summary type="html"><![CDATA[The 19-track LP lands September 3
-Continue reading...]]></summary>
-        <author>
-            <name>Mixmag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burning Man considering mandatory vaccinations for attendees]]></title>
-        <id>https://mixmag.net/read/burning-man-considering-vaccinations-news</id>
-        <link href="https://mixmag.net/read/burning-man-considering-vaccinations-news"/>
-        <updated>2021-04-22T16:26:08.000Z</updated>
-        <summary type="html"><![CDATA[Organisers had said vaccines would be mandatory but have since backtracked following criticism from fans
-Continue reading...]]></summary>
-        <author>
-            <name>Mixmag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[London is getting a new five-stage festival, LOBSTERFEST]]></title>
-        <id>https://mixmag.net/read/lobster-theremin-debut-festival-lobsterfest-news</id>
-        <link href="https://mixmag.net/read/lobster-theremin-debut-festival-lobsterfest-news"/>
-        <updated>2021-04-22T15:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Tickets for the North London event organised by the Lobster Theremin label go on sale next week
-Continue reading...]]></summary>
-        <author>
-            <name>Mixmag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17 women shaping African dance and electronic music]]></title>
-        <id>https://mixmag.net/feature/african-women-shaping-dance-electronic-music</id>
-        <link href="https://mixmag.net/feature/african-women-shaping-dance-electronic-music"/>
-        <updated>2021-04-22T14:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Shiba Melissa Mazaza speaks to gamechanging artists from across the African continent
 Continue reading...]]></summary>
         <author>
             <name>Mixmag</name>
