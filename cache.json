@@ -4,23 +4,22 @@
       "title": "Internal Pointers",
       "feedUrl": "https://www.internalpointers.com/rss",
       "siteUrl": "https://www.internalpointers.com",
-      "articles": [
-        {
-          "id": "https://www.internalpointers.com/post/introduction-tcp-ip-protocol",
-          "author": null,
-          "description": "The official rules that allow computers to communicate over the Internet.",
-          "link": "https://www.internalpointers.com/post/introduction-tcp-ip-protocol",
-          "publishedOn": "2021-04-27T08:19:37.000Z",
-          "wordCount": 2091,
-          "title": "Introduction to the TCP/IP protocol"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Christine Dodrill's Blog",
       "feedUrl": "https://christine.website/blog.rss",
       "siteUrl": "https://christine.website/blog",
       "articles": [
+        {
+          "id": "https://christine.website/blog/epilogue-2021-05-26",
+          "author": null,
+          "description": "Epilogue\nThe last caretaker's absence rippled throughout the halls. The darkness was all\nthat remained.\nI used to run an IRC network named PonyChat. It was an IRC network aimed at\nadult fans of My Little Pony: Friendship is Magic. Looking back, working on that\nnetwork was probably the biggest catalyst to my learning how to do system\nadministration to the level I am at today.\nLots of stuff goes wrong when you run an IRC network. PonyChat peaked at around\n500 users on average, but that didn't stop things from being interesting. There\nwere several \"groups\" of people there, and a lot of roleplaying channels. As\nthings like Discord picked up more and more users, a lot of the roleplaying\nchannels were all that were left at the end. There were some people in the #geek\nroom that were near permanen…",
+          "link": "https://christine.website/blog/epilogue-2021-05-26",
+          "publishedOn": "2021-05-26T00:00:00.000Z",
+          "wordCount": 1697,
+          "title": "Epilogue"
+        },
         {
           "id": "https://christine.website/blog/final-chapter-2021-05-20",
           "author": null,
@@ -52,6 +51,15 @@
       "feedUrl": "https://quuxplusone.github.io/blog/feed.xml",
       "siteUrl": "https://quuxplusone.github.io/blog/",
       "articles": [
+        {
+          "id": "https://quuxplusone.github.io/blog/2021/05/26/after-you-solution/",
+          "author": null,
+          "description": "Previously on this blog: * [\"A metaprogramming puzzle: Overly interoperable libraries\"](/blog/2021/05/19/after-you-no-after-you/) (2021-05-19) * [\"Overly interoperable libraries, part 2\"](/blog/2021/05/22/after-you-part-two/) (2021-05-22) Jason Cobb has sent me a proposal that I think meets all the requirements and therefore qualifies as a complete solution! Unlike the ideas in my previous posts, Jason's solution doesn't depend on \"GUIDs\" at all. It's based on a simple idea that is, in hindsight, quite obvious.",
+          "link": "https://quuxplusone.github.io/blog/2021/05/26/after-you-solution/",
+          "publishedOn": "2021-05-26T00:01:00.000Z",
+          "wordCount": 763,
+          "title": "Overly interoperable libraries, part 3"
+        },
         {
           "id": "https://quuxplusone.github.io/blog/2021/05/23/fishspear/",
           "author": null,
@@ -192,6 +200,76 @@
       "feedUrl": "https://rimzy.net/feed/",
       "siteUrl": "https://rimzy.net",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2157423",
+          "author": "Ron Miller",
+          "description": "Databricks launched its fifth open-source project today, a new tool called Delta Sharing designed to be a vendor-neutral way to share data with any cloud infrastructure or SaaS product, so long as you have the appropriate connector. It’s part of the broader Databricks open-source Delta Lake project. As CEO Ali Ghodsi points out, data is […]",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/GgZY5-PGoNA/",
+          "publishedOn": "2021-05-26T07:30:45.000Z",
+          "wordCount": 624,
+          "title": "Databricks introduces Delta Sharing, an open-source tool for sharing data",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          }
+        },
+        {
+          "id": "https://techcrunch.com/?p=2157611",
+          "author": "Ingrid Lunden",
+          "description": "We don’t hear as much these days about “Zoom fatigue” as we did in the first months after the COVID-19 pandemic kicked off last year, but what’s less clear is whether people became more tolerant of the medium, or if they found ways of coping with it better, or if they were hopeful that tools […]",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/1V0gUhPr6ss/",
+          "publishedOn": "2021-05-26T05:36:50.000Z",
+          "wordCount": 1132,
+          "title": "Zoom fatigue no more: Rewatch raises $20M to index, transcribe and store enterprise video content",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          }
+        },
+        {
+          "id": "https://techcrunch.com/?p=2157259",
+          "author": "Ron Miller",
+          "description": "Uptycs, a Boston-area startup that uses data to help understand and prevent security attacks, announced a $50 million Series C today, 11 months after announcing a $30 million Series B. Norwest Venture Partners led the round with participation from Sapphire Ventures and ServiceNow Ventures. Company co-founder and CEO Ganesh Pai says that he was still […]",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/wNygNMHHpek/",
+          "publishedOn": "2021-05-26T05:00:00.000Z",
+          "wordCount": 593,
+          "title": "Uptycs secures $50M Series C as security platform continues to expand",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          }
+        },
+        {
+          "id": "https://techcrunch.com/?p=2157582",
+          "author": "Ingrid Lunden",
+          "description": "APIs make the world go round in tech, but that also makes them a very key target for bad actors: As doorways into huge data troves and services, malicious hackers spent a lot of time looking for ways to pick their locks or just force them open when they’re closed, in order to access that […]",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/96tf2Q7wZBw/",
+          "publishedOn": "2021-05-26T04:07:46.000Z",
+          "wordCount": 928,
+          "title": "Salt Security lands $70M for tech to protect APIs from malicious abuse",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          }
+        },
+        {
+          "id": "https://techcrunch.com/?p=2157526",
+          "author": "Ingrid Lunden",
+          "description": "With more people than ever before going online to pay for things and pay each other, startups that are building the infrastructure that enables these actions continue to get a lot of attention. In the latest development, Paysend, a fintech that has built a mobile-based payments platform — which currently offers international money transfers, global […]",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/nyzhqK3haNY/",
+          "publishedOn": "2021-05-25T23:09:09.000Z",
+          "wordCount": 991,
+          "title": "UK’s Paysend raises $125M at a $700M+ valuation to expand its all-in-one payments platform",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          }
+        },
         {
           "id": "https://techcrunch.com/?p=2157008",
           "author": "Ingrid Lunden",
@@ -464,6 +542,15 @@
       "feedUrl": "https://avc.com/feed/",
       "siteUrl": "https://avc.com",
       "articles": [
+        {
+          "id": "http://avc.com/?p=20239",
+          "author": "Fred Wilson",
+          "description": "I am working on a new weekday routine the goal of which is to give me more time to read, think, and meet in person and less zoom meetings and phone calls. I am also mixing up my morning routine and attempting to sleep and work out longer. The net of all that is I […]",
+          "link": "https://avc.com/2021/05/changing-things-up/",
+          "publishedOn": "2021-05-26T19:22:39.000Z",
+          "wordCount": 182,
+          "title": "Changing Things Up"
+        },
         {
           "id": "http://avc.com/?p=20238",
           "author": "Fred Wilson",
@@ -798,6 +885,15 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://feedproxy.google.com/~r/blogspot/gJZg/~3/1-W5fRLVwSM/cross-modal-contrastive-learning-for.html",
+          "author": null,
+          "description": "Posted by Han Zhang, Research Scientist and Jing Yu Koh, Software Engineer, Google Research \nAutomatic text-to-image synthesis, in which a model is trained to generate images from text descriptions alone, is a challenging task that has recently received significant attention. Its study provides rich insights into how machine learning (ML) models capture visual attributes and relate them to text. Compared to other kinds of inputs to guide image creation, such as sketches, object masks or mouse traces (which we have highlighted in prior work), descriptive sentences are a more intuitive and flexible way to express visual concepts. Hence, a strong automatic text-to-image generation system can also be a useful tool for rapid content creation and could be applied to many other creative applicati…",
+          "link": "http://feedproxy.google.com/~r/blogspot/gJZg/~3/1-W5fRLVwSM/cross-modal-contrastive-learning-for.html",
+          "publishedOn": "2021-05-26T18:54:00.002Z",
+          "wordCount": 1992,
+          "title": "Cross-Modal Contrastive Learning for Text-to-Image Generation"
+        },
+        {
           "id": "http://feedproxy.google.com/~r/blogspot/gJZg/~3/XhPUzI-LqTk/understanding-contextual-facial.html",
           "author": null,
           "description": "Posted by Alan Cowen, Visiting Researcher and Gautam Prasad, Software Engineer, Google Research \nIt might seem reasonable to assume that people’s facial expressions are universal — so, for example, whether a person is from Brazil, India or Canada, their smile upon seeing close friends or their expression of awe at a fireworks display would look essentially the same. But is that really true? Is the association between these facial expressions and their relevant context across geographies indeed universal? What can similarities — or differences — between the situations where someone grins or frowns tell us about how people may be connected across different cultures?  \nScientists seeking to answer these questions and to uncover the extent to which people are connected across cultures and geog…",
@@ -955,6 +1051,186 @@
       "feedUrl": "https://www.gcores.com/rss",
       "siteUrl": "https://www.gcores.com",
       "articles": [
+        {
+          "id": "https://www.gcores.com/articles/137171",
+          "author": "药荚s",
+          "description": "5月份算是今年游戏集中发售的一个小高潮。除了万众瞩目的“大作8”之外，《往日不再》也登陆了PC，一些二线、独立游戏和重制版都纷纷相续上市。各位应该也都有自己的目标了，热门作品也基本上少不了有相关推荐，这里选了三个自己近期比较喜欢的独立游戏随便聊聊。\n异世界穿越不是每次都能爽到的\n《Lost Ruins》\n\n\nJK、穿越、失忆啦！古堡、魔女、哥布林！\n来到异世界，啥都记不清，被人当枪使，否则就暴毙。\n平台、迷宫、高难度！求生、探索、道具流！\n柔弱美少女，九死无复生，腐肉塞入喉，但求能苟活。\n穿BOSS的小裤裤，抢哥布林的午饭，甭管用的手段多下三滥，今天就是把幕后黑手头给打烂。\n----------莫名其妙但也能直接就理解内容的不押韵打油诗的分割线----------\n在去年忘了哪找到的DEMO，玩过之后对其美术风格和一些设计构思感到相当喜欢。当时看它的制作水平觉得大概不是什么新手或个人作品，但因为时间关系没去细查，只了解到好像跟年初的《小骨：英雄杀手》一样背后实际上是个韩国的游戏开发团队。\n\n(众筹是去年开启的，今年就很有效率地发售了)\n然而它做出来的题材和细节上，确实都是实打实的日式内容。想想还挺微妙的。当然也可能只是一群日本开发者Kickstarter地址写在韩国首尔罢了。\n《失落的遗迹》是个美术风格萌系二次元味道浓郁，同时血腥残酷的内容也并不算少的银河城游戏。失忆的女主角来到了异世界，却发现穿越这事并没有想象中那么美好，药水难喝吃的也都是萝卜生肉。一路上遇到的不是要她命的怪物，就是已经没了命的前辈尸体，活着且愿意跟她说话的脑子也看着不太正常。\n\n(长得像是正经人家的孩子，开口咋就那么电波系呢)\nBOSS设计方面它显然受到了不少《莫莫多拉》的影响，可爱的怪物女孩，但打起来仍然凶悍。恶趣味也不少，那么大的体型但你无论如何也只能照着那对巨乳狠命揍。但总是比修脚趾让人信服得多对…",
+          "link": "https://www.gcores.com/articles/137171",
+          "publishedOn": "2021-05-27T00:30:00.000Z",
+          "wordCount": 70,
+          "title": "推荐三款独立游戏：JK恶魔城，赛博打手枪，人棍开飞机"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137443",
+          "author": "四宫枕头",
+          "description": "大家好，我是Gamera Game的发行人枕头。 前不久，老板给我派了个新活儿，但这回咱们不用“潜伏”进玩家群了， 而是一个线下任务——参展核聚变2021北京站！\n说到线下展会吧，作为一个老萌新发行人兼二次元，我本以为应该什么场面都算是见过了。结果上回的WePlay展台被硬生生搞成了游园会，我则充当了两天拍卡小摊老板。\n\n(在游戏展会上举办“物理游戏”大会好像也没什么问题)\n 一晃到了这次，又来了点更离谱的计划。开展前，展会负责人拉面温柔地拍了拍桌子，说，我们这次展位就不做游戏试玩了。 \n大家：？\n拉面：我们要搞真人RPG！\n大家：？？？\n\n( 没错，就是这么朴实无华的描述 )\n最后，我们真的搞了一个实地的RPG游戏，大概的场景是这样的： \n\n(工会前台)\n\n(看这张大任务揭示板！)\n\n(这么比较下，是不是有点那味儿了？)\n搭建起来的展台还真给了我一种“梦想成真”的感动——多么神圣的日系RPG  icon！多少人在它面前摩拳擦掌，试试自己的能力几何，为委托人解决烦恼，获取属于自己的赞誉和奖赏……\n来自另一个世界的光束通过这个小小的展台照进现实，好像咱们出展的玩法也没那么中二了：我们是游戏发行嘛，当然就是要“玩儿”，有什么不对？\n话说回来，GG娘为了“怎么让勇者们有序揭榜”、“准备些什么任务”、“如何让勇者们科学又循序渐进地变强”的问题真没少动脑筋。看起来，勇者们在前线发光发热，作为勇者忠实后盾的板娘工作其实也不轻松。最后设计的游戏流程是这样的：\n\n\n\n(8个基础任务，50种进阶任务，还有完成了特殊条件才能解锁的隐藏任务)\n\n(图为B赏的部分奖品，此外还有4种大赏、超过20个品种的奖励，一定让各位勇者不虚此行)\n 作为Gamera首款自研（物理）游戏，我们还给它引入了逼ben真dang的纸娃娃系统： \n\n(勇者角色面板，可以把同伴的装备扒下来给自己穿，嗯)\n\n(当然，每个部位…",
+          "link": "https://www.gcores.com/articles/137443",
+          "publishedOn": "2021-05-27T00:00:00.000Z",
+          "wordCount": 47,
+          "title": "在游戏发行商上班的我，经历了一次RPG式的游戏展会"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137510",
+          "author": "黑洞洞",
+          "description": "今日微软更新了Xbox金会员6月会免游戏内容，包含《国王之鸟》《暗影：觉醒》《NEOGEO格斗竞技场》《不义联盟：我们心中的神》共4款游戏登陆。\n\n\n国王之鸟 6月1日 - 6月30日\n\n\n逃亡至由一个专制者秘密管理的世界，并发现您自由的真相。通过以动力为基础的独特飞行机制，在被遗忘的迷失王国跑跳和飞跃。 \n暗影：觉醒 6月16日 - 7月15日\n\n\n《暗影:觉醒》是一款采用即时战斗的独特线性单人RPG。你将操作一只由影界被召唤而来的恶魔“吞噬者”，吞噬死亡英雄的灵魂,并踏上一场史诗冒险。 \nNEOGEO格斗竞技场 6月1日 - 6月15日\n\n\nSNK经典游戏角色大乱斗，包含《拳皇》《合金弹头》《饿狼传说》等知名游戏内角色。\n不义联盟：我们心中的神 6月16日 - 6月30日\n\n\n《不义联盟：我们心中的神》终极版是 NetherRealm Studios 最新的大胆格斗游戏作品。本版本有 6 个新的角色，超过 30 种新的造型以及 60 种新的 S.T.A.R. 实验室任务。",
+          "link": "https://www.gcores.com/articles/137510",
+          "publishedOn": "2021-05-26T16:36:00.000Z",
+          "wordCount": 82,
+          "title": "Xbox金会员6月会免游戏更新，《国王之鸟》《暗影：觉醒》共4款游戏登陆"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137509",
+          "author": "黑洞洞",
+          "description": "今日Mojang宣布《我的世界：地下城》全新DLC“隐秘深渊”正式发布，同时游戏也迎来了发售一周年纪念日，从今日起游戏内将开启限时周年庆典活动。\n\n\n<内嵌内容，请到原网页查看>\n\n《我的世界：地下城》全新DLC“隐秘深渊”是游戏的第六个DLC内容，包含在季票之内，此次战场扩展到了深海之中。新DLC内容将包含全新敌人、装备、物品，同时也将随新DLC发布免费游戏内容更新。\n\n\n另外，《我的世界：地下城》在今日迎来了一周岁生日，游戏从今日起至6月8日将开启周年庆典限时活动，玩家可在游戏中获得特殊的庆典装备，包含蛋糕装甲和披风等内容，喜欢收集的玩家千万不要错过。",
+          "link": "https://www.gcores.com/articles/137509",
+          "publishedOn": "2021-05-26T16:35:00.000Z",
+          "wordCount": 47,
+          "title": "《我的世界：地下城》全新DLC“隐秘深渊”发布，周年庆典活动限时开启"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137511",
+          "author": "肖尔",
+          "description": "育碧公布了《孤岛惊魂6》全新先导预告，并宣布将于北京时间5月29日凌晨0点29分带来全新游戏实机演示。\n\n\n<内嵌内容，请到原网页查看>",
+          "link": "https://www.gcores.com/articles/137511",
+          "publishedOn": "2021-05-26T16:30:03.000Z",
+          "wordCount": 46,
+          "title": "《孤岛惊魂6》公布先导预告，将于5月29日发布实机演示"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137506",
+          "author": "日天嗷",
+          "description": "宝可梦系列最新作《宝可梦 晶灿钻石》、《宝可梦 明亮珍珠》 与《宝可梦传说 阿尔宙斯》确定发售日，并公布了游戏封面。\n\n\n作为DP重制作品的《宝可梦 晶灿钻石》、《宝可梦 明亮珍珠》将于2021年11月19日发售，数字版、实体版定价均为6578日元。\n\n\n《宝可梦 晶灿钻石》、《宝可梦 明亮珍珠》依旧会推出Double Pack，两份游戏各一张，定价13156日元，目前官方未宣布Double Pack有无实体、数字特典。\n\n\n《宝可梦传说 阿尔宙斯》将于2022年1月28日发售，定价6578日元。",
+          "link": "https://www.gcores.com/articles/137506",
+          "publishedOn": "2021-05-26T15:14:31.000Z",
+          "wordCount": 67,
+          "title": "《宝可梦》后续作品发售日确定，8月下旬日本开订"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137504",
+          "author": "YTYTYTYT😀",
+          "description": "Epic Games 高级技术设计师 Chance Ivey 和 Epic Games 的 Quixel 制作人 Galen Davis 在直播活动中表示，虚幻引擎5抢先体验版先可供所有开发者下载。据悉，Epic 对于虚幻引擎5的最终目标是让所有行业的创作者都能制作出令人惊叹的实时内容和体验，而这个抢先体验版专门面向喜欢追求科技最前沿的游戏开发者，供他们试用功能和设计下一款游戏的原型。 \n\n\n<内嵌内容，请到原网页查看>\n\n需要注意的是，该虚幻引擎5抢先体验版尚未达到生产标准，但开发者可以通过它首次接触到一些在去年的公布演示中十分兴奋的技术（以及一些全新的内容）。下面总结了如今已经可以公开测试的重要新功能。\nNanite\nNanite 是一个虚拟化微多边形几何体系统，开发者可以通过它创作具有海量几何体细节的游戏，省去将细节烘焙到法线贴图或手动编辑LOD等费时费力的工作。 \n\n\n想象一下，直接导入由数以百万计的多边形组成的电影级美术资源——从 ZBrush 雕刻到摄影测绘扫描的任何资源——将它们布置数百万次之多，而且自始至终保持实时帧率，没有任何明显的保真度损失。觉得这不可能吗？时代变了。\nLumen\n有了 Lumen，开发者就可以创建动态、逼真的场景，其中的间接光照能够实时适应直接光照或几何体的变化——例如根据天时改变太阳的角度，打开手电筒或打开房门。\n\n\n有了 Lumen ，开发者再也不需要编辑光照贴图UV，等待光照贴图烘焙或放置反射捕捉；只需要在虚幻编辑器中创建和编辑光源，然后就能看到游戏在主机上运行时的最终光照效果。 \n开放世界场景\nEpic 表示，其始终致力于让各种规模的团队都能更方便、更快捷、更协作地创建开放世界场景。如今开发者可以试用一些将让他们实现这个目标的步骤。\n\n\n首先是新的世界分区系统，它能够自动将世界场景划分为网格，并在需要时流送所需网格。然后是新的每Actor一文件系统，它将使协作变得更方便——现在，全体团队成员现在可以同时处理同一个世界场景的同一个区域，而不会相互干扰。\n\n最后是数据分层，它让开发者能够创建同一个世界场景的不同变体——例如日间和夜间版本，或者通过游戏玩法启用的特定数据集——作为同一空间中的分层。  \n动画\n\n\n控制绑定等对美术师友好的工具可以让你快速创建骨架绑定，并在多个角色之间共享；开发者可以在 Sequencer 中摆好他们的姿势，并使用新的姿势浏览器将这些姿势作为资源保存和运用；还可以使用新的全身 IK 解算器轻松创作自然的动作。与此同时，运动扭曲可以让开发者动态调节角色的根动作来适应不同目标——例如用一个动画就做出跃过不同高度的墙壁的动作。 \nMetaSounds\nMetaSounds是一个高性能的系统，可以让开发者全面控制音源的音频DSP图表生成，管理音频渲染的各个方面，推动实现次世代的程序化音频体验。\n\n\nMetaSounds 好比一条完全可程控的材质和渲染管线，将材质编辑器为着色器实现的所有程序化内容创建的优点都带到了音频领域：动态的数据驱动资源，将游戏参数映射到声音播放的功能，工作流程的大幅改进，等等。",
+          "link": "https://www.gcores.com/articles/137504",
+          "publishedOn": "2021-05-26T15:06:00.000Z",
+          "wordCount": 84,
+          "title": "虚幻引擎5现已推出抢先体验版，开发者可下载体验"
+        },
+        {
+          "id": "https://www.gcores.com/radios/137505",
+          "author": "Hardy",
+          "description": "本期时间轴制作：脆脆\n托尔金创作中土世界的动机之一，是想要为盎格鲁 • 撒克逊人撰写其民族神话，却为何又将代表本民族的霍比特人描写成不起眼的“半身人”种族？“隐身戒指”在不同的故事中有着怎样共通的意向？神话之于一个民族，在过去和现在又有着怎样的意义和作用？故事的密码系列的第二期，我们将试着和大家一起，讨论一下这些问题。",
+          "link": "https://www.gcores.com/radios/137505",
+          "publishedOn": "2021-05-26T15:05:44.000Z",
+          "wordCount": 37,
+          "title": "故事的密码 2 ：为何《魔戒》的主角是霍比特人？"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137503",
+          "author": "范克里夫大尉",
+          "description": "5月29日（本周六），501军团将和好朋友义军联盟共同在上海朵云书院戏剧店发起“星战影迷读书汇”第三期活动。 届时501军团成员：范克里夫大尉 、闲人和Darthz将作为主讲嘉宾，现场和广大影迷同好畅谈《星球大战如何征服全宇宙》丛书，聊聊星战道具的趣闻。\n\n\n闲人将作为501军团MEPD支队(Mos Eisley Police Department)代表，现场呈现复制1977年《星球大战:新希望》中Sand Trooper元年道具的过程经历，并解读复原道具背后的故事。（这套手工道具曾在2019年《星球大战:天行者崛起》中国大陆首映礼期间，在上海迪士尼乐园-星战远征基地中公开展出）。\nDarthz更会在现场为大家带来历代版本的Boba Fett 头盔，并呈现Obi-Wan Kenobi原品零件复刻光剑，讲述这些珍贵的原品道具细节故事。\n再次感谢朵云书院对于本次影迷活动场地的大力支持。\n朋友！我们现场见！\n活动地点：朵云书院·戏剧店（上海市黄浦区长乐路398号）\n活动日期：2021年5月29日\n活动时间：14:00-16:00   \n活动内容：读书互动，道具展示等\n现场坐席名额有限，还望见谅。\n如您想参加本次活动，请扫描活动海报中二维码报名，名额报满截止。",
+          "link": "https://www.gcores.com/articles/137503",
+          "publishedOn": "2021-05-26T14:51:00.000Z",
+          "wordCount": 63,
+          "title": "线下活动：朋友！一起，聊聊星战啊"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137501",
+          "author": "YTYTYTYT😀",
+          "description": "知名影业公司米高梅于今日被亚马逊于以84.5亿美元收入囊中。亚马逊表示，本次收购后米高梅仍然致力于为观众打造引人入胜的故事。作为一家知名的电影制片公司，高梅主要业务包括制作和发行影片和电视节目，而亚马逊也无意改变其现有计划。\n\n\n在本次收购后，包括《猫和老鼠》、《乱世佳人》、《绿野仙踪》、 《007》系列在内的及21,000余部影视作品将加入亚马逊的大家庭，从而与亚马逊工作室及亚马逊流媒体业务强强联手，再创新高。  \n\n\n需要注意的是，亚马逊的本次收购价格超乎了不少业内人士的预计，而仅次于2017年以137亿美元收购全食超市的天价也证明了亚马逊对目前与 Netflix 、迪士尼+等在娱乐行业的竞争势在必得。",
+          "link": "https://www.gcores.com/articles/137501",
+          "publishedOn": "2021-05-26T14:50:00.000Z",
+          "wordCount": 50,
+          "title": "亚马逊以84.5亿美元收购知名影业公司米高梅"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137502",
+          "author": "肖尔",
+          "description": "在今晚的《怪物猎人》直播活动上，官方宣布《怪物猎人：崛起》免费更新 V3.0 将于明天正式上线。其中包括全新结局，还加入了“神秘红光天彗龙”与“霸主·雷狼龙”，据官方介绍，“神秘红光天彗龙”是“天彗龙”的变异体。此外官方还带来了全新免费游戏更新计划图，其中将于6月中旬推出联动第一弹内容，包含下载任务与特别活动的 V3.1 更新计划在6月末发布，7月与8月内也将持续推出更多更新，敬请期待。\n\n\n<内嵌内容，请到原网页查看>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n《怪物猎人 物语2 破灭之翼》在直播活动中也带了全新预告与“传承仪式”系统详解，在游戏中我们可以深入怪物巢穴，发现他们的蛋并带回兽棚即可将其孵化并一同踏上冒险。通过“传承仪式”可以让我们的随行兽搭配并觉醒出不同的技能与能力。《怪物猎人 物语2 破灭之翼》将于今年7月9日正式发售。\n\n\n<内嵌内容，请到原网页查看>\n\n\n\n\n\n\n\n\n\n<内嵌内容，请到原网页查看>\n(完整直播活动录像)",
+          "link": "https://www.gcores.com/articles/137502",
+          "publishedOn": "2021-05-26T14:19:18.000Z",
+          "wordCount": 57,
+          "title": "天彗龙来了！《怪物猎人：崛起》V3.0更新将于5月27日上线"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137423",
+          "author": "Kazuya",
+          "description": "MEDICOM TOY旗下产品线MAFEX今日官方释出第161号商品，来自于漫画《黑暗骑士归来》主要角色：超人（Superman ）。该款商品是同IP作品继蝙蝠侠之后最新一款来自于该作的角色商品。\n本品高度还原了原作漫画中弗兰克·米勒（Frank Miller）笔下那体态魁梧的超人，头发前端翘起的刘海、方正的脸型、翘起的下巴都很有漫画人设的味道。外观上以蓝、红、黄三色为主调的贴身战衣也塑造出明显的肌肉线条，披风则是采用布料材质，并且以内藏的铁丝弯折角度以便定型，表达出颇具张力的姿态。配件方面商品附属绿箭侠发射的「氪石箭（クリプトナイトアロー / Kryptonite Arrow）」，能够配合面部受伤状态的头雕，再搭配之前已经发售的MAFEX重装蝙蝠侠就能还原《黑暗骑士归来》原作中的史诗对决！\n该商品现已展开预售，预计2022年3月大货上市，税后零售价为9,680日元。  \n\n\n\n\n 【商品规格】\n\n商品尺寸：全高约160mm；\n商品内容：两件不同表情头雕可替换；\n商品包括：使用带铁丝的布制斗篷  ；\n商品附属：氪石箭；\n支架规格：可动式支架附属 \n原型制作：SH STUDIO & PERFECT-STUDIO \n版权所属：  BATMAN: The Dark Knight Returns and\nall related characters and elements\n(C) & TM DC Comics and Warner Bros.\nEntertainment Inc. (s21) \n 更多情报请访问MEDICOM TOY官网，或是该商品详情页面了解。",
+          "link": "https://www.gcores.com/articles/137423",
+          "publishedOn": "2021-05-26T09:46:00.000Z",
+          "wordCount": 95,
+          "title": "MAFEX《黑暗骑士归来》版超人将于2022年3月上市售价9,600日元"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137422",
+          "author": "Kazuya",
+          "description": "MEDICOM TOY旗下产品线MAFEX今日官方释出第160号商品，来自于《X-MAN》漫画版的女主角之一琴葛蕾（ Jean Grey ）。该款商品是继金刚狼、镭射眼、灵蝶之后最新一款来自于《X-MAN》漫画版的角色商品。\n本品采用了90年代《X-MAN》「Gold Team」中黄蓝配色的贴身战衣为主题制作。琴的身材比例十分修长，除了再现头盔、腰带、红色长发、以及肩膀、手臂前端等各处护甲之外，蓝色部分以金属涂装质感表达。头雕拥有普通、咬牙、无盔三种，搭配桃红色的半透明特效件与多种替换手型就能实现丰富姿态！请搭配之前MAFEX已经发售过的金刚狼与镭射眼一起把玩，重现《X-MAN》中最强三人组吧！\n该商品现已展开预售，预计2022年3月大货上市，税后零售价为9,680日元。 \n\n\n\n\n 【商品规格】\n\n商品尺寸：全高约150mm；\n商品内容：三件不同表情头雕可替换；\n商品包裹：通过各种手腕零件 & 特效件可以再现各式各样的动作场景 ；\n支架规格：可动式支架附属；\n原型制作：PERFECT-STUDIO\n版权所属： (C) 2021 MARVEL \n更多情报请访问MEDICOM TOY官网，或是该商品详情页面了解。",
+          "link": "https://www.gcores.com/articles/137422",
+          "publishedOn": "2021-05-26T09:45:00.000Z",
+          "wordCount": 64,
+          "title": "MAFEX《X-MAN》漫画版琴葛蕾将于2022年3月上市售价9,680日元"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137414",
+          "author": "墨鱼游戏工作室",
+          "description": "我所有的故事，都建立在这样一个基本前提之上，那就是人类共同的法则、兴趣和情感在广阔的宇宙中毫无意义……要想了解那世界以外的真相，无论是时间、空间还是维度，人们必须忘记诸如有机生命、善与恶、爱与恨，以及人类这个种族所有的微不足道的临时特性。这些东西是存在的，只有人类的场景和人物才会具备人类的特性，我们必须用无情的现实主义来处理这些问题。但当我们越过界限，进入到无边无际、阴影笼罩的可怕未知世界时，我们必须记住，把我们的人性和地球主义抛在脑后。\n\n——霍华德·菲利普·洛夫克拉夫特 \n洛老构筑的这个宏大而诡谲的世界，吸引了诸多爱好者的艺术创作。我们也沉溺于这场浩瀚的探索之中，为其创作出一组组精美的插图。其中有一些被赋予了新的载体，它们被刻制在一枚枚金属铸币上，以这种特有的光泽和质感，来诠释这场浩瀚无边、而又毫无理性与目的可言的宇宙笑剧。\n\n(《旧日支配者》古金币（锌合金）/30*3mm)\n古金币正面使用了“克苏鲁”为原型。克苏鲁是整个克苏鲁神话中最为著名的形象，以至于整个神话体系都以它为名。而背面则使用了“拉莱耶”。这所沉寂在深海最黑暗处的宫殿，也将伴随着克苏鲁一并苏醒。\n\n( 《深潜者的渴望》古银币（锌合金）/30*3mm)\n古银币正面使用了克苏鲁神话中另一个著名的形象——“深潜者”，也就是俗称中的鱼人。它们是克苏鲁的奴仆和追随者，在诸多作品中也有出现。背面则使用了它们常用的武器“鱼叉”。\n\n(《旧印恐惧》古铜币（锌合金）/25*3mm)\n古铜币正面使用了洛老的头像，表达了在探求宇宙的过程中逐步陷入癫狂。背面使用旧印图案，它代表着理智、也代表着敬畏。",
+          "link": "https://www.gcores.com/articles/137414",
+          "publishedOn": "2021-05-26T09:00:00.000Z",
+          "wordCount": 35,
+          "title": "《克苏鲁的呼唤》主题金属铸币：克总和洛老，被封印在钢镚儿上了"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137489",
+          "author": "肖尔",
+          "description": "《寂静之地2》在前几天正式宣布，将于5月28日同步北美登陆内地院线。官方今天也发布了全新手绘风格的中文海报。本片由约翰·卡拉辛斯基自编自导。主演包括艾米丽·布朗特、基利安·墨菲、米莉森·西蒙斯、诺亚·尤佩和杰曼·翰苏。影片为2018年电影《寂静之地》的续集，故事上除去承接第一部的剧情外，还将讲述灾难降临伊始的前传故事。本片中，母子一家带着刚出生的孩子离开被怪物破坏的避难所，踏入危机四伏的未知领域，延续前作的残酷末世设定以及更加困难的生存挑战，一场人性的终极考验即将开启。",
+          "link": "https://www.gcores.com/articles/137489",
+          "publishedOn": "2021-05-26T07:32:23.000Z",
+          "wordCount": 54,
+          "title": "【抽奖】《寂静之地2》将于本周五上映，中文手绘海报曝光"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137460",
+          "author": "Kazuya",
+          "description": "「POP UP PARADE」是全新的模型系列商品，让人不禁手滑订购的亲民价格、方便装饰的全高17～18cm尺寸、短期內发售等元素，都使得本系列拥有令模型粉丝开心的各项优点。本次经典动漫IP《犬夜叉》中的男女主角「犬夜叉」与「日暮籬」登场！將铁碎牙扛在肩上的动作以及身穿制服的造型的两名角色跃然纸上，来到你的桌前啦！快把他们带回家吧！\n\n\n\n\n\n\n\n\n【商品规格】\n\n商品名称：POP UP PARADE 犬夜叉 \n原作名称：犬夜叉 完結編 \n制造厂商：GSC\n商品分类：POP UP PARADE\n税后价格：各3,900日元\n发售时间：2021年9月\n商品材料：ABS & PVC预涂装成品、无比例、附属专用地台\n商品尺寸：约170mm / 160mm\n原型制作：デザインココ \n彩色担当：谷本裕人 \n版权所属：©高橋留美子／小学館・読売テレビ・サンライズ 2009 \n更多商品情报，请访问GSC官网犬夜叉商品页面与日暮籬商品页面了解获取。",
+          "link": "https://www.gcores.com/articles/137460",
+          "publishedOn": "2021-05-26T07:06:00.000Z",
+          "wordCount": 86,
+          "title": "GSC POP UP PARADE系列《犬夜叉 完结篇》犬夜叉&日暮籬今年9月上市售价3,900日元"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137454",
+          "author": "王洞洞",
+          "description": "看了看自己发的第一篇《塞尔达》的贴子，时间已经过去了半年。期间补完了《塞尔达》系列的所有游戏，顺着“俯视角《塞尔达》”与“3D《塞尔达》”这两条脉络，以《众神的三角力量2》和《御天之剑》为突破口，体验了任天堂各个硬件上的塞尔达游戏，在进一步熟悉了任天堂各代硬件的特点后，塞尔达系列游戏所蕴含的极为丰富的游戏性也进一步拓宽且加深了自己对游戏的认知——塞尔达系列的每一款游戏都能量极高，其最主要的能量源并不是“剧情”、“画面”这些元素，其迸发的能量就是单纯根植于纯粹的游戏性上。\n看过自己之前的贴子，各位也应该知道《塞尔达》游戏的制作流程，每一款《塞尔达》游戏都是先确定其最根本的游戏机制，“剧情”、“动画”这些元素都是依附于游戏机制而存在，随着游戏机制的改变而改变的。而这并不是说因此《塞尔达》游戏的“剧情”就不够好，每一款《塞尔达》游戏的剧情首先是完整的，一款优秀且完整的游戏必须保证其所包含的各个元素都是完整的，并且各个元素之间是能够相互完美嵌合的。但因为过分照顾游戏机制，受其限制，《塞尔达》系列游戏的剧情也就只能评价其“完整”了，绝大部分的《塞尔达》游戏没有什么强烈的戏剧冲突，也没有太多令人惊艳的剧情转折。逻辑通顺，能够串联起整个游戏流程，就足够了。\n但对于玩家来说，体验完整个游戏流程，“剧情”应该是玩家能够最为直观地接触，且能完全掌握的游戏元素了。通常玩家都是以“掌握剧情”来给自己的这段游戏历程赋予意义，而对于资深的塞尔达玩家来说，他们希望从各代的剧情中找出一条清晰的逻辑线以串联起每一代塞尔达的游戏体验，通过此将游戏体验提炼得更加直观。\n他们寻找着每一代《塞尔达》游戏的共性，例如“三角力量”、“林克”、“塞尔达”这些元素，以及“林克打败加农，拯救公主”这套故事逻辑；他们发掘着每一代游戏可以与其他《塞尔达》游戏相连接的设定点，例如《风之杖》中沉入海底的“海拉尔城堡”中存留的“时之勇…",
+          "link": "https://www.gcores.com/articles/137454",
+          "publishedOn": "2021-05-26T06:30:00.000Z",
+          "wordCount": 41,
+          "title": "游戏展谈·《塞尔达》总结篇：系列故事线串讲"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137477",
+          "author": "YTYTYTYT😀",
+          "description": "世嘉日前宣布，《VR战士5：究极对决》将于6月1日在 PlayStation 4 以数字形式发售（PS5可通过向下兼容游玩）。在2006年《VR战士5》的基础上，本作由原版街机游戏开发者 Sega AM2 及《如龙》系列 Ryu Ga Gotoku 工作室的金牌团队联手打造。\n\n\n<内嵌内容，请到原网页查看>\n\n开发团队表示，使用“如龙引擎”（Dragon Engine）打造的《VR战士5：究极对决》在视觉效果方面进行了诸多升级。不仅每个阶段都包含全新背景音乐，同时本作在 UI 、照明以及着色器也均有大幅度提升，从而在保留原版玩法的基础上为玩家带来全新的体验。\n\n\n\n\n此外，《VR战士5：究极对决》还加入了观众模式、在线锦标赛、多达16名玩家的大厅系统以及全新的交流方式等新功能。与此同时，玩家也可体验主机版特有的训练模式、任务模式以及 VF.TV 模式。",
+          "link": "https://www.gcores.com/articles/137477",
+          "publishedOn": "2021-05-26T06:20:00.000Z",
+          "wordCount": 67,
+          "title": "世嘉宣布《VR战士5：究极对决》将于6月1日发售，PlayStation独占"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137429",
+          "author": "丑客",
+          "description": "一：前言\n这个系列将可能是一个比肩“GEB读书笔记”系列的大坑——其实“深孔”这个叫法可能更加合适。其实这个系列的酝酿可以说是相当久了，但是因为题目太巨大了，一开始甚至没有什么明确的计划，一直到写下这篇投稿开始，才算确定下来一个方向。\n回溯起来想要动笔这个系列的缘起，来自于几个方向。\n首先就是来自“克苏鲁神话”。我们都知道不论是克苏鲁文学还是跑团等的形式中，都充斥着各种“神秘学”的符号在其中。洛夫克拉夫特本人也很喜欢在故事中运用到他的神秘学知识。而洛夫克拉夫特与他的文学圈当中的一些朋友也都是“神智学”的深度研究者，从各方面的文献来看，可以说洛夫克拉夫特他们这批人被称为神智学者也不算过分。\n另一个是在写作“怪奇文学四大宗师”这个系列的投稿的时候，沿着怪奇文学一路探究。笔者注意到，怪奇文学的创作深深的受到了“神秘学”的影响，其中不乏有人本身就是神秘学的大家。同时在那个背景时代下，神秘学开始在新世纪里“抬头”，其对于当时流行文学的影响力极为可观。亚瑟·梅琴是著名神秘学结社“黄金黎明”的成员之一，阿尔杰农本人也钻研过神秘学相关方面内容……\n还有就是在今天来说，其实神秘学的内容并不是如字面看起来的那样——躲在犄角旮旯里的神秘，阴影下的流传……实际上在今天，神秘学的内容极大地影响着我们现代的生活，也出现在流行文化的每一个角落当中——人们现在热衷的“星座”、网上到处流传的“地摊文学”、各种和宗教迷信纠缠在一起的零零碎碎……可以说的实在是太多了。\n神秘学本身是一个太过于巨大的主题，光是上面提到的这些就足够出好几个长篇投稿了。所以笔者还是决定把目光聚焦在影响了洛夫克拉夫特的“神智学”主题上。同时，笔者有幸弄到了神智学创始人：布拉瓦茨基夫人本人写作的论述“神智学”的原著。\n但是在真正开始正题之前，还是需要先对神秘学整体有一个概念。所以这篇投稿将会是一个类似“序言”性质的文章，可能之后还会有一两…",
+          "link": "https://www.gcores.com/articles/137429",
+          "publishedOn": "2021-05-26T06:00:00.000Z",
+          "wordCount": 180,
+          "title": "神智学研究笔记（一）：神秘学概述"
+        },
+        {
+          "id": "https://www.gcores.com/articles/135830",
+          "author": "Kazuya",
+          "description": "综述 \nStorm Collectibles，玩家们爱称Storm Toy，甚至简称ST。由于其独特的肌肉扎实的表现，也是一家近年人气崛起的可动figure品牌。ST在市场中面对其他竞品厂牌的定位非常清晰，旗下以众多儿时记忆中经典街机IP题材为主，而该厂牌非常愿意深耕街机时代中的各类游戏品类，这份情怀的坚持特别容易击中同好。\n\n\n最近由于我其他厂牌收藏孩之宝6寸和麦克法兰7寸已经满坑，所以转战了MAFEX和ST希望把喜欢的藏品尽数入手。本篇体验交稿时，刚好ST最新的商品之一《恶魔战士》男主迪米特利也和其他商品一同到货了。我可是相当喜爱《恶魔战士》啊，安排上！\n\nSTORM COLLECTIBLES\n\n\n最近几年国内优秀的本土模玩厂牌，给我的感觉就是如雨后春笋一般在爆出，并且各有所长还挺极致。今次的介绍对象STORM COLLECTIBLES，对于肌肉猛男角色的塑造在行业里也是有口皆碑的了，如果ST甘愿第二，估计在可动figure这个领域中也没什么厂牌自信满满敢出头自称第一了。原因很简单，就是ST的技术力非常成熟，这点如果没有亲自把玩过该厂商品的朋友很难感受。\n\n(公认的ST《街霸 II》的美好体验系列应该是入坑首选产品线)\n也许有些朋友会问我，以前SE的Play Art改系列不是风格和肌肉造型上跟ST很像吗？实则不然，ST总是在追求规格以上的扎实感，而肌肉的尺寸大小也会因角色的身材迥异而设计定制的肌肉包裹。就拿ST自家产品线《街头霸王 II》已经上市的几款产品来看，针对不同角色的身高、体重与肌肉覆盖尺寸，ST都会做出差异性来。\n这块跟日系的SHF的成品可动人偶差别还挺大，万代的SHF大多用相对较硬的塑胶穿插服饰软胶配合关节来保证角色的稳定性。而ST则倾向于在肌肉层面本身就把软胶与硬胶进行结合，再部署到角色身体上不同的肌肉模块进行混搭设计，一方面确保角色的可动性，另一方面则是…",
+          "link": "https://www.gcores.com/articles/135830",
+          "publishedOn": "2021-05-26T06:00:00.000Z",
+          "wordCount": 67,
+          "title": "终生嗜好 Vol.16丨STORM COLLECTIBLES《街霸V》修炼隆异色版"
+        },
         {
           "id": "https://www.gcores.com/articles/137418",
           "author": "游力卡酱",
@@ -2025,6 +2301,33 @@
       "siteUrl": "https://theinitium.com/newsfeed/",
       "articles": [
         {
+          "id": "https://theinitium.com/article/20210526-evening-brief/",
+          "author": null,
+          "description": "《華盛頓郵報》引述兩名知情人士消息報道 ，紐約曼哈頓地方檢察官萬斯（Cyrus Vance Jr.）近期召集大陪審團，在未來六個月向大陪審團講述涉及前任總統特朗普（Donald Trump）的刑事調查證據，交由大陪審團決定是否對特朗普提出起訴。",
+          "link": "https://theinitium.com/article/20210526-evening-brief/",
+          "publishedOn": "2021-05-26T09:28:00.000Z",
+          "wordCount": 2,
+          "title": "晚報：據報曼哈頓檢察官召集大陪審團，將決定是否對特朗普提刑事起訴"
+        },
+        {
+          "id": "https://theinitium.com/article/20210526-opinion-china-dongbei-economy-population/",
+          "author": null,
+          "description": "東北人跑到北京跑到東南沿海，老老實實用腳投票，本質上也算是一種優化資源配置：體制不變，我變。",
+          "link": "https://theinitium.com/article/20210526-opinion-china-dongbei-economy-population/",
+          "publishedOn": "2021-05-26T06:42:00.000Z",
+          "wordCount": 2,
+          "title": "楊路：從東北人口外流看中國經濟的「歐洲」化"
+        },
+        {
+          "id": "https://theinitium.com/article/20210526-morning-brief/",
+          "author": null,
+          "description": "以色列與加沙地帶的哈馬斯武裝結束11天軍事衝突後，美國國務卿布林肯（Antony Blinken）週二首次正式訪問耶路撒冷及約旦河西岸城市拉姆安拉（Ramallah），先後與以色列總理內塔尼亞胡（Benjamin Netanyahu）和巴勒斯坦總統馬阿巴斯（Mahmoud Abbas）舉行會談。",
+          "link": "https://theinitium.com/article/20210526-morning-brief/",
+          "publishedOn": "2021-05-26T02:30:00.000Z",
+          "wordCount": 2,
+          "title": "早報：布林肯宣布美國將重開駐耶路撒冷總領事館，恢復與巴勒斯坦聯繫"
+        },
+        {
           "id": "https://theinitium.com/article/20210526-technology-understanding-metaverse/",
           "author": "端傳媒實習記者 向知為 發自香港",
           "description": "超越真實的虛擬，成為了互聯網未來形態一種熱門想像",
@@ -2716,6 +3019,348 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/highscore-domains",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/highscore-domains",
+          "publishedOn": "2021-05-26T13:52:36.000Z",
+          "wordCount": 85,
+          "title": "HIGHSCORE.domains — A fun leaderboard to find out who owns more domains"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/leadsift-intent-api",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/leadsift-intent-api",
+          "publishedOn": "2021-05-26T12:53:34.000Z",
+          "wordCount": 108,
+          "title": "LeadSift Intent API — Real-time intent data in your platform"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/crafty",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/crafty",
+          "publishedOn": "2021-05-26T12:01:40.000Z",
+          "wordCount": 74,
+          "title": "Crafty — Greeting and social media post creator"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/co-pilot-by-syncsmart",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/co-pilot-by-syncsmart",
+          "publishedOn": "2021-05-26T11:15:40.000Z",
+          "wordCount": 102,
+          "title": "Co-Pilot by SyncSmart — Engage in first-class conversations with your contacts"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/5000-premium-graphics",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/5000-premium-graphics",
+          "publishedOn": "2021-05-26T10:20:05.000Z",
+          "wordCount": 114,
+          "title": "5000+ Premium Graphics — 8 gb of editable Icons, UI kits, AI elements and more"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/habinator",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/habinator",
+          "publishedOn": "2021-05-26T09:40:24.000Z",
+          "wordCount": 68,
+          "title": "Habinator — Health & life coach app"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/pegg-3",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/pegg-3",
+          "publishedOn": "2021-05-26T08:49:26.000Z",
+          "wordCount": 99,
+          "title": "Pegg — Awareness on multiple topics through user engagement"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/afi",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/afi",
+          "publishedOn": "2021-05-26T08:14:53.000Z",
+          "wordCount": 91,
+          "title": "Afi — A smarter affiliate program"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/chartmat",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/chartmat",
+          "publishedOn": "2021-05-26T08:13:52.000Z",
+          "wordCount": 109,
+          "title": "Chartmat — Build dashboard and apps on top of Google Sheets"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/ivy-wallet",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/ivy-wallet",
+          "publishedOn": "2021-05-26T08:04:33.000Z",
+          "wordCount": 115,
+          "title": "Ivy Wallet — Track your income, expenses and budget with a modern app."
+        },
+        {
+          "id": "https://www.producthunt.com/posts/rinkt",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/rinkt",
+          "publishedOn": "2021-05-26T07:58:49.000Z",
+          "wordCount": 97,
+          "title": "Rinkt — The automation platform for anyone, everywhere"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/minimal-avatars",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/minimal-avatars",
+          "publishedOn": "2021-05-26T07:38:56.000Z",
+          "wordCount": 100,
+          "title": "Minimal Avatars — Create minimal, unique and playful avatars for free"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/headspin-compass",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/headspin-compass",
+          "publishedOn": "2021-05-26T07:34:52.000Z",
+          "wordCount": 94,
+          "title": "HeadSpin Compass — App & Browser testing on real devices around the world"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/ideas-from-domains",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/ideas-from-domains",
+          "publishedOn": "2021-05-26T07:31:31.000Z",
+          "wordCount": 125,
+          "title": "Ideas From Domains — Get premium domains in your inbox with product ideas for it"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/floppy-disk-for-slack",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/floppy-disk-for-slack",
+          "publishedOn": "2021-05-26T07:04:12.000Z",
+          "wordCount": 114,
+          "title": "Floppy disk for Slack — Store Slack threads in Notion, Coda or Airtable"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/zeroqode-4-0",
+          "author": null,
+          "description": "NEW TO ZEROQODE?\n\nZeroqode is a suite of no-code tools that allow you to build and implement even the most daring ideas. No programming skills, no engineers or technical background required.\n\n\nWHAT DO WE COME UP WITH TODAY?\n\nWe stayed focused on improving our product offering, providing better support to our users and making the whole user experience a breeze. So what did we achieve in more than a year since we last been on Product Hunt:\n\n🧳 +24 new templates. Now we have 120+ templates! 🥳 \n⚙️ +50 new plugins. Total 270+ plugins with better functionality and support.\n🗣 Zero Code Online Conference. We hosted the biggest online no-code conf in 2020, if you missed it you can replay the recorded sessions\n📺 Monthly Zeroqode Series for no-coders. Once per month, 1 hour webinar with great tips and insights about the no-code ecosystem from the leading players. \n\nSOME OTHER NEWS\n\nWe completely redesigned our website and decided to use 3D-style animations and illustrations. It was a challenging and interesting project for us (still ongoing albeit mostly done) . Check it out here, perhaps you’d feel moved to redesign your website too?:)! \n\nBy the way our team is almost  50 and we are still hiring! \n\nEXCLUSIVE OFFER FOR PRODUCTHUNTERS\n\nGrab your promo code PHUNT20 for all templates and turn your ideas into life! The promo code is valid till May 31th, 2021.\n\nSteps to claim your promo: \n1. Click on the \"Get it\" Button at the top of this page\n2. Find a template that is perfect for your needs. \n3. PROFIT! Apply promo code today during the template purchase checkout step.\n\nTalk to us, drop us a line to say hello or ask a question. We'll be online all day to speak to you.\n\nThanks a lot for all the support 🙏 \n\nLevon\nCo-founder \nZeroqode\n        ”\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/zeroqode-4-0",
+          "publishedOn": "2021-05-26T07:01:10.000Z",
+          "wordCount": 132,
+          "title": "Zeroqode 4.0 — Build web and mobile apps without code and engineers"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/findmecure",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/findmecure",
+          "publishedOn": "2021-05-26T07:00:09.000Z",
+          "wordCount": 89,
+          "title": "FindMeCure — We help new disease treatments to come to everyone."
+        },
+        {
+          "id": "https://www.producthunt.com/posts/laurent",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/laurent",
+          "publishedOn": "2021-05-26T07:00:03.000Z",
+          "wordCount": 115,
+          "title": "Laurent — Web UI kit with 120+ blocks for easy landings' building"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/savecmd",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/savecmd",
+          "publishedOn": "2021-05-26T06:55:01.000Z",
+          "wordCount": 80,
+          "title": "savecmd — Save your terminal history in the cloud"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/jitter-plugin-for-figma",
+          "author": null,
+          "description": "Jitter Beta three months ago, and the feedback has been really amazing. We had lots of requests to import designs from Figma, and we think this was a great idea: you can now use the power of Figma to make your designs, and use Jitter to animate them super easily.\n\nWe're trying to bring the best experience (pixel-perfect import, project sync, native text layers…) and we have so many other ideas to improve this plugin! Can't wait to hear your feedback – also, should we support other design platforms soon (Sketch, XD…)? Let's discuss in the comments!\n        ”\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/jitter-plugin-for-figma",
+          "publishedOn": "2021-05-26T06:52:47.000Z",
+          "wordCount": 110,
+          "title": "Jitter Plugin for Figma — Animate your Figma designs in Jitter, easily"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/images-for-designers",
+          "author": null,
+          "description": "Images for designers. 💃😃\n\nI’m a self-taught designer who loves to explore new styles – illustration, animations, icons & so on. I have been working on dozens of design projects for the last couple of years. In my initial days, I used to spend a lot of time creating every design asset from scratch - not only I lost a ton of time but also lost many projects in the process.😭 Even if I find few image sites, the images might not be compatible to use in the design software I use or the format I am looking for is not available.💔\n\nI then started creating a list of resources with every data point that I usually have as a question in my mind - the type of file, best used for, software compatibility, etc. 🧑‍💻\n\nAfter I finished the hunt of 100 websites in my design bucket, I thought why not help…",
+          "link": "https://www.producthunt.com/posts/images-for-designers",
+          "publishedOn": "2021-05-26T06:21:19.000Z",
+          "wordCount": 103,
+          "title": "Images for Designers — 100+ handpicked resources for designers to get images"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/pitch-10",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/pitch-10",
+          "publishedOn": "2021-05-26T05:57:47.000Z",
+          "wordCount": 108,
+          "title": "Pitch — Host parties & events, split costs, sell tickets, and more"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/invoice-maker-837501ed-dd6a-4cc5-921c-bb94327fe486",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/invoice-maker-837501ed-dd6a-4cc5-921c-bb94327fe486",
+          "publishedOn": "2021-05-26T05:49:07.000Z",
+          "wordCount": 97,
+          "title": "Invoice Maker — Generate invoices and quotes instantly"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/exyz",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/exyz",
+          "publishedOn": "2021-05-26T05:14:24.000Z",
+          "wordCount": 105,
+          "title": "exyz — No paywall, no ads, just blogs and their readers"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/trainalyzer",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/trainalyzer",
+          "publishedOn": "2021-05-26T05:06:27.000Z",
+          "wordCount": 85,
+          "title": "Trainalyzer — Compare body movements in any two videos"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/esyvite",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/esyvite",
+          "publishedOn": "2021-05-26T04:52:29.000Z",
+          "wordCount": 108,
+          "title": "Esyvite — Rescuing event organizers, live streamer from low attendance"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/fixappt",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/fixappt",
+          "publishedOn": "2021-05-26T04:26:08.000Z",
+          "wordCount": 83,
+          "title": "FixAppt — Take and keep appointments - paperless, cashless, effortless"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/carepatron",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/carepatron",
+          "publishedOn": "2021-05-26T04:19:01.000Z",
+          "wordCount": 80,
+          "title": "Carepatron — The healthcare workspace for small teams and their clients"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/polaris-office-web-sheet",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/polaris-office-web-sheet",
+          "publishedOn": "2021-05-26T04:10:10.000Z",
+          "wordCount": 101,
+          "title": "Polaris Office Web Sheet — Simple open Sheet files on browser without sign-up"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/rosterbuddy",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/rosterbuddy",
+          "publishedOn": "2021-05-26T03:10:36.000Z",
+          "wordCount": 107,
+          "title": "RosterBuddy — Tired of asking your housemates to clean, automate it"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/dusk-3",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/dusk-3",
+          "publishedOn": "2021-05-26T02:18:35.000Z",
+          "wordCount": 122,
+          "title": "Dusk — Choose your tint with these app enabled smart sunglasses"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/glue-4",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/glue-4",
+          "publishedOn": "2021-05-26T00:40:43.000Z",
+          "wordCount": 78,
+          "title": "Glue — Share what's on your mind"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/cascade-timeline-maker",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/cascade-timeline-maker",
+          "publishedOn": "2021-05-26T00:07:08.000Z",
+          "wordCount": 97,
+          "title": "Cascade Timeline Maker — Create cascading timelines from markdown-like text"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/cohere-replay",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/cohere-replay",
+          "publishedOn": "2021-05-25T23:14:36.000Z",
+          "wordCount": 114,
+          "title": "Cohere Replay — Record and replay how users experience your site"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/alvolo",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/alvolo",
+          "publishedOn": "2021-05-25T22:40:26.000Z",
+          "wordCount": 111,
+          "title": "Alvolo — To do list with Notion as database"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/hammerui",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/hammerui",
+          "publishedOn": "2021-05-25T22:00:28.000Z",
+          "wordCount": 81,
+          "title": "HammerUI — Simple REST API client"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/duetask-for-jira",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/duetask-for-jira",
+          "publishedOn": "2021-05-25T19:41:25.000Z",
+          "wordCount": 100,
+          "title": "duetask for Jira — Make task estimation transparent to increase project success"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/waltr-pro",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/waltr-pro",
+          "publishedOn": "2021-05-25T19:22:04.000Z",
+          "wordCount": 130,
+          "title": "WALTR PRO — Convert, transfer any file into iPhone, iPad like a pro"
+        },
+        {
           "id": "https://www.producthunt.com/posts/rapchat-3",
           "author": null,
           "description": "Discussion\n        |\n        Link",
@@ -2732,6 +3377,15 @@
           "publishedOn": "2021-05-25T16:30:38.000Z",
           "wordCount": 85,
           "title": "InvoiceDB — Automate your Accounting"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/securedawn",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/securedawn",
+          "publishedOn": "2021-05-25T15:11:09.000Z",
+          "wordCount": 100,
+          "title": "SecureDawn — Complete security questionnaires fast"
         },
         {
           "id": "https://www.producthunt.com/posts/1password-for-linux",
@@ -4617,6 +5271,210 @@
       "siteUrl": "https://www.archdaily.com/",
       "articles": [
         {
+          "id": "https://www.archdaily.com/962368/weekend-getaway-sak-designs",
+          "author": "Hana Abdel",
+          "description": "“This particular project for us has been not just architecture but an approach in designing experiences or merging nature or nature living. When we want to run away from the city, we want to run away from the feel of it mostly and what better escape can it be than this.”",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/VCW0QlsCCEg/weekend-getaway-sak-designs",
+          "publishedOn": "2021-05-26T20:00:00.000Z",
+          "wordCount": 1078,
+          "title": "Weekend Getaway / SAK Designs",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ae/2944/cfea/4e01/6574/0bfc/medium_jpg/open-house-villa-by-sak-architects-1-copy.jpg?1622026680"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962302/neyagawa-window-bay-window-persimmon-hills-architects",
+          "author": "Hana Abdel",
+          "description": "We have updated the windowsills of the dwelling units to be closer to the external environment of the housing complex.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/8Fngl_4tXAo/neyagawa-window-bay-window-persimmon-hills-architects",
+          "publishedOn": "2021-05-26T18:00:00.000Z",
+          "wordCount": 1068,
+          "title": "Neyagawa window / bay window / PERSIMMON HILLS architects",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ad/4a81/b43b/6601/6467/4fd2/medium_jpg/180118-0030.jpg?1621969558"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962383/house-santina-estudio-opaco",
+          "author": "Pilar Caballero",
+          "description": "Located on a corner lot, in front of a historic school, and with a lot of exposure, we sought to protect the house from the outside and open it completely to the inside. It was planned on two levels, a ground floor for the social area and an upper floor for the private area.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/6mQROrtfMXw/house-santina-estudio-opaco",
+          "publishedOn": "2021-05-26T16:00:00.000Z",
+          "wordCount": 860,
+          "title": "House Santina / Estudio Opaco",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ae/772e/ca54/f501/64ef/63a5/medium_jpg/opaco-ph-g-viramonte-2471-05-21-hdr-editar.jpg?1622046525"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962336/helsinki-biennial-pavilion-verstas-architects",
+          "author": "Andreas Luco",
+          "description": "The Helsinki Biennial Pavilion, located at the South Harbour of Helsinki, serves as the entry point to the Helsinki Biennial art festival that is held on the nearby Vallisaari island. The ferry to Vallisaari departs from a pier adjoining the pavilion. Accessible all year round, the pavilion provides a public open-air urban living room space where one can pause and enjoy the presence of the sea in the heart of the city.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/m8zJi8Itn64/helsinki-biennial-pavilion-verstas-architects",
+          "publishedOn": "2021-05-26T14:00:00.000Z",
+          "wordCount": 1128,
+          "title": "Helsinki Biennial Pavilion / Verstas Architects",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ad/cb8e/cfea/4e4c/c29e/a569/medium_jpg/helsinkibiennialpavilion-verstas-12-the-pavilion-from-the-pier-tuomas-uusheimo.jpg?1622002607"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962227/collective-housing-in-aubervilliers-rmdm-architectes",
+          "author": "Pilar Caballero",
+          "description": "At the corner of rue des Cités and venelle Neuve, the project is part of a set of 220 housing units and 150 student housing units that we coordinate. It includes 98 collective housing units for accession, distributed around 5 stairwells. The volumetrics are centered around the treatment of the facades on the new alley.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/Ldq20dQB410/collective-housing-in-aubervilliers-rmdm-architectes",
+          "publishedOn": "2021-05-26T12:00:00.000Z",
+          "wordCount": 776,
+          "title": "Collective Housing in Aubervilliers / RMDM Architectes",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ad/45ba/f91c/81ff/4300/0014/medium_jpg/RMDM_AUBERVILLIERS_Photographie_12_libre_de_droits.jpg?1621968304"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962374/little-island-park-heatherwick-studio",
+          "author": "Paula Pintos",
+          "description": "Little Island is a public park that shelters three new performance venues on the Hudson River. Designed as a haven for people and wildlife, it is a green oasis, held above the water by sculptural planters, and located just a short walk across a gangplank from Manhattan’s Lower West Side.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/_t4HxdZa2fk/little-island-park-heatherwick-studio",
+          "publishedOn": "2021-05-26T11:30:00.000Z",
+          "wordCount": 1274,
+          "title": "Little Island Park / Heatherwick Studio",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ae/5ae0/f91c/81f6/2800/00a4/medium_jpg/Little_Island_2021_05_20_DSC_9450_CREDIT_Timothy_Schenck.jpg?1622039224"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962258/house-snik-made-architects",
+          "author": "Hana Abdel",
+          "description": "This challenging small extension transforms an existing family house into a more flexible home, without losing the connection with the architecture of its uniform neighbourhood.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/UvYzrGgfHUw/house-snik-made-architects",
+          "publishedOn": "2021-05-26T10:00:00.000Z",
+          "wordCount": 1061,
+          "title": "House Snik / MADE architects",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ac/95dd/cc66/b601/64e3/9039/medium_jpg/made-snik-johnny-umans-002.jpg?1621923312"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962365/recurring-qualities-explored-at-the-2021-venice-architecture-biennale-a-visual-essay-of-national-pavilions",
+          "author": "Christele Harrouk",
+          "description": "Responding to “How will we live together” in 115 different ways, the 2021 Venice Architecture Biennale welcomed, physically, the large public, on May 22nd, 2021. Opening up furthermore to the world, the timeless yet context-sensitive theme engendered a collective imaginary, highlighting a world that would rather come together than stay apart. Building an architectural narrative of the present that reflects on a resilient future, the interrogation, first asked in 2019, gained more relevance with the pandemic that paused the world for a while. With a lot of optimism and love for the craft, the architectural exhibition opened its doors to a longing public and revealed recurring qualities in the showcased interventions.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/zScgWwBLAsg/recurring-qualities-explored-at-the-2021-venice-architecture-biennale-a-visual-essay-of-national-pavilions",
+          "publishedOn": "2021-05-26T07:30:00.000Z",
+          "wordCount": 1859,
+          "title": "Recurring Qualities Explored at the 2021 Venice Architecture Biennale: a Visual Essay of National Pavilions",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ad/fe30/f91c/81d9/db00/0019/medium_jpg/copyright_laurian_ghinitoiu_spain_(1_of_4).jpg?1622015529"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962286/la-bourse-de-commerce-tadao-ando-architect-and-associates-plus-nem-architectes-plus-pierre-antoine-gatier",
+          "author": "Hana Abdel",
+          "description": "The Bourse de Commerce was restored and transformed by the Japanese architect Tadao Ando (TAAA — Tadao Ando Architect & Associates), the NeM agency / Niney et Marca Architectes, Pierre-Antoine Gatier’s agency, and Setec Bâtiment.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/yoDAP-_abYY/la-bourse-de-commerce-tadao-ando-architect-and-associates-plus-nem-architectes-plus-pierre-antoine-gatier",
+          "publishedOn": "2021-05-26T07:00:00.000Z",
+          "wordCount": 1194,
+          "title": "La Bourse de Commerce / Tadao Ando Architect & Associates + NeM Architectes + Pierre-Antoine Gatier",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ac/ff30/c63f/7201/640a/defa/medium_jpg/domage-bdc-3.jpg?1621950289"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962366/olson-kundig-unveils-design-of-new-mixed-use-high-rise-in-atlanta",
+          "author": "Dima Stouhi",
+          "description": "Olson Kundig has unveiled the design of 760 Ralph McGill Boulevard, a new mixed-use high-rise development situated along Atlanta’s BeltLine. Led by project developer New City, LLC, the 1.1 million-square-foot structure will include office and retail spaces organized around a central plaza. The project expands local civic and cultural amenities, and introduces a new flexible and functional workplace that also serves the surrounding community.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/tBJhSG9gcsw/olson-kundig-unveils-design-of-new-mixed-use-high-rise-in-atlanta",
+          "publishedOn": "2021-05-26T06:30:00.000Z",
+          "wordCount": 899,
+          "title": "Olson Kundig Unveils Design of New Mixed-Use High-Rise in Atlanta",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ad/eac7/f91c/81d9/db00/0007/medium_jpg/18040_00_N57_high300.jpg?1622010544"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962307/villa-l-pool-leber-architekten",
+          "author": "Paula Pintos",
+          "description": "House L, a single-family house containing an office wing and an apartment for an au pair,  is sculpted as a monolith of massive concrete. It is as it appears to be: inside and outside concrete, without further insulation or cladding.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/KQXwERbze4k/villa-l-pool-leber-architekten",
+          "publishedOn": "2021-05-26T06:00:00.000Z",
+          "wordCount": 1114,
+          "title": "Villa L  / Pool Leber Architekten",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ad/6192/f91c/81ed/a500/004c/medium_jpg/Villa_L_Pool_Leber_arch_01.jpg?1621975424"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/960770/bucolic-landscapes-15-country-houses-in-portugal",
+          "author": "Equipe ArchDaily Brasil",
+          "description": "With a population of a little over ten million people, of which almost two-thirds are living in urban areas, Portugal is still one of the most rural countries in Europe to this day. A significant part of the population is distributed along the Atlantic Ocean coast, concentrated mainly in Lisbon and Porto, which account for almost half of the country's residents, resulting in a large and sparsely populated inland area with predominantly rural characteristics.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/FctNW3vKQeU/bucolic-landscapes-15-country-houses-in-portugal",
+          "publishedOn": "2021-05-26T05:00:00.000Z",
+          "wordCount": 934,
+          "title": "Bucolic Landscapes: 15 Country Houses in Portugal",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/6083/232d/19e9/9a04/77e2/56bb/medium_jpg/feature.jpg?1619206966"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962021/call-for-entries-imagining-student-life-at-ie-beyond-the-vertical-campus",
+          "author": "AD Editorial Team",
+          "description": "Every design –big or small– begins as an idea. At IE School of Architecture and Design, we’re on the lookout for yours. We want to celebrate those flickers of creative light that shine the brightest.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/jgJBmYkrqbI/call-for-entries-imagining-student-life-at-ie-beyond-the-vertical-campus",
+          "publishedOn": "2021-05-26T04:30:00.000Z",
+          "wordCount": 1055,
+          "title": "Call for Entries: Imagining Student Life at IE Beyond the Vertical Campus",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60a5/98bd/f91c/81b2/2800/0003/medium_jpg/Header.jpg?1621465270"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962283/architecture-and-design-post-pandemic-19-museums-and-exhibitions-that-have-reopened-to-the-public",
+          "author": "Dima Stouhi",
+          "description": "After being shut down for more than a year, museums across the world are beginning to show signs of reopening. Most architecture and design events that were scheduled for 2020 have been pushed a year or two, depending on the severity of the pandemic in their respective regions. But while museums are open to the public once again, administrators have installed numerous precaution measures to ensure the safety of visitors and curators, and to avoid potential re-closures.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/fn3j8-zLMxY/architecture-and-design-post-pandemic-19-museums-and-exhibitions-that-have-reopened-to-the-public",
+          "publishedOn": "2021-05-26T04:00:00.000Z",
+          "wordCount": 2749,
+          "title": "Architecture and Design Post-Pandemic: 19 Museums and Exhibitions that have Reopened to the Public",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ad/5b34/f91c/81ed/a500/003a/medium_jpg/DSC_0161.jpg?1621973799"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962306/restaurant-whey-snohetta",
+          "author": "Paula Pintos",
+          "description": "In the bustling central district of Hong Kong, Whey manifests itself as a calm escape from the concrete jungle surrounding it. The 336 sqm restaurant intersects European and Asian cuisine in an eclectic space inspired by Scandinavian folk art, Peranakan architecture, and art, paying homage to the Singaporean cultural scene. With Singaporean chef Barry Quek at the helm, Whey seeks to introduce diners to modern European cuisine, reimagined with Singaporean influences, with a focus on local and seasonable ingredients.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/ziNlZsMPqA8/restaurant-whey-snohetta",
+          "publishedOn": "2021-05-26T03:00:00.000Z",
+          "wordCount": 1048,
+          "title": "Restaurant Whey / Snøhetta",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ad/58f8/f91c/81ed/a500/002a/medium_jpg/2020116_HK_N5_publication.jpg?1621973225"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962036/isabel-750-building-terreros-arquitectos",
+          "author": "Andreas Luco",
+          "description": "The building is located in Álamos neighborhood in the south-central area of Mexico City. Starting with the premise of integrating with the area and generating a micro-ecosystem, it is distributed in three volumes. The first one parallel to the street that functions as a facade and establishes the relationship between the building and the city, as well as two other perpendiculars with interior patios. Connections become an essential part of development.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/LE4nNokSIPc/isabel-750-building-terreros-arquitectos",
+          "publishedOn": "2021-05-26T02:00:00.000Z",
+          "wordCount": 894,
+          "title": "Isabel 750 Building / Terreros Arquitectos",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60a5/b5f7/7480/a61e/9c58/b6c5/medium_jpg/foto-1.jpg?1621472827"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962310/fruit-box-house-nimtim-architects",
+          "author": "Paula Pintos",
+          "description": "The clients wanted to transform their home into a durable and adaptable home for their growing family. The house was typical of mid-century townhouses with living spaces on the first floor and a poor connection to the garden. It also lacked a large bedroom with only a number of smaller rooms on the 2nd floor. The brief was to create a new family space at ground level with a better connection to the garden plus a bedroom suite on the first floor.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/9mVCvP1Yevc/fruit-box-house-nimtim-architects",
+          "publishedOn": "2021-05-26T01:00:00.000Z",
+          "wordCount": 1095,
+          "title": "Fruit Box House  / nimtim architects",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ad/6940/f91c/81ff/4300/0067/medium_jpg/03_nimtim_architects_Fruit_Box_Megan_Taylor.jpg?1621977400"
+          }
+        },
+        {
           "id": "https://www.archdaily.com/962243/cradle-mountain-gateway-precinct-cumulus-studio",
           "author": "Valeria Silva",
           "description": "Sharp geometric forms beckon to a honeyed cave. Cradle Mountain Visitor Centre is a building of contrasts. It’s imposing but harmonious. It’s an abstract interpretation of nature. And it’s modern with a rightness unrooted in time. Most surprising of all, perhaps, is how the raw exterior unwinds into a warm, soft, delicate timber lining.",
@@ -5963,69 +6821,6 @@
           "publishedOn": "2021-04-27T14:00:00.000Z",
           "wordCount": 488,
           "title": "Denon DJ announces \"the world’s most versatile controller\""
-        },
-        {
-          "id": "https://mixmag.net/read/patterns-brighton-reopening-parties-news",
-          "author": null,
-          "description": "Goldie playing back-to-back with Martyn, Sicaria Sound, Paranoid London and more feature\nContinue reading...",
-          "link": "https://mixmag.net/read/patterns-brighton-reopening-parties-news",
-          "publishedOn": "2021-04-27T12:12:00.000Z",
-          "wordCount": 471,
-          "title": "Patterns announces four month run of reopening parties"
-        },
-        {
-          "id": "https://mixmag.net/read/ticket-touts-threatening-safety-festivals-covid-tracing-news",
-          "author": null,
-          "description": "Touts looking to profit from reopening events are endangering the safety of attendees by impairing COVID tracing\nContinue reading...",
-          "link": "https://mixmag.net/read/ticket-touts-threatening-safety-festivals-covid-tracing-news",
-          "publishedOn": "2021-04-27T11:50:00.000Z",
-          "wordCount": 692,
-          "title": "Ticket touts are threatening the safety of festivals this summer"
-        },
-        {
-          "id": "https://mixmag.net/read/ibiza-coronavirus-test-quarantine-summer-news",
-          "author": null,
-          "description": "Travellers will be able to show their Covid status using a digital certificate\nContinue reading...",
-          "link": "https://mixmag.net/read/ibiza-coronavirus-test-quarantine-summer-news",
-          "publishedOn": "2021-04-27T10:55:00.000Z",
-          "wordCount": 589,
-          "title": "Ibiza will not require a coronavirus test or quarantine for travellers this summer"
-        },
-        {
-          "id": "https://mixmag.net/feature/the-10-most-influential-synths-of-all-time",
-          "author": null,
-          "description": "Oli Freke presents a synthesizer timeline\nContinue reading...",
-          "link": "https://mixmag.net/feature/the-10-most-influential-synths-of-all-time",
-          "publishedOn": "2021-04-26T16:35:00.000Z",
-          "wordCount": 4267,
-          "title": "The 10 most influential synths of all time"
-        },
-        {
-          "id": "https://mixmag.net/read/demi-riquisimo-in-the-lab-ldn-dj-lab",
-          "author": null,
-          "description": "Lock in for a blend of Italo house, disco and acid\nContinue reading...",
-          "link": "https://mixmag.net/read/demi-riquisimo-in-the-lab-ldn-dj-lab",
-          "publishedOn": "2021-04-26T15:27:00.000Z",
-          "wordCount": 324,
-          "title": "Demi Riquísimo in The Lab LDN"
-        },
-        {
-          "id": "https://mixmag.net/read/spotify-ceo-daniel-ek-arsenal-fc-news",
-          "author": null,
-          "description": "Musicians have responded by criticising Spotify's treatment of artists\nContinue reading...",
-          "link": "https://mixmag.net/read/spotify-ceo-daniel-ek-arsenal-fc-news",
-          "publishedOn": "2021-04-26T14:08:00.000Z",
-          "wordCount": 709,
-          "title": "Spotify’s CEO Daniel Ek declares interest in buying Arsenal FC"
-        },
-        {
-          "id": "https://mixmag.net/read/last-chance-government-backed-covid-insurance-festival-cancellation-news",
-          "author": null,
-          "description": "Only 7.5% of festivals say they would be happy to go ahead without it\nContinue reading...",
-          "link": "https://mixmag.net/read/last-chance-government-backed-covid-insurance-festival-cancellation-news",
-          "publishedOn": "2021-04-26T13:39:00.000Z",
-          "wordCount": 616,
-          "title": "Last chance for government-backed insurance before raft of festival cancellations, warns AIF"
         }
       ]
     },
@@ -6083,6 +6878,42 @@
       "feedUrl": "http://www.somewhere-magazine.com/feed/",
       "siteUrl": "http://www.somewhere-magazine.com",
       "articles": [
+        {
+          "id": "http://www.somewhere-magazine.com/?p=18085",
+          "author": "Staff",
+          "description": "Finally, after a long period of teasers and ahead of the summertime debut, we receive first look images at Virgil Abloh‘s Off-White™ x Nike Air Force 1 “University Gold” sneaker. The model offers a loud, monochromatic look that serves as an apt follow-up to 2019’s ultra-limited Off-White™ x Nike Air Force 1 Low “MCA Chicago.” From heel to toe, the “University…",
+          "link": "http://www.somewhere-magazine.com/heres-the-official-look-at-off-white-x-nike-air-force-1-university-gold-sneakers/",
+          "publishedOn": "2021-05-26T15:25:51.000Z",
+          "wordCount": 422,
+          "title": "Here’s  the official look at Off-White™ x Nike Air Force 1 “University Gold” sneakers"
+        },
+        {
+          "id": "http://www.somewhere-magazine.com/?p=18082",
+          "author": "Staff",
+          "description": "As part of Sotheby’s inaugural “Contemporary Curated: Asia” series in Hong Kong which will take place on June 18, a work by Jean-Michel Basquiat is already receiving high expectations. The definite highlight of the auction, Untitled (1985), features acrylic and oilstick on wood in three parts, and leads the event with a HKD 350 million ($45 million)…",
+          "link": "http://www.somewhere-magazine.com/basquiats-untitled-1985-expected-to-fetch-over-45-million-at-sothebys-hong-kong/",
+          "publishedOn": "2021-05-26T15:16:32.000Z",
+          "wordCount": 502,
+          "title": "Basquiat’s “Untitled” (1985) expected to fetch over $45 million at Sotheby’s Hong Kong"
+        },
+        {
+          "id": "http://www.somewhere-magazine.com/?p=18079",
+          "author": "Staff",
+          "description": "The fact that J. Cole’s new album The Off-Season debuted at No. 1 on the Billboard 200 albums chart is a no-brainer. After this incredible success, Cole is back with a new music video for his song “a p p l y i n g . p r e s s u r e.” The music video is…",
+          "link": "http://www.somewhere-magazine.com/j-cole-shares-music-video-for-a-p-p-l-y-i-n-g-p-r-e-s-s-u-r-e/",
+          "publishedOn": "2021-05-26T15:09:14.000Z",
+          "wordCount": 349,
+          "title": "J. Cole shares music video for “a p p l y i n g . p r e s s u r e”"
+        },
+        {
+          "id": "http://www.somewhere-magazine.com/?p=18076",
+          "author": "Staff",
+          "description": "Something which has never happened before, proves just how much the fashion and other industries, as well as its consumers, are into digital. A digital-only Gucci bag has recently sold online for more than the real thing. It’s a digital rendition of the Gucci Dionysus bag which sold for 350,000 Robux (roughly $4,115) on Club…",
+          "link": "http://www.somewhere-magazine.com/virtual-gucci-bag-sold-for-more-than-real-one/",
+          "publishedOn": "2021-05-26T15:05:02.000Z",
+          "wordCount": 383,
+          "title": "Virtual Gucci bag sold for more than real one"
+        },
         {
           "id": "http://www.somewhere-magazine.com/?p=18072",
           "author": "Staff",
@@ -6250,6 +7081,15 @@
       "siteUrl": "https://paper-journal.com",
       "articles": [
         {
+          "id": "https://paper-journal.com/?p=23603",
+          "author": "Jacob Charles Wilson",
+          "description": "Marco de Ieso's 'Serapaio' links the annual pruning of olive trees in Umbria, Italy, with the growth and regeneration of bodies and traditions.",
+          "link": "https://paper-journal.com/marco-de-ieso-serapaio/",
+          "publishedOn": "2021-05-26T01:11:00.000Z",
+          "wordCount": 624,
+          "title": "Marco de Ieso – Serapaio"
+        },
+        {
           "id": "https://paper-journal.com/?p=23526",
           "author": "Jacob Charles Wilson",
           "description": "2021 saw 7500 entrants to the prestigious Palm* Photo Prize award. Here, we select some of our favourites from the 100 shortlisted artists.",
@@ -6363,15 +7203,6 @@
           "publishedOn": "2021-05-15T19:40:48.000Z",
           "wordCount": 70,
           "title": "MARICLARE SPOONER"
-        },
-        {
-          "id": "https://noicemagazine.com/LUANA-RIGOLLI",
-          "author": "NOICE Magazine",
-          "description": "Name\n    \n    \n    \t\t\t\t\t\t\t\t\t\tLuana Rigolli\n    \n            \n    \t\t\t\t\t\tTitle ︎︎︎ Linosa\n    \n    \t\t\t\t\t\t\t\t\t\t\n\n    \n\n    \n    \t\t\t\t\t\tI was born in Piacenza, Italy, in 1983. Now I live in Rome. I studied Civil Engineering, but at the end of it I realized that I would prefer to tell what was around me, rather than to modify it with works of engineering. So I started to photograph stories with a particular focus on historical research and the interaction of man and landscape. \nLinosa is an island just 5.5 square…",
-          "link": "https://noicemagazine.com/LUANA-RIGOLLI",
-          "publishedOn": "2021-04-26T13:54:56.000Z",
-          "wordCount": 227,
-          "title": "LUANA RIGOLLI"
         }
       ]
     },
@@ -6380,6 +7211,15 @@
       "feedUrl": "https://www.featureshoot.com/feed/",
       "siteUrl": "https://www.featureshoot.com",
       "articles": [
+        {
+          "id": "https://www.featureshoot.com/?p=145416",
+          "author": "Ellyn Kail",
+          "description": "In 2018, the animal photojournalist Aitor Garmendia and his colleague, the undercover investigator Linas Korta, happened upon a Spanish pig farm while working on a story about slaughterhouses. When they…\nThe post A Photographer Exposes the Unbearable Cruelty of Pig Farming appeared first on Feature Shoot.",
+          "link": "https://www.featureshoot.com/2021/05/a-photographer-exposes-the-unbearable-cruelty-of-pig-farming/",
+          "publishedOn": "2021-05-26T04:46:52.000Z",
+          "wordCount": 1536,
+          "title": "A Photographer Exposes the Unbearable Cruelty of Pig Farming"
+        },
         {
           "id": "https://www.featureshoot.com/?p=145155",
           "author": "Ellyn Kail",
@@ -6535,6 +7375,15 @@
       "feedUrl": "https://www.aint-bad.com/feed/",
       "siteUrl": "https://www.aint-bad.com",
       "articles": [
+        {
+          "id": "https://www.aint-bad.com/?p=244539",
+          "author": "Emerald Arguelles",
+          "description": "William Day is an American painter known for his large-scale compositions of colorful shapes and energetic marks. Now living in Boulder, Colorado, Day can often be found in his studio… Read More\nThe post In Conversation With: Will Day appeared first on AINT—BAD.",
+          "link": "https://www.aint-bad.com/article/2021/05/26/in-conversation-with-will-day/",
+          "publishedOn": "2021-05-26T12:00:00.000Z",
+          "wordCount": 4254,
+          "title": "In Conversation With: Will Day"
+        },
         {
           "id": "https://www.aint-bad.com/?p=244329",
           "author": "Carson Sanders",
@@ -6732,15 +7581,6 @@
           "publishedOn": "2021-04-28T12:00:00.000Z",
           "wordCount": 1166,
           "title": "Tom McGahan"
-        },
-        {
-          "id": "https://www.aint-bad.com/?p=237836",
-          "author": "Emerald Arguelles",
-          "description": "Carlotta Guerra was born in Italy where she studied contemporary art and cinema at the University of Bologna. For more than a decade she worked as an assistant curator organizing… Read More\nThe post Carlotta Guerra appeared first on AINT—BAD.",
-          "link": "https://www.aint-bad.com/article/2021/04/27/carlotta-guerra-2/",
-          "publishedOn": "2021-04-27T12:00:00.000Z",
-          "wordCount": 582,
-          "title": "Carlotta Guerra"
         }
       ]
     },
@@ -6774,6 +7614,15 @@
       "feedUrl": "https://www.criterion.com/feeds/the-daily",
       "siteUrl": "https://www.criterion.com/feeds/the-daily",
       "articles": [
+        {
+          "id": "https://www.criterion.com/current/posts/7406-hong-sangsoo-s-tale-of-cinema",
+          "author": null,
+          "description": "<figure class=\"figure-opt\"> <img src=\"https://criterion-production.s3.amazonaws.com/LjiyZ1akGRYHWaqszl6iji4grhovFF.jpg\" alt=\"\" /> <figcaption> Hong Sangsoo’s <i>Tale of Cinema</i> (2005) </figcaption> </figure>  \t\t<p><span class=\"dc\">I</span>n 2005, Hong Sangsoo’s sixth feature, <a href=\"https://metrograph.com/live-screenings/tale-of-cinema/\" title=\"\" target=\"_blank\"><i>Tale of Cinema,</i></a> became the second of a total of four of his films so far to premiere in competition at Cannes. Several months later, it screened at the New York Film Festival, and then returned to the States in 2012 for a one-off screening at Japan Society, but it’s never seen a proper theatrical release in the U.S. Now New York’s Metrograph is screening <i>Tale of Cinema,</i> albeit virtually, through Monday.</p><div>It’s a tale told in two distinct parts. In the first, Sang-won, a young student played by Lee Ki-woo, bumps into an ex-girlfriend, Young-shil (Uhm Ji-won), and after dinner and sex, they decide to kill themselves—together. Following a transition so smooth that it takes many viewers a moment or two to realize it’s happened, Dong-soo (Kim Sang-kyung), recently graduated from film school, walks out of the theater that’s just screened this story of suicidal lovers, a film that not only uncomfortably echoes a chapter in Dong-soo’s own life and stars an actress named Young-shil but has also been made by his mentor, Yi Hyongsu, an ailing director of some renown.</div><div><span><br></span></div><div>In her 2005 review for Reverse Shot, <a href=\"http://www.reverseshot.org/reviews/entry/700/tale_cinema\" title=\"\" target=\"_blank\">Kristi Mitsuda</a> raised a series of questions. “Did we witness Yi Hyongsu’s empirical version of the movie or Dong-soo’s mental interpretation? Or did we, in fact, see it as Dong-soo would have directed it?” And further: “Did Hong cut away from the embedded piece at an arbitrary point? What does it mean that he chose to shoot both the ‘fictional’ and ‘real’ segments in near-identical styles, replete with conspicuous zooms and without any marked differences to distinguish his own film from that of Yi Hyongsu’s?”</div><div><span><br></span></div><div>For Slant’s <a href=\"https://www.slantmagazine.com/film/a-tale-of-cinema/\" title=\"\" target=\"_blank\">Ed Gonzalez,</a> also writing in 2005, <i>Tale of Cinema</i> “isn’t just some ordinary tale about art imitating life and vice versa; given the structure of the film and overlapping details, it’s easy and tempting to read it as such, except the film-within-a-film doesn’t provoke Dong-soo to imitate its story as much as it opens the floodgates of memory. Hong recognizes the power of cinema to connect us to our personal experiences, but in the way Dong-soo sadly projects his feelings for a long-ago flame onto Young-shil, he also acknowledges its deluding strength.”</div> \t \t\t<figure class=\"figure-opt is-youtube-embed\"> \t\t\t<div class=\"video-contain\"> \t\t\t\t<div class=\"fluid-width-video-wrapper embed-responsive\"> \t\t\t\t\t<iframe src=\"//www.youtube.com/embed/BtREmJ8nLp0?rel=0\" frameborder=\"0\" allowfullscreen=\"\" name=\"fitvid0\"></iframe> \t\t\t\t<div class=\"ovl\"></div></div> \t\t\t</div> \t\t\t \t\t</figure> \t \t\t<p>In the <i>New Yorker,</i> <a href=\"https://www.newyorker.com/culture/the-front-row/tale-of-cinema-reviewed-a-crucial-hong-sang-soo-film-finally-reaches-theatres\" title=\"\" target=\"_blank\">Richard Brody</a> places <i>Tale of Cinema</i> within the context of Hong’s busy career, and writes that his “ramped-up manipulations of time and continuity, fusions of reality and fantasy, and speculative dramatization of alternate worlds show a cinematized mind at work in real time. When a great filmmaker titles a movie <i>Tale of Cinema,</i> it’s a red flag to herald matters of great personal implication. With its immediate drama and its far-reaching vision of untapped possibilities, this movie fulfills that promise.”</p><div><i>For news and items of interest throughout the day, every day, follow <a href=\"https://twitter.com/criteriondaily\" title=\"\" target=\"_blank\">@CriterionDaily.</a></i></div>",
+          "link": "https://www.criterion.com/current/posts/7406-hong-sangsoo-s-tale-of-cinema",
+          "publishedOn": "2021-05-26T18:17:23.000Z",
+          "wordCount": 815,
+          "title": "Hong Sangsoo’s Tale of Cinema"
+        },
         {
           "id": "https://www.criterion.com/current/posts/7404-elia-suleiman-for-free",
           "author": null,
@@ -6944,15 +7793,6 @@
           "publishedOn": "2021-04-27T16:02:16.000Z",
           "wordCount": 1126,
           "title": "Jessica Beshir’s Faya Dayi"
-        },
-        {
-          "id": "https://www.criterion.com/current/posts/7370-the-oscars-wrap-a-long-season",
-          "author": null,
-          "description": "Capping a months-long journey, Chloé Zhao’s Nomadland wins three top awards.",
-          "link": "https://www.criterion.com/current/posts/7370-the-oscars-wrap-a-long-season",
-          "publishedOn": "2021-04-26T18:15:38.000Z",
-          "wordCount": 1024,
-          "title": "The Oscars Wrap a Long Season"
         }
       ]
     },
@@ -7006,5 +7846,5 @@
       ]
     }
   ],
-  "cliVersion": "1.8.1"
+  "cliVersion": "1.9.0"
 }
