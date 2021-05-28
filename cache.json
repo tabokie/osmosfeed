@@ -52,6 +52,15 @@
       "siteUrl": "https://quuxplusone.github.io/blog/",
       "articles": [
         {
+          "id": "https://quuxplusone.github.io/blog/2021/05/27/cpponsea-schedule-announced/",
+          "author": null,
+          "description": "The schedule for C++ on Sea 2021 has been announced! The \"conference day\" involves two tracks of five talks each, plus a keynote by Barbara Geller and Ansel Sermersheim. The two \"workshop days\" offer... well, you should sign up for my own two-day training class, at which point the other offerings are moot. But, just for the record, the two available two-day classes are: * Arthur O'Dwyer's [\"Modern STL Programming\"](https://cpponsea.uk/2021/sessions/workshop_modern-stl-programming-algorithms-containers-iterators.html) * Anthony Williams' [\"More Concurrent Thinking in C++\"](https://cpponsea.uk/2021/sessions/workshop_more-concurrent-thinking-in-cpp.html) If you don't do a two-day class, then on Wednesday you can choose among these options:",
+          "link": "https://quuxplusone.github.io/blog/2021/05/27/cpponsea-schedule-announced/",
+          "publishedOn": "2021-05-27T00:01:00.000Z",
+          "wordCount": 209,
+          "title": "C++ On Sea 2021 schedule announced"
+        },
+        {
           "id": "https://quuxplusone.github.io/blog/2021/05/26/after-you-solution/",
           "author": null,
           "description": "Previously on this blog: * [\"A metaprogramming puzzle: Overly interoperable libraries\"](/blog/2021/05/19/after-you-no-after-you/) (2021-05-19) * [\"Overly interoperable libraries, part 2\"](/blog/2021/05/22/after-you-part-two/) (2021-05-22) Jason Cobb has sent me a proposal that I think meets all the requirements and therefore qualifies as a complete solution! Unlike the ideas in my previous posts, Jason's solution doesn't depend on \"GUIDs\" at all. It's based on a simple idea that is, in hindsight, quite obvious.",
@@ -200,6 +209,62 @@
       "feedUrl": "https://rimzy.net/feed/",
       "siteUrl": "https://rimzy.net",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2158608",
+          "author": "Ron Miller",
+          "description": "Box executives have been dealing with activist investor Starboard Value over the last year, along with fighting through the pandemic like the rest of us. Today the company reported earnings for the first quarter of its fiscal 2022. Overall, it was a good quarter for the cloud content management company. The firm reported revenue of […]",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/I_UXhKWbKs0/",
+          "publishedOn": "2021-05-27T13:19:04.000Z",
+          "wordCount": 870,
+          "title": "Box beats expectations, raises guidance as it looks for a comeback",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          }
+        },
+        {
+          "id": "https://techcrunch.com/?p=2158293",
+          "author": "Ron Miller",
+          "description": "Breinify is a startup working to apply data science to personalization, and do it in a way that makes it accessible to nontechnical marketing employees to build more meaningful customer experiences. Today the company announced a funding round totaling $11 million. The investment was led by Gutbrain Ventures and PBJ Capital with participation from Streamlined […]",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/zuecazjgseo/",
+          "publishedOn": "2021-05-27T08:30:37.000Z",
+          "wordCount": 559,
+          "title": "Breinify announces $11M seed to bring data science to the marketing team",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          }
+        },
+        {
+          "id": "https://techcrunch.com/?p=2158184",
+          "author": "Jordan Crook",
+          "description": "mmhmm, the communications platform developed by Phil Libin and the All Turtles team, is getting a variety of new features. According to Libin, there are parts of video communication today that can not only match what we get in the real world, but exceed it. That’s how this next iteration of mmhmm is meant to […]",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/K_kQHUaHreU/",
+          "publishedOn": "2021-05-27T07:03:46.000Z",
+          "wordCount": 644,
+          "title": "mmhmm, the video conferencing software, kicks off summer with a bunch of new features",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          }
+        },
+        {
+          "id": "https://techcrunch.com/?p=2158182",
+          "author": "Ron Miller",
+          "description": "Most marketers today know how to send targeted communications to customers, and there are many tools to help, but when it comes to sending personalized in-house messages, there aren’t nearly as many options. Pyn, an early-stage startup based in Australia, wants to change that, and today it announced an $8 million seed round. Andreessen Horowitz […]",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/7E2n4BEoPo0/",
+          "publishedOn": "2021-05-27T07:00:47.000Z",
+          "wordCount": 569,
+          "title": "Australian startup Pyn raises $8M seed to bring targeted communication in-house",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          }
+        },
         {
           "id": "https://techcrunch.com/?p=2157423",
           "author": "Ron Miller",
@@ -498,7 +563,17 @@
       "title": "The Pudding",
       "feedUrl": "https://pudding.cool/feed/index.xml",
       "siteUrl": "https://pudding.cool",
-      "articles": []
+      "articles": [
+        {
+          "id": "projects/caption-contest",
+          "author": null,
+          "description": "This is an experiment to see if an AI program can produce humor.",
+          "link": "https://pudding.cool/projects/caption-contest",
+          "publishedOn": "2021-05-26T04:00:00.000Z",
+          "wordCount": 785,
+          "title": "Help a Computer Win the New Yorker Cartoon Caption Contest"
+        }
+      ]
     },
     {
       "title": "Not Even Wrong",
@@ -542,6 +617,15 @@
       "feedUrl": "https://avc.com/feed/",
       "siteUrl": "https://avc.com",
       "articles": [
+        {
+          "id": "http://avc.com/?p=20240",
+          "author": "Fred Wilson",
+          "description": "I am returning to a topic that I have talked a lot about on this blog. A number of years ago at our annual CEO Summit, we had Angela Duckworth speak to our portfolio about Grit, the topic of her excellent book on the subject. In Angela’s research, she determined that the single greatest determinant […]",
+          "link": "https://avc.com/2021/05/grit-resilience-and-determination/",
+          "publishedOn": "2021-05-27T13:56:17.000Z",
+          "wordCount": 412,
+          "title": "Grit, Resilience and Determination"
+        },
         {
           "id": "http://avc.com/?p=20239",
           "author": "Fred Wilson",
@@ -1000,15 +1084,6 @@
           "publishedOn": "2021-04-28T17:09:00.000Z",
           "wordCount": 2296,
           "title": "Model-Based RL for Decentralized Multi-agent Navigation"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/blogspot/gJZg/~3/gughRy1DKeY/holistic-video-scene-understanding-with.html",
-          "author": null,
-          "description": "Posted by Siyuan Qiao, Student Researcher and Liang-Chieh Chen, Research Scientist, Google Research \nPeople are able to retrieve the visual information about 3D environments from a picture quite easily — we can identify objects, determine instance sizes, and reconstruct 3D scene layout, all using the limited signals contained in 2D images. This ability is commonly known as the inverse projection problem, which refers to reconstructing the ambiguous mapping from the retinal images to the sources of retinal s…",
-          "link": "http://feedproxy.google.com/~r/blogspot/gJZg/~3/gughRy1DKeY/holistic-video-scene-understanding-with.html",
-          "publishedOn": "2021-04-27T18:56:00.000Z",
-          "wordCount": 2078,
-          "title": "Holistic Video Scene Understanding with ViP-DeepLab"
         }
       ]
     },
@@ -1051,6 +1126,186 @@
       "feedUrl": "https://www.gcores.com/rss",
       "siteUrl": "https://www.gcores.com",
       "articles": [
+        {
+          "id": "https://www.gcores.com/articles/111766",
+          "author": "游魂NTer",
+          "description": "只要我跑的足够快，酒精就追不上我\n机核介绍精酿啤酒的文章也有几篇，在这里就不复述什么是精酿了。今天想给大家介绍一个和啤酒有关的有趣活动啤酒跑。\n啤酒跑全称为啤酒一英里跑，在1989年首创于加拿大。规则很简单，起跑点上跑者先喝掉一罐啤酒，然后沿着400米的跑道跑一圈，再干掉一罐啤酒，如此重复，完成1600米（约一英里）跑。最终时间将跑步时间和喝啤酒时间一并算在内，所以不光跑得要快，喝得也得快。对了，任何一个参赛者如果在完成竞赛前呕吐了，将在完成第4圈后被立刻惩罚多跑一圈。\n最初大部分的参赛人员是喜欢派对的大学生，后来作为赛事不定期举办而后逐步走向了世界。随着中国精酿啤酒文化的兴起，这项喜闻乐见的运动也来到了国内。\n除了早年间喝过几瓶粉象福佳，我真正接触精酿啤酒是在2015年BHS举办的啤酒跑上。\n\nBHS北京自酿啤酒协会\n北京自酿啤酒协会(Beijing Homebrewing Society)，是中国第一个倡导精酿啤酒文化、家庭与手工酿造啤酒的非营利民间组织。\n协会创建于2012年初，是国内正式注册登记会员人数最多、规模最大的家酿和精酿啤酒协会，是一个由酿酒师、精酿啤酒从业人员、家庭酿酒爱好者以及啤酒发烧友组成的大家庭。“让更多人爱上精酿啤酒”，是北京自酿啤酒协会的宗旨。\n几年BHS前为了推广精酿文化，推出了系列落日啤跑比赛。每年5月到10月，每个月的最后一个周四日落时分开跑。\n\nBHS啤跑规则\n基础规则非常简单。\n1. 玩家齐聚起跑地点，由志愿者做好登记，领取参赛号码、专用啤酒杯和啤跑护照；\n\n\n\n\n2. 在每一个站点（酒吧）喝完一杯指定的啤酒，在啤跑护照上盖章出发下一站；\n\n\n\n\n3. 一般的比赛都是四家酒吧，距离3-5公里，四家喝完，盖满印章视为完赛；\n\n\n4.全体到齐，抽奖，合影，happy time！\n当然了，经过四杯酒精和跑步的作用，最后一站还有抽奖气氛会很热烈…",
+          "link": "https://www.gcores.com/articles/111766",
+          "publishedOn": "2021-05-28T00:00:00.000Z",
+          "wordCount": 71,
+          "title": "RUN & Beer：介绍一个和啤酒有关的有趣活动"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137550",
+          "author": "未来事务管理局",
+          "description": "⚠️《EVA终》剧透预警⚠️ \n\n宇宙诞生以来第二次的Big Bang，万物流转，《三体》就是一个宇宙\n\n像是陪主人公走过一生，从漫长旅途归来般的疲劳感，还有终于做完了某件事般的成就感\n采写 | 小静、船长 \n西历2021年5月25日，“二向箔、袭来”。这个夏天，日本朋友可能会经历一些人生的大起大落。\n前天，《三体3：死神永生》在日本正式发售，徐徐展开了毁灭性的画卷。被日本作品“刀”了这么多年（往远了说有田中和庵野，往近了说有谏山创），我们终于可以进行一些友好的文化交流： \n\n\n日本店头使出了看家本领——\n一式八种的海报；\n\n(海报文案：「敌人是，宇宙」「次元与速度，袭来」「无底的大海，无光的天空」「这场战争、以及宇宙，都没有尽头」@芳林堂高田马场店)\n 祭典般的造型；\n\n\n\n(@丸善丸之内本店、八重洲蔦屋书店)\n 千禧年Word艺术字；\n\n(@三省堂有乐町店)\n 自带音效又闪又壕的金色装潢；\n\n\n\n(@纪伊国屋书店新宿本店)\n究极华丽的店铺陈设，无不显示了势要将路人按头入坑的气势。\n这次，我们也深度采访了《死神永生》的日方主创和书迷，包括译者、编辑、相关领域学者，并首次联系上了三部曲的封面画师富安健一郎。（三体1、2主创采访见文末）\n2019~2021，《三体》以每年一部的速度在日本上市，每次都会掀起大讨论。万众期待的第三卷会不会引发“第三次冲击”呢？\n封面上烈焰版的色调仿佛在说，又一个炎热的夏天要开始了。\n 01\n\n「结尾CP的震惊程度跟《EVA终》差不多」\n《死神永生》发售前，日本读者充满了对大结局的“不安”。 \n读完《黑暗森林》后整整一年，大家都冷静了许多，不再幻想happy ending，而是“隐约觉得不妙，听说结局是超展开，但也想象不出还能怎么写......” \n “《黑暗森林》的结尾太过惊艳，所以很多评论都会说‘没想到还有后续。在这里完结不是挺好吗？’‘故事在…",
+          "link": "https://www.gcores.com/articles/137550",
+          "publishedOn": "2021-05-27T23:00:00.000Z",
+          "wordCount": 86,
+          "title": "“读完《三体》，脑袋像被狠狠打了一棍”：采访《死神永生》的日本主创团队和书迷"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137558",
+          "author": "肖尔",
+          "description": "在今晨的《地平线：西部禁地》专场 State of Play 直播上，索尼如期带来了游戏的 PS5 实机录制游玩演示。其中展示了一些全新的玩法设计，通过“Focus扫描功能”我们可以找出周围可以攀爬的点位，利用拉钩发射器可以让亚罗伊快速攀爬，在高处使用盾翼则可以在空中滑行一段时间并安全落地。《地平线：西部禁地》计划在今年发售，登陆 PS5 与 PS4。\n\n\n<内嵌内容，请到原网页查看>",
+          "link": "https://www.gcores.com/articles/137558",
+          "publishedOn": "2021-05-27T22:46:11.000Z",
+          "wordCount": 59,
+          "title": "风暴即将到来，《地平线：西部禁地》公布首个实机游戏演示"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137559",
+          "author": "肖尔",
+          "description": "万代南梦宫带来了《黑相集：灰冥界》的全新实机演示。演示里，在两军交战时一场地震将地面震出一个大洞，双方都不慎跌入了埋藏着苏美神庙的废墟中。在阿拉伯沙漠的黑暗深处，古老而隐密的巢穴中，猎物上门唤醒邪恶力量，野蛮又无法阻挡的远古生物将倾巢而出、猎杀无辜生灵。\n\n\n<内嵌内容，请到原网页查看>\n\n\n\n\n\n\n\n\n\n《黑相集：灰冥界》繁体中文版预定将于2021年推出，登陆Xbox Series X/S、Xbox One、PS5、PS4 与 PC 平台。",
+          "link": "https://www.gcores.com/articles/137559",
+          "publishedOn": "2021-05-27T22:01:32.000Z",
+          "wordCount": 56,
+          "title": "一同深入地下，《黑相集：灰冥界》公布最新游玩演示"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137556",
+          "author": "YTYTYTYT😀",
+          "description": "在今日举行的直播活动中，Techland 宣布旗下第一人称动作冒险游戏《消逝的光芒2：保持人性》 将于2021年12月7日发售，现已在各大平台开启预售。在游戏中，玩家将扮演艾登·考德威尔，一位试图解开自己过去的纠结谜团的外来者。开发者表示，本作的时间线距离末日事件已经过去了15年，世界发生了变化，而三大派系也就此产生。\n\n\n<内嵌内容，请到原网页查看>\n\n具体而言，幸存者为自己能够适应任何环境、能够在几乎所有地方建立安全区而自豪。维和者则是忠诚的士兵，他们想推行自己的法律和秩序，碾碎一切胆敢阻挡的人。变节者作为效力于无情的上校的前囚犯，试图成为城市的唯一统治者。作为人类最后的堡垒，\"都市\"正因冲突而四分五裂，而玩家则是最后的希望。\n\n\n在《消逝的光芒2：坚守人性》中，玩家需要武勇与智慧才能击败敌人以及结交盟友。揭露掌权者幕后见不得人的秘密，选择阵营，并决定自己的命运。但无论做出怎样的选择，绝不能忘记一件事——坚守人性。 \n\n\n即日起，预购可获得专属物品： “Reload”服装、“Reload”武器皮肤及 “Reload”滑翔伞皮肤。 豪华版还额外包含在游戏上市数月后推出的一款剧情DLC的使用权、限定武器饰品、 “传奇”服装、 “传奇”武器皮肤、 “传奇”滑翔伞皮肤、 可供打印的壁纸、数字漫画、数字画集及数字音轨。 \n\n\n\n\n\n\n<内嵌内容，请到原网页查看>\n\n此外，Techland 还推出了包含《消逝的光芒》本体及所有扩展内容的白金版。即日起，玩家可在各大平台选购这一超值版本，国区 Steam 售价为89人民币。\n\n\n<内嵌内容，请到原网页查看>",
+          "link": "https://www.gcores.com/articles/137556",
+          "publishedOn": "2021-05-27T21:16:00.000Z",
+          "wordCount": 63,
+          "title": "《消逝的光芒2：坚守人性》将于12月7日发售，现已在各大平台开启预售"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137554",
+          "author": "肖尔",
+          "description": "在凌晨的索尼克30周年直播中，官方首先带来了索尼克与世嘉旗下多款游戏联动的消息。《索尼克：色彩 终极版（Sonic Colors Ultimate）》公布，将于9月7日正式发售，登陆 Xbox Series X/S、Xbox One、PS5、PS4、NS 与 Epic 商店。除了登陆网飞的《索尼克 Prime》外，世嘉还公布了动画剧集《索尼克 色彩：Rise of the Wisps》。最后的“One More Thing”环节，官方带来了《索尼克》系列神秘新作，将于2022年登陆 Xbox Series X/S、Xbox One、PS5、PS4、NS 与 PC 平台。\n\n\n<内嵌内容，请到原网页查看>",
+          "link": "https://www.gcores.com/articles/137554",
+          "publishedOn": "2021-05-27T16:35:05.000Z",
+          "wordCount": 79,
+          "title": "索尼克神秘新作将于2022年发售，索尼克专场直播资讯汇总"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137545",
+          "author": "熊吉吉",
+          "description": "5月27日，Falcom宣布新作《英雄传说 黎之轨迹》将于2021年9月30日发售，登陆PS4平台，价格未定。同时官方还公布了两位新人物和主要角色的声优阵容等新情报。\n\n\n\n\n\n\n\n\n\n\n两位新人物分别是使用流星鞭战斗的22岁女演员茱迪丝（声优：日笠阳子）和使用拳套战斗的69岁功夫大师贝尔加德（声优未知）。官方公布的声优还有小野大辅、伊藤美来、小仓唯、内田雄马、石川由依、田村睦心。\n\n\n\n\n官方公布了主要角色的固有战技，在游戏中玩家需要积攒CP来发动，每个角色的战技都有着不同效果。",
+          "link": "https://www.gcores.com/articles/137545",
+          "publishedOn": "2021-05-27T11:13:00.000Z",
+          "wordCount": 60,
+          "title": "9月30日发售！《英雄传说 黎之轨迹》公布新情报"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137529",
+          "author": "YTYTYTYT😀",
+          "description": "导语\n伴随着虚幻引擎5抢先体验版的推出，开发者也终于能试用全新引擎工具、体验全新功能并设计下一款游戏的原型。尽管本次技术预览并非面向普通玩家，但感兴趣的读者朋友仍可通过 Epic 打造的可游玩示例项目“遗迹峡谷”来率先体验次世代引擎所能实现的惊人效果。有鉴于虚幻引擎工具本身门槛较高，笔者也在持味的帮助下撰写了本文，希望能帮助到想要抢先预览虚幻5效果的玩家。\n\n\n<内嵌内容，请到原网页查看>\n(完整演示从6分07秒开始)\n配置要求\n需要强调的是，本次演示为工程文件，不代表用虚幻5编译游戏的实际配置要求及最终效果。 \n以下是“遗迹峡谷”演示的最低配置要求：\n\n显卡:GTX 1080/RX Vega 64或以上显卡（8GB显存）\n内存:32GB系统内存\n推荐配置要求（30帧）\n\nCPU:3.4GHz 12核 \n显卡：RTX 2080/Radeon 5700XT或以上显卡\n内存：64GB 系统内存\n若要体验本次“遗迹峡谷”演示，读者朋友还需要150GB的硬盘空间（推荐 SSD）。\n体验方法\n\n\n第一步：在安装 Epic 游戏启动器后，点击此处下载虚幻5抢先体验版\n第二步：在 Epic 游戏启动器左侧点击虚幻引擎，随后点击 UE5 并下载“遗迹峡谷”演示\n第三步：在上述内容下载完毕后，在 Epic 游戏启动器左侧点击虚幻引擎，随后在库中启动5.0.0抢先体验版（可能需要一段时间，请耐心等待）\n第四步：在启动的虚幻项目浏览器中找到“古代山谷”并轻击打开\n第五步：点击左下角的内容侧滑菜单，依次打开 AncientContent/maps/AncientWorld.umap\n第六步：点击运行右方的三个点，选择“独立进程游戏”选项\n第七步：点击运行并开始体验\n疑难解答\n问：卡在“要看主页面...”提示/内容侧滑菜单无法正常使用/黑屏/不正常工作/重影\n答：“遗迹峡谷”演示默认使用 DX12 运行，而这可能导致部分电脑不兼容，首先应尝试以 DX11 启动。\n若要强制以 DX11 模式启动虚幻5演示，请在 Epic 游戏启动器左侧点击虚幻引擎，点击库并找到5.0.0启动右侧的三角，点击创建快捷方式。在桌面找到快捷方式并右键轻击，随后在目标后方输入（空格）-dx11，点击确定。随后，在桌面启动虚幻5工具，并按照上方体验方法的第四步进行。若仍无法运行，请再次确认配置足够并更新至最新版本 Windows 及驱动。\n\n问：无法启动虚幻5工具/点击运行后无响应\n答：请先确认硬盘空间足够。若确认有充足空间，请耐心等待其加载（无提示），加载时间取决于硬盘速度及电脑性能，可能长达10分钟（仅推荐使用 SSD 体验）。\n问：切换场景后左上方出现英文字，长时间加载\n答：切换场景首次加载缓慢属正常现象，无需操作耐心等待即可。加载时间取决于硬盘速度及电脑性能，可能长达20分钟（仅推荐使用 SSD 体验）。\n问：演示卡顿/掉帧\n答：演示卡顿/掉帧属正常现象。本次演示为面向开发者的技术预览，不代表用虚幻5编译游戏的实际配置要求及最终效果。在确保配置满足最低要求的情况下，请以窗口化（即降低分辨率）的情况下运行本次演示以获得最佳效果。",
+          "link": "https://www.gcores.com/articles/137529",
+          "publishedOn": "2021-05-27T11:00:00.000Z",
+          "wordCount": 95,
+          "title": "率先体验次世代：虚幻5“遗迹峡谷”演示体验方法、配置要求及疑难解答一览"
+        },
+        {
+          "id": "https://www.gcores.com/videos/137491",
+          "author": "黑胶盒子",
+          "description": "【盒子电台】是黑胶盒子视频节目的全新板块，阿野会在这里和大家聊聊不同的音乐故事。第一期我们选择从竹内玛丽亚的《塑料爱》（Plastic Love）开始，将City Pop的故事从头说起。\n上世纪70年代末期，City Pop逐渐在日本发展起来，并在八十年代达到顶峰。泡沫经济下的人们，将City Pop和它所构建的都市美学视为一种理想的生活方式，每个人都期待着在夜里浪漫的霓虹灯下，用及时行乐的快感来掩盖住内心的挥之不去的孤独。\n《塑料爱》是竹内玛丽亚1984年复出后发行的第一张专辑《Variety》的主打曲目，她了解当时大都市里人们心中的空缺和不安。《塑料爱》（Plastic Love）看似是一个受伤女生自我保护式的独白，实际上却戳破了每个飘在这霓虹城市之中的泡沫。\n众所周知，现在的《塑料爱》（Plastic Love）已经成为了City Pop最具代表的一首歌，并当代媒介的算法推荐之下，又再一次让曾经弥漫东京的自由色彩冲进了世界上更多人的心里。\n希望今夜梦里，也有灵动回眸的女孩和浪漫无际的音乐吧。",
+          "link": "https://www.gcores.com/videos/137491",
+          "publishedOn": "2021-05-27T09:00:00.000Z",
+          "wordCount": 40,
+          "title": "油管6000万播放的City Pop《塑料爱》到底有什么魔力"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137544",
+          "author": "熊吉吉",
+          "description": "5月27日，樱井政博发布推文，表示自己在《Fami通》上连载18年之久的个人专栏即将在《任天堂明星大乱斗 特别版》最后两个DLC角色上架后完结。\n\n\n樱井在推文中说：“我在《周刊Fami通》连载了18年以上的专栏将在《大乱斗特别版》的DLC全上架后的一段时间内完结。这可能是游戏开发者连载最久的杂志专栏了吧？离完结还有段时间，希望读者在这段时间继续陪伴我。”\n\n\n针对之前一些媒体推断他停止撰写专栏是要退休的说法，他在推文回复中表示，这是不对的，虽然他无法对未来做出什么推断，但大概不会退出游戏行业。",
+          "link": "https://www.gcores.com/articles/137544",
+          "publishedOn": "2021-05-27T08:49:00.000Z",
+          "wordCount": 49,
+          "title": "樱井政博在《Fami通》的个人专栏即将完结"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137543",
+          "author": "YTYTYTYT😀",
+          "description": "随着 INDIE Live Expo 2021 将于6月5日举行，主办方也于今日带来了展会的最新情报。执行委员会表示，将播放由由 waiwai 担任旁白、INDIE Live Expo 的吉祥物 LEX 君将以全新姿态登场的电视宣传广告。此外，节目的参演嘉宾也已敲定，将由豪华的嘉宾阵容，为大家展示独立游戏的魅力，详情如下：\n\n节目参演者\n\n\n\n\n日语版：吉田尚记（Nippon放送主播）、水谷俊次（PLAYISM）、waiwai \n英语版：Atsugiri Jason、J-mon、堀内华央理\n中文版：犬次郎、黄政凱（Flyhigh Works） \n特邀嘉宾 世界的独立工作室：德冈正肇 \n音乐表演：Shamio、Dainashi \n\n 节目内容 \n\n\nINDIE Live Premiere \n公开有执行委员会精选的，备受期待的热门独立游戏新作与新资讯！\nINDIE Picks \n介绍由媒体伙伴挑选的经典独立游戏。\nINDIE Waves \n不限硬件或平台，通过视频短片介绍来自全世界报名参展的独立游戏作品。\n世界的独立游戏工作室\n许多独立游戏都是在受到国家地区的风土人历史或背景影响下诞生的。主办方将关注孕育了这些独立游戏的土地，从全新的视角去享受游戏的乐趣。第三期将镜头对准捷克。 \n音乐表演 \nDainashi 和 Shamio 将表演架子鼓和三味线，带来精彩的独立游戏曲目。 \n赞助企业环节\n将世界变成“游乐场” \n大量独立游戏任你玩！什么是 Xbox Game Pass ？ \n“讲谈社 Game Creative Labo ”第二期成员招募!! \n最新！Digital Key 官方销售服务\n\n\n\n\n\n电视宣传广告\n\n\n广告将以 ZUN 先生作曲的 INDIE Live Expo 主题曲《独一无二的 Simulacrum》为背景音乐，由 INDIE Live Expo 的吉祥物 LEX 君演唱介绍节目的直播日期。 CM 的旁白由游戏实况主 waiwai 担任。LEX 君的全新设计由 Shiros 负责设计，同时制作了像素版动画。LEX 君将在 6 月 5 日的节目中大显身手，也敬请期待。",
+          "link": "https://www.gcores.com/articles/137543",
+          "publishedOn": "2021-05-27T08:49:00.000Z",
+          "wordCount": 139,
+          "title": "300余款游戏确认参展：INDIE Live Expo 2021公布最新情报"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137534",
+          "author": "YTYTYTYT😀",
+          "description": "卡普空日前欣然宣布，《生化危机：村庄》全球出货量（包含数字版销量）已超过四百万份。自5月7日在各大平台发售以来，本作凭借出色的口碑登顶了 Steam 周销量排行榜，同时玩家人数以及实体版销量也创下了系列的最佳成绩。\n\n\n在5月11日，卡普空曾确认本作的全球出货量超过三百万份，而这也意味着《生化危机：村庄》在不到一个月的时间内再次出货一百万份，这一数字可以说是相当出色。作为对比，《生化危机7》在10个月的时间内共出货了410万份，同时本作的实体销量比《生化危机3：重制版》高76%。\n\n\n卡普空认为，本作喜人的销量得益于巧妙平衡了动作及恐怖元素，同时逼真的视觉效果以及出彩的空间音效也是玩家选购本作的重要原因。\n\n\n<内嵌内容，请到原网页查看>",
+          "link": "https://www.gcores.com/articles/137534",
+          "publishedOn": "2021-05-27T08:46:00.000Z",
+          "wordCount": 50,
+          "title": "《生化危机：村庄》全球出货量超四百万份"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137484",
+          "author": "名侦探老张",
+          "description": "埃德加·赖特执导的心理惊悚片《Soho区惊魂夜》发布正式预告，将于10月22日在北美上映。\n\n\n<内嵌内容，请到原网页查看>\n(《Soho区惊魂夜》预告)\n埃德加·赖特担任本片的导演、编剧以及制片人，主演包括汤玛逊·麦肯锡、安雅·泰勒-乔伊、马特·史密斯、戴安娜·瑞格、丽塔·塔欣厄姆和泰伦斯·史丹普。\n《Soho区惊魂夜》的故事主要讲述主角埃洛伊丝是一位时尚设计专业的学生，她有着异于常人的第六感，经常无故穿越回1966年的伦敦，并代入一位有着理想抱负的歌手珊迪，其美貌与才华也使她成为埃洛伊丝的偶像。但上世纪60年代的伦敦并不像它看起来的那样美好，时间也逐渐开始分崩离析，潜藏的危险与恐怖慢慢浮现。\n\n\n\n\n\n\n埃德加·赖特曾表示这部电影是受《威尼斯疑魂》、《冷血惊魂》等片的启发，本片将于10月22日在北美上映。重操旧业再拍惊悚片的埃德加·赖特，还是非常让人期待。\n\n(《Soho区惊魂夜》海报)",
+          "link": "https://www.gcores.com/articles/137484",
+          "publishedOn": "2021-05-27T07:35:00.000Z",
+          "wordCount": 47,
+          "title": "埃德加·赖特导演惊悚片《Soho区惊魂夜》发布预告"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137530",
+          "author": "YTYTYTYT😀",
+          "description": "ION LANDS 于日前宣布，将于 Steam 发售“云朋克”世界观新作《尼瓦里斯》。 开发者表示，在尼瓦里斯这座赛博朋克的城市，要想成功，并不容易。黑社会时时刻刻都打着市民身体器官的主意，集团连呼吸都要罚款。除此之外，脚下的地面无时无刻不在逐渐崩垮。这座城市明天或许就会完全落入大海，所以必须把握当下，争取尽早发财。\n\n\n在《尼瓦里斯》中，玩家将体验在该城市生活的真正体验，决定自己每一天如何生活。为了掌控尼瓦里斯的夜生活，玩家将从小吃摊、面店或者兴奋剂店开始然后才会是酒吧、餐厅乃至夜总会。\n\n\n除了模拟经营外，玩家还可购买或自行生产食材、布置自己的房子、驾驶飞车、钓鱼放松、了解陌生人、朋友和顾客的故事，甚至可以找到自己的所爱。\n\n\n<内嵌内容，请到原网页查看>",
+          "link": "https://www.gcores.com/articles/137530",
+          "publishedOn": "2021-05-27T07:29:00.000Z",
+          "wordCount": 55,
+          "title": "云朋克世界观新作《尼瓦里斯》宣布，主打模拟经营"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137433",
+          "author": "chenzj",
+          "description": "译者友情提示：本小说发表于1937年\n第二章 接手指挥\n\n(作画：高荷义之)\n毕业不到一个月，还没等吉尼森做完霍亨多夫司令官安排的执勤地点调研，空港司令官海因斯就把他召到了最高基地。新手吉尼森一到那儿，就被老将海因斯带上了长官专机。专机起飞后，在规模庞大的基地设施上空，一边用闪烁的灯光拨开拥挤的机群，一边从容地前进。\n各式各样的飞行器从专机身边飞过，从小型单人直升机到大小不一的侦察机、巡逻艇、巡洋舰、更庞大的球形超无畏级太空战舰等数不胜数。海因斯司令目不转睛地看着这些飞机，逐一向吉尼森介绍。接着，专机降落在一座低矮的建筑物旁边——这建筑仍然属于基地内部，但戒备最为森严。走进去之后，吉尼森似乎看到了什么不得了的东西，于是屏住了呼吸。\n那是艘宇宙飞船，但绝非寻常的飞船！它的块头比巡逻队使用的超无畏级太空战列舰大得多。而且，与过往各型舰艇不同，这艘飞船的造型可以说是把泪珠型和流线型都用到了极致。[1]\n“你觉得这艘舰怎么样?”长官问。\n“我怎么想！”年轻的士官咽下两口唾沫，终于回过神来回答。“我实在说不出来，阁下。但是我希望有朝一日能够指挥一艘这样的战舰，如果我能活到积攒了足够实力的那一天。”\n“比你想象的还要早，吉尼森。”海恩斯平静地说。“从明天早上开始，你来指挥这艘舰。”\n“啊？交给我？”吉尼森不由自主地大声喊道，但很快又恢复了冷静。“司令官阁下，我明白了。拿下一级战舰的指挥资格需要十年时间，所以我还不够格，刚才您说这艘舰还处于实验阶段。看来它配备了某些未经测试的新东西，非常危险，不能让资深指挥官上去。所以安排我负责试航。一旦平安返航，队里就把它交给原本选定的舰长。但是我对此没有意见。阁下，谢谢您把这个任务交给我。这机会太宝贵了，千载难逢啊！”虽然是临时指挥，但能指挥这样先进的军舰，这种喜悦让吉尼森的眼睛两眼放光。\n“这倒是事实，但还有另一面。”老长官令人惊讶地开口了：“这是…",
+          "link": "https://www.gcores.com/articles/137433",
+          "publishedOn": "2021-05-27T07:00:00.000Z",
+          "wordCount": 44,
+          "title": "译介丨美国太空歌剧科幻小说《透镜人：银河巡逻队》第二章"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137512",
+          "author": "阿灵D",
+          "description": "桌游《巫师：旧世界(The Witcher:Old World)》是一款基于猎魔人世界观的桌游，于2月公布，几月前曾在机核进行了简单的介绍，不熟悉的朋友可以看这篇回顾一下。5月25日游戏正式在Kickstarter展开了众筹，目前3日筹集了2,680,883美元，大约是目标306452美元的873%。感兴趣的朋友可以直接前往Kickstarter查看。\n\n\n距离众筹结束还有15天，游戏预计2022年5月发售，6月开始发货。游戏分70欧元（约合人民币545.79元）的基础版和125欧元（ 约合人民币974.62元 ）的豪华版，目前众筹中选择了豪华版的人数大大超过基础版。届时商品也支持邮寄到中国，邮费估为20欧元(约合人民币155.81元)。\n随着众筹的开启，更多介绍信息也放出，包括游戏的首个宣传视频，以下是个人中文字幕版，请打开cc字幕观看，配音似乎是CD Projekt RED御用的丹德里恩配音？\n\n\n<内嵌内容，请到原网页查看>\n(首部宣传片)\nCD Projekt RED方面的负责人也露脸，再次强调了公司对这款游戏的深层次参与。总之官方的几次表态让我对这次的世界观延续性特别期待。\n游戏内容\n\n\n\n所有版本都包含5套角色组件：共计5个角色迷你雕塑（最高6厘米）、角色版、计分筹码，30个木制筹码和70张技能卡牌；15套怪物组件（每一套是一种怪物）、56x84厘米的游戏桌面、大量事件卡、骰子等游戏要素。豪华版包含15个怪物的迷你塑像（最高5厘米），在更多可解锁档中也有额外留给豪华版的内容。\n\n\n(角色组件)(怪物组件)(卡牌)(牌桌等工具)\n\n额外目标\n初始目标达成后，一系列额外目标被提上日程，包括一些带新规则的小扩展、新的模型、新的技能卡等。需注意其中的迷你塑像都是提供给豪华版游戏的。\n更新#2：狂猎扩展和更多怪物\n（更新#1为众筹开启的告示，防止混淆故沿用Kickstar…",
+          "link": "https://www.gcores.com/articles/137512",
+          "publishedOn": "2021-05-27T06:58:00.000Z",
+          "wordCount": 81,
+          "title": "桌游《巫师：旧世界》开启众筹，进展迅猛"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137485",
+          "author": "名侦探老张",
+          "description": "在第74届戛纳电影节平行单元——戛纳导演双周单元上，美国纪录片导演弗雷德里克·怀斯曼将获颁金马车奖，颁奖仪式将于7月7日举行。\n\n(弗雷德里克·怀斯曼)\n金马车奖是戛纳国际电影节导演双周单元于2002年创设、颁发给杰出电影人的终身成就类奖项，由法国导演协会评选，目的是表彰“纯粹的电影天才”。金马车奖来源于法国电影大师让·雷诺阿的电影《金马车》，此前克林特·伊斯特伍德、贾樟柯、马丁·斯科塞斯等电影大师都曾被授予过这一殊荣。\n近年来，弗雷德里克·怀斯曼依旧保持着旺盛的创作欲，包括《书缘：纽约公共图书馆》《在伯利克》《国家美术馆》《杰克逊高地》《印第安纳的蒙罗维亚 》。而由他拍摄的《波士顿市政厅》在法国知名电影杂志《电影手册》2020年度十佳榜单中名列第一。\n\n(《波士顿市政厅》海报)\n本届戛纳电影节将于7月6日至17日举行，导演双周则将于7月7日至17日举办，敬请期待。\n\n(第53届戛纳电影节导演双周单元海报)",
+          "link": "https://www.gcores.com/articles/137485",
+          "publishedOn": "2021-05-27T06:54:00.000Z",
+          "wordCount": 49,
+          "title": "弗雷德里克·怀斯曼将获本届戛纳电影节导演双周单元金马车奖"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137528",
+          "author": "熊吉吉",
+          "description": "5月27日，《勇者斗恶龙》35周年直播节目如期播出，除了《勇者斗恶龙12》以及《勇者斗恶龙 3》HD-2D风格重制版之外，节目中还公布了消消乐手游和其他主机平台新作的消息。\n《勇者斗恶龙 达伊的大冒险》（インフィニティ ストラッシュ ドラゴンクエスト ダイの大冒険）\n\n\n\n\n本作为主机平台的动作RPG游戏，尚在开发中，官方公布了4张开发中画面。\n《勇者斗恶龙 消消乐》（ラゴンクエスト けしケシ ）\n\n\n<内嵌内容，请到原网页查看>\n\n\n\n\n\n由PlayArt开发，预计年内登陆Andriod/iOS平台。\n《勇者斗恶龙10 Online》\n\n\n\n\n新版本《勇者斗恶龙10 天星的英雄们》（ドラゴンクエストX 天星の英雄たち オンライン）2021年秋季上线。\n《勇者斗恶龙10 觉醒的五个种族》（ドラゴンクエストX 目覚めし五つの種族 オフライン）\n\n\n\n\n基于《勇者斗恶龙10》的离线版，预计2022年发售，价格未定。\n《勇者斗恶龙 宝藏》（ドラゴンクエスト トレジャーズ）\n\n\n<内嵌内容，请到原网页查看>\n\n\n\n\n\n以“幼年的卡缪和玛雅”和“寻宝”为关键词开发的RPG新作，将围绕着卡缪和玛雅展开故事，平台、发售日及价格未定。",
+          "link": "https://www.gcores.com/articles/137528",
+          "publishedOn": "2021-05-27T06:16:00.000Z",
+          "wordCount": 74,
+          "title": "有手游也有主机新作，《勇者斗恶龙》35周年直播活动信息汇总"
+        },
+        {
+          "id": "https://www.gcores.com/articles/137519",
+          "author": "熊吉吉",
+          "description": "由日本一软件负责开发的PlayStation4／Nintendo Switch™平台游戏《魔界战记DISGAEA６》已于今日5月27日在亚洲地区发售。\n\n\n本作为《魔界战记》系列最新作，游戏具有可以练到最高等级9999万9999、最高伤害9999京的无尽的可玩要素，以及可供玩家自己配置最适合自己的AI进行战斗的自动战斗功能等等。体验版也在同天上架PS商店和任天堂eShop，能体验游戏初期内容，数据可被正式版继承。\n\n\n\n\n\n\n\n\n《魔界战记DISGAEA６》确定将发布季票和追加内容。会发布让系列历代角色登场的“追加角色”，以及帮助养成的“消耗道具”等内容。此外，还有专为想获得所有追加内容的玩家准备了“完全特典”。发布内容及日期等详情请等待后续消息。",
+          "link": "https://www.gcores.com/articles/137519",
+          "publishedOn": "2021-05-27T06:03:00.000Z",
+          "wordCount": 51,
+          "title": "《魔界战记DISGAEA6》今日发售"
+        },
+        {
+          "id": "https://www.gcores.com/videos/137492",
+          "author": "黑狗布雷特",
+          "description": "嗨，《俺说游戏IORIGAME》是我自己的一档原创游戏杂谈类节目。这期阐述了我对当今流行的开放世界装备驱动打据点3A游戏情有独钟的理由，它甚至涉及到美军特遣部队一项关键的军事变革。\n第一次尝试将俺说游戏podcast以视频形式展现出来，制作难免有疏漏，比如语速过快还有文案逻辑过于跳跃等问题，请各位玩家海涵！\nB站视频地址\n参考资料：《赋能：打造应对不确定性的敏捷团队》，林爽喆 译，中信出版社，2017\n BGM：我自己做的，如果想听的人多了我稍后会单独放一个试听版本出来",
+          "link": "https://www.gcores.com/videos/137492",
+          "publishedOn": "2021-05-27T06:00:00.000Z",
+          "wordCount": 32,
+          "title": "聊聊为何我对当今的开放世界打据点3A游戏情有独钟"
+        },
         {
           "id": "https://www.gcores.com/articles/137171",
           "author": "药荚s",
@@ -2301,6 +2556,60 @@
       "siteUrl": "https://theinitium.com/newsfeed/",
       "articles": [
         {
+          "id": "https://theinitium.com/article/20210528-technology-long-live-virtual-idol/",
+          "author": "端傳媒實習記者 王一峰 記者 楊鈺 發自香港",
+          "description": "粉絲賦予虛擬歌姬形象、聲線、性格、命運，甚至價值觀，然後為此選擇愛恨，並爭吵不休。",
+          "link": "https://theinitium.com/article/20210528-technology-long-live-virtual-idol/",
+          "publishedOn": "2021-05-27T23:00:00.000Z",
+          "wordCount": 2,
+          "title": "首代中國虛擬偶像，和她的「續命」人"
+        },
+        {
+          "id": "https://theinitium.com/article/20210527-taiwan-wanhua-ten-days/",
+          "author": "特約撰稿人 金其琪 發自台北",
+          "description": "政府正規軍遲遲未到，但在這台北古老的城區裡，人們異口同聲地說，只有病毒才是唯一的敵人。",
+          "link": "https://theinitium.com/article/20210527-taiwan-wanhua-ten-days/",
+          "publishedOn": "2021-05-27T11:43:00.000Z",
+          "wordCount": 2,
+          "title": "萬華十日記：疫情重災區，一場對抗病毒的游擊戰"
+        },
+        {
+          "id": "https://theinitium.com/article/20210527-evening-brief/",
+          "author": null,
+          "description": "路透社今天發表 獨家報道 、引述消息人士及文件指出，香港保安局局長李家超早前分別向壹傳媒集團創辦人黎智英、滙豐銀行及花旗銀行發出警告信，指銀行若處理黎智英名下資產，最高有機會被判監禁七年及罰款。",
+          "link": "https://theinitium.com/article/20210527-evening-brief/",
+          "publishedOn": "2021-05-27T09:41:00.000Z",
+          "wordCount": 2,
+          "title": "晚報：路透社指李家超曾去信警告滙豐及花旗，處理黎智英財產或被判監"
+        },
+        {
+          "id": "https://theinitium.com/article/20210527-culture-mirror-and-error-hk-new-entertainment/",
+          "author": "特約撰稿人 陳子雲 發自香港",
+          "description": "流行文化未死，香港不死。崩壞的社會產出一部成功的娛樂節目？其實《自肥》的成功，正源於我們過去兩年來的「失敗」。",
+          "link": "https://theinitium.com/article/20210527-culture-mirror-and-error-hk-new-entertainment/",
+          "publishedOn": "2021-05-27T06:00:00.000Z",
+          "wordCount": 2,
+          "title": "2021年的香港人怎樣笑：Mirror 同 Error，緣何在崩壞時代迷狂全港？"
+        },
+        {
+          "id": "https://theinitium.com/article/20210527-wsj-one-sailors-four-year-ordeal/",
+          "author": "華爾街日報",
+          "description": "MV Aman號貨輪2017年在蘇伊士運河附近被扣。幾年過去，大副仍在船上孤身一人。他的遭遇，是上千名被棄船員的縮影。",
+          "link": "https://theinitium.com/article/20210527-wsj-one-sailors-four-year-ordeal/",
+          "publishedOn": "2021-05-27T04:54:00.000Z",
+          "wordCount": 2,
+          "title": "被困海上近四年：一名船員在遭遺棄貨輪上的漫長磨難"
+        },
+        {
+          "id": "https://theinitium.com/article/20210527-morning-brief/",
+          "author": null,
+          "description": "美國總統拜登週三發表聲明 ，要求情報部門進一步調查2019冠狀病毒疫情起源，盡量得到接近「明確結論」的訊息，90天內向政府提交報告。",
+          "link": "https://theinitium.com/article/20210527-morning-brief/",
+          "publishedOn": "2021-05-27T02:51:00.000Z",
+          "wordCount": 2,
+          "title": "早報：拜登要求美情報部門進一步調查疫情起源，以接近「明確結論」"
+        },
+        {
           "id": "https://theinitium.com/article/20210526-evening-brief/",
           "author": null,
           "description": "《華盛頓郵報》引述兩名知情人士消息報道 ，紐約曼哈頓地方檢察官萬斯（Cyrus Vance Jr.）近期召集大陪審團，在未來六個月向大陪審團講述涉及前任總統特朗普（Donald Trump）的刑事調查證據，交由大陪審團決定是否對特朗普提出起訴。",
@@ -3019,6 +3328,357 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/2up-3",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/2up-3",
+          "publishedOn": "2021-05-27T22:51:11.000Z",
+          "wordCount": 87,
+          "title": "2Up — Joint accounts reimagined for modern relationships."
+        },
+        {
+          "id": "https://www.producthunt.com/posts/letter-rooms",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/letter-rooms",
+          "publishedOn": "2021-05-27T15:40:56.000Z",
+          "wordCount": 84,
+          "title": "Letter Rooms — Simply good anagram game"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/sharespace",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/sharespace",
+          "publishedOn": "2021-05-27T15:09:06.000Z",
+          "wordCount": 98,
+          "title": "ShareSpace — Social network to talk about problems and mental health"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/modern-product-management-part-2",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/modern-product-management-part-2",
+          "publishedOn": "2021-05-27T14:28:53.000Z",
+          "wordCount": 94,
+          "title": "Modern Product Management Part 2 — Execution"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/semrush-app-center",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/semrush-app-center",
+          "publishedOn": "2021-05-27T13:42:41.000Z",
+          "wordCount": 115,
+          "title": "Semrush App Center — Power your marketing by connecting your apps to Semrush data"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/redact-dev",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/redact-dev",
+          "publishedOn": "2021-05-27T13:30:18.000Z",
+          "wordCount": 97,
+          "title": "Redact.dev — Mass delete your content on social networks and messengers"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/bird-three",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/bird-three",
+          "publishedOn": "2021-05-27T13:19:47.000Z",
+          "wordCount": 84,
+          "title": "Bird Three — The world's most eco-conscious scooter"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/schmooze",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/schmooze",
+          "publishedOn": "2021-05-27T12:30:33.000Z",
+          "wordCount": 89,
+          "title": "Schmooze — Memes meets Tinder, find a match based on memes"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/ecardforest",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/ecardforest",
+          "publishedOn": "2021-05-27T09:45:31.000Z",
+          "wordCount": 98,
+          "title": "EcardForest — Digital group ecards for birthday, farewell, baby, wedding"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/designops",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/designops",
+          "publishedOn": "2021-05-27T09:44:01.000Z",
+          "wordCount": 96,
+          "title": "DesignOps — How to build better digital products using DesignOps"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/notion-icons-2-0",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/notion-icons-2-0",
+          "publishedOn": "2021-05-27T09:05:23.000Z",
+          "wordCount": 99,
+          "title": "Notion Icons 2.0 — Create a more vibrant and modern workspace"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/cryptofame",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/cryptofame",
+          "publishedOn": "2021-05-27T08:58:52.000Z",
+          "wordCount": 55,
+          "title": "CryptoFame — Own a piece of crypto history"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/image-resizer-2-0",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/image-resizer-2-0",
+          "publishedOn": "2021-05-27T08:55:24.000Z",
+          "wordCount": 99,
+          "title": "Image Resizer 2.0 — Resize your images in 3 easy steps for free, by Promo.com"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/pcmd",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/pcmd",
+          "publishedOn": "2021-05-27T08:49:39.000Z",
+          "wordCount": 87,
+          "title": "PCMD — A super simple terminal command shortener"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/smartme-profile",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/smartme-profile",
+          "publishedOn": "2021-05-27T08:26:13.000Z",
+          "wordCount": 119,
+          "title": "SmartMe Profile — The neo-CV to show where you are headed, not what you did"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/boldstack-spifs",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/boldstack-spifs",
+          "publishedOn": "2021-05-27T08:25:21.000Z",
+          "wordCount": 95,
+          "title": "BoldStack Spifs — Getting your SPIF contests up and running easily"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/bedj",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/bedj",
+          "publishedOn": "2021-05-27T07:38:15.000Z",
+          "wordCount": 113,
+          "title": "BeDJ — Marketplace of detailed mixing instructions to DJ sets"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/undock-workspace-notion-template",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/undock-workspace-notion-template",
+          "publishedOn": "2021-05-27T07:21:35.000Z",
+          "wordCount": 106,
+          "title": "Undock : Workspace Notion Template — Manage your professional & personal life with this template"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/afloat",
+          "author": null,
+          "description": "Why?\nI've been working as a freelancer for more than 10 years.\nInvoicing and accounting has always made me feel frustrated and stressed.\n\nMost of the systems I tried, use complicated forms, force me to use features I don't need or have invoice designs that are terrible. There were lots of copy-pasting, repetition, and human error.\n\nHow?\nWe wanted Afloat to be super easy to use with a big focus on the user experience.\nA ​clean and calm space that reduces the stress around invoices, expenses, and accounting.\n\nAfloat is smart and reactive. When possible, it suggests, autocompletes, and offers a preview of the content, so everything is one click away.\n\nAnd yes, we put a lot of time and care into the invoice design :-)\n\nThis is the tool we've always wanted.  \nYou can finally focus on what reall…",
+          "link": "https://www.producthunt.com/posts/afloat",
+          "publishedOn": "2021-05-27T07:01:59.000Z",
+          "wordCount": 94,
+          "title": "Afloat — Create beautiful invoices in 3 clicks, without mistakes"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/professional-coaching-for-agilists",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/professional-coaching-for-agilists",
+          "publishedOn": "2021-05-27T07:00:28.000Z",
+          "wordCount": 99,
+          "title": "Professional Coaching for Agilists — Get the knowledge to become an outstanding Agile coach"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/yen-beta",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/yen-beta",
+          "publishedOn": "2021-05-27T06:38:10.000Z",
+          "wordCount": 94,
+          "title": "YEN (Beta) — The metaverse company"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/autoprint",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/autoprint",
+          "publishedOn": "2021-05-27T06:18:56.000Z",
+          "wordCount": 83,
+          "title": "Autoprint — 3D Print In Seconds"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/nocodb",
+          "author": null,
+          "description": "NocoDB is an open source Airtable alternative.\n\nGithub : https://github.com/nocodb/nocodb \n\nNocoDB works by connecting to any relational database and transforming them into a smart spreadsheet interface! This allows you to build no-code applications collaboratively with teams. NocoDB currently works with MySQL, PostgreSQL, Microsoft SQL Server, SQLite, Amazon Aurora & MariaDB databases.\n\nAlso NocoDB's app store allows you to build business workflows on views with combination of Slack, Microsoft Teams, Discord, Twilio, Whatsapp, Email & any 3rd party APIs too. Plus NocoDB provides programmatic access to APIs so that you can build integrations with Zapier / Integromat and custom applications too.\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n\nGetti…",
+          "link": "https://www.producthunt.com/posts/nocodb",
+          "publishedOn": "2021-05-27T06:17:14.000Z",
+          "wordCount": 104,
+          "title": "NocoDB — Free & Open Source Airtable alternative 🔥 🔥 🔥"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/podcastle-2",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/podcastle-2",
+          "publishedOn": "2021-05-27T06:02:40.000Z",
+          "wordCount": 100,
+          "title": "Podcastle — Create, edit and enhance audio, conduct online interviews."
+        },
+        {
+          "id": "https://www.producthunt.com/posts/evolve-9",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/evolve-9",
+          "publishedOn": "2021-05-27T05:21:25.000Z",
+          "wordCount": 109,
+          "title": "Evolve — Connect your card and earn up to 15% automatic cash back"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/color-picker-1",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/color-picker-1",
+          "publishedOn": "2021-05-27T05:05:48.000Z",
+          "wordCount": 109,
+          "title": "Color Picker — One color picker app for all your devices"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/how-long-does-it-take",
+          "author": null,
+          "description": "howlongdoesittake.com. The site dedicated to answer all your questions related to time and duration. You are wondering how long does it take to watch all Star Wars movies, for the stomach to empty, to boil en egg or to drive route 66? You are in the right place at the right time. \n\nOur goal at HowLongDoesItTake is to share accurate, trustworthy and reliable information on “How long does it take” type questions. We use the most trusted and reliable sources to collect, curate and publish answers just about any topics. We also allow our registered users to submit their own time to our articles and compare them with others.\n\nThis is really a side project but I hope you guys find it really useful. Of course, as always, any comment and feedback are welcome :-)\n        ”\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/how-long-does-it-take",
+          "publishedOn": "2021-05-27T04:22:18.000Z",
+          "wordCount": 92,
+          "title": "How long does it take? — Let’s find out answers to any random question"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/response-manager",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/response-manager",
+          "publishedOn": "2021-05-27T04:09:39.000Z",
+          "wordCount": 88,
+          "title": "Response Manager — Manage duplicated form responses easily"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/habit-tracker-for-notion-2021",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/habit-tracker-for-notion-2021",
+          "publishedOn": "2021-05-27T03:34:46.000Z",
+          "wordCount": 119,
+          "title": "Habit Tracker for Notion 2021 — The companion that backs you up, as you build yourself up"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/airheart-explorer",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/airheart-explorer",
+          "publishedOn": "2021-05-27T03:34:25.000Z",
+          "wordCount": 103,
+          "title": "Airheart Explorer — Quickly understand where you can travel and what’s required"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/m-30",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/m-30",
+          "publishedOn": "2021-05-27T02:54:33.000Z",
+          "wordCount": 60,
+          "title": "M-30+ — Super compact laser distance measurer"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/animated-illustrations-by-icons8",
+          "author": null,
+          "description": "What’s inside\n- Most wanted categories: business, people, technologies, education, web elements\n- 8 different styles: Abstract, Taxi, Flame, Pablita, Clip, and others\n- Handy formats: JSON (Lottie), After Effects, and GIF\n- Quite a bunch of free animations\n\nHow to use\n- grab users’ attention and keep them entertained\n- add positive emotions to user journeys\n- make users want to share your products on social media\n\nWhat else… Oh, of course, you can send them to your friends and colleagues just to have fun!\n        ”\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/animated-illustrations-by-icons8",
+          "publishedOn": "2021-05-27T00:24:20.000Z",
+          "wordCount": 104,
+          "title": "Animated Illustrations by Icons8 — 100+ moving pictures to liven up your designs"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/no-code-for-enterprises",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/no-code-for-enterprises",
+          "publishedOn": "2021-05-26T23:53:22.000Z",
+          "wordCount": 110,
+          "title": "No-code for Enterprises — Learn how no-code can help businesses scale"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/timestripe-community",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/timestripe-community",
+          "publishedOn": "2021-05-26T22:26:14.000Z",
+          "wordCount": 109,
+          "title": "Timestripe Community — Share lists, productivity templates, and step-by-step guides"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/ready-set-dinner",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/ready-set-dinner",
+          "publishedOn": "2021-05-26T21:12:21.000Z",
+          "wordCount": 89,
+          "title": "Ready Set Dinner — Simple meal planning, fast shopping and easy cooking"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/userleap-integrations-hub",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/userleap-integrations-hub",
+          "publishedOn": "2021-05-26T20:38:09.000Z",
+          "wordCount": 107,
+          "title": "UserLeap Integrations Hub — Share user insights with over 3,180 of your favorite tools."
+        },
+        {
+          "id": "https://www.producthunt.com/posts/findareddit",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/findareddit",
+          "publishedOn": "2021-05-26T17:38:45.000Z",
+          "wordCount": 79,
+          "title": "FindAReddit — Find subreddit for your niche"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/workee",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/workee",
+          "publishedOn": "2021-05-26T16:43:59.000Z",
+          "wordCount": 111,
+          "title": "Workee — All-in box solution for running a private coaching business"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/orbit-63ac8ac7-32a0-4ddb-a5bb-4e26709503c7",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/orbit-63ac8ac7-32a0-4ddb-a5bb-4e26709503c7",
+          "publishedOn": "2021-05-26T16:12:14.000Z",
+          "wordCount": 119,
+          "title": "Orbit — Mission control for your community"
+        },
+        {
           "id": "https://www.producthunt.com/posts/highscore-domains",
           "author": null,
           "description": "Discussion\n        |\n        Link",
@@ -3035,6 +3695,15 @@
           "publishedOn": "2021-05-26T12:53:34.000Z",
           "wordCount": 108,
           "title": "LeadSift Intent API — Real-time intent data in your platform"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/scrollstack",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/scrollstack",
+          "publishedOn": "2021-05-26T12:17:26.000Z",
+          "wordCount": 77,
+          "title": "Scrollstack — Charge followers for content they are willing to pay for"
         },
         {
           "id": "https://www.producthunt.com/posts/crafty",
@@ -3055,6 +3724,15 @@
           "title": "Co-Pilot by SyncSmart — Engage in first-class conversations with your contacts"
         },
         {
+          "id": "https://www.producthunt.com/posts/refoldr",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/refoldr",
+          "publishedOn": "2021-05-26T10:55:48.000Z",
+          "wordCount": 70,
+          "title": "Refoldr — Store and share code snippets"
+        },
+        {
           "id": "https://www.producthunt.com/posts/5000-premium-graphics",
           "author": null,
           "description": "Discussion\n        |\n        Link",
@@ -3071,6 +3749,15 @@
           "publishedOn": "2021-05-26T09:40:24.000Z",
           "wordCount": 68,
           "title": "Habinator — Health & life coach app"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/cafe",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/cafe",
+          "publishedOn": "2021-05-26T08:55:53.000Z",
+          "wordCount": 117,
+          "title": "Café — When should I go to the office?"
         },
         {
           "id": "https://www.producthunt.com/posts/pegg-3",
@@ -5247,17 +5934,7 @@
       "title": "Cabinet Magazine",
       "feedUrl": "https://www.cabinetmagazine.org/rss/rss.xml",
       "siteUrl": "http://www.cabinetmagazine.org/",
-      "articles": [
-        {
-          "id": "http://www.cabinetmagazine.org/kiosk/krolewski_sara_27_april_2021.php",
-          "author": null,
-          "description": "Long before Donald Trump was calling for America to be made “great” again, the Nazi propaganda magazine Signal wrote of an American people “which was once great.” “American reality—gone with the wind,” proclaimed the subheading of a 1943 article on the industrialization of agriculture in the United States. Writing in usually flawless English, Signal’s editors criticized what they saw as a degenerated, yet still alarmingly strong, United States: a land of abundance and possibility, now riven by greed, vice, …",
-          "link": "http://www.cabinetmagazine.org/kiosk/krolewski_sara_27_april_2021.php",
-          "publishedOn": "2021-04-27T15:19:00.000Z",
-          "wordCount": 3815,
-          "title": "&ldquo;The Enemy as Sociologist&rdquo;\n\t\t\t\t<br><small>by  Sara  Krolewski</small>"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "NYT > Arts > Art & Design",
@@ -5270,6 +5947,210 @@
       "feedUrl": "https://www.archdaily.com/feed",
       "siteUrl": "https://www.archdaily.com/",
       "articles": [
+        {
+          "id": "https://www.archdaily.com/962428/orrrn-cafe-atmoround",
+          "author": "Pilar Caballero",
+          "description": "During the first field survey, the plan was to understand the overview of the surrounding buildings, but it was canceled. This is because Jeju Island already embodies lots of great emotions: the vibrant blue sea, rough but novel wind, yellow-colored Canola flower fields, black basalt stones, and the sway of the reed field while walking on gentle hills are unique experiences that are different from the daily life on the mainland. With the hope that the building will not disturb these good feelings and harmonize with its natural environment, we've set the course for the great concept of “just being here.”",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/Y7x4SC_H1IE/orrrn-cafe-atmoround",
+          "publishedOn": "2021-05-27T20:00:00.000Z",
+          "wordCount": 1967,
+          "title": "orrrn Cafe / ATMOROUND",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60af/c875/ae1c/b201/6506/1fc0/medium_jpg/fi-oebu-1.jpg?1622132926"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962382/512gw-townhouse-archi-tectonics",
+          "author": "Paula Pintos",
+          "description": "Archi-Tectonics converted a long and narrow industrial structure in SoHo into a spacious and flexible 8-story family home. The size of the space was doubled by adding a 4-story structure to the original townhouse, and by unifying the two volumes with a 3d envelope: the Climate Skin.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/FdSrtOm8SzI/512gw-townhouse-archi-tectonics",
+          "publishedOn": "2021-05-27T18:00:00.000Z",
+          "wordCount": 1116,
+          "title": "512GW Townhouse / Archi-Tectonics",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60af/f576/f91c/81f6/2800/01f5/medium_jpg/Street_View_%E2%80%93_Credit_Evan_Joseph.jpg?1622144366"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962422/house-t-plus-t-rll-estudio-arquitectura",
+          "author": "Clara Ott",
+          "description": "The project is located in the VI Region of Chile, Colchagua province, in the San Fernando commune, specifically in a sector called Fundo El Medio. It is located on a pleasant lot with a gentle slope and with a wide view towards the foothills of the Andes.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/_zAcKcsUWnE/house-t-plus-t-rll-estudio-arquitectura",
+          "publishedOn": "2021-05-27T16:00:00.000Z",
+          "wordCount": 872,
+          "title": "House T+T / RLL Estudio Arquitectura",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ac/652c/c63f/7201/640a/deb1/medium_jpg/ca-t-plus-t-rll-95.jpg?1621910850"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962325/school-la-pau-square-leku-studio",
+          "author": "Pilar Caballero",
+          "description": "The new entrance plaza in front of La Pau School gives new life to a degraded and disused space by naturalising it and creating a comfortable place in continuity with the school playground and the access points to the educational centre. A new space that encourages spontaneous and creative play in the street through the reinterpretation of urban elements that integrate a playful dimension into its design.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/AGtIxFLsZUs/school-la-pau-square-leku-studio",
+          "publishedOn": "2021-05-27T14:00:00.000Z",
+          "wordCount": 1028,
+          "title": "School La Pau Square / Leku Studio",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ad/79a0/cfea/4e01/6574/0b50/medium_jpg/laza-la-pau-leku.jpg?1621981752"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962337/kindergarten-silz-baue-architektur-armin-neubauer-zt-gmbh",
+          "author": "Valeria Silva",
+          "description": "Just outside an Austrian village, surrounded by forested mountains and crisp, clean air, one finds a kindergarten where nature takes centre stage. Wood, wood, and more wood form the educational setting for the children’s play and learning. Architect Armin Neurauter and his team won the competition for the design of a new type of preschool with room for life, development, and didactic stimulation for the children.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/VH_-2Xhp_9A/kindergarten-silz-baue-architektur-armin-neubauer-zt-gmbh",
+          "publishedOn": "2021-05-27T12:00:00.000Z",
+          "wordCount": 1035,
+          "title": "Kindergarten Silz / Baue Architektur, Armin Neubauer ZT GmbH",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ae/39b7/f91c/81f6/2800/0026/medium_jpg/Douglas_Natur_-_F28x300_-_2-5_m_-_NO_-_Kindergarten_Silz_-_Armin_Neurauter_-_Photo_G%C3%BCnter_Richard_Wett_-_01.jpg?1622030756"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962038/praksis-arkitekter-designs-new-velux-innovation-building",
+          "author": "Eric Baldwin",
+          "description": "Praksis Arkitekter has won the competition to transform an old timber warehouse for VELUX Group in Østbirk, Denmark. As the company's largest production site, it will be transformed into a best-in-class innovation center. The existing wooden building was originally inaugurated in 1995 as a warehouse. The new rebuilt building will house most of the product development that VELUX Group is doing, which today is spread across the country and abroad.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/yE2tYQLN5lQ/praksis-arkitekter-designs-new-velux-innovation-building",
+          "publishedOn": "2021-05-27T11:00:00.000Z",
+          "wordCount": 672,
+          "title": "Praksis Arkitekter Designs New VELUX Innovation Building",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60af/392d/f91c/81d9/db00/0186/medium_jpg/praksis-int-foyer.jpg?1622096152"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962347/house-huy-made-architects",
+          "author": "Andreas Luco",
+          "description": "An existing terraced house in the middle of Antwerp, without elements of historic value but with perfect orientation, was replaced by MADE architects with a cost-and energy-efficient, robust and sustainable new house, built to last. Challenge ahead was to create a spacious and light environment, where transparency and interaction between inner and outer spaces occur.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/WQ01Aa4DVI0/house-huy-made-architects",
+          "publishedOn": "2021-05-27T10:00:00.000Z",
+          "wordCount": 1112,
+          "title": "House Huy / MADE architects",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ad/e028/cfea/4e01/6574/0b9d/medium_jpg/fi-made-huy-tim-van-de-velde-001.jpg?1622007867"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962420/jaime-lerner-influential-brazilian-urbanist-passes-away-at-83",
+          "author": "Equipe ArchDaily Brasil",
+          "description": "The prominent Brazilian urbanist Jaime Lerner has passed away this Thursday, May 27, at the age of 83. Trained as an architect, Lerner was chosen by the American magazine Planetizen as the second most influential urban planner of all time, only behind Jane Jacobs. In addition to his career linked to architecture and urban planning, Lerner was three times mayor of Curitiba and twice governor of Paraná (1995-1998 and 1999-2002). Lerner graduated in Architecture in 1964 from the Federal University of Paraná (UFPR) and worked at the Curitiba Institute for Research and Urbanism (Ippuc) since its creation in 1965.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/basvROwoxgg/jaime-lerner-influential-brazilian-urbanist-passes-away-at-83",
+          "publishedOn": "2021-05-27T08:39:00.000Z",
+          "wordCount": 799,
+          "title": "Jaime Lerner, Influential Brazilian Urbanist Passes Away At 83",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60af/89a4/ae1c/b201/6506/1faa/medium_jpg/rioacademy-jaime-lerner.jpg?1622116778"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/942212/urban-visions-how-india-is-shaping-the-future-of-housing",
+          "author": "Eric Baldwin",
+          "description": "India is rethinking the future of housing through new typologies. Defined by historical and cultural influences, the country's contemporary architecture centers on discussions of how best to modernize. Built over millennia, India's housing projects are made to address diverse scales, programs and functions. Exploring a revitalized urban landscape, these modern housing projects have begun to set a new tone for the future.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/_CnczFRU2f8/urban-visions-how-india-is-shaping-the-future-of-housing",
+          "publishedOn": "2021-05-27T07:30:00.000Z",
+          "wordCount": 1219,
+          "title": "Urban Visions: How India is Shaping the Future of Housing",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/5ef1/4309/b357/658c/7f00/048a/medium_jpg/Yash_Parekh_-_Panchkon.jpg?1592869630"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962413/the-bahrain-pavilion-at-the-2021-venice-biennale-unifies-the-regenerative-initiatives-of-muharraq-city",
+          "author": "Dima Stouhi",
+          "description": "Titled \"In Muharraq\", the Bahrain Pavilion at the 17th International Architecture Exhibition - La Biennale di Venezia, explores the city's architectural and urban heritage, regeneration, and conservation. Curated by Noura Al Sayeh and Ghassan Chemali, the pavilion will be on display at the Arsenale from May 22nd until November 21st, 2021.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/1GGaLgDPCAA/the-bahrain-pavilion-at-the-2021-venice-biennale-unifies-the-regenerative-initiatives-of-muharraq-city",
+          "publishedOn": "2021-05-27T06:30:00.000Z",
+          "wordCount": 905,
+          "title": "The Bahrain Pavilion at the 2021 Venice Biennale Unifies the Regenerative Initiatives of Muharraq City",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60af/3884/f91c/81f6/2800/0164/medium_jpg/IMG_7095.jpg?1622095981"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962384/atelier-alice-trepp-mino-caggiula-architects",
+          "author": "Paula Pintos",
+          "description": "Artist Alice Trepp models sculpture with her hands, immortalizing moments in time. Artists work on their subjects while architects get people to live inside what they build. The Trepp Atelier was developed for a person but also for a place. Designing an Atelier to mirror the thought and philosophy of an artist has long fascinated generations of artists and the architects charged with the task.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/_G7UuGPoWFs/atelier-alice-trepp-mino-caggiula-architects",
+          "publishedOn": "2021-05-27T06:00:00.000Z",
+          "wordCount": 970,
+          "title": "Atelier Alice Trepp  / Mino Caggiula Architects",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ae/913a/f91c/81f6/2800/00d4/medium_jpg/02.jpg?1622053145"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962388/new-york-expands-activities-across-the-streetscape-with-open-boulevards-initiative",
+          "author": "Andreea Cutieru",
+          "description": "Earlier this month, New York City Mayor Bill de Blasio announced the launch of the Open Boulevards program, an initiative that would temporarily close off car traffic on boulevard segments across several blocks, expanding the public space for dining, cultural activities and artistic performances. The project builds on the successful initiatives Open streets and Open Restaurants, which transformed the city’s streetscape to better serve diners, cyclists and pedestrians amidst the pandemic.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/M59cfCKAvko/new-york-expands-activities-across-the-streetscape-with-open-boulevards-initiative",
+          "publishedOn": "2021-05-27T05:30:00.000Z",
+          "wordCount": 932,
+          "title": "New York Expands Outdoor Activities with Open Boulevards Initiative",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ae/9768/cfea/4e01/6574/0c6a/medium_jpg/shutterstock-1680726484.jpg?1622054770"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/961333/what-is-placemaking",
+          "author": "Susanna Moreira",
+          "description": "The terms space and place are often used interchangeably, but they can mean different things depending on the context in which they are used. Placemaking shows that the creation of places transcends the material dimension and involves aspects such as sociability, uses, activities, access, connections, comfort, and image, to create bonds between people and a sense of place.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/KDYSxMNsnCo/what-is-placemaking",
+          "publishedOn": "2021-05-27T05:00:00.000Z",
+          "wordCount": 1059,
+          "title": "What Is Placemaking?",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/607e/ca39/f91c/81ce/b700/003a/medium_jpg/DSC_0932.jpg?1618922031"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/961448/sauna-construction-details-examples-of-small-scale-wooden-architecture",
+          "author": "José Tomás Franco",
+          "description": "Due to its specific characteristics, the architecture of the sauna is interesting because it gives us lessons related to efficiency and the beauty of simplicity. These are generally very basic structures with a clear function, created to contain different levels of heat and humidity. Thanks to this steam bath, people can release toxins and improve their blood circulation. In addition, they are widely used in cold climates, in close proximity to nature and utilizing the presence of water.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/CwOsHCFM0bU/sauna-construction-details-examples-of-small-scale-wooden-architecture",
+          "publishedOn": "2021-05-27T04:00:00.000Z",
+          "wordCount": 1423,
+          "title": "Sauna Construction Details: Examples of Small-Scale Wooden Architecture",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60a3/01f4/f91c/8139/a500/0074/medium_jpg/6_Sauna.jpg?1621295597"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962291/the-newest-addition-to-harvard-universitys-campus-is-a-paragon-of-sustainability",
+          "author": "James McCown",
+          "description": "The massive new hub for lab research, by Behnisch Architekten, marks a new chapter of sustainable construction and campus planning. James McCown explores in his article originally published on Metropolis, Harvard's latest addition in the Boston campus, the new Science and Engineering Complex (SEC) designed by German-based firm Behnisch Architekten and centered on sustainability and well-being.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/z6A0AANc7ao/the-newest-addition-to-harvard-universitys-campus-is-a-paragon-of-sustainability",
+          "publishedOn": "2021-05-27T03:30:00.000Z",
+          "wordCount": 1300,
+          "title": "The Newest Addition to Harvard University’s Campus Is a Paragon of Sustainability",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ac/fcbc/f4bf/0801/64c2/0c55/medium_jpg/b-01-274-harvard-10824-12-brad-feinknopf-cropped.jpg?1621949633"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962315/house-in-son-puig-ripolltizon-estudio-de-arquitectura",
+          "author": "Pilar Caballero",
+          "description": "The house is situated in a neighbourhood comprising primarily detached single-family homes. The site occupied by the house is situated at a higher elevation in relation to the rest of the residential street.  The site orientation allows for it to enjoy good views out.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/5mwTrNxo81M/house-in-son-puig-ripolltizon-estudio-de-arquitectura",
+          "publishedOn": "2021-05-27T03:00:00.000Z",
+          "wordCount": 841,
+          "title": "House in Son Puig / RipollTizon Estudio de Arquitectura",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ad/6dca/cfea/4e01/6574/0b3b/medium_jpg/sp-19.jpg?1621978587"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962377/permanent-camping-2-casey-brown-architecture",
+          "author": "Pilar Caballero",
+          "description": "Overlooking the Pacific Ocean amongst the lust green paddocks of Berry sit two tiny copper towers located on a gently rising hill. Designed to provide the essential requirements for shelter – a bed, a deck, a fireplace, and a bathroom. A retreat with everything you need, the demands of living distilled to the essentials.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/iPlOiBNwskI/permanent-camping-2-casey-brown-architecture",
+          "publishedOn": "2021-05-27T02:00:00.000Z",
+          "wordCount": 975,
+          "title": "Permanent Camping 2 / Casey Brown Architecture",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ae/6fa8/ca54/f501/64ef/6381/medium_jpg/fi-3010-wire-lane-2981.jpg?1622044595"
+          }
+        },
         {
           "id": "https://www.archdaily.com/962368/weekend-getaway-sak-designs",
           "author": "Hana Abdel",
@@ -6740,87 +7621,6 @@
           "publishedOn": "2021-04-28T14:09:00.000Z",
           "wordCount": 738,
           "title": "Documentary claims to produce \"new evidence\" on murders of Tupac and Biggie"
-        },
-        {
-          "id": "https://mixmag.net/read/5000-person-barcelona-covid-19-infections-safe-news",
-          "author": null,
-          "description": "\"There is no sign that suggests transmission took place during the event,\" said an infectious diseases specialist \nContinue reading...",
-          "link": "https://mixmag.net/read/5000-person-barcelona-covid-19-infections-safe-news",
-          "publishedOn": "2021-04-28T12:08:00.000Z",
-          "wordCount": 506,
-          "title": "“No sign” 5,000 person Barcelona concert caused COVID infections"
-        },
-        {
-          "id": "https://mixmag.net/read/glastonbury-two-day-festival-worthy-farm-2021-news",
-          "author": null,
-          "description": "Emily Eavis is aiming for the event to take place in September\nContinue reading...",
-          "link": "https://mixmag.net/read/glastonbury-two-day-festival-worthy-farm-2021-news",
-          "publishedOn": "2021-04-28T10:36:26.000Z",
-          "wordCount": 569,
-          "title": "Glastonbury organisers plan two-day festival at Worthy Farm"
-        },
-        {
-          "id": "https://mixmag.net/feature/grove-impact-interview-dj-mix",
-          "author": null,
-          "description": "Jemima Skala speaks to Grove, whose empowerment anthems will make you \"get down and dutty wine!\"\nContinue reading...",
-          "link": "https://mixmag.net/feature/grove-impact-interview-dj-mix",
-          "publishedOn": "2021-04-28T09:52:00.000Z",
-          "wordCount": 3155,
-          "title": "Grove’s radical self-expression inspires collective freedom"
-        },
-        {
-          "id": "https://mixmag.net/feature/sonos-arc-review",
-          "author": null,
-          "description": "It'll boost your dance music documentary binges too\nContinue reading...",
-          "link": "https://mixmag.net/feature/sonos-arc-review",
-          "publishedOn": "2021-04-28T05:00:00.000Z",
-          "wordCount": 607,
-          "title": "Sonos Arc takes lockdown raving in your living room to the next level"
-        },
-        {
-          "id": "https://mixmag.net/read/kanye-west-1-million-dmx-balenciaga-news",
-          "author": null,
-          "description": "The money was raised through a sold-out collaboration with Balenciaga\nContinue reading...",
-          "link": "https://mixmag.net/read/kanye-west-1-million-dmx-balenciaga-news",
-          "publishedOn": "2021-04-27T15:32:00.000Z",
-          "wordCount": 361,
-          "title": "Kanye West raises $1 million for DMX’s family"
-        },
-        {
-          "id": "https://mixmag.net/read/aiaiai-ninja-tune-recycled-headphones-news",
-          "author": null,
-          "description": "AIAIAI has teamed up with Ninja Tune to create headphones from the label's unsold vinyl\nContinue reading...",
-          "link": "https://mixmag.net/read/aiaiai-ninja-tune-recycled-headphones-news",
-          "publishedOn": "2021-04-27T15:23:28.000Z",
-          "wordCount": 589,
-          "title": "You can now buy headphones made out of recycled vinyl"
-        },
-        {
-          "id": "https://mixmag.net/read/nine-year-old-girl-dmc-world-dj-championships-news",
-          "author": null,
-          "description": "DJ Michelle is the competition's youngest ever competitor \nContinue reading...",
-          "link": "https://mixmag.net/read/nine-year-old-girl-dmc-world-dj-championships-news",
-          "publishedOn": "2021-04-27T15:13:00.000Z",
-          "wordCount": 537,
-          "title": "A nine-year-old girl has entered the DMC World DJ Championships"
-        },
-        {
-          "id": "https://mixmag.net/read/kanye-wests-yeezy-shoes-auction-news",
-          "author": null,
-          "description": "The sale is three times higher than the previous record\nContinue reading...",
-          "link": "https://mixmag.net/read/kanye-wests-yeezy-shoes-auction-news",
-          "publishedOn": "2021-04-27T14:22:57.000Z",
-          "wordCount": 525,
-          "title": "Kanye West's Yeezy shoes sell for record-breaking $1.8 million"
-        },
-        {
-          "id": "https://mixmag.net/read/denon-dj-versatile-controller-lc6000-prime-tech",
-          "author": null,
-          "description": "The LC6000 PRIME is priced at £599.99\nContinue reading...",
-          "link": "https://mixmag.net/read/denon-dj-versatile-controller-lc6000-prime-tech",
-          "publishedOn": "2021-04-27T14:00:00.000Z",
-          "wordCount": 488,
-          "title": "Denon DJ announces \"the world’s most versatile controller\""
         }
       ]
     },
@@ -6878,6 +7678,42 @@
       "feedUrl": "http://www.somewhere-magazine.com/feed/",
       "siteUrl": "http://www.somewhere-magazine.com",
       "articles": [
+        {
+          "id": "http://www.somewhere-magazine.com/?p=18104",
+          "author": "Staff",
+          "description": "It was just a matter of moments before Gucci went, like other luxury fashion labels, the NFT way. Stepping into the world of digital art, Gucci unveiled its first-ever NFT film, inspired by the recent Aria collection, which will take part in a newly-unveiled auction at Christie’s. The sale, titled PROOF OF SOVEREIGNTY: A Curated NFT Sale…",
+          "link": "http://www.somewhere-magazine.com/gucci-auctions-off-its-first-nft-film-inspired-by-aria-collection/",
+          "publishedOn": "2021-05-27T16:10:16.000Z",
+          "wordCount": 417,
+          "title": "Gucci auctions off its first NFT film inspired by Aria collection"
+        },
+        {
+          "id": "http://www.somewhere-magazine.com/?p=18101",
+          "author": "Staff",
+          "description": "American mass media company 88rising celebrated Asian Americans and Pacific Islanders Heritage Month by organizing a special Asia Rising benefit concert. Similar to the last year’s benefit livestream, the group continues to spotlight Asian voices and celebrate the community with the aim of raising funds and awareness. The lineup included Atarashii Gakko!, Audrey Mika, Audrey Nuna, Bizzy, Guapdad…",
+          "link": "http://www.somewhere-magazine.com/88rising-celebrates-aapi-heritage-month-with-asia-rising-benefit-concert/",
+          "publishedOn": "2021-05-27T16:01:57.000Z",
+          "wordCount": 368,
+          "title": "88rising celebrates AAPI Heritage Month with Asia Rising benefit concert"
+        },
+        {
+          "id": "http://www.somewhere-magazine.com/?p=18098",
+          "author": "Staff",
+          "description": "After an announcement on Wednesday, Instagram has introduced a new feature that lets you hide the number of likes on your posts. In a blog post, the social media platform said that everyone on Instagram and Facebook will now have the option to hide public like counts on their feed. “We tested hiding like counts to see if…",
+          "link": "http://www.somewhere-magazine.com/instagram-introduces-hide-like-count-feature/",
+          "publishedOn": "2021-05-27T15:52:39.000Z",
+          "wordCount": 339,
+          "title": "Instagram introduces “Hide Like Count” feature"
+        },
+        {
+          "id": "http://www.somewhere-magazine.com/?p=18092",
+          "author": "Staff",
+          "description": "Virgil Abloh has finally taken to Instagram to tease his upcoming Off-White™ x Nike collaboration. It looks like an early prototype for a shoebox, marked with circle cutouts that reveal the orange wrapping paper within. There’s an Off-White™ logo in green, haphazardly drawn Nike Swoosh and black tape along the edges. Printing on the box also highlights what is currently known as “The Fifty,” which…",
+          "link": "http://www.somewhere-magazine.com/virgil-abloh-reveals-off-white-x-nike-collection-name-and-shoebox/",
+          "publishedOn": "2021-05-27T15:42:09.000Z",
+          "wordCount": 331,
+          "title": "Virgil Abloh reveals Off-White™ x Nike collection name and shoebox"
+        },
         {
           "id": "http://www.somewhere-magazine.com/?p=18085",
           "author": "Staff",
@@ -7212,6 +8048,15 @@
       "siteUrl": "https://www.featureshoot.com",
       "articles": [
         {
+          "id": "https://www.featureshoot.com/?p=145474",
+          "author": "Ellyn Kail",
+          "description": "One in five US adults experiences mental illness each year. I happen to be one of them. At least 8.4 million Americans provide care to an adult with an emotional…\nThe post These 11 Photographers Are Challenging the Mental Health Stigma appeared first on Feature Shoot.",
+          "link": "https://www.featureshoot.com/2021/05/these-11-photographers-are-challenging-the-mental-health-stigma/",
+          "publishedOn": "2021-05-27T23:21:02.000Z",
+          "wordCount": 1594,
+          "title": "These 11 Photographers Are Challenging the Mental Health Stigma"
+        },
+        {
           "id": "https://www.featureshoot.com/?p=145416",
           "author": "Ellyn Kail",
           "description": "In 2018, the animal photojournalist Aitor Garmendia and his colleague, the undercover investigator Linas Korta, happened upon a Spanish pig farm while working on a story about slaughterhouses. When they…\nThe post A Photographer Exposes the Unbearable Cruelty of Pig Farming appeared first on Feature Shoot.",
@@ -7264,15 +8109,6 @@
           "publishedOn": "2021-05-04T03:06:23.000Z",
           "wordCount": 834,
           "title": "Inside Poland’s Military Camps for Children"
-        },
-        {
-          "id": "https://www.featureshoot.com/?p=145138",
-          "author": "Ellyn Kail",
-          "description": "In the past year, we’ve seen the photography community come together in powerful ways, from raising money for COVID-19 relief to calling for more inclusive hiring practices. Time and again,…\nThe post 5 Quick and Easy Ways Photographers Can Give Back appeared first on Feature Shoot.",
-          "link": "https://www.featureshoot.com/2021/04/5-quick-and-easy-ways-photographers-can-give-back/",
-          "publishedOn": "2021-04-28T02:35:40.000Z",
-          "wordCount": 878,
-          "title": "5 Quick and Easy Ways Photographers Can Give Back"
         }
       ]
     },
@@ -7352,15 +8188,6 @@
           "publishedOn": "2021-05-03T13:33:52.000Z",
           "wordCount": 484,
           "title": "Taylor Wessing Photographic Portrait Prize 2021"
-        },
-        {
-          "id": "https://gupmagazine.com/?p=21867",
-          "author": "Linda",
-          "description": "…\nThe post Joanna Piotrowska: Stable Vices appeared first on GUP Magazine.",
-          "link": "https://gupmagazine.com/books/joanna-piotrowska-stable-vices/",
-          "publishedOn": "2021-04-28T03:30:00.000Z",
-          "wordCount": 1061,
-          "title": "Joanna Piotrowska: Stable Vices"
         }
       ]
     },
@@ -7375,6 +8202,15 @@
       "feedUrl": "https://www.aint-bad.com/feed/",
       "siteUrl": "https://www.aint-bad.com",
       "articles": [
+        {
+          "id": "https://www.aint-bad.com/?p=244552",
+          "author": "Emerald Arguelles",
+          "description": "James Hayman is a photographer as well as a film/television director, producer, and cinematographer based in Los Angeles.  After attending The American University for photojournalism, Hayman’s first photography assignment was… Read More\nThe post In Conversation with: James Hayman appeared first on AINT—BAD.",
+          "link": "https://www.aint-bad.com/article/2021/05/27/in-conversation-with-james-hayman/",
+          "publishedOn": "2021-05-27T12:00:00.000Z",
+          "wordCount": 4439,
+          "title": "In Conversation with: James Hayman"
+        },
         {
           "id": "https://www.aint-bad.com/?p=244539",
           "author": "Emerald Arguelles",
@@ -7572,15 +8408,6 @@
           "publishedOn": "2021-04-29T12:00:00.000Z",
           "wordCount": 539,
           "title": "Sosie Almasian"
-        },
-        {
-          "id": "https://www.aint-bad.com/?p=244039",
-          "author": "Taylor Curry",
-          "description": "Tom McGahan is an UK based photographer. McGahan’s personal projects are based on our perception of places objects, the passing of time and our relationship with the land. His images… Read More\nThe post Tom McGahan appeared first on AINT—BAD.",
-          "link": "https://www.aint-bad.com/article/2021/04/28/tom-mcgahan/",
-          "publishedOn": "2021-04-28T12:00:00.000Z",
-          "wordCount": 1166,
-          "title": "Tom McGahan"
         }
       ]
     },
@@ -7784,15 +8611,6 @@
           "publishedOn": "2021-04-28T13:58:12.000Z",
           "wordCount": 1283,
           "title": "Amalia Ulman’s El Planeta"
-        },
-        {
-          "id": "https://www.criterion.com/current/posts/7371-jessica-beshir-s-faya-dayi",
-          "author": null,
-          "description": "The winner of top awards at Visions du Réel now heads to New Directors/New Films, Hot Docs, True/False, and Rotterdam.",
-          "link": "https://www.criterion.com/current/posts/7371-jessica-beshir-s-faya-dayi",
-          "publishedOn": "2021-04-27T16:02:16.000Z",
-          "wordCount": 1126,
-          "title": "Jessica Beshir’s Faya Dayi"
         }
       ]
     },
