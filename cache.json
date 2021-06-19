@@ -74,15 +74,6 @@
           "publishedOn": "2021-05-26T00:00:00.000Z",
           "wordCount": 1841,
           "title": "Epilogue"
-        },
-        {
-          "id": "https://christine.website/blog/final-chapter-2021-05-20",
-          "author": null,
-          "description": "Final Chapter\nThe last caretaker looked at the last light lit in the empty halls. They looked\nout across their home. It used to be filled with thousands of people. There were\ndiscussions about every topic imaginable from people of as many backgrounds.\nProjects were born. Relationships were forged. Friends were found. Lives were\nirreparably changed for the better.\nBut the darkness came and soaked into the foundation. Some noticed it and became\nalerted. Some ignored it as an \"inevitable\" change. Some ran away, abandoning\ntheir home of choice. Some stuck around.\nThen the darkness took over and the larger discussion rooms sprung into action.\nThe meddlers between the halls suddenly became a network of people to assist the\nother larger discussion rooms to move elsewhere. Through their careful pl…",
-          "link": "https://christine.website/blog/final-chapter-2021-05-20",
-          "publishedOn": "2021-05-20T00:00:00.000Z",
-          "wordCount": 1182,
-          "title": "Final Chapter"
         }
       ]
     },
@@ -222,6 +213,34 @@
       "siteUrl": "https://rimzy.net",
       "articles": [
         {
+          "id": "http://rimzy.net/?guid=b8d230cd415bffe694ab514c8fa4d5e5",
+          "author": "Talking Drupal Hosts",
+          "description": "Today we chat with our friend Jacob Rockowitz about the sustainability of the webform module and module maintainership sustainability in general. www.talkingdrupal.com/299 Topics   Jacob's 5th appearance John got a new job! Jason launching 6 sites this...",
+          "link": "https://sacstudio.libsyn.com/talking-drupal-299-sustainability-of-the-webform-module",
+          "publishedOn": "2021-06-18T06:25:05.000Z",
+          "wordCount": 251,
+          "title": "Talking Drupal #299 – Sustainability of the Webform Module",
+          "enclosure": {
+            "url": "https://traffic.libsyn.com/secure/sacstudio/TalkingDrupal299_libsyn.mp3?dest-id=44024",
+            "length": "52985268",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "https://www.percona.com/blog/?p=72932",
+          "author": "Kenn Takara",
+          "description": "Starting with the release of proxysql-admin 2.0.15,  the proxysql-admin 2.x series can now encrypt the credentials needed to access proxysql and cluster nodes. This only applies to the proxysql-admin configuration, this does not change the ProxySQL config, so those credentials are still unencrypted. The credentials file is the unencrypted file containing the usernames, passwords, hostnames, […]",
+          "link": "https://www.percona.com/blog/2021/06/18/proxysql-admin-2-x-encryption-of-credential-information/",
+          "publishedOn": "2021-06-18T04:34:02.000Z",
+          "wordCount": 1461,
+          "title": "ProxySQL-Admin 2.x: Encryption of Credential Information",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          }
+        },
+        {
           "id": "https://techcrunch.com/?p=2166890",
           "author": "Jordan Crook",
           "description": "CEO Shishir Mehrotra and Madrona partner S. Somasegar joined Extra Crunch Live to discuss Coda's pitch doc -- and give live feedback on pitches from the audience.",
@@ -299,6 +318,20 @@
           "publishedOn": "2021-06-17T08:00:10.000Z",
           "wordCount": 344,
           "title": "Google announces EPYC-based Tau virtual machines for Cloud",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          }
+        },
+        {
+          "id": "https://www.percona.com/blog/?p=76745",
+          "author": "Vadim Tkachenko",
+          "description": "In my talk at Percona Live 2021, “Creating Chaos in Databases”, I discussed how creating a controlled interruption in available resources (I used primary pod and network interruptions) allows us to test the stability of a database, and in our case, Percona XtraDB Cluster. I also mentioned in the talk that my testing led to diagnosing […]",
+          "link": "https://www.percona.com/blog/2021/06/17/chaos-testing-leads-to-more-stable-percona-xtradb-cluster/",
+          "publishedOn": "2021-06-17T04:56:47.000Z",
+          "wordCount": 860,
+          "title": "Chaos Testing Leads to More Stable Percona XtraDB Cluster",
           "enclosure": {
             "url": "",
             "length": "0",
@@ -456,6 +489,15 @@
       "siteUrl": "https://avc.com",
       "articles": [
         {
+          "id": "https://avc.com/?p=20258",
+          "author": "Fred Wilson",
+          "description": "My friend Kirk backed this project earlier this week and I got a notification and checked it out and backed it immediately. I like everything about this project. Finding opportunities for people with special needs to work productively and happily is such a great thing to do. Email readers can watch the video here.",
+          "link": "https://avc.com/2021/06/funding-friday-naperville-bakery/",
+          "publishedOn": "2021-06-18T13:08:05.000Z",
+          "wordCount": 91,
+          "title": "Funding Friday: Naperville Bakery"
+        },
+        {
           "id": "http://avc.com/?p=20255",
           "author": "Fred Wilson",
           "description": "For as long as I can remember, Pier 76 on the west side of Manhattan has been home to the west side tow pound. Some of my worst moments as a NYC resident have been there retrieving a car or a scooter, something I’ve done more than I want to remember. It was pure misery […]",
@@ -551,17 +593,7 @@
       "title": "Knowing and Doing",
       "feedUrl": "http://www.cs.uni.edu/~wallingf/blog/index.xml",
       "siteUrl": "http://www.cs.uni.edu/~wallingf/blog/index.html",
-      "articles": [
-        {
-          "id": "http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2021-05.html#e2021-05-19T15_07_44.htm",
-          "author": "Eugene Wallingford",
-          "description": "On teaching, via\n\n   Robert Talbert:\n\n\n Look at the course you teach most often.  If you had the power to\n remove one significant topic from that course, what would it be,\n and why?\n\n\n I have a high degree of autonomy in most of the courses I teach,\n so power isn't the limiting factor for me.  Time is a challenge\n to making big changes, of course.  Gumption is probably what I\n need most right now.  Summer is a great time for me to think\n about this, both for my compiler course this fall and programming\n languages next spring.\n\n:\n\n\n i remember back to Dana Scott's lecture on the history of the\n lambda calculus where he says, \"If Turing were alive today, I\n don't know what he'd be doing, but it wouldn't be recursive\n function theory.\" I think about that a lot.\n\n\n Now I am, too.  Seriously.  I'm no Turing, but I have a few years\n left and some energy to put into something that matters.  Doing\n so will require some gumption to make other changes in my work\n life first.  I am reaching a tipping point.",
-          "link": "http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2021-05.html#e2021-05-19T15_07_44.htm",
-          "publishedOn": "2021-05-19T20:07:44.000Z",
-          "wordCount": 466,
-          "title": "Today's Thinking Prompts, in Tweets"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Bartosz Ciechanowski",
@@ -881,6 +913,15 @@
       "siteUrl": "https://blog.est.im/",
       "articles": [
         {
+          "id": "tag:None,2021-06-19:/202106/stderr-006",
+          "author": "est",
+          "description": "人有自由意志吗？今天听刚哥 说Robert Sapolsky 的书 Behave。书中说到：\n\r\n\r\n1980 年代，神经生理学家本杰明·李贝特（Benjamin Libet）做了一个被传诵至今的经典实验。实验中受试者要做一个简单的动作，比如选择打开还是关上一个开关。科学家使用核磁共振同时观察大脑的活动，发现在受试者意识到自己选择怎么做的几百毫秒甚至几秒之前，他的大脑其实已经做出了选择。\n\r\n这个实验似乎证明了人没有自由意志，你的意识只是听大脑的。但是萨波斯基介绍，李贝特本人对这个现象有个更高级的说法。李贝特说，是，你没有决定往哪边按下开关的自由意志 —— 但是，当你的大脑已经做出选择之后，到你切实按下开关之前的那半秒钟之内，你的意识可以决定不按那个开关。你有最后一刻的否决权。\n\r\n对我来说这是非常惊人的知识，这叫“自由非意志（Free Won't）”。这是一个充满争议的解释，有很多实验研究，有的同意有的反对。\n\r\n但不论如何，我们姑且认为人真的有否决权，那我们要问的是，这个否决权，又是啥东西呢？那个否决权只可能是生物因素，而你不能说因为现在脑神经科学家还没有达成共识，所以人还是有自由意志的。萨波斯基承认，脑神经科学仍然在发展之中 …",
+          "link": "https://blog.est.im/202106/stderr-006",
+          "publishedOn": "2021-06-19T00:13:16.000Z",
+          "wordCount": 99,
+          "title": "自由意志"
+        },
+        {
           "id": "tag:None,2021-06-14:/202106/stderr-005",
           "author": "est",
           "description": "Clarkson's Farm 居然是我对现代机械化农业第一个入门的片子。乱写一些\n\r\n\r\n兰博基尼的拖拉机真是 nb。40个前进档，40个后退档\n\r\n第一集没太明白，为啥必须一定先耕地再播种？直接雇佣另外一个人跟着耕过的地马上播种不就行了么\n\r\n下雨的时候应该也能耕地吧。国内很多种水稻的田都是蓄水后再耕地。据长辈们说比旱地更容易。可能是怕拖拉机陷进泥浆？\n\r\n拖拉机耕田弯弯曲曲的问题，应该可以通过LIDAR +　SLAM 解决？四轴无人机来个小区域精确导航？\n\r\n那个 S 形状来回耕田的确不好调头，但是为什么不走 回 字形状画圆圈呢？\n\r\n无人驾驶拖拉机耕田是不是下一个趋势？\n\r\n那个公羊的 ball 是真的大！平均30-40cm 我日\n\r\n把母羊搞怀孕还打个标记。。。这脑洞发明啊。。\n\r\n那个很辣很贵的 wasabi，查了下，本来是 山葵，被误翻译成 芥末 了。。。\n\r\n感觉如果有一个 app 能够根据输入的参数，预估完成剩下的任务所需要的时间和最优解就好了。。特别是需要根据不规则面积做计算的\n\r\n农业真是看天吃饭。土豆收上来说变质就变质。。。\n\r\n原来 …",
@@ -923,6 +964,186 @@
       "feedUrl": "https://www.gcores.com/rss",
       "siteUrl": "https://www.gcores.com",
       "articles": [
+        {
+          "id": "https://www.gcores.com/articles/138342",
+          "author": "游信",
+          "description": "作者：游信编辑  lan（本文首发于公众号：三五七游戏网）\n《最后的咒语》是一款兼具回合制战棋、基地建设和Roguelite随机元素的策略RPG游戏。玩家需要通过塔防、战棋等形式守护基地内的法师，让其完成“最后的咒语”，给早已灭亡的世界创造出最后的希望。\n\n\n\n无法避免的高门槛\n《最后的咒语》是一款典型上来就把难度拉满的游戏。首次进入游戏时，游戏几乎只提供给玩家1%的内容（真的只有1%），而敌人则是全副武装。在撑过第一个夜晚后你可能还心有余力，但要不了多久你就会发现敌我数量差距、强度差距不是简单的操作可以弥补的。\n\n\n实际上在解锁到一定量的内容以前，游戏是绝对无法通关的，但这并非是制作组特意拉长游戏时间，实际上“需要不断走死胡同”来解锁奖励的方式是游戏模式的必然。\n本作目前只有一个大关卡，玩家需要在这座世界上最后的城镇内给房屋添砖加瓦、给英雄招兵买马，并在不断增强的敌人围攻下坚持12个夜晚。通常情况下每次完整的游戏都在6~8小时左右，这在Roguelite游戏中也是极为少见的长，因此游戏采用了“前期必不可能过”的形式来压缩早期摸门路时的每局时间。通常来说前3局游戏的游玩都是以解锁奖励为目的，这个过程可能会花费10小时左右——你会在筋疲力尽中死去，但你的死亡不断增强了成功的可能。\n\n\n《最后的咒语》提供了两种方式解锁更多内容，一种是通过每关杀怪掉落的“污秽精华”主动解锁黑暗女神的奖励，另一种则需要在游玩过程中达成某个成就来解锁光明女神的奖励。目前两者解锁内容共计136种，并且许多解锁项都能极大的提高玩家强度，例如简单粗暴的增加每个英雄的行动点，或是解锁更多武器技能，都造就了本作越玩越简单的特点。\n\n\n但游戏的前期与其说难度高，不如说需要一个正确的游玩方向。在早期十分推荐先打开简单模式的所有选项，撑到第五个夜晚结束后，便能解锁酒馆建筑来招募更多的英雄，至此才给攻关提供了可能。\n…",
+          "link": "https://www.gcores.com/articles/138342",
+          "publishedOn": "2021-06-19T00:00:00.000Z",
+          "wordCount": 43,
+          "title": "《最后的咒语》EA版评测：跨过这道坎，剩下的全是爽"
+        },
+        {
+          "id": "https://www.gcores.com/radios/138376",
+          "author": "Hardy",
+          "description": "本期时间轴制作：脆脆\n端午长假，我们前往上海参加了国内规模最大也是最专业的手办模型展「Wonder Festival2021 上海」。在现场除了近距离欣赏了许多新品模型外，还与诸多独立工作室和原型师们交流了一番。本期节目，我们就来谈一谈这次参加活动的所见所闻，如果你也有所感想，欢迎在评论区留言！",
+          "link": "https://www.gcores.com/radios/138376",
+          "publishedOn": "2021-06-18T15:00:00.000Z",
+          "wordCount": 35,
+          "title": "WF上海见闻！模界村Vol.6"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138190",
+          "author": "AngeticalBiz",
+          "description": "声音在太空中消逝，\n霞光变得昏暗。\n永远沉默的世界里\n只有你和我交谈……\n\n——阿赫玛托娃\n夜之城所忘却的比它所铭记的还要更多。\n这颗西海岸的闪耀尘埃爱的是谋杀在霓虹冠冕溅出的温暖血色；爱的是诡计吐出气息挑动雾织面纱，节律宛如潮汐浸泡的心跳；爱的是数不清的人与物在毗邻深渊处扭转身躯，献上支足抵刀尖的求欢之舞，只为博取它一时一刻的青眼相加。然后，这些胜出者，这些最顶尖的投资掮客、中间人、黑客、独狼、街头小子，会像被引领到婚床前的新娘那样羞红着脸庞，等待荣耀时刻毫无保留地从天而降，甜腻芬芳的丝绒糖霜一同飘然坠落。没有人再见过他们，只余下几个代号、一段传说，灿烂但不体面的故事随酸雨流遍每条陋巷，如同鮟鱇的诱饵，吸引着骨头太过细弱的小鱼步入光亮也步入消亡。\n不论如何，死在百余年前的俄国诗人与一位不入流的超梦演员都注定无法成为上述图景的一部分，而这个道理，艾斯黛拉在她十九岁那年才学到——从54台那儿。彼时她刚刚完成一段广告片的拍摄，如今回想起来，其规格简陋得让人不忍言表：仅有一下午的拍摄期，外景拿廉价特效蒙混充数，而导演也是个从商业片一路滑落到影碟市场的失意者，才华日益消退，脾气不断增长。可即便如此，为了在深夜广告里出镜的十五秒，她还是要与其他二十个绝望程度相当的年轻姑娘拼死相争。\n时隔许久，她依然无法得知自己究竟因何脱颖而出。夜之城不缺漂亮脸蛋，而一整年的表演艺术夜校对此似乎也没太多积极影响。她唯一得到的线索来自片场助理，“考虑到主题是有机食品，我们当然也想找个看不出植入物疤痕的模特。如果下巴垫得再不着痕迹些，那就更好了。这么一来，你可能是最符合条件的应聘者了。”\n她非常清楚地记得对方耸了耸肩，暗示自己不打算对这番论断负责，紧接着把视线移回手机屏幕，全神贯注地盯着几组交叠爬升的彩色光带。每一道光带都与某件投入信息流的爆炸新闻相关联，从其高度，可以一窥它激起的浪涌。\n“你叫艾斯黛拉·…",
+          "link": "https://www.gcores.com/articles/138190",
+          "publishedOn": "2021-06-18T13:00:00.000Z",
+          "wordCount": 68,
+          "title": "轻科幻丨夜城时光机"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138370",
+          "author": "Hardy",
+          "description": "大家好，下周节目如图所示！微软贝塞斯达的E3发布会刚刚结束，办公室机核众在看了《星空》的预告片后甚是欣喜，难以抑制住对这款游戏的喜爱之情，故速度录了一期电台节目来表达爱意，希望同样喜欢本作的听众们可以喜欢。另外，大尉老师的《小舰巨炮》系列节目来到了完结篇，军武爱好者一定不要错过。周六会照常更新《机核人间观察》，为了防止剧透真的不能说太多，看就完事了！而周末自然还是惯例的新闻时间，下周轮到了《天天ACG》的档期，而游戏新闻类节目也照常如期上线。\n有声书方面，内容也依然丰富，排期如下：\n下周二22:00 有声书《你一生的故事》上线\n下周四22:00有声书《猎魔人 卷七：湖中女士》更新\n下周六22:00有声书《雪崩》更新\n下周日22:00有声书战锤·荷鲁斯之乱系列《荷鲁斯崛起》更新\n\n\n大家可下载 机核 App 的最新版本（ 2.14.0 以上）使用新增的节目预告功能，预先将喜欢的电台节目加入系统日历提醒中，方便第一时间提醒收听电台节目。\n\n(节目预告功能由电台页右上角的日历图标入口进入)",
+          "link": "https://www.gcores.com/articles/138370",
+          "publishedOn": "2021-06-18T12:17:42.000Z",
+          "wordCount": 61,
+          "title": "下周节目预告6.21~6.27"
+        },
+        {
+          "id": "https://www.gcores.com/videos/138369",
+          "author": "ARNwing",
+          "description": "刚刚结束了一场激烈的战斗，就在众人想要救助五十铃二七时，却突然发现她毫发无伤。为了找到这桩怪异事件的答案，主角一行人打算向饭店询问有关幽灵服务员的线索，但对方给出的回答，却让他们陷入了更加危险的深渊。请听本期《机核人间观察》第八集：劫后余生，越来越懵。 \n我们也同时制作了本期节目的电台版本，想以电台的形式享受这个跑团故事的朋友们请点击下方的链接跳转： \n\n<《机核人间观察》第八集：劫后余生，越来越懵>\n\n另外，《克苏鲁的呼唤：入门套装》官方中文版现已上架机核铺，如果你也想亲自尝试COC跑团，请千万不要错过： \n\n<机核丨《克苏鲁的呼唤：入门套装》官方中文版 乐博睿>",
+          "link": "https://www.gcores.com/videos/138369",
+          "publishedOn": "2021-06-18T12:02:10.000Z",
+          "wordCount": 36,
+          "title": "COC跑团故事丨《机核人间观察》第八集：劫后余生，越来越懵"
+        },
+        {
+          "id": "https://www.gcores.com/radios/138368",
+          "author": "Hardy",
+          "description": "本期时间轴制作：NoHappyEnding\n注：因E3期间节目工作量所致，时间轴组内成员消耗较大，本期时间轴尽快补完，恳请各位谅解！\n刚刚结束了一场激烈的战斗，就在众人想要救助五十铃二七时，却突然发现她毫发无伤。为了找到这桩怪异事件的答案，主角一行人打算向饭店询问有关幽灵服务员的线索，但对方给出的回答，却让他们陷入了更加危险的深渊。请听本期《机核人间观察》第八集：劫后余生，越来越懵。",
+          "link": "https://www.gcores.com/radios/138368",
+          "publishedOn": "2021-06-18T12:00:00.000Z",
+          "wordCount": 33,
+          "title": "《机核人间观察》第八集：劫后余生，越来越懵"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138309",
+          "author": "Kazuya",
+          "description": "继上周五开发者日志Vol.5展出了【渗透者】与【入侵者】第一波商品共8名角色的彩模造型之后，本周的开发者日志为大家带来重大发表！那就是，公认锤圈大佬源质下巴加盟本系列担当预热背景故事与人物角色小传的编撰！先让我们来看看下巴的加盟视频吧！\n\n\n<内嵌内容，请到原网页查看>\n\n事不宜迟！让我们同步带来源质下巴为JoyToy产品系列撰写好之后，经过Games Workshop监修通过官方承认的预热背景故事吧：\n警戒星战役\n早在阿巴顿挥下魔剑之前，警戒星就已经陷入连绵恶战，战火在七大巢都节区同时燃起，而在战帅的大军踏上这片土地之后，情况就更是急转直下。警戒星元老院被迫将残余军力从多个帝国控制区域中撤出，混沌星际战士叛军、亚空间恶魔、兽人入侵者、黑暗灵族海盗与基因窃取者教团在人类的土地上对彼此开战，这个关键世界的局势危如累卵，行将崩溃。\n极限战士的欧克塔维奥小队与罗穆洛小队曾经分别受命，在死林节区深处对抗进行渗透破坏的血斧兽人特战小子，而当战局突变时，他们接到了极限战士战团长卡尔加的新命令：探查出死林节区统治者藏匿的位置。这座秘密要塞中保管着六枚状况完好的死亡直击导弹，这些末日武器的威力足以撕裂现实，在即将到来的决战中会成为破局关键。警戒星总督的血亲兄弟统治着死林节区，这名腐败贵族拒绝合作，但在整个世界的存亡关头，他的个人意见已经不再重要了。\n两支先锋小队在此前的战斗中都遭受了损失，现在渗透者小队和入侵者小队进行了临时合并，这八名原铸星际战士必须踏入被混沌恶魔与暴徒蹂躏的节区中心，穿越半座已经被帝国军队放弃的巢城，他们的行动将永远改变整个警戒星战区的命运。\n源质下巴为大家带来基于警戒星战役的预热背景故事，大家觉得观感如何？我个人非常期待封存在每一位角色商品中人物卡片中的人设，以及对应的剧情！\n官图上线\n此外JoyToy今天也同步放出了两张最新的官方商品图片，以便大家更完整的领略商品角色的带来的魅力：\n\n\n\n\n值得一说的是，该组官图是经过GW监修过后才能放出来的照片，理应是非常接近大货的真实样貌了。正如本周公布的视频所指，近期应该官方会开启正式的预售节点，请喜爱本系列商品的朋友们持续关注啦。\n让我们一期来期待下周的开发者日志吧！",
+          "link": "https://www.gcores.com/articles/138309",
+          "publishedOn": "2021-06-18T11:15:00.000Z",
+          "wordCount": 55,
+          "title": "源质下巴加盟！担当JOYTOY版战锤40K产品背景故事与人物小传编剧！"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138346",
+          "author": "名侦探老张",
+          "description": "由彼得·杰克逊打造的披头士乐队全新纪录片《披头士乐队：回归》（The Beatles: Get Back）终于定档，将于今年11月上线 Disney+ 流媒体平台。\n该纪录片由60多小时未公布的视频素材、150多小时未公开的音频素材汇编而成，记录了披头士如何录制出经典专辑《Let It Be》（原名为《Get Back》）的全过程。\n\n\n\n\n1970年5月8日，《Let It Be》专辑发行，而当时乐队刚分崩离析。而此次纪录片还将收录披头士那场著名的演出——在伦敦萨维尔街苹果唱片公司总部旧址屋顶上的表演。\n\n\n\n\n<内嵌内容，请到原网页查看>\n(彼得·杰克逊制作花絮)\n在此次的披头士纪录片中，杰克逊将延用纪录片《他们已不再变老》中的影像复原技术来处理这些视频。乐队成员保罗·麦卡特尼、林戈·斯塔尔以及小野洋子、奥利维亚·哈里森两位乐队成员遗孀也参与了这次合作。麦卡特尼说：“我真的很高兴彼得深入我们的档案，制作了一部展示披头士乐队录制专辑真实历史的电影。”\n《披头士乐队：回归》将分为三部分，每部长约两小时，分别将于今年11月25日、26日和27日上线流媒体 Disney+ 流媒体平台，敬请期待。\n\n(《披头士乐队：回归》海报)",
+          "link": "https://www.gcores.com/articles/138346",
+          "publishedOn": "2021-06-18T10:51:00.000Z",
+          "wordCount": 68,
+          "title": "彼得·杰克逊执导纪录片《披头士乐队：回归》将于今年11月登录Disney+"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138343",
+          "author": "名侦探老张",
+          "description": "威尼斯电影节组委会宣布，科幻动作电影《沙丘》入选本届电影节非竞赛单元，将于9月3日举行世界首映。\n本片由《银翼杀手2049》导演丹尼斯·维伦纽瓦执导，蒂莫西 · 柴勒梅德、丽贝卡 · 弗格森、奥斯卡 · 伊萨克、乔什 · 布洛林、赞达亚、杰森 · 莫玛、哈维尔 · 巴登、张震等主演。\n\n\n\n\n\n\n《沙丘》电影改编自法兰克·赫伯特于1965年所著的英文同名科幻小说。这部即将上映的《沙丘》，剧情将主要涵盖小说的前半部分内容。\n\n\n\n\n《沙丘》讲述天赋异禀的少年保罗·厄崔迪被命运指引，为了保卫自己的家族和人民，决心前往浩瀚宇宙间最危险的星球，开启一场惊心动魄的冒险。与此同时，各路势力为了抢夺这颗星球上一种能够释放人类最大潜力的珍贵资源而纷纷加入战场。最终，唯有那些能够战胜内心恐惧的人才能生存下去。\n该片预计将于9月15日起陆续登陆全球院线，并将于10月1日登陆北美院线，期待内地早日定档。\n\n(《沙丘》海报)",
+          "link": "https://www.gcores.com/articles/138343",
+          "publishedOn": "2021-06-18T10:41:00.000Z",
+          "wordCount": 67,
+          "title": "年度期待！《沙丘》将在威尼斯电影节举行世界首映"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138183",
+          "author": "西米恩说",
+          "description": "战斗机\n在《武装突袭3》早期，游戏中是没有战斗机的，本身这也不是个空战游戏。但是随着喷气机DLC的推出，游戏也引入了舰载战斗机和一个空战任务。这个DLC本身没多大分量，就，挺像是拆出来卖的坑货。不说废话，先来介绍一下游戏中这几种造型极其怪异的战斗机吧。\n游戏中一共有三种战斗机：北约的F/A-181、阿尔蒂斯的A-149和广盟的To-201，都是相当混搭的造型。先说说F/A-181，这是一架双发的舰载战斗机，从这个名字上可以看出它的原型就是F/A-18，然而它相比之下采用了大量的隐形设计，整体的硬朗直线风格又很像F-22。当然我们都知道F-22不是舰载机，现实中服役的隐形舰载机只有F-35C，这么说来F/A-18、F-22和F-35C都可以看作是F/A-181的原型，这也真够可以的。\n\n\n(隐形模式下的F/A-181)(机翼下可以挂载空空和空地导弹)(处于机身侧舱内的空空导弹)(位于机头雷达上方的机炮，和F/A-18很像)(挂满武器的F/A-181正在起飞)(原型之一，F-22)(原型之二，F-35C)(原型之三，F/A-18)\n\n再来看看广盟的To-201，和F/A-181一样，它也是隐形战机。To-201的机动性要比F/A-181更强，相应的是它的载弹量更少，只不过它的混搭风格甚至比F/A-181还要夸张。它机身下方两侧的进气口，两个尾喷口之间的探测器，略微低头的雷达舱说明它延续着“侧卫”家族的基因，尤其是后期的苏-35M。但是现实中的苏-57/T-50才是真正在延续“侧卫”家族的同时还具有隐形能力的战机，而这个To-201……姑且认为是基于苏-35，适当参考了苏-57的设计吧。\n\n\n(六角迷彩的To-201)(位于机身侧面的30mmGsh机炮)(挂载于翼下的R-77导弹)(飞行中的To-201)(飞行中的苏-35)(飞行中的苏-57)\n\n最后是阿尔蒂斯的A-149，这个…",
+          "link": "https://www.gcores.com/articles/138183",
+          "publishedOn": "2021-06-18T10:00:00.000Z",
+          "wordCount": 88,
+          "title": "提前来到2035：盘点《武装突袭3》的军事装备（空海装备篇）"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138364",
+          "author": "yn27",
+          "description": "HotToys 于近日公布了为即将上映的电影《黑寡妇》制作的两款 1：6 可动人偶新品——主角「黑寡妇」及剧中反派「模仿大师」。\n\n\n\n\n这次的黑寡妇身着全新的白色雪地战衣，同时采用了单侧麻花辫的长发造型。实物约高 28 cm，使用了具有 28 个可动关节的素体，但配件不算多。\n配件列表：\n\n10 只可替换戴手掌\n1 对武棍 (备有可动关节功能)\n3 款可替换棍头 (正常丶电击与刀头形态)\n3 把手枪\n1 个可装置两把短棍武器手柄战术背包 (背包不可拆除)\n1 个《黑寡妇》主题地台连电影logo及角色名牌\n\n\n\n\n\n\n而这次推出的「模仿大师」实物约高 30.5 cm，并使用了多达 30 个关节的素体，配件数量基本与黑寡妇相同。\n配件列表：\n\n7 只可替换戴手套手掌\n1 把弓\n3 枝独立箭及三种不同款色可替换箭头\n1 把剑\n1 个圆盾\n1 个特别设计《黑寡妇》主题地台连电影logo及角色名牌\n\n\n\n\n\n\n两款产品将于近日在机核铺开订，喜欢的朋友不妨留意下站内或者微博@机核铺 的开订信息。",
+          "link": "https://www.gcores.com/articles/138364",
+          "publishedOn": "2021-06-18T09:32:21.000Z",
+          "wordCount": 91,
+          "title": "电影未上模玩先行，HotToys 释出两款《黑寡妇》1：6 可动人偶新品"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138353",
+          "author": "YT17",
+          "description": "《战地风云 2042》设计总监 Daniel Berlin 于日前接受了 Epic 游戏商城的采访，开发者揭晓了就这款《战地风云》系列有史以来规模最大游戏的开发、设计、各种灵感的详情，同时还确认预告中有玩家未发现的彩蛋，要点如下：\n\n\n<内嵌内容，请到原网页查看>\n\nDaniel Berlin 表示，游玩预告片中的确有些东西是他们尚未揭晓的。他个人期待看到玩家社群通过分析预告片的每一帧，对预告片进行剖析。有鉴于全新的地图以及128名玩家同台竞技， 所以工作室也必须使用全新的方式进行关卡设计。\n\n\n其内部,他们将这种方式叫做群集（Clustering）——先打造出地图上那些格外具有特色的、充满了各种资源和物品资源的区域，比如在体育馆这张地图上，整个馆内有多个要点需要占领，而要彻底占领体育馆，玩家就需要通过战斗，打穿好几个这样的战略要点，而这种方式实际上是基于前作的经验。\n\n\nDaniel Berlin 指出，从始至终，团队一直追求的都是沙盒化。沙盒化一直是《战地》的核心 DNA 的核心部分。本作是一款沙盒射击游戏，为了向玩家提供这些巨大的游玩空间，开发者要用到手头各种不同的工具，而现在拜最新的科技所赐，这些工具也进行了现代化的更新。\n\n\n当将这些要素全部融入同一个巨大战场时，《战地风云》的特色就奠定了。比如，战场上有一队步兵在移动，但同时也会有坦克，天上有喷气机，还有直升飞机。当这些用全新科技翻新的要素与巨大的地图互相结合时，它们就会相互交融，并创造出一种玩起来符合《战地风云》系列游戏风格的游玩体验。  \n值得一提的是，虽然没有单人游玩的战役，开发团队将仍旧通过在线服务，为大家呈现一个引人入胜的故事，我们将通过逐步推出的各类专家来向大家展现这个不断进化的世界中的故事。哪怕玩家只想单人游玩，也能通过和 AI 士兵对战进行体验。当然，同时也可以和朋友以及 AI 一起对战 AI。\n \n\n\n关于反作弊，Daniel Berlin 则强调称，让玩家们享受无骚扰，无作弊的游戏体验对他们至关重要。在 EA 内部有一个名叫 Positive Play 的系统，而《战地风云 2042》也将加入这个系统。工作室也将于未来提供有关于诸如跨平台游玩之类的更多信息。 \n在谈到打造这个未来和真实性兼备的浸入式体验时，Daniel Berlin 指出他们设定舞台和这些要点简直是严丝合缝，不管是从时间，还是名称的角度来说均是如此。然而他们同时还想打造一个我们的特种兵们能够存在，并具有有趣的背景故事的世界。他们还想将这个动态的世界的潜能发挥到极限，做一些离经叛道的事情，比如，彻底摒弃创意限制，跳出固化的思维。",
+          "link": "https://www.gcores.com/articles/138353",
+          "publishedOn": "2021-06-18T07:30:00.000Z",
+          "wordCount": 93,
+          "title": "《战地风云 2042》设计总监Daniel Berlin接受问答访谈，确认加强反作弊"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138359",
+          "author": "YT17",
+          "description": "《美国式家长》是一款由《中国式家长》团队正版授权、波兰独立游戏开发团队 Vile Monarch 开发的模拟养成游戏，此前也曾在核聚变上提供试玩。故事方面，本作由《奇异人生》系列主笔 Christian Divine、《奇异人生》漫画编剧 Emma Vieceli 和《无主之地：传奇》编剧 Matthew Ritter 执笔。随着游戏参加 Steam 游戏节，玩家现可免费体验中文试玩版。\n\n\n<内嵌内容，请到原网页查看>\n\n生长在典型中产阶级家庭的你，或在班上努力学习，或在同学间叱咤风云，或踊跃参与课后活动，磨练技能，但是不要忘了你的终极目标——SAT考试。也许SAT没高考那么重要，不过它亦是你人生的分水岭。\n\n\n从你睁开眼睛的刹那，到你完成高中学业，你的生活越来越充盈：新技能、新课程任你选择，你可以在学校里交朋友，与他们一起成长。课余生活也丰富多彩，你可以上选修课，或者边打零工边学习新技能。在你享受成长的快乐时，也别忘了父母对你的期望。\n\n\n作为回合制成长模拟游戏，《美国式家长》不仅有出色的成长系统，而且还有各式各样有趣的小游戏、多分枝多结局的故事线。这是一段由你书写的故事，是你所希望的人生。\n\n\n在本次游戏节试玩版中，玩家可以获得从出生到小学阶段的完整游戏体验。玩脑洞小游戏获得属性点，学习各种课程，参与课外活动，解锁新技能和新地点！在学校结交朋友，与他们一起成长。请记住，你的一个选择，可能改变他们的一生。生活就是这样，充满机遇与巧合。还有一点值得一提：在试玩版中，玩家可以随机解锁的故事角色和地点，因此多次游玩的过程中你或许会发现遇到了不同的伙伴，因此玩家也不妨多次游玩本作。\n\n\n<内嵌内容，请到原网页查看>",
+          "link": "https://www.gcores.com/articles/138359",
+          "publishedOn": "2021-06-18T07:29:00.000Z",
+          "wordCount": 73,
+          "title": "体验美国育儿成长故事：《美国式家长》试玩版现已在Steam上线"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138357",
+          "author": "YT17",
+          "description": "由 505 Games 发行，Ironward 开发的实时战场战术游戏《红至日2：幸存者》(Red Solstice 2: Survivors)现已在 Steam 平台正式发售。 \n\n\n<内嵌内容，请到原网页查看>\n\n作为《红色至日》系列的最新续作，《红至日2：幸存者》重新定义了实时战场战术游戏，采用了单人模式与多至8人的合作模式结合的玩法，将紧凑刺激的动作元素与步步为营的战略思考相结合。游戏融合了深度的战略玩法与实时的战斗任务，玩家需要快速反应在充满敌意的世界中生存下来并决定星球的命运。\n\n\nIronward 首席执行官 Hrvoje Horvatek 表示：“过去几年里，我们一直致力于《红至日2：幸存者》的开发，很高兴游戏终于正式发售了。我们致力于长期对《红至日2：幸存者》提供支持也很乐意倾听玩家们的意见。我们很快会发布后续开发路线图，欢迎玩家朋友们加一起加入游戏，大家能在遭遇战模式中遇见我们 Ironward 的工作人员，我们的角色会穿着特殊的执行者套装。”\n\n\n\n\n除了游戏本体之外，一同发售的还有包括官方音乐原声集、数字版美术设定集、塔纳托斯护甲皮肤在内的额外附加内容上线。\n\n\n<内嵌内容，请到原网页查看>",
+          "link": "https://www.gcores.com/articles/138357",
+          "publishedOn": "2021-06-18T07:29:00.000Z",
+          "wordCount": 76,
+          "title": "《红至日2：幸存者》现已上线Steam平台,限时特价仅需88元"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138358",
+          "author": "肖尔",
+          "description": "由Duality Games研发，心跳游戏HBG负责国区发行的《废品大亨》预计将于6月22日推出DLC“阿美利卡之梦”。将带领玩家回到《废品大亨》的世界，再次体验捡垃圾的乐趣。在新的 DLC 中我们将探索三个全新的地图，里面有大量新的物品等待出售、修复、清理和组装。当铺的自定义选项也增多了，我们可以自定义商店、车库甚至是自己的房间。\n\n\n\n\n\n\n\n\n<内嵌内容，请到原网页查看>",
+          "link": "https://www.gcores.com/articles/138358",
+          "publishedOn": "2021-06-18T07:28:53.000Z",
+          "wordCount": 57,
+          "title": "捡垃圾之旅再启《废品大亨》DLC“阿美利卡之梦”将于6月22发售"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138355",
+          "author": "日天嗷",
+          "description": "当代人们喜欢追求健康的生活方式，但在此过程中我们却很难抵挡垃圾食品的诱惑。谁都知道油炸食品不健康，但它就是可以勾引你的味蕾，让你咬下一口。Netflix之前投拍了一部美食纪录片《鲜炸香酥脆》，由Daym Drops带你走遍美国多个地区，体验特色油炸美食，同时体验当地文化。《鲜炸香酥脆》现已登陆Netflix。\n\n\n<内嵌内容，请到原网页查看>\n\n本片的主要参演者Daym Drops算是互联网时代最知名的美食评论家。2010年，Daym Drops成立了自己的频道并开始制作食品点评视频。2012年8月因一则在车上吃汉堡的视频爆红，这件事也改变了他的人生，之后他便决定以此为职业，吃遍世间美食。",
+          "link": "https://www.gcores.com/articles/138355",
+          "publishedOn": "2021-06-18T07:20:28.000Z",
+          "wordCount": 56,
+          "title": "油炸视频多来点，纪录片《鲜炸香酥脆》上线Netflix"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138354",
+          "author": "日天嗷",
+          "description": "昨晚TPC公布了《宝可梦大集结》的预告片，还放出了一支5分钟的游戏介绍视频。《宝可梦大集结》是一款5v5多人在线对战型游戏，由腾讯旗下天美工作室群负责开发。游戏计划于7月登陆NS平台，9月上线移动平台。\n\n\n<内嵌内容，请到原网页查看>\n(《宝可梦大集结》预告片)\n\n\n<内嵌内容，请到原网页查看>\n(玩法介绍)",
+          "link": "https://www.gcores.com/articles/138354",
+          "publishedOn": "2021-06-18T06:38:53.000Z",
+          "wordCount": 58,
+          "title": "《宝可梦大集结》发布新预告，上线时间公开"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138330",
+          "author": "Pixmain",
+          "description": "在当代的生活中，相比于大街小巷中唾手可得的啤酒而言，葡萄酒更多地出现在宴请以及社交场合。作为酒精饮料的一员，葡萄酒从刚刚诞生起就被当时的贵族奉为了座上宾，似乎天生就被赋予了婆罗门的光环。从古埃及留存的壁画中，我们也可以一窥当时的权贵们对于葡萄酒的喜爱。\n\n(《乌尔王军旗》，描述了5000年前苏美尔人的生活)\n在军旗的最上面一列中，我们不难看出这是群臣向君主敬酒的场景，而他们手中的酒杯中盛满的极有可能便是出自初期苏美尔原始工艺的葡萄酒，因为乌尔城（现伊拉克地区）并非葡萄酒产地，只有由两河流域进口葡萄酿制的葡萄酒才有资格登上大雅之堂。公元前2000年后，葡萄酒作为商品加入了古埃及与古希腊的贸易往来，再经由古希腊传入了整个欧洲，其中也自然包括了《酿造物语》的故事发生地，意大利。\n\n(游戏中玩家的葡萄园所在的位置，请忽略笔者的酒庄名字)\n\n(现实中位于意大利西北部的阿尔巴小镇)\n意大利人将葡萄的种植方式大体分成两类：一种是让葡萄藤依附于其他树木进行生长，而另一种则是令其依附于木桩进行生长。到了近现代后，随着农业以及科学的不断进步，让葡萄藤攀附在人工搭建的支架上成为了更为合理的选择，坚固的支架不仅能为藤蔓起到稳定的支撑作用，也能在一定程度上控制葡萄的生长趋势，让其获得的日照更为充足。如今的葡萄园也多数采取这样的种植策略，《酿造物语》中玩家的葡萄园，无疑也是如此。\n\n(玩家需要照顾到种植园的方方面面)\n在《酿造物语》这款游戏里，玩家需要扮演一位对葡萄酒一无所知的普通人，从零开始经营起属于自己的葡萄园。在一次又一次的尝试中，玩家在体验经营葡萄园乐趣的同时，也能逐步学习到葡萄酒基本的酿造过程以及围绕葡萄本身的一些知识。\n这一期，我们就从后往前，先给大伙讲一讲葡萄酒的五维和它们之间的联系。\n\n(笔者第一次酿出来的葡萄酒，好像还行？)\n\n评价葡萄酒的五个维度\n 1. 酒体 \n酒体（body）这个词第一眼读上去非常的抽象，我们可以简单地把它理解为葡萄酒的浓郁程度。要打个比方的话，汤的浓度和酒体的概念有一定相似的地方，喜欢喝牛奶的朋友也可以想象一下脱脂和全脂牛奶口感之间存在的差异。\n除酒体以外的特征都会对酒体本身造成一定程度的影响。甜度，单宁和酒精都会增加葡萄酒的酒体，而酸度则会降低酒体。\n\n\n2.甜度 \n顾名思义，甜度（sweetness）衡量的就是一瓶葡萄酒经过发酵后剩余的含糖量。\n通常来说，甜度越高的酒也越粘稠，而我们常听到的干型，甜型也与甜度有直接的联系。 从甜度从低到高排序（括号内为每升中含多少克糖）： \n\n极干型 Bone Dry（<1g/L) \n干型Dry（1~17g/L） \n半干型Off-Dry（17~35g/L） \n半甜型Medium Sweet（35~120g/L） \n甜型Sweet（>120g/L)\n\n\n3. 单宁 \n葡萄酒中最值得称道的成分就是单宁（Tannin），因为其有抑制胆固醇以及降低脂肪肝等对功效，使得人们对葡萄酒大为赞赏。当然，过量饮用葡萄酒肯定是有害的。\n单宁的特点就是它苦涩的味道，主要的来源是葡萄皮和葡萄籽，对于葡萄酒的酿造而言，它们也能起到减缓氧化以及维持葡萄酒稳定性的作用。佳丽酿酒一般是葡萄酒中涩度最低的，而最高的则是萨格兰蒂诺酒。用啤酒来作为对比的话，IPA，双倍IPA以及三倍IPA大约可以概括单宁在上述例子中的跨度。 \n\n\n4. 酸度 \n酸度（acidity）同样是一个直白的指标。首先我们要明确一个概念，没有不酸的葡萄酒，只有没那么酸的和更酸的。酸度比较低的葡萄酒品尝起来会比较甜，酒体也更加饱满。相对的，酸度较高的葡萄酒更为轻盈和苦涩许多。不恰当的酸度往往会导致葡萄酒的味道失去特点或者过于强烈，一瓶优秀的葡萄酒通常都会在酸度上取得一个较好的平衡。 \n\n\n5. 酒精 \n葡萄酒的酒精含量通常在15%左右，甜度越高的葡萄酒中酒精的含量可能越高。由于酒精的含量不好在酿造过程中精确量化，在游戏中制作方引入了“典型性”这样一个名词，用来形容玩家酿出来的酒在当地所有同类酒中具有代表性，想必他们也做了许多实地考察（指品尝大量葡萄酒）。这也从侧面评价了玩家对葡萄酒酿造的掌握程度。 \n以上就是第一期关于葡萄酒的内容啦！下一期我们会梳理一遍葡萄酒的酿造过程！对《酿造物语》感兴趣的朋友也可以去商店页面看看这款游戏是否合自己的胃口！  \n\n\n<内嵌内容，请到原网页查看>\n\n\n\n<内嵌内容，请到原网页查看>\n\n本文内容引用： \n看图学葡萄酒 - 玛德琳帕克特，贾斯汀海默克 \n葡萄酒的故事 - 休约翰逊",
+          "link": "https://www.gcores.com/articles/138330",
+          "publishedOn": "2021-06-18T06:00:00.000Z",
+          "wordCount": 74,
+          "title": "从《酿造物语》出发，简单的聊一聊葡萄酒 Vol.1"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138292",
+          "author": "腾讯游戏学院",
+          "description": "作者：binger\n原载于GWB游戏无界公众号 \n大家好，我是一名热爱第一人称射击游戏的游戏爱好者和从业者。《使命召唤》和《战地》系列是我从小便结下不解之缘的FPS类型游戏。在十多年的游戏过程中，我体验了绝大部分上述系列游戏的内容并乐在其中。而在成为游戏从业者且长时间游玩体验了EA在2016年末出品的《战地1》后，我更加憧憬从一个设计者的角度去思考如何在相应类型玩家需求的框架下，去创造和设计符合其体验的游戏内容，故而有了此浅文。可能全文内容做不到极致的夯实丰富，也可能会出现部分功夫尚显不够的考究，更别说有几率会出现的稀碎逻辑，如此种种，均望阅者能够多多包涵，如果我的抛砖引玉能够引起您的眉头紧锁，并输出多样的看法和建议，那可是最好不过的了。 \n\n\n\n1.简介\nThey push,we push,Every once in a while,we push hard enough with the light break through the clouds and the world beyond war glimmers,just out of reach。The war is the world,and the world is the war.\n\n他们前进，我们反击，有时我们战斗直到阳光穿透云层，而和平的曙光，遥不可及，战争就是这个世界，这个世界满是战争。\n相信玩过《战地1》的朋友们都知道游戏序章中出现的这段标志性的旁白。这部在2016年由EA出品的《战地》系列游戏充满了人文气息和反战思想。游戏设定在第一次世界大战时期，包含了很多新的系列元素，比如马、火焰喷射器、双翼飞机和齐柏林飞艇。\n《战地》系列向来擅于营造大战场氛围，而今天我要和诸位分享讨论的便是以《战地1》为切入点，简要分析开发商DICE是通过哪些方法实现大战场氛围的营造的。\n本文有如下若干语境前置条件： \n\n第一…",
+          "link": "https://www.gcores.com/articles/138292",
+          "publishedOn": "2021-06-18T05:00:00.000Z",
+          "wordCount": 235,
+          "title": "《战地1》是如何塑造宏大的战争氛围的？"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138335",
+          "author": "yn27",
+          "description": "伴随着春季所有的线上预选结束，GTW钢头娃春季赛也即将进入最后的线下赛阶段，全国高手即将齐聚上海进行最后的比拼，剑指春季赛冠军，之间的强强对决让人期待万分！\n本次钢头娃春季赛线下决赛阶段的活动将于 6 月 19、20 日在上海绿地缤纷城举办。\n\n\n19 日在现场将进行《街霸5》项目的线下当日预选赛，获得冠军的玩家将与之前角逐出的全国其他 7 名顶尖玩家，在第二天的决赛日一较高下，争夺最后的冠军荣誉以及丰厚的现金奖金。同时在 19 日也许还会有其他的精彩活动内容，暂时先卖个关子，相信届时会让每一位来到现场参赛的玩家都能感受到线下赛的乐趣。\n20 日的春季赛线下决赛日，GTW钢头娃春季赛《终极街霸4》和《街霸5》的最终八强赛将在现场进行最后的角逐，历经重重考验走到最后的顶尖玩家们，必将为春季赛最终的冠军头衔而努力，比赛非常精彩不容错过。\n\n\n\n\n关于 19 日为大家设定的当日预选赛，之前很遗憾没能晋级最终八强的选手，如丁春秋、胖嘉米、幻镜等具备顶尖水平的玩家也将在现场再次争夺八强的最后一席。不同于网络直播的竞技感受，线下赛紧张刺激的氛围简直无与伦比，各位游戏爱好者千万不要错过，一起享受格斗游戏电子竞技带来的快乐吧！\n\n\n线下赛地址：\n上海市徐汇区东安路562号绿地缤纷城（徐汇店）F2-201 距地铁7/12号线龙华中路地铁站6号口90米\n比赛时间：\n《街霸5》预选赛时间：6 月 19 日 13：30\n《街霸5》决赛时间：6 月 20 日 13：30",
+          "link": "https://www.gcores.com/articles/138335",
+          "publishedOn": "2021-06-18T04:00:00.000Z",
+          "wordCount": 78,
+          "title": "GTW钢头娃《街霸5》春季线下决赛一触即发，本周末即将打响！"
+        },
         {
           "id": "https://www.gcores.com/articles/138306",
           "author": "铿老椰",
@@ -1110,6 +1331,33 @@
       "feedUrl": "https://theinitium.com/newsfeed/",
       "siteUrl": "https://theinitium.com/newsfeed/",
       "articles": [
+        {
+          "id": "https://theinitium.com/article/20210618-opinion-hk-what-does-normal-journalist-means/",
+          "author": "鄭昶人",
+          "description": "當買一份《蘋果日報》也不能肯定是不是完全不會觸犯國安法。",
+          "link": "https://theinitium.com/article/20210618-opinion-hk-what-does-normal-journalist-means/",
+          "publishedOn": "2021-06-18T12:19:00.000Z",
+          "wordCount": 2,
+          "title": "何為「正常新聞」：香港《蘋果》被二度搜查，誰來定義言論自由？"
+        },
+        {
+          "id": "https://theinitium.com/article/20210618-evening-brief/",
+          "author": null,
+          "description": "2019年「721 元朗白衣人肆意襲擊市民事件」中，六名「白衣人」被控涉嫌參與暴動等罪名。 首被告王志榮今天獲判無罪，其餘五名被告被裁定參與暴動罪名成立 。法官將案件押後至下月13日及14日聽取求情，下月22日早上判刑。",
+          "link": "https://theinitium.com/article/20210618-evening-brief/",
+          "publishedOn": "2021-06-18T10:04:00.000Z",
+          "wordCount": 2,
+          "title": "晚報：「721 白衣人暴動案」首被告無罪釋放，其餘五人罪成還柙候判"
+        },
+        {
+          "id": "https://theinitium.com/article/20210618-morning-brief/",
+          "author": null,
+          "description": "美國聯邦最高法院週四以7比2駁回 了共和黨人挑戰《平價醫保法》（ACA，又稱奧巴馬醫保法）的起訴。",
+          "link": "https://theinitium.com/article/20210618-morning-brief/",
+          "publishedOn": "2021-06-18T02:56:00.000Z",
+          "wordCount": 2,
+          "title": "早報：美國最高法院駁回共和黨人挑戰平價醫保法，支持拒絕LGBT領養的教會機構"
+        },
         {
           "id": "https://theinitium.com/article/20210618-appledaily-nsl-arrest/",
           "author": "端傳媒記者 陳焯煇 實習記者 倪禮碧 何頌盈 發自香港",
@@ -1568,6 +1816,204 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/ctiny",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/ctiny",
+          "publishedOn": "2021-06-18T18:45:47.000Z",
+          "wordCount": 99,
+          "title": "Ctiny — Short link, More control"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/modern-product-management-part-3",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/modern-product-management-part-3",
+          "publishedOn": "2021-06-18T14:31:39.000Z",
+          "wordCount": 110,
+          "title": "Modern Product Management Part 3 — Data Privacy + Looking Forward"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/notion-weight-loss-tracker",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/notion-weight-loss-tracker",
+          "publishedOn": "2021-06-18T14:17:29.000Z",
+          "wordCount": 101,
+          "title": "Notion Weight Loss Tracker — Lay out the foundations of your fat loss journey in Notion"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/react-markdown-editor",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/react-markdown-editor",
+          "publishedOn": "2021-06-18T11:55:53.000Z",
+          "wordCount": 68,
+          "title": "React Markdown Editor — A simple React markdown editor with preview"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/cookie-popup-blocker",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/cookie-popup-blocker",
+          "publishedOn": "2021-06-18T11:09:10.000Z",
+          "wordCount": 100,
+          "title": "Cookie Popup Blocker — Get rid of annoying cookie popups"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/qr-code-generator-by-logaster",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/qr-code-generator-by-logaster",
+          "publishedOn": "2021-06-18T10:44:06.000Z",
+          "wordCount": 114,
+          "title": "QR Code Generator by Logaster — QR code for your business within seconds"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/aliinvoice",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/aliinvoice",
+          "publishedOn": "2021-06-18T10:28:24.000Z",
+          "wordCount": 99,
+          "title": "AliInvoice — AliExpress invoice generator with 14 high quality templates"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/haglit-2",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/haglit-2",
+          "publishedOn": "2021-06-18T10:08:07.000Z",
+          "wordCount": 106,
+          "title": "Haglit — Let customers haggle on your Shopify store"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/vitadao",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/vitadao",
+          "publishedOn": "2021-06-18T09:03:16.000Z",
+          "wordCount": 103,
+          "title": "VitaDAO — Decentralized collective funding longevity research"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/mevn-template-1",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/mevn-template-1",
+          "publishedOn": "2021-06-18T08:23:09.000Z",
+          "wordCount": 100,
+          "title": "MEVN Template — Ready-to-deploy template for ScaleDynamics platform"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/bang-2",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/bang-2",
+          "publishedOn": "2021-06-18T08:17:47.000Z",
+          "wordCount": 86,
+          "title": "Bang — Erotic audio story app for sexual wellbeing"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/say-3",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/say-3",
+          "publishedOn": "2021-06-18T07:46:38.000Z",
+          "wordCount": 99,
+          "title": "Say — The simplest social network with no images, no videos"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/copyhat",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/copyhat",
+          "publishedOn": "2021-06-18T07:00:42.000Z",
+          "wordCount": 114,
+          "title": "Copyhat — Say goodbye to boring Tinder openers with your AI wingbot"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/expensify-cash",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/expensify-cash",
+          "publishedOn": "2021-06-18T06:46:20.000Z",
+          "wordCount": 102,
+          "title": "Expensify Cash — Chat and payments in one place"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/instnt",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/instnt",
+          "publishedOn": "2021-06-18T05:40:50.000Z",
+          "wordCount": 76,
+          "title": "Instnt — Onboard online customers easily"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/dewey-3",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/dewey-3",
+          "publishedOn": "2021-06-18T05:38:22.000Z",
+          "wordCount": 98,
+          "title": "dewey. — Get the most out of your Twitter bookmarks"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/sidekicks-ai",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/sidekicks-ai",
+          "publishedOn": "2021-06-18T05:04:07.000Z",
+          "wordCount": 93,
+          "title": "Sidekicks.ai — The holographic AI companions we wished for"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/edge-2",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/edge-2",
+          "publishedOn": "2021-06-18T04:48:48.000Z",
+          "wordCount": 93,
+          "title": "EDGE — The first modular work from home kit"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/teamgogoemail",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/teamgogoemail",
+          "publishedOn": "2021-06-18T01:17:58.000Z",
+          "wordCount": 97,
+          "title": "TeamGoGoEmail — Gathering form submissions made simple"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/simply-noted",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/simply-noted",
+          "publishedOn": "2021-06-17T23:29:21.000Z",
+          "wordCount": 92,
+          "title": "Simply Noted — Send real handwritten notes to scale"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/github-open-with",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/github-open-with",
+          "publishedOn": "2021-06-17T22:24:56.000Z",
+          "wordCount": 96,
+          "title": "GitHub Open With — Chrome extension to open GitHub repositories with web IDEs"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/launchk",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/launchk",
+          "publishedOn": "2021-06-17T21:03:37.000Z",
+          "wordCount": 107,
+          "title": "launchk — Manage launchd agents and daemons from a snappy terminal UI"
+        },
+        {
           "id": "https://www.producthunt.com/posts/reel-4",
           "author": null,
           "description": "Discussion\n        |\n        Link",
@@ -1577,6 +2023,42 @@
           "title": "Reel — Easily start a savings plan for anything on the web"
         },
         {
+          "id": "https://www.producthunt.com/posts/primer-rooms",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/primer-rooms",
+          "publishedOn": "2021-06-17T18:52:45.000Z",
+          "wordCount": 94,
+          "title": "Primer Rooms — Live, interactive experiences with kids around the world"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/battlecard-2",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/battlecard-2",
+          "publishedOn": "2021-06-17T18:23:41.000Z",
+          "wordCount": 102,
+          "title": "Battlecard — Sales technology credits awarded to disruptive companies"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/interial",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/interial",
+          "publishedOn": "2021-06-17T16:56:49.000Z",
+          "wordCount": 103,
+          "title": "Interial — AI web app to enhance video frame rate making it smoother"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/layerci-slack-integration",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/layerci-slack-integration",
+          "publishedOn": "2021-06-17T16:25:51.000Z",
+          "wordCount": 113,
+          "title": "LayerCI Slack Integration — Get a Slack message with a link to every code change"
+        },
+        {
           "id": "https://www.producthunt.com/posts/podpage-2-0",
           "author": null,
           "description": "Monetization Tools\nThere’s a new “Monetization” section in your Podpage Dashboard with tons of tools to help you actually make money with your podcast and your website. This mix of in-house built and 3rd party tools should make it a lot easier for you to offer your audience ways to support you. In here you’ll find:\n\nSponsors Support: We’ve created a whole section of the dashboard, and your website, for you to show off your sponsors. This extremely-easy-to-use feature allows you to upload your sponsor info and logos and instantly you’ll see sponsor info across your website. An entirely new Sponsor page is created automagically, plus a section is added to your home page. You can even tag sponsors to show up on your episode pages. There’s a lot more coming here, but this first step should mak…",
@@ -1584,6 +2066,24 @@
           "publishedOn": "2021-06-17T15:10:00.000Z",
           "wordCount": 97,
           "title": "Podpage 2.0 — Instant podcast websites to monetize and engage listeners."
+        },
+        {
+          "id": "https://www.producthunt.com/posts/cubi",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/cubi",
+          "publishedOn": "2021-06-17T12:15:43.000Z",
+          "wordCount": 82,
+          "title": "CUBI — See your life in weeks"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/healthy-dog-food",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/healthy-dog-food",
+          "publishedOn": "2021-06-17T11:32:13.000Z",
+          "wordCount": 77,
+          "title": "Healthy Dog Food — Vet approved dog food recipes"
         },
         {
           "id": "https://www.producthunt.com/posts/jebra",
@@ -1755,6 +2255,15 @@
           "publishedOn": "2021-06-17T03:29:29.000Z",
           "wordCount": 99,
           "title": "Pearl — Create meaningful reminders to remember good things"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/notion-portfolio",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/notion-portfolio",
+          "publishedOn": "2021-06-17T03:17:13.000Z",
+          "wordCount": 99,
+          "title": "Notion Portfolio — Create a professional portfolio using Notion"
         },
         {
           "id": "https://www.producthunt.com/posts/unhedged-2",
@@ -2064,6 +2573,222 @@
       "feedUrl": "https://www.archdaily.com/feed",
       "siteUrl": "https://www.archdaily.com/",
       "articles": [
+        {
+          "id": "https://www.archdaily.com/963529/house-lincoln-those-architects",
+          "author": "Hana Abdel",
+          "description": "A mini tower addition by THOSE Architects solves the ‘move or improve?’ dilemma, turning a modest suburban bungalow into a versatile courtyard home.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/Fia-d5J9z5o/house-lincoln-those-architects",
+          "publishedOn": "2021-06-18T18:00:00.000Z",
+          "wordCount": 1039,
+          "title": "House Lincoln / Those Architects",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cb/391c/9814/5501/64f9/65d3/medium_jpg/thosearchitectouselincol08ucremond.jpg?1623931177"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963516/casa-covida-emerging-objects",
+          "author": "Valeria Silva",
+          "description": "Casa Covida, a house for co-habitation in the time of covid, is an experiment in combining 3D printing with indigenous and traditional building materials. The experimental case-study house explores new and ancient ways of living and is sited in the high alpine desert of Colorado’s historic San Luis Valley, where adobe, a combination of sand, silt, clay, water, and straw that is dried in the sun, is the traditional building material of the region.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/67GrGRRgXag/casa-covida-emerging-objects",
+          "publishedOn": "2021-06-18T16:00:00.000Z",
+          "wordCount": 1099,
+          "title": "Casa Covida / Emerging Objects",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ca/b277/f91c/8130/1500/0042/medium_jpg/210214_CasaCovida_0985.jpg?1623896645"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963377/baristas-kitchen-estudio-mineral-plus-cynthia-silva",
+          "author": "Valeria Silva",
+          "description": "In 2020, many uncertainties and reflections arose along with the process of social isolation resulting from the pandemic. We changed our habits, and most of our routines took place inside our homes. Facing such a chaotic and unstable world, the project reflects the search for feelings of coziness, protection, and human warmth. We looked back to the place of our most primordial memories to find this necessary warmth.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/cLu0g-afdDw/baristas-kitchen-estudio-mineral-plus-cynthia-silva",
+          "publishedOn": "2021-06-18T14:00:00.000Z",
+          "wordCount": 882,
+          "title": "Barista’s Kitchen / Estúdio Mineral + Cynthia Silva",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60c8/247a/f91c/81f9/1500/00b1/medium_jpg/001.jpg?1623729218"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963548/residence-g-coldefy-and-associes-architectes-urbanistes",
+          "author": "Paula Pintos",
+          "description": "The brief for Residence G was to create a countryside lifestyle in harmony with its surroundings. The starting point was the Comte de M. 19th century farm building, constructed in a U-shape around a courtyard, nestled in a fantastic natural setting surrounded by the edge of a forest, a haven of biodiversity. It is located alongside a golf course running through the forest.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/TUdTOTx6kAs/residence-g-coldefy-and-associes-architectes-urbanistes",
+          "publishedOn": "2021-06-18T12:00:00.000Z",
+          "wordCount": 924,
+          "title": "Residence G / Coldefy & Associés Architectes Urbanistes",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cb/8389/f91c/815f/6b00/0006/medium_jpg/65895-full_2845-1_65895_sc_v2com.jpg?1623950175"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963551/lugrin-school-ateliers-o-s-architectes",
+          "author": "Pilar Caballero",
+          "description": "On the border between Switzerland and France, Lugrin extends over a succession of terraces dominated by the first foothills of the Alps. Located opposite Lausanne, the town offers one of the most beautiful panoramas of Lake Geneva. Situated in the very heart of the village, behind the church and the town hall, the school group, for which this extension is considered, nestles between an independent school for girls dating from 1850 and a town hall-school building for boys from the 1950s.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/Laa1kAl12lE/lugrin-school-ateliers-o-s-architectes",
+          "publishedOn": "2021-06-18T10:00:00.000Z",
+          "wordCount": 1146,
+          "title": "Lugrin School / ateliers O-S architectes",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cb/8d19/5373/1401/64c5/05c8/medium_jpg/os-architectes-aur-e-nouene-g-colboc-wec2002-os-lugrin-1327-01.jpg?1623952698"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963574/the-architecture-of-cantilevers",
+          "author": "Diego Hernández",
+          "description": "As a design feature, cantilevers can exist for any number of reasons, as rational results of form-making, impressive feats of engineering, or just unnecessary spectacles. Either way, they often result in buildings that appear both heavy and light at the same time and they present safely precarious situations for their inhabitants. The video describes what cantilevers are as well as some of the structural principles which govern their design like tension, compression, moment, and shear. It also goes over some great examples by architects like MVRDV, Rem Koolhaas, Ensemble Studio, and Richard Rogers. Finally, it concludes with appreciation for structural engineers and lists a few of the ones responsible for some of the most daring of delicate dangles.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/0849vYO5TtE/the-architecture-of-cantilevers",
+          "publishedOn": "2021-06-18T09:30:00.000Z",
+          "wordCount": 804,
+          "title": "The Architecture of Cantilevers",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cb/ca4e/f91c/815f/6b00/005f/medium_jpg/Edmund_Sumner.jpg?1623968329"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963314/exploring-new-urbanism-principles-in-the-21st-century",
+          "author": "Kaley Overstreet",
+          "description": "The discussion around how we plan the cities we want to live in is a never-ending conversation. As our world experiences shifts that impact urban designs in both predictable and unpredictable ways, some principals have held true- that cities that rely less on private transportation, create walkable neighborhoods, boast a multitude of public parks and spaces, and are designed at a more human scale tend to be favored and well-recieved by the people who inhabit them. Enter the concept of New Urbanism. Backed by these ideologies with a modern spin on is how they might apply to our 21st-century lifestyles, New Urbanism a planning strategy that has been both praised and critiqued since its implementation.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/YQQPdOgbwmc/exploring-new-urbanism-principles-in-the-21st-century",
+          "publishedOn": "2021-06-18T07:30:00.000Z",
+          "wordCount": 1090,
+          "title": "Exploring New Urbanism Principles in the 21st Century",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60c6/836f/f91c/8194/b900/0001/medium_jpg/AIA_Dallas.jpg?1623622506"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963532/earth-house-tomohiro-hata-architect-and-associates",
+          "author": "Hana Abdel",
+          "description": "The project started with the following question from the client to the architect.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/vD0ppmIy7xE/earth-house-tomohiro-hata-architect-and-associates",
+          "publishedOn": "2021-06-18T07:00:00.000Z",
+          "wordCount": 1029,
+          "title": "Earth House / Tomohiro Hata Architect and Associates",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cb/4345/9814/5501/64f9/65f1/medium_jpg/earthhouse3.jpg?1623933774"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963611/sou-fujimoto-architects-reveals-vanishing-design-of-qianhais-new-city-center-landmark",
+          "author": "Dima Stouhi",
+          "description": "Sou Fujimoto Architects have revealed the winning design of the New City Center Landmark, a monumental floating tower on the bay of the Qianhaiwan district in Shenzhen. The proposed tower is 268m high, and consists of 99 individual tower-like elements connected a strong horizontal plane in the upper part, gradually vanishing as they descend. It is both one tower and a collection of towers all at once, symbolizing the future of societies in an age of diversity.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/Kt_zlZBfDBk/sou-fujimoto-architects-reveals-vanishing-design-of-qianhais-new-city-center-landmark",
+          "publishedOn": "2021-06-18T06:30:00.000Z",
+          "wordCount": 904,
+          "title": "Sou Fujimoto Architects Reveals Vanishing Design of Qianhai's New City Center Landmark",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cc/4e25/f91c/8142/2300/00d2/medium_jpg/Qianhai_New_City_Center_Landmark_(c)SFA_C02-Sunrise.jpg?1624002065"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963578/house-vg-estudio-blt",
+          "author": "Clara Ott",
+          "description": "¿How can we place a house on a steep hillside? This was the main challenge with the VG house project, where its functionality and its placement and construction were conditioned by the slope.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/YFNc4j-rkHE/house-vg-estudio-blt",
+          "publishedOn": "2021-06-18T06:00:00.000Z",
+          "wordCount": 909,
+          "title": "House VG / BLT Arquitectos",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cb/d0d2/5373/1401/64c5/05ef/medium_jpg/09-javier-agustin-rojas-bltarq-vg-pano0009-plus-8-low.jpg?1623970011"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963540/mvrdv-develops-a-catalogue-for-repurposing-rooftops",
+          "author": "Andreea Cutieru",
+          "description": "Highlighting an untapped spatial resource, MVRDV has recently produced a catalogue of 130 innovative ideas to make use of Rotterdam's empty flat roofs, showcasing a potential new phase in the city's development. Commissioned by the City of Rotterdam and developed together with Rotterdam Rooftop Days, the Rooftop Catalogueillustrates how reprogramming rooftops can help with issues such as land scarcity and climate change while also addressing the practical side of repurposing these spaces in terms of construction options and suitable sites.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/BWfTWonY9kM/mvrdv-develops-a-catalogue-for-repurposing-rooftops",
+          "publishedOn": "2021-06-18T05:30:00.000Z",
+          "wordCount": 983,
+          "title": "MVRDV Develops a Catalogue for Repurposing Rooftops",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cc/5135/5373/1401/64c5/067d/medium_jpg/stairs-of-kriterion-by-mvrdv-image-c-laurian-ghinitoiu.jpg?1624002874"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963534/queer-looks-on-architecture-from-challenging-identity-based-approaches-to-spatial-thinking",
+          "author": "Olivier Vallerand",
+          "description": "A growing number of theorists and practitioners have been discussing the impact of gender and race on the profession and theory of architecture. Issues linked to the relationship between the built environment, sexual orientation, and gender identity, however, remain particularly understudied, perhaps because of their relative invisibility and less clearly identifiable discriminatory consequences. Moreover, they are also completely neglected by design theory in the Francophone world. This article partially remedies the situation.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/Wuo61ZNbSpg/queer-looks-on-architecture-from-challenging-identity-based-approaches-to-spatial-thinking",
+          "publishedOn": "2021-06-18T05:00:00.000Z",
+          "wordCount": 5134,
+          "title": "Queer Looks On Architecture: From Challenging Identity-Based Approaches To Spatial Thinking",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60c2/56e5/e1fe/0f01/6557/760e/medium_jpg/fig5-leger.jpg?1623348982"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963398/design-with-digital-technology-3d-printing-opens-new-possibilities-in-china",
+          "author": "Scarlett Miao",
+          "description": "3D printing (as known as three-dimensional printing) is a type of rapid prototyping technology. It is a technology that uses powdered metal or plastic and other bondable materials to construct objects by printing layer by layer based on digital model files.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/vFsbeNWK4cY/design-with-digital-technology-3d-printing-opens-new-possibilities-in-china",
+          "publishedOn": "2021-06-18T04:00:00.000Z",
+          "wordCount": 2100,
+          "title": "Design with Digital Technology: 3D Printing Opens New Possibilities in China",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60c8/7daa/f91c/81f9/1500/0142/medium_jpg/figure15_Lim_ZHANG.jpg?1623752093"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963609/can-architecture-firms-become-truly-carbon-neutral",
+          "author": "Martin Pedersen",
+          "description": "This article was originally published on Common Edge.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/v9gV6NJ_Dl8/can-architecture-firms-become-truly-carbon-neutral",
+          "publishedOn": "2021-06-18T03:30:00.000Z",
+          "wordCount": 2388,
+          "title": "Can Architecture Firms Become Truly Carbon Neutral?",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cc/316b/f91c/815f/6b00/00cc/medium_jpg/GT_Kandeda-Miller-Hull-2200x1073.jpg?1623994720"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963558/pavilion-waldstatt-marazzi-reinhardt",
+          "author": "Pilar Caballero",
+          "description": "The exhibition pavilion of the Blumer carpentry in Waldstatt serves as a new address for both customers and internal events. As a representation of the traditional craft business, the pavilion reflects the company philosophy with its contemporary interpretation of local architectural elements. The structure is reduced to the radically necessary and connects the work, the place, and the people.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/x31YaaSaKqs/pavilion-waldstatt-marazzi-reinhardt",
+          "publishedOn": "2021-06-18T03:00:00.000Z",
+          "wordCount": 809,
+          "title": "Pavilion Waldstatt / Marazzi Reinhardt",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cb/cc8a/f91c/815f/6b00/0065/medium_jpg/mr-pavilion-04.jpg?1623968888"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963541/airbubble-playground-ecologicstudio",
+          "author": "Paula Pintos",
+          "description": "AirBubble creates a purified microclimate for children to play in, a true bubble of clean air in the centre of Warsaw (Poland). The project is located within the public green space outside of the Copernicus Science Centre (Centrum Nauki Kopernik), a site that will also host a dedicated exhibition illustrating the design innovation behind the invention of AirBubble. The playground integrates the Photo. Synthetica technology for the advanced integration of photosynthesis in the built environment.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/msmajyVzp60/airbubble-playground-ecologicstudio",
+          "publishedOn": "2021-06-18T02:00:00.000Z",
+          "wordCount": 1257,
+          "title": "AirBubble Playground  / ecoLogicStudio",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cb/5bd8/7c9d/4801/644f/be04/medium_jpg/1-airbubble-playground-ecologicstudio-c-maja-wirkus.jpg?1623940093"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963527/limloji-schemata-architects",
+          "author": "Hana Abdel",
+          "description": "This is a renovation project of the flagship store of LIM, a hair salon in Shinsaibashi, Osaka. Our client explained to us that the name \"LIM\" is derived from \"Less Is More,\" a famous quote by the modernist maestro Mies van der Rohe.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/1GY8lW4Fm_Y/limloji-schemata-architects",
+          "publishedOn": "2021-06-18T01:00:00.000Z",
+          "wordCount": 949,
+          "title": "LIM・loji Hair Salon / Schemata Architects",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cb/2dc7/9814/5501/64f9/65bc/medium_jpg/007lmsf-021-dc55241-l.jpg?1623928301"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/793889/avadh-shilpgram-archohm",
+          "author": "Cristobal Rojas",
+          "description": "The architecture of urban bazaars works on a scheme of a mélange; it seems to be the leitmotif for such programmes, introducing a kind of ride through spaces and experiences that are controlled and enhanced through architectural forms and materiality. The visual mélange produces an architectural scenario for the activity of leisure and pleasure, an indulgence in shopping as well as the feeling of partaking in actions related to craft and culture. It creates an urban scope that inserts itself within a different reality; like in an amusement park, a bubble of reality within the everyday reality of the city outside.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/x5fK4DNiv2I/avadh-shilpgram-archohm",
+          "publishedOn": "2021-06-18T00:00:00.000Z",
+          "wordCount": 1074,
+          "title": "Avadh Shilpgram  / Archohm",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/57bd/c372/e58e/ceb4/8a00/003e/medium_jpg/shilp_16.jpg?1472054125"
+          }
+        },
         {
           "id": "https://www.archdaily.com/963530/jade-building-studio-toggle",
           "author": "Hana Abdel",
@@ -3021,6 +3746,15 @@
       "siteUrl": "https://www.burnmagazine.org",
       "articles": [
         {
+          "id": "https://www.burnmagazine.org/?p=72191",
+          "author": "burn magazine",
+          "description": "Michael Naify and Simone Cosac Naify Room 32  This work is based on the alienation and disassociation stemming from a relationship that has ruptured under the strain of time while on vacation at a beach resort. The subjects are tied together intimately through bonds of time and shared life but are unable to confront their …\n  Room 32 – Michael Naify and Simone Cosac Naify Read More »",
+          "link": "https://www.burnmagazine.org/essays/2021/06/room-32-michael-naify-and-simone-cosac-naify/",
+          "publishedOn": "2021-06-18T17:46:55.000Z",
+          "wordCount": 770,
+          "title": "Room 32 – Michael Naify and Simone Cosac Naify"
+        },
+        {
           "id": "https://www.burnmagazine.org/?p=72083",
           "author": "burn magazine",
           "description": "Cai Dongdong History of Life Captured through the eyes of ordinary Chinese citizens before, during, and after the cultural revolution and curated by one of China’s most talented visual artists, “History of Life” presents a fascinating story on the determination of the human spirit. A collection of 415 restored photographs chronicling the history of modern China from the …\n  Cai Dongdong – History of Life Read More »",
@@ -3201,15 +3935,6 @@
           "publishedOn": "2021-05-26T01:11:00.000Z",
           "wordCount": 627,
           "title": "Marco de Ieso – Serpaio"
-        },
-        {
-          "id": "https://paper-journal.com/?p=23526",
-          "author": "Jacob Charles Wilson",
-          "description": "2021 saw 7500 entrants to the prestigious Palm* Photo Prize award. Here, we select some of our favourites from the 100 shortlisted artists.",
-          "link": "https://paper-journal.com/palm-photo-prize-2021/",
-          "publishedOn": "2021-05-20T04:09:05.000Z",
-          "wordCount": 397,
-          "title": "Palm Photo Prize 2021"
         }
       ]
     },
@@ -3279,6 +4004,15 @@
       "feedUrl": "https://www.featureshoot.com/feed/",
       "siteUrl": "https://www.featureshoot.com",
       "articles": [
+        {
+          "id": "https://www.featureshoot.com/?p=145649",
+          "author": "Ellyn Kail",
+          "description": "Mikael Owunna was born in Pittsburgh, and his family moved there permanently when he was just three years old. Some of his earliest memories include large gatherings with extended family,…\nThe post A Public Exhibition Celebrates The Beauty and Transcendence of the Black Body appeared first on Feature Shoot.",
+          "link": "https://www.featureshoot.com/2021/06/a-public-exhibition-celebrates-the-beauty-and-transcendence-of-the-black-body/",
+          "publishedOn": "2021-06-18T01:40:19.000Z",
+          "wordCount": 1839,
+          "title": "A Public Exhibition Celebrates The Beauty and Transcendence of the Black Body"
+        },
         {
           "id": "https://www.featureshoot.com/?p=145539",
           "author": "Ellyn Kail",
@@ -3453,6 +4187,15 @@
       "siteUrl": "https://www.aint-bad.com",
       "articles": [
         {
+          "id": "https://www.aint-bad.com/?p=244746",
+          "author": "Emerald Arguelles",
+          "description": "Bronson Shonk is a multidisciplinary artist based in Seattle. After a career in analytics, Shonk became a full-time artist creating bodies of work that explore the nature of growth and… Read More\nThe post In Conversation With: Bronson Shonk appeared first on AINT—BAD.",
+          "link": "https://www.aint-bad.com/article/2021/06/18/in-conversation-with-bronson-shonk/",
+          "publishedOn": "2021-06-18T12:00:00.000Z",
+          "wordCount": 2805,
+          "title": "In Conversation With: Bronson Shonk"
+        },
+        {
           "id": "https://www.aint-bad.com/?p=232629",
           "author": "Sydney Gillum",
           "description": "Ashley Bohm has been an avid photographer since first being introduced to the darkroom in high school. She did a short stint at the Corcoran College of Art + Design… Read More\nThe post Ashley Bohm appeared first on AINT—BAD.",
@@ -3613,15 +4356,6 @@
           "publishedOn": "2021-05-21T12:00:00.000Z",
           "wordCount": 724,
           "title": "Hannah Taylor"
-        },
-        {
-          "id": "https://www.aint-bad.com/?p=242210",
-          "author": "Sydney Gillum",
-          "description": "I was born in Umbria, Italy, in 1982. I received a Pentax film camera as a present from my father at the age of 15. Since then I’ve always been… Read More\nThe post Nicola Vincenzoni appeared first on AINT—BAD.",
-          "link": "https://www.aint-bad.com/article/2021/05/20/nicola-vincenzoni/",
-          "publishedOn": "2021-05-20T12:00:00.000Z",
-          "wordCount": 555,
-          "title": "Nicola Vincenzoni"
         }
       ]
     },
@@ -3807,15 +4541,6 @@
           "publishedOn": "2021-05-21T15:06:00.000Z",
           "wordCount": 1400,
           "title": "New Cineaste, New Camera Obscura"
-        },
-        {
-          "id": "https://www.criterion.com/current/posts/7399-the-unique-energy-of-charles-grodin",
-          "author": null,
-          "description": "<figure class=\"figure-opt\"> <img src=\"https://criterion-production.s3.amazonaws.com/ADVcJ0w0BOQMj0HJLqFQTIv1JToDoY.jpg\" alt=\"\" /> <figcaption> Charles Grodin and Robert De Niro in Martin Brest’s <i>Midnight Run</i> (1988) </figcaption> </figure>  \t\t<p><span class=\"dc\">S</span>taring down a drooling St. Bernard in the two <i>Beethoven</i> movies in the early 1990s, Charles Grodin, who passed away on Tuesday at the age of eighty-six, somehow simultaneously conveyed the unquenchable fury and exhausted defeat of a family man who knows that this bear-sized dog is in his life to stay. Lovesick and swooning with unrequited desire for Miss Piggy in Jim Henson’s <i>The Great Muppet Caper</i> (1981), Grodin never for a moment lets on—not even a hint of a suggestion of a wink—that he’s aware that she’s made of foam rubber and felt.</p><div><span>In his appreciation of this “uncommonly intense and all-around uncommon performer” for RogerEbert.com, <a href=\"https://www.rogerebert.com/tributes/steady-intensity-charles-grodin-1935-2021\" title=\"\" target=\"_blank\">Dan Callahan</a> writes that Grodin’s “eyes burned with need and lust and outrage, and he never needed to do all that much on screen to get across what he was feeling and thinking.” Grodin “could be hilariously rude and nasty on screen and flagrantly insincere without ever losing audience sympathy.”</span></div><div><span><br></span></div><div>Raised in Pittsburgh by Orthodox Jewish parents, Grodin flirted for a while with the idea of a career in journalism, but as <a href=\"https://www.nytimes.com/2021/05/18/movies/charles-grodin-dead.html\" title=\"\" target=\"_blank\">Neil Genzlinger</a> notes in the <i>New York Times,</i> he switched to acting when he saw Elizabeth Taylor and Montgomery Clift in George Stevens’s <i>A Place in the Sun</i> (1951). He moved to New York and studied under Uta Hagen and Lee Strasberg and landed a crucial role in the Broadway comedy <i>Tchin-Tchin,</i> costarring Anthony Quinn and Margaret Leighton.</div><div><span><br></span></div><div>Small roles on television and in two movies followed before he played Dr. Hill in Roman Polanski’s <i>Rosemary’s Baby</i> (1968). “His glib, confident obstetrician is usurped early on by the far more avuncular Dr. Sapirstein—played by Old Hollywood nice guy Ralph Bellamy, yet!—but this is a classic casting switcheroo, in which it’s the doctor you <i>like</i> who turns out to be in league (spoiler alert!) with Satanists,” writes <a href=\"https://decider.com/2021/05/19/the-indiscreet-charm-of-charles-grodin/\" title=\"\" target=\"_blank\">Glenn Kenny</a> at the Decider.</div><div><span><br></span></div><div>Mike Nichols came close to casting Grodin as Benjamin Braddock in <i>The Graduate</i> (1967), the role that made Dustin Hoffman a star, but Grodin instead wound up playing Captain Aarfy Aardvark in Nichols’s <i>Catch-22</i> (1970). It was Nichols’s former partner in comedy, Elaine May, who well and truly launched Grodin’s career in film when she gave him the lead in <i>The Heartbreak Kid</i> (1972). Lenny Cantrow is a sporting goods salesman who dumps his bride (Jeannie Berlin, May’s daughter) on their honeymoon in Miami Beach for a Midwestern blonde (Cybill Shepherd). “The character is hardly ‘relatable’ (one would hope), utterly unlikable, and practically repellent,” writes Kenny. “But Grodin makes him completely compelling, in part through utter brazenness. You just can’t believe the chutzpah of this guy.”</div><div><span><br></span></div><div>Talking to <a href=\"https://www.avclub.com/charles-grodin-1798216629\" title=\"\" target=\"_blank\">Nathan Rabin</a> at the A.V. Club in 2009, Grodin said that he, too, considered Lenny to be “a despicable guy, but I play it with full sincerity. My job isn’t to judge it. If it wasn’t for Elaine May, I probably would never have had that movie career.” With Warren Beatty, May cowrote <i>Heaven Can Wait</i> (1978), featuring a tightly wound Grodin as a personal secretary to a millionaire (Beatty) he’s just murdered with his lover, the millionaire’s wife (Dyan Cannon). To outstanding comic effect, all of Grodin’s energy is directed inward as he suppresses his alarm and stifles the wife’s when they discover their victim alive and kicking.</div><div><span><br></span></div><div>Grodin had a great run playing flustered husbands and fathers in Albert Brooks’s <i>Real Life</i> (1979), Jay Sandrich’s <i>Seems Like Old Times</i> (1980), and Joel Schumacher’s <i>The Incredible Shrinking Woman</i> (1981). He “excelled at playing self-involved,” writes <i>Variety</i>’s <a href=\"https://variety.com/2021/film/opinion/charles-grodin-appreciation-the-heartbreak-kid-tribute-1234976110/\" title=\"\" target=\"_blank\">Peter Debruge,</a> “but it was often in service of making his costars look better—see the park-bench banter between him and <i>The Lonely Guy</i> lead Steve Martin—which would make it the greatest kind of generosity. While most people would prefer not to acknowledge human weakness, Grodin made it possible to smile at how it looks on others.”</div><div><span><br></span></div><div>In 1988, Martin Brest paired Grodin and Robert De Niro as an accountant who has embezzled millions from a mobster and the bounty hunter hired to bring him in. <i>Midnight Run</i> did fairly well at the box office but played like gangbusters with the critics. “De Niro is often said to be the best movie actor of his generation,” wrote <a href=\"https://www.rogerebert.com/reviews/midnight-run-1988\" title=\"\" target=\"_blank\">Roger Ebert.</a> “Grodin has been in the movies just about as long, has appeared in more different titles, and is of more or less the same generation, but has never received the recognition he deserves—maybe because he often plays a quiet, self-effacing everyman. In <i>Midnight Run,</i> where he is literally handcuffed to De Niro at times, he is every bit the master's equal, and in the crucial final scene it is Grodin who finds the emotional truth that defines their relationship.”</div><div><span><br></span></div><div>After the <i>Beethoven</i> movies, a nice turn in Ivan Reitman’s <i>Dave</i> (1993), and a daringly goofy one in Paul Flaherty’s <i>Clifford</i> (1994), Grodin stepped away from acting for quite a long stretch. He carried on writing plays and a good number of books about his life and career, and as a regular on late-night talk shows, he “cultivated a character that remained consistently and endearingly brash, a sort of persnickety, both-sides-of-the-Odd-Couple bipolar personality by turns attention seeking and insult slinging,” as <a href=\"https://www.vulture.com/article/charles-grodin-late-night-appearances.html\" title=\"\" target=\"_blank\">Samantha Pitchel</a> put it in <i>New York</i> magazine in 2011. He hosted his own show on CNBC in the late 1990s, often addressing the need for criminal justice reform, and as his son, Nick, tells <a href=\"https://www.latimes.com/entertainment-arts/movies/story/2021-05-18/charles-grodin-activist-author-and-actor-who-made-grouchiness-cool-dead-at-86\" title=\"\" target=\"_blank\">Michael Ordoña</a> in the <i>Los Angeles Times,</i> Grodin was particularly proud to have been instrumental in the release of a few prisoners whose sentences, he believed, had been unfair.</div><div><span><br></span></div><div>In the mid-2010s, Grodin began reappearing on television and in few films, reteaming with De Niro again, for example, in Taylor Hackford’s <i>The Comedian</i> (2016). As Dr. Bigelow, Louis C. K.’s doctor and mentor on the comedy series <i>Louie,</i> Grodin delivered one the most movingly underplayed performances of his career. “Misery is wasted on the miserable,” says <a href=\"https://youtu.be/VJlj3auSlKA\" title=\"\" target=\"_blank\">Bigelow</a> when C. K. asks him what to do now that the loss of his girlfriend has left him hurting. How lucky he is to be feeling this pain, insists Bigelow. This is love. This is the good part. “The bad part is when you forget her.” We won’t be forgetting Charles Grodin.</div><div><span><br></span></div><div><i>For news and items of interest throughout the day, every day, follow <a href=\"https://twitter.com/criteriondaily\" title=\"\" target=\"_blank\">@CriterionDaily.</a></i></div>",
-          "link": "https://www.criterion.com/current/posts/7399-the-unique-energy-of-charles-grodin",
-          "publishedOn": "2021-05-19T22:20:50.000Z",
-          "wordCount": 1405,
-          "title": "The Unique Energy of Charles Grodin"
         }
       ]
     },
