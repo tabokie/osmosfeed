@@ -22,6 +22,15 @@
       "siteUrl": "https://christine.website/blog",
       "articles": [
         {
+          "id": "https://christine.website/blog/waifud-plans-2021-06-19",
+          "author": null,
+          "description": "waifud Plans\nSo I have this homelab now, and I want to run\nsome virtual machines on it. But I don't want to have to SSH into each machine\nto do this and I have a lot of time to kill this summer. So I'm going to make a\nvery obvious move and massively overcomplicate this setup.\n\n    \n<Cadey> Canada's health system is usually pretty great, however for some reason I have\nto wait four months between COIVD vaccine shots. What the heck. That basically\neats up my entire summer. Grrrr\nwaifud is a suite of tools that help you manage your server's waifus. This is an\nexample of name-driven development, or where I had a terrible idea about the\nname that was so terrible I had to bring it to its natural conclusion. Thanks to\ncomments on Reddit and Hacker News about my systemd talk\nvideo, I was told that …",
+          "link": "https://christine.website/blog/waifud-plans-2021-06-19",
+          "publishedOn": "2021-06-19T00:00:00.000Z",
+          "wordCount": 998,
+          "title": "waifud Plans"
+        },
+        {
           "id": "https://christine.website/blog/footnote-2021-06-15",
           "author": null,
           "description": "Footnote\nFinal Chapter\nEpilogue\nBefore the darkness was the darkness, the darkness was a child. This child found\nthemselves lost and without purpose. Life was scary. Things were changing\nconstantly, and they found themselves at a loss. One day they were walking about\nthe etherial network and stumbled across a meeting house.\nThe child looked inside and was confused. There were hundereds of rooms with\neven more people inside. There were rooms on every topic. There was a shower of\nculture and an outpouring of knowledge. Hanging out here would permanently\nchange the course of the child's life.\nHorrified by the room takeover golem, the remaining regulars had fled their\nformer homes. This was not a home for legal reasons, but it was their social\nhome on the etherial network. Sadness had turned t…",
@@ -780,17 +789,7 @@
       "title": "TWYcinema.",
       "feedUrl": "https://twycinema.wordpress.com/feed/",
       "siteUrl": "https://twycinema.wordpress.com",
-      "articles": [
-        {
-          "id": "http://twycinema.wordpress.com/?p=1325",
-          "author": "terenceyibo",
-          "description": "Discover the Chinese version of this article. Contain spoilers As I was rewatching a particular episode of Twin Peaks, I was reminded of Gilles Deleuze’s word on Minnelli: “People’s dreams are always devouring, and threaten to engulf us; the other’s dream is very dangerous. Dreams have a terrible will to power, and each one of … Continue reading Dreams of the Other",
-          "link": "https://twycinema.wordpress.com/2021/05/21/twin-peaks-dreams/",
-          "publishedOn": "2021-05-21T07:21:51.000Z",
-          "wordCount": 1663,
-          "title": "Dreams of the Other"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Google AI Blog",
@@ -895,15 +894,6 @@
           "publishedOn": "2021-05-24T21:18:00.000Z",
           "wordCount": 2456,
           "title": "Understanding Contextual Facial Expressions Across the Globe"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/blogspot/gJZg/~3/3z-H6M2lhso/kelm-integrating-knowledge-graphs-with.html",
-          "author": null,
-          "description": "Posted by Siamak Shakeri, Staff Software Engineer and Oshin Agarwal, Research Intern, Google Research  \nLarge pre-trained natural language processing (NLP) models, such as BERT, RoBERTa, GPT-3, T5 and REALM, leverage natural language corpora that are derived from the Web and fine-tuned on task specific data, and have made significant advances in various NLP tasks. However, natural language text alone represents a limited coverage of knowledge, and facts may be contained in wordy sentences in many different ways. Furthermore, existence of non-factual information and toxic content in text can eventually cause biases in the resulting models. \nAlternate sources of information are knowledge graphs (KGs), which consist of structured data. KGs are factual in nature because the information is usua…",
-          "link": "http://feedproxy.google.com/~r/blogspot/gJZg/~3/3z-H6M2lhso/kelm-integrating-knowledge-graphs-with.html",
-          "publishedOn": "2021-05-20T21:17:00.001Z",
-          "wordCount": 1665,
-          "title": "KELM: Integrating Knowledge Graphs with Language Model Pre-training Corpora"
         }
       ]
     },
@@ -964,6 +954,159 @@
       "feedUrl": "https://www.gcores.com/rss",
       "siteUrl": "https://www.gcores.com",
       "articles": [
+        {
+          "id": "https://www.gcores.com/articles/138382",
+          "author": "纳尔西斯•考尔",
+          "description": "钢铁之手战团指挥结构\n在荷鲁斯之乱后的淬火会议上，原铁手军团的幸存者都认为在伊斯特万5事件中，费鲁斯过高的权力与一时情绪化导致的误判最终毁了军团的一切，而由此铁手们认为不应该也不允许军团再次永久性地被一个人所统治。为此提出的解决方案，就是之后的钢铁议会，一个由之前在军团中德高望重的钢铁之父们，代表铁手的各个组成部分共同组成的议会来进行一切事物的决断。由此开始的便是长达近万年的钢铁议会的统治。\n铁父：起源与责任\n之所以是钢铁之父接下战团统治，是因为无论从传统上还是从现实意义上，铁父们都是最好的选择，这还要从铁父们的起源说起。\n早在黑暗科技年代，美杜莎变成废土的时候，美杜莎当地各个部落里就存在科技巫师和技术萨满，并且经常都是身居高位、德高望重。这种信仰与技术复合的人才在美杜莎几乎是普遍存在，而随着费鲁斯统一美杜莎，他为了与各个部落交换资源与技术，最终将各个部落派来的人进行了统一教育，从而培养了第一批的钢铁之父。这些人经过费鲁斯的教育后，即懂得各种技术能够维护设备，又能兼顾提供信仰产品，从而使得这些人回到部落后，能更好地维护各个部落那些传承自黑暗科技时代的技术产品，并提供相对更先进也更统一的信仰产品。\n美杜莎人民也确确实实感受到了铁父们带来的改变：他们在技术知识与制造维修能力上的出类拔萃，帮助不少原本濒临毁灭的部落得到全新的技术，再加上原本的黑暗科技时代系统得以被维修一新，让不少部落焕发生机。再加上他们提供的心灵慰藉，铁父在美杜莎各个部落里都逐渐获得了巨大的影响力并备受尊敬，其中的多数更是在部落里获得了极高的地位。当然，由于铁父本质是费鲁斯创立的，所以费鲁斯的影响力与控制力也就相应的水涨船高了。\n\n(铁父们最初的起源类似于部落的里的萨满)\n而随着帝皇的到来，费鲁斯被授予了第十军团的指挥权，第十军团也理所当然地将美杜莎化为了他们的新母星。费鲁斯出台各种融合手段与政策，军团在原体的命…",
+          "link": "https://www.gcores.com/articles/138382",
+          "publishedOn": "2021-06-20T00:00:00.000Z",
+          "wordCount": 33,
+          "title": "钢铁之心：战锤40K钢铁之手战团时代指挥模式"
+        },
+        {
+          "id": "https://www.gcores.com/radios/138377",
+          "author": "Hardy",
+          "description": "本期时间轴制作：佟和\nE3 2021已经基本结束，各个厂商也在发布会和直播活动上展示了将在之后发售的游戏。看了这么多新预告片，你最关注哪款作品？请听本期GadioNews。",
+          "link": "https://www.gcores.com/radios/138377",
+          "publishedOn": "2021-06-19T15:00:00.000Z",
+          "wordCount": 36,
+          "title": "E3后你最关注哪款作品？GadioNews06.19"
+        },
+        {
+          "id": "https://www.gcores.com/radios/138219",
+          "author": "搞搞",
+          "description": "欢迎收听机核网精品有声书：赛博朋克科幻名著《雪崩》第三十集。\n有声书演播：图特哈蒙，国内知名配音演员、混音师，北斗企鹅主力成员。代表作品：《狮子王》彭彭、《阿拉丁》灯神、《星球大战 7 ：原力觉醒》芬恩、《深夜食堂》老板 等\n叶知秋，新生代优秀配音演员，北斗企鹅成员。代表作品：《紫罗兰永恒花园 外传 —永远与自动手记人偶—》薇尔莉特·伊芙加登、《假面骑士 零一》刃唯阿、《大护法之黑花生》彩、《守望先锋》回声 等  \n本有声书文本为四川科学技术出版社《雪崩》，由 科幻世界 正版授权。",
+          "link": "https://www.gcores.com/radios/138219",
+          "publishedOn": "2021-06-19T14:00:00.000Z",
+          "wordCount": 40,
+          "title": "《雪崩》Episode 30"
+        },
+        {
+          "id": "https://www.gcores.com/radios/138218",
+          "author": "搞搞",
+          "description": "欢迎收听机核网精品有声书：赛博朋克科幻名著《雪崩》第二十九集。\n有声书演播：图特哈蒙，国内知名配音演员、混音师，北斗企鹅主力成员。代表作品：《狮子王》彭彭、《阿拉丁》灯神、《星球大战 7 ：原力觉醒》芬恩、《深夜食堂》老板 等\n叶知秋，新生代优秀配音演员，北斗企鹅成员。代表作品：《紫罗兰永恒花园 外传 —永远与自动手记人偶—》薇尔莉特·伊芙加登、《假面骑士 零一》刃唯阿、《大护法之黑花生》彩、《守望先锋》回声 等  \n本有声书文本为四川科学技术出版社《雪崩》，由 科幻世界 正版授权。",
+          "link": "https://www.gcores.com/radios/138218",
+          "publishedOn": "2021-06-19T14:00:00.000Z",
+          "wordCount": 40,
+          "title": "《雪崩》Episode 29"
+        },
+        {
+          "id": "https://www.gcores.com/radios/138217",
+          "author": "搞搞",
+          "description": "欢迎收听机核网精品有声书：赛博朋克科幻名著《雪崩》第二十八集。\n有声书演播：图特哈蒙，国内知名配音演员、混音师，北斗企鹅主力成员。代表作品：《狮子王》彭彭、《阿拉丁》灯神、《星球大战 7 ：原力觉醒》芬恩、《深夜食堂》老板 等\n叶知秋，新生代优秀配音演员，北斗企鹅成员。代表作品：《紫罗兰永恒花园 外传 —永远与自动手记人偶—》薇尔莉特·伊芙加登、《假面骑士 零一》刃唯阿、《大护法之黑花生》彩、《守望先锋》回声 等  \n本有声书文本为四川科学技术出版社《雪崩》，由 科幻世界 正版授权。",
+          "link": "https://www.gcores.com/radios/138217",
+          "publishedOn": "2021-06-19T14:00:00.000Z",
+          "wordCount": 40,
+          "title": "《雪崩》Episode 28"
+        },
+        {
+          "id": "https://www.gcores.com/radios/138215",
+          "author": "搞搞",
+          "description": "欢迎收听机核网精品有声书：赛博朋克科幻名著《雪崩》第二十七集。\n有声书演播：图特哈蒙，国内知名配音演员、混音师，北斗企鹅主力成员。代表作品：《狮子王》彭彭、《阿拉丁》灯神、《星球大战 7 ：原力觉醒》芬恩、《深夜食堂》老板 等\n叶知秋，新生代优秀配音演员，北斗企鹅成员。代表作品：《紫罗兰永恒花园 外传 —永远与自动手记人偶—》薇尔莉特·伊芙加登、《假面骑士 零一》刃唯阿、《大护法之黑花生》彩、《守望先锋》回声 等  \n本有声书文本为四川科学技术出版社《雪崩》，由 科幻世界 正版授权。",
+          "link": "https://www.gcores.com/radios/138215",
+          "publishedOn": "2021-06-19T14:00:00.000Z",
+          "wordCount": 40,
+          "title": "《雪崩》Episode 27"
+        },
+        {
+          "id": "https://www.gcores.com/radios/137993",
+          "author": "搞搞",
+          "description": "欢迎收听机核网精品有声书：赛博朋克科幻名著《雪崩》第二十六集。\n有声书演播：图特哈蒙，国内知名配音演员、混音师，北斗企鹅主力成员。代表作品：《狮子王》彭彭、《阿拉丁》灯神、《星球大战 7 ：原力觉醒》芬恩、《深夜食堂》老板 等\n叶知秋，新生代优秀配音演员，北斗企鹅成员。代表作品：《紫罗兰永恒花园 外传 —永远与自动手记人偶—》薇尔莉特·伊芙加登、《假面骑士 零一》刃唯阿、《大护法之黑花生》彩、《守望先锋》回声 等  \n本有声书文本为四川科学技术出版社《雪崩》，由 科幻世界 正版授权。",
+          "link": "https://www.gcores.com/radios/137993",
+          "publishedOn": "2021-06-19T14:00:00.000Z",
+          "wordCount": 40,
+          "title": "《雪崩》Episode 26"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138255",
+          "author": "丑客",
+          "description": "沙丘1\n1980年6月17日，彭加木留下了最后一条信息之后消失在了罗布泊，自那之后就再也没有人找到过他，哪怕是他的尸体。然而从那之后一直持续到现在，在罗布泊不断的发现有其他遇难者的遗体，虽然经过一一鉴定，都确认那不是彭加木。可是这也随之带来了另外一个问题，那些人是谁？其中有些干尸的身份已经得到了确认，他们的身份从全国失踪人口档案里找到了对应。还有一些干尸却始终不明身份，那些干尸身上带着的谜团并不比彭加木事件本身所带有着的谜团要少。\n自80年彭加木失踪之后，调查就开始进行了，81年发现了第一具疑似遇难者尸体，之后几年陆续发现类似地干尸。有人曾经怀疑过尸体是否有可能是当地住民的，甚至于有可能是古代人的遗体。但是这些猜测都被否定了，因为从公开的到未公开的总计发现的将近十几具干尸，可以确定他们都是现代人。其中大部分的干尸附近所找到的东西都可以证明这些遇难者的身份：他们或是单人的冒险家，或者是某支探险队的成员。\n实际上真正可能让人觉得感兴趣的部分，在于那些身份不明的干尸，那些遇难者的故事才让人着迷。因为确认了身份的遇难者，不论他们可能遭遇了什么，那都不会再引起人们更多的兴趣了。他们所有可能遭遇到的事情，最后都会被轻松的归结成一句话——他们出发、他们迷路、最后他们殒命了。就是这样的意外充斥在这个世界上，人们不会对已经明了的事情感兴趣，哪怕那些事情只是表面上的明确罢了。人们会选择浅尝辄止，不在更多的探寻背后——至少大部分人是这样的。\n其实这可能算是一种幸运吧，因为他们并不需要去面对残酷的、可怕的、甚至可能是让人不能理解的所谓“真相”。人们对于真相的探求是来自于太多的到的宣传和一种带有这迷惑性的幻想，把真相和“荣耀”、“正义”等同起来。可这真的只是一种美好的幻想，没有多少人真正的因为获得了“真相”而得到了“幸福”。恰恰相反，大部分人在获得了“真相”之后得到的，轻则是无尽的空虚，或者是一时难…",
+          "link": "https://www.gcores.com/articles/138255",
+          "publishedOn": "2021-06-19T12:30:00.000Z",
+          "wordCount": 30,
+          "title": "《邪神纪元》：极地卷（36）"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138332",
+          "author": "Ziog Searpeen",
+          "description": "我想亲眼看看你。                                                                                      \n 一个普通人有时竟要承载那么多东西，这总让我很惊讶。                                          \n 生命，死亡······                                                                                          \n 而这两者之间······                                                                                      \n 隔着层玻璃。                                                                                             \n 这就是你我现在做的事。 模糊彼此之间的分界线。                              \n 你是这过程的一份子，我想我应该感谢你。                                       \n\n——荒坂三郎\n距离《赛博朋克2077》正式发售已经过去了大半年。在这大半年的时间里，产生了许多有关结局好坏的讨论，其中尤以恶魔结局的讨论最为激烈。不少玩家从不同的角度，得到了完全相反的结论：有人认为恶魔结局是最坏、最黑暗的结局；也有人认为它是最好，最“够味”的结局。不管怎样，能够引起如此激烈讨论的结局，必然在某种程度上有其独特之处。现在，请允许我带领各位已经通关了各结局的读者，再度探索恶魔结局吧。这一次，我们先从全局入手，分析它…",
+          "link": "https://www.gcores.com/articles/138332",
+          "publishedOn": "2021-06-19T08:00:00.000Z",
+          "wordCount": 57,
+          "title": "浅析《赛博朋克2077》恶魔结局的精彩之处（一）：主题表现力"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138331",
+          "author": "超逗比级阿斯特纳冈",
+          "description": "我先说一下关于角色歌的事情\nWF2021上海结束啦！也遇到了不少来自机核的朋友，大家的宝贵意见都已经收到了哦！\n之后我们就会开始着手对目前的模型进行修正，大家在展会上看到的光雁专用机【Chiron】我们也会尽快开始立体化的工作，还请大家期待哦！\n\n\n(光雁用次元武装设计稿)(翅膀以及腿部浮游刃设计说明)\n\n另外，由安斋由香里演唱的白雪角色概念曲《GoTogether》也终于公开啦！超可爱的！请一定要听一下！本曲将会在下个月登录各大音乐平台，还请大家多多收藏支持一下哦！\n\n\n<内嵌内容，请到原网页查看>\n(白雪角色概念曲《GoTogether》)\n那么，这次的报告就到此结束啦！我们开始本期的故事环节吧！\n正文\n2054.8.20 蒂拉加萨市区某处\n昏暗的室内，监视器发出的光亮尤其的显眼。与八月炎热的天气不同，强烈的冷气将气温降至仿佛初冬一样的低温。\n“冷死了……”\n刚刚从室外走入房间的白发女孩立刻将帽衫的拉链拉到了最高。\n“我说艾希，我知道你怕热没错，但是知不知道只有你才能受得了这么冷啊。”\n“烦死了，多穿衣服不就好了。”在显示器面前的这名叫做艾希的女孩，同样有着一头漂亮的雪白长发。或许是为了方便，她将长发绑成了单边马尾。\n不过比起马尾，或许应该说盖在身上一层一层的棉被更加显眼。\n“真服了你了，在八月的空调房全身包着棉被，真不知道你是怕冷还是怕热。”\n“先不说这个，希尔维亚，刚刚我发现了有意思的事情了。”\n艾希招呼着刚刚进门的少女，显示器反射的光也映射在二人的瞳孔上。\n“欸……这就是之前说到的那个什么……支援组的新人么。”\n“还挺厉害的，只用了不到30秒就把我们的玩具全部打坏了呢。”\n“艾希你又去做奇怪的实验了吧，被老大知道肯定又要被骂了，”希尔维亚有点抱怨着说道，“我们现在还是要隐秘行动哦！隐！秘！行！动！”\n“真是的，希尔维亚你这样真是很没趣啊。不过你没有听说么，夏莉和伊…",
+          "link": "https://www.gcores.com/articles/138331",
+          "publishedOn": "2021-06-19T06:00:00.000Z",
+          "wordCount": 49,
+          "title": "《欧加特安全支援组事件簿》序章：从月亮飘下的雪花④"
+        },
+        {
+          "id": "https://www.gcores.com/videos/137562",
+          "author": "Kazuya",
+          "description": "在本集中所有主要角色在前期的伏笔都得到了回收与升华。大古冲破迷茫了解到了自己是为什么而战，丽娜考虑着地球上生命的相互理解，指挥外冷内热把控着战斗现场的调度，队长站在更高的角度考虑人类的未来，堀井依旧坚持了一直以来对科学的思辨，新城保持了对妹妹的关心和冲动的性格，野瑞到了渴望的前线却发现与他的想象不同，真由美痛失挚爱后性格的转变，这都是故事线的汇集的结果。 希望大家看完这集后，能去回顾前期内容并好好回味一下，去仔细体味。 \n\n—— 诸星     \n本期影评是《迪迦奥特曼》TV版第二十八集《呼唤》的观剧剖析与影评。 \nB站链接",
+          "link": "https://www.gcores.com/videos/137562",
+          "publishedOn": "2021-06-19T06:00:00.000Z",
+          "wordCount": 31,
+          "title": "呼唤丨《迪迦奥特曼》TV版影评系列连载"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138367",
+          "author": "轻之文库",
+          "description": "监督 京极义昭\n系列构成 田中仁\n企画制作 堀田将市\n动画制作人 丸亮二\n虽然能感受到寒冷 但也是带有暖意的作品\n——请说一下动画《摇曳露营△》企划提出的过程。\n堀田：我以前有企画了《Anne Happy♪》和《花舞少女》的动画项目。也因此我每个月都会看芳文社的漫画杂志《kirara》。有次打开某本的时候，被《摇曳露营△》第2话给吸引住了。当时我就决定要把它给动画化，开始了制作企画。首先需要定下动画制作公司，在去和C-satation商量的时候给了丸先生看原作，当场就得到了决定要做的回复。\n丸：其实我年轻的时候也有过露营的经验，觉得这简直就是为了我而存在的作品。一般来说还要再考虑一下的，立刻就决定要做了。\n堀田：当然我们也事先得到了芳文社的动画化许可，对方也感到很惊讶说没想到在连载初期就有动画化。\n\n\n——主要的动画制作人员是怎么决定的？\n堀田：监督候补是由丸先生来提出的，剧本家则是我提出的。和京极监督会面则是在漫画单行本第1卷出了之后那会儿。\n丸：京极监督在读原作前就说要做了。\n堀田：每个人都是当场决定的（笑）。我和田中仁先生一起参与了《Anne Happy♪》，在剧本的最终话完成的时候和他说的这件事……\n田中：阅读的瞬间就觉得这漫画不得了，我也是当场就决定了（笑）。\n\n\n——各位是怎么看待第1季播放时，观众们的反响的？\n田中：要将原作所特有的氛围感融入剧本的同时，不通过过多的台词和过度的感情来制作这种绝妙的氛围感是在最初主要制作人员都召集齐后定下的。在实际写剧本时我也一直遵循着这一点。能让作品形成这种认知虽然也感到有些惊讶，在被夸赞的时候的反应倒成了「就是啊」（笑）。\n堀田： 剧本中所想营造的高潮都获得了如预期的反应，不由让我感叹不愧是田中仁的水平啊。\n京极：我也认为很好的把作品的魅力传达了出去，不过没想到观众比预期的要更多。我觉得这也是有时代的因素在内，我觉得也是时代对《摇曳露营△》这样的作品有着需求的关系吧。\n堀田：那个时候露营还没现在这么火，而这部作品正好配合了露营热，也是揭示了时代的趋向吧。\n\n\n——《摇曳露营△》的氛围感，具体来说是怎么样构筑起来的呢？\n田中：剧本有很多种撰写的方式，不过基本上不是只写台词就行，比如有段1分钟的场景，就要写包括内容指示在内的1分左右的描写内容。其中就算台词只有1句话，除此以外的空白也要很好的进行分配，必须要非常认真的写出来让监督和演出在阅读时可以共有这段印象内容。\n堀田：仁先生写的内容指示也非常认真，而且简单易懂。要说的话最棒的就是第2季第1话的A PART部分。\n京极：影像上首先要传达出露营的魅力，尤其在《摇曳露营△》里还有冬日露营，所以从一开始就有注意要表现出冬天那清澄的空气感。比如在画背景的时候，为了表现寒冷和寂寞感的时候就会要求色彩不要太浓厚，或是要着力去刻画呼吸时吐出的白息这些。虽然这些主要是技术层面，但正是对这些不断地进行积累才有了现在的结果。这其中也还有大家一起去实地取景，实际体验露营这些关系在。在提出要求时我不用说的非常详细，大家也都能理解。\n堀田：自己通过双眼就能明白，看风格也能明白。\n京极：其他的作品通常不太会去重视这些，而这也正是《摇曳露营△》的特色。\n堀田：京极监督的胶片里，虽然会感受到寒冷，但反过来也是有暖意的呢。\n京极：我应该没有做那么特殊的事情就是了….\n丸： 我在旁边看着感觉到的就是“京极监督心中的摄像师”工作做的非常好，自己本来就是能对很多事情产生兴趣，然后把这些都用设备来记录下来，把大家想看的东西做成影像来给大家展示出来看。\n京极：确实，无论哪个外景地都非常有魅力，可以的话希望可以全部都能拍下来（笑）。我想到的是，不是把距离大家非常遥远的非日常，而是就在身边的日常给联系起来做成影像。\n\n\n——请说一下今后第2季的最终回与剧场版的展望吧。\n丸：我和京极监督，以及公司全体现在都只在做《摇曳露营△》，我们会加油的！\n堀田：我们希望可以在现在这样的时代里，给大家做出能够缓口气的30分种或是数小时的内容来，希望大家可以在这段时间里悠闲地度过\n田中：虽然这部作品的受众已经远超我们最初的预想了，但我也不会忘记第1季时的感受，今后也会贯彻好自己的责任。\n京极：希望可以成为长时间受大家喜爱的作品，动画我们也会努力去做的。",
+          "link": "https://www.gcores.com/articles/138367",
+          "publishedOn": "2021-06-19T05:00:00.000Z",
+          "wordCount": 46,
+          "title": "译介丨《摇曳露营△》第二季制作人员访谈系列第8弹：主创人员座谈会"
+        },
+        {
+          "id": "https://www.gcores.com/videos/138356",
+          "author": "小毛0",
+          "description": "当玩家看到下面这张截图的时候，就会在第一时间反应过来：喔！这是《镜之边缘》！并且这只能是《镜之边缘》，因为没有任何一款游戏，是这样的。\n不过，这款游戏的独特绝不仅仅体现在风格鲜明的美术上，而是体现在方方面面，这期视频我将会从4个关键词展开，讨论一下《镜之边缘》究竟为何如此特别。",
+          "link": "https://www.gcores.com/videos/138356",
+          "publishedOn": "2021-06-19T04:00:00.000Z",
+          "wordCount": 28,
+          "title": "《镜之边缘》为何如此独特？"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138383",
+          "author": "日天嗷",
+          "description": "ACRO KRS×NIRASAWA 系列将推出假奥特曼。这款作品的原型设计依旧参考了已故设计师韭泽靖的画稿，原型设计则是由韭泽靖的至交竹谷隆之负责。模型全高约32厘米，预计于2021年10月出货，定价19580日元。\n\n\n\n\n假奥特曼登场于《奥特曼》第18集《行星来的兄弟》，其真实身份是扎布拉星人。按理说一脸坏相的假奥特曼和人类守护者还是有明显区别的，但剧中角色完全看不出来，一度认为它就是奥特曼。队长甚至在看到假奥特曼破坏城市时说出了“如果奥特曼也对地球施展暴力，我们同样战斗”的狠话。\n\n(假奥特曼也在《巨影都市》登场过)\n韭泽靖在重新设计假奥特曼时添加了许多新元素，例如红色条纹的布局、突出的肋骨、修长的双臂以及银色部分充满科技感的六边形纹理。与正面的细腻感不同，假奥特曼的身后可谓“藏污纳垢”，斜方肌上的皮肤宛如正在被撕扯，手臂背面和手心仿佛溃烂，脊柱、肩膀附近还有几条突兀的绿色物质。前后如此明显的风格差异更凸显了假奥特曼邪恶的本质。",
+          "link": "https://www.gcores.com/articles/138383",
+          "publishedOn": "2021-06-19T03:22:46.000Z",
+          "wordCount": 58,
+          "title": "这次地球人该分得清了吧？ACRO KRS系列推出假奥特曼软胶玩具"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138296",
+          "author": "黑白盒",
+          "description": "文末有汉化组招募信息\n“2021年应届生招聘规模同比增长52.5%。”新闻里的信息提醒着我又是一年毕业季，高中走向大学，大学走进社会，同时我接下来的一年要脱产考研了。\n世事无常，2020年改变了太多事情，许多人的规划也发生了改变。老李和师兄弟打算办武馆，结果2020年住在租的场馆里，天天找房东商量减房租。东哥打算和女朋友结婚，但是女方家里不同意，正值过年各自回家，俩人2020年分隔两地。梧桐总算考上了中科院，但是他提前报道，北京疫情期间管得很严，他还没分配宿舍，2020年大部分时间待在招待所里。我的出国申请材料废了挺大劲写好，但是2020年它一直被我锁在书桌抽屉里，见不到太阳。\n大学毕业后，大家各找各的出路，不外乎北上广深，一个个“漂”了起来。但是也有的人，觉得或许……自己没有自己想的那么坚强。重庆人老表毕业了去北京的培训机构，打算靠在机构里学的东西和机构的渠道，去北京谋个生计。半年里，老表屡屡碰壁，女朋友又要出国，两人不能接受异地，和平分手了。在我以为老表在北京安定下来的时候，一通电话拨过去，才知道，老表回到了重庆，放弃了计算机，卖起了房，最近，好像中介也不做了，开起了粮油店。\n放弃，或者说承认自己做不到，是一种什么感觉呢？很难说，我有过这种感觉，但是哪些和别人是相同的，哪些和别人是不同的，我并不知道，因为大家似乎根本不聊这方面的事情，又或者，是因为我拒绝交流，所以也得不到别人关于这些经历的分享。\n不过，如果有机会能一窥他人的这种感觉，不因为什么，我会想听听或看看的。《林中之夜》的主角Mae给了我这种机会。\n\n\n\n一、家人会假装什么也没有发生，朋友可能会，可能不会\nMae回到老家，一个曾经因为矿产而兴盛的的小镇，可是坚硬如矿石也会被一点点凿碎，慢慢的矿藏量减少了，小镇的中流砥柱产业没了发展，再加上没有转型，小镇渐渐衰败下去。仔细想想，广阔的大地上，有高山流水、盆地高原，哪…",
+          "link": "https://www.gcores.com/articles/138296",
+          "publishedOn": "2021-06-19T03:00:00.000Z",
+          "wordCount": 75,
+          "title": "《林中之夜》：不要温和地走入那树林"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138344",
+          "author": "YRDEN",
+          "description": "简介\n《高达VS》是一个在日本火了将近20年的游戏IP，该系列游戏每过几年就会退出一个新作品，对游戏的进行迭代式甚至是重构式的升级。其质量之高使得其系列新作哪怕时至今日，依然是日本街机厅投币率最高的游戏。\n在大洋彼岸的日本，日本人还保留着在街机厅玩游戏的文化，他们那边的年轻人一放学不是像国人一样去网吧，而是去街机厅。由于街机厅消费水平非常高，打一把游戏就要投一次币，在街机厅打一下午游戏可能就抵得上手游的一个198大月卡了，所以街机厅的竞争非常之激烈，能在这个激烈竞争中搏杀并且常年的登顶的《高达VS》系列，尤其独到的游戏设计。\n可能很多人会说，“《高达VS》，一听名字那就是靠IP吃饭的，就跟《宝可梦》系列一样，套皮游戏谁还不会做呢”。但各位须知，套着《高达》这个IP的游戏有许许多多，但只有这一个《高达VS》才是投币率常青树。IP固然有着极为重要的作用，但是没有强有力的核心玩法，玩家不会持之以恒的去街机厅为了这个游戏投币。大多数纯靠IP和美术的套皮游戏，都只能支撑极短时间的热度，大多数这种游戏的宿命就是“玩家们兴冲冲地涌进来，骂咧咧走出去”。实际上缺乏了强有力的核心玩法的游戏，寿命都不会长久，这也是游戏业内的“游戏寿命短”的说法的来由，因为大多数游戏确实缺少真正有意思的核心玩法设计。\n本文将会剖析《高达VS》的核心玩法，将其长青不倒的秘密展现出来。\n\n(《高达VS》封面)\n游戏基础概括\n由于笔者并未能去日本玩到《高达VS》系列的最新作，所以本文所有分析将基于移植到了PS4平台上的旧作《高达EXVS MBON》来进行分析。本章节将讲述一下该游戏的一些基本内容以便于读者理解。\n首先既然是《高达VS》，那玩家操作的角色自然就是以“高达”为代表的各式机器人。\n下面这个GIF图非常直观的体现了该游戏的要素。\n\n(GIF展示游戏要素)\n图的中心是玩家操作的高达，右下角的UI是高达的武装槽，…",
+          "link": "https://www.gcores.com/articles/138344",
+          "publishedOn": "2021-06-19T02:00:00.000Z",
+          "wordCount": 77,
+          "title": "日本火了十多年的对战游戏：《高达VS》的游戏设计分析"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138299",
+          "author": "yyslimita",
+          "description": "如果有一个在恋爱游戏中成为律政佳人的机会，你会尝试吗？\n《未定事件簿》恰好能满足这个愿望。作为一款恋爱推理手游，玩家会扮演新人律师，在近未来背景下与四位男主角组成NXX调查组，接下案件委托，通过调查在抽丝剥茧中还原真相。这些看似毫无关联的案件都与违禁成分NXX有关，背后涉及庞大而复杂的势力纠葛。\n本文试图从推理部分和恋爱部分两个方面来聊聊游戏体验，重点是玩法怎样与剧情结合，以带给玩家更多沉浸感。\n\n错综复杂的案件与艰深人心\n在《未定事件簿》主线第四章开始处，由玩家扮演的律师女主角向直接上级左然申请，正式加入他所在的NXX调查组，与本作中的其他三位男主角共同寻找证据，以指证利用NXX这一违禁品进行制药实验并投入市场，造成大量精神异常和器官衰竭患者的犯罪行为。\n这一选择是本作的重要节点。\n虽然玩家能够猜到，这是女主角注定会选择的路，但前期经历一系列危险和冲击后，女主角选择加入NXX调查组的契机更加显示出女主角强烈的悲悯之心和由此带来的精神力量。\n\n\n\n\n在左然同意她的申请后，她立刻切换到NXX成员的状态，询问左然自己是否也需要一个代号，其行动力可见一斑。\n主线剧情中，女主角的行为也处处昭示着她身上所具有的品质。无论是打开仓库的消防控制系统将队友从搏斗中及时救出，还是利用囚徒困境的知识使两名罪犯分别指认对方的犯罪行为从而获知真相，抑或是在极限情况下找到档案室中的锤子砸碎关押队友的透明玻璃柜，都让人感受到她鲜明的性格特征。作为一名女性都市白领，她在体力上丝毫不占优势，更多是凭借敏锐的观察力、清晰的逻辑和危机时刻由坚定信念催生出的勇气来完成调查，十分契合她在组内的代号“蔷薇”，不同于外表的柔弱，蔷薇是很坚强的花卉。\n\n\n\n\n在案件接连被侦破的过程中，推理玩法和主线剧情之间相辅相成。蔷薇在与陪同角色的讨论中，通过寻找证词与证物之间的矛盾，或是证词与证词之间的矛盾完成推理，提出猜想，之后…",
+          "link": "https://www.gcores.com/articles/138299",
+          "publishedOn": "2021-06-19T01:00:00.000Z",
+          "wordCount": 47,
+          "title": "《未定事件簿》体验报告：没有选择的侦探游戏和有选择的恋爱游戏"
+        },
         {
           "id": "https://www.gcores.com/articles/138342",
           "author": "游信",
@@ -1331,6 +1474,42 @@
       "feedUrl": "https://theinitium.com/newsfeed/",
       "siteUrl": "https://theinitium.com/newsfeed/",
       "articles": [
+        {
+          "id": "https://theinitium.com/article/20210529-note-readers-voices-2/",
+          "author": "端傳媒讀者",
+          "description": "「這個微信群炸了8次，我還在。會讓我覺得『啊，原來世界還有這樣一群人啊，真好啊』，這也算是我能找到的微薄的身份認同吧。」",
+          "link": "https://theinitium.com/article/20210529-note-readers-voices-2/",
+          "publishedOn": "2021-06-19T09:13:00.000Z",
+          "wordCount": 2,
+          "title": "端問答：討厭中國不自由與不民主的大陸居民，你的生活如何自洽？"
+        },
+        {
+          "id": "https://theinitium.com/article/20210619-culture-photography-museum-taiwan/",
+          "author": "特約撰稿人 汪正翔 發自台北",
+          "description": "當大多數攝影愛好者把拍照片這回事當作美化這個世界，台灣為攝影成立一個國家級文化機構，能做些什麼呢？",
+          "link": "https://theinitium.com/article/20210619-culture-photography-museum-taiwan/",
+          "publishedOn": "2021-06-19T08:59:00.000Z",
+          "wordCount": 2,
+          "title": "台灣成立國家攝影文化中心，文青看攝影展的心態開始不同了⋯⋯"
+        },
+        {
+          "id": "https://theinitium.com/article/20210619-wsj-china-new-power-play/",
+          "author": "華爾街日報",
+          "description": "中國政府正呼籲中國科技巨頭分享它們收集的大量個人資訊，同時還要求掌控在中國經營的美國公司的數據。",
+          "link": "https://theinitium.com/article/20210619-wsj-china-new-power-play/",
+          "publishedOn": "2021-06-19T06:07:00.000Z",
+          "wordCount": 2,
+          "title": "中國新權力遊戲：加大對科技企業所收集數據的控制"
+        },
+        {
+          "id": "https://theinitium.com/article/20210620-notes-top-comments-of-week/",
+          "author": "端傳媒社群組",
+          "description": "「讀者十論」欄目每週擇選報導及圓桌話題中十組精彩讀者留言刊出。",
+          "link": "https://theinitium.com/article/20210620-notes-top-comments-of-week/",
+          "publishedOn": "2021-06-19T05:12:00.000Z",
+          "wordCount": 2,
+          "title": "讀者十論：面具社會"
+        },
         {
           "id": "https://theinitium.com/article/20210618-opinion-hk-what-does-normal-journalist-means/",
           "author": "鄭昶人",
@@ -1816,6 +1995,150 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/coincurrently",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/coincurrently",
+          "publishedOn": "2021-06-19T07:47:46.000Z",
+          "wordCount": 92,
+          "title": "CoinCurrently — Cryptocurrency tracker"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/folk-flow-ats",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/folk-flow-ats",
+          "publishedOn": "2021-06-19T07:20:00.000Z",
+          "wordCount": 111,
+          "title": "Folk Flow ATS — Applicant tracking system you can use forever, at no cost"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/super-portfolio",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/super-portfolio",
+          "publishedOn": "2021-06-19T07:14:04.000Z",
+          "wordCount": 108,
+          "title": "Super Portfolio — Create a super powered portfolio page for yourself"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/simplymarkdown",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/simplymarkdown",
+          "publishedOn": "2021-06-19T07:02:07.000Z",
+          "wordCount": 81,
+          "title": "Simplymarkdown — Easy create markdown with template and live preview"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/blazing-news",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/blazing-news",
+          "publishedOn": "2021-06-19T06:25:54.000Z",
+          "wordCount": 105,
+          "title": "Blazing News — A real time summarised news feed app"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/notion-party-planners",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/notion-party-planners",
+          "publishedOn": "2021-06-19T06:21:52.000Z",
+          "wordCount": 95,
+          "title": "Notion Party Planners — Plan all of your events using Notion"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/college-compendium",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/college-compendium",
+          "publishedOn": "2021-06-19T05:59:41.000Z",
+          "wordCount": 117,
+          "title": "College Compendium — A collection of 650+ university CS courses for the curious"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/newsly-2",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/newsly-2",
+          "publishedOn": "2021-06-19T05:57:33.000Z",
+          "wordCount": 133,
+          "title": "Newsly — Listen to a personalized choice of web content & podcasts"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/verdaccio",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/verdaccio",
+          "publishedOn": "2021-06-19T05:37:38.000Z",
+          "wordCount": 84,
+          "title": "Verdaccio — Cache npm modules to expedite your npm install"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/autocomplete",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/autocomplete",
+          "publishedOn": "2021-06-19T02:13:39.000Z",
+          "wordCount": 79,
+          "title": "AutoComplete — Type faster, let AI finish your sentences"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/alliance-business-suite",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/alliance-business-suite",
+          "publishedOn": "2021-06-19T01:44:55.000Z",
+          "wordCount": 91,
+          "title": "Alliance Business Suite — Low-code next-generation business development platform"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/euler-assist",
+          "author": null,
+          "description": "“\n        Hello everyone!\n\n  Euler Assist was inspired by this tweet. I have been experimenting with a lot of AI projects and wanted to recreate this concept.\n\n  Snap a picture of any mathematical question and get detailed step by step solutions.   \n\nHere’s how it works:\nRead photo -> Mathematical OCR -> Feed to Wolfram Alpha. \n\n  I'm using my pro version for Wolfram alpha to be able to provide the detailed solutions. Hence the $0.99. However the code is open source and you can provide your own Wolfram Alpha api key and use if you’d like. \n\nLet me know your thoughts and feedback :)\n        ”\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/euler-assist",
+          "publishedOn": "2021-06-19T00:40:26.000Z",
+          "wordCount": 82,
+          "title": "Euler Assist — Snap mathematical questions and get detailed solutions"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/profit-lifter",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/profit-lifter",
+          "publishedOn": "2021-06-18T22:56:03.000Z",
+          "wordCount": 96,
+          "title": "Profit Lifter — E-commerce profit calculator"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/pentacle",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/pentacle",
+          "publishedOn": "2021-06-18T22:23:27.000Z",
+          "wordCount": 89,
+          "title": "Pentacle — Framework of collective knowledge in DeFi"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/digital-design-talks",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/digital-design-talks",
+          "publishedOn": "2021-06-18T20:54:42.000Z",
+          "wordCount": 113,
+          "title": "Digital Design Talks — Learn from design leaders from around the world"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/tripsy-for-mac",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/tripsy-for-mac",
+          "publishedOn": "2021-06-18T19:11:15.000Z",
+          "wordCount": 96,
+          "title": "Tripsy for Mac — An iOS travel planner now available for Mac"
+        },
+        {
           "id": "https://www.producthunt.com/posts/ctiny",
           "author": null,
           "description": "Discussion\n        |\n        Link",
@@ -1823,6 +2146,33 @@
           "publishedOn": "2021-06-18T18:45:47.000Z",
           "wordCount": 99,
           "title": "Ctiny — Short link, More control"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/epylogue",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/epylogue",
+          "publishedOn": "2021-06-18T17:40:57.000Z",
+          "wordCount": 98,
+          "title": "Epylogue — The self-writing diary"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/sharedrop-2",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/sharedrop-2",
+          "publishedOn": "2021-06-18T15:13:12.000Z",
+          "wordCount": 93,
+          "title": "ShareDrop — Share files between devices w/o uploading them to a server."
+        },
+        {
+          "id": "https://www.producthunt.com/posts/findink",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/findink",
+          "publishedOn": "2021-06-18T15:08:55.000Z",
+          "wordCount": 101,
+          "title": "FindInk — A tatto artist search engine"
         },
         {
           "id": "https://www.producthunt.com/posts/modern-product-management-part-3",
@@ -2573,6 +2923,138 @@
       "feedUrl": "https://www.archdaily.com/feed",
       "siteUrl": "https://www.archdaily.com/",
       "articles": [
+        {
+          "id": "https://www.archdaily.com/963613/i-house-in-izu-kogen-florian-busch-architects",
+          "author": "Hana Abdel",
+          "description": "Where too much intention often leads to unnecessary replicas of the everyday life we try to escape from, the brief for this project was, like the site, encouragingly modest: A small shelter for an urban family to spend their weekends.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/j1Ub933JM30/i-house-in-izu-kogen-florian-busch-architects",
+          "publishedOn": "2021-06-19T19:00:00.000Z",
+          "wordCount": 1213,
+          "title": "I House in Izu-Kogen / Florian Busch Architects",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cc/7d90/5373/1401/64c5/0684/medium_jpg/fba-ikg-210423-dji-0002-2555-x-2555.jpg?1624014247"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/780684/the-pyramid-viewpoint-bte-architecture",
+          "author": "Daniel Sánchez",
+          "description": "The site is located on a peninsula overlooking the U.K.'s largest stretch of inland water, Loch Lomond. An existing cafe marks the entrance situation for visitors arriving either by car from the A82 or by boat. From the car park with adjoining jetty, a system of pathways lead onto the peninsula and continue along its exposed edges formed by big rocks, or through the site sheltered by trees and bushes. The rocks locate the site high above the water's edge and a series of steps and easily accessible ramps lead the visitor through the sloped inside of the site. The pathways interlink, creating a parcour with rendezvous points adding emphasis to these junctions.  The topography of the site allows the surrounding landscape to be experienced as a panorama, with the site itself visible from afar, like a rock amongst water.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/QCaD8mCSya0/the-pyramid-viewpoint-bte-architecture",
+          "publishedOn": "2021-06-19T17:00:00.000Z",
+          "wordCount": 1111,
+          "title": "The Pyramid Viewpoint / BTE Architecture",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/569f/8f13/e58e/ceb1/5000/0149/medium_jpg/portada_P4_BTE_The_Pyramid_Viewpoint_Front_Elevation_Andrew_Lee.jpg?1453297407"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/793602/casa-candelaria-cherem-arquitectos",
+          "author": "Florencia Mena",
+          "description": "Casa Candelaria, Located at the outsides of San Miguel de Allende, Mexico, was conceived under concepts that detonate the strength in its presence and belonging to the place where it uproots, for which it was decided to return to the program of the Mexican haciendas and solve the new house around courtyards which themselves contain an activity that represents the tension and the relationship between the functions of the volumes that surround it.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/J0Eizv-VEA4/casa-candelaria-cherem-arquitectos",
+          "publishedOn": "2021-06-19T15:00:00.000Z",
+          "wordCount": 1018,
+          "title": "Casa Candelaria / Cherem arquitectos",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/57b6/63ee/e58e/cea5/7b00/0199/medium_jpg/Candelaria2016.02.07-18.jpg?1471570922"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963415/mo-house-laura-ortin-arquitectura",
+          "author": "Pilar Caballero",
+          "description": "An ethical and oecological issue. The project was conceived just when our bodies and after a few days our minds were confined. Could this new household up another confinement? We wonder. This will be perhaps from now on the new question to project. Because if architecture is good because it is flexible, bright, and healthy, it will endure confinement and any future situation. Because it will be adaptive, evolutionary, and caring.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/awThf0iLgzk/mo-house-laura-ortin-arquitectura",
+          "publishedOn": "2021-06-19T13:00:00.000Z",
+          "wordCount": 850,
+          "title": "MO House / Laura Ortín Arquitectura",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60c8/d97a/e1fe/0f01/6557/77d9/medium_jpg/20055-001dfr.jpg?1623775718"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963492/eugaria-house-jose-adriao-arquitecto",
+          "author": "Andreas Luco",
+          "description": "This house, which is located on terraced land on the northern slopes of the Serra de Sintra, had undergone a series of modifications over the years. All of the houses in the village of Eugaria were built in the same way, creating a settlement with a unique identity and feel. The house is at the heart of a property that includes a terraced garden, pathways, growing areas, wellheads, courtyards and terraces, seeming to merge gradually into the woodland that swathes the hillside beyond.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/n5dLSODPfGg/eugaria-house-jose-adriao-arquitecto",
+          "publishedOn": "2021-06-19T11:00:00.000Z",
+          "wordCount": 913,
+          "title": "Eugaria House / José Adrião Arquitecto",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ca/2daf/7424/2621/9bce/ab9f/medium_jpg/eugaria-04.jpg?1623862709"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963369/ates-wind-power-headquarters-da-architects",
+          "author": "Andreas Luco",
+          "description": "The project site is located along the Gallipoli-Izmir expressway near the Candarli port in Izmir Turkey. Lasting a total of 8 years, the design and construction process had a transformative effect on our perception of the manufacturing process and the workplace design and its organization.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/8R8-3j1ucKQ/ates-wind-power-headquarters-da-architects",
+          "publishedOn": "2021-06-19T09:00:00.000Z",
+          "wordCount": 1134,
+          "title": "ATES Wind Power Headquarters / Da Architects",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60c8/0fe2/e1fe/0f01/6557/774b/medium_jpg/fi-da-architects-ates-20.jpg?1623724058"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/962947/does-automation-take-away-from-the-individuality-of-design",
+          "author": "Matthew Maganga",
+          "description": "We’re in an age of unprecedented technological innovation. The architecture and construction industries are increasingly becoming more and more automated, as firms seek to take full advantage of new machinery and new ways of working to make the design process more efficient. With this increase in automation, however, comes lots of questions too. Will robots ever replace architects? Will the near future see a fully automated construction industry? A pertinent question, too, is the complicated case of automation and the individuality of design – does automation take away from the individuality of design?",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/5bauuXXSeJQ/does-automation-take-away-from-the-individuality-of-design",
+          "publishedOn": "2021-06-19T07:30:00.000Z",
+          "wordCount": 1022,
+          "title": "Does Automation Take Away From the Individuality of Design?",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60ca/64be/9814/5501/64f9/657a/medium_jpg/fi.jpg?1623876809"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963632/casaplatform-exhibition-set-architects",
+          "author": "Paula Pintos",
+          "description": "The Casaplatform exhibition project is inspired by the facade of Procuratie, the three connected buildings located along the perimeter of Piazza San Marco. The project is designed to be located inside the Scuola Grande della Misericordia in Venice during the 17th Architecture Biennale.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/rL10UVHh7J4/casaplatform-exhibition-set-architects",
+          "publishedOn": "2021-06-19T06:00:00.000Z",
+          "wordCount": 809,
+          "title": "Casaplatform Exhibition / SET Architects",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cc/f211/f91c/8182/7200/0028/medium_jpg/SET_Casaplatform_06%C2%AEMarco_Cappelletti.jpg?1624044035"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963145/hotel-indigo-taipei-kris-yao-artech",
+          "author": "Andreas Luco",
+          "description": "Hotel Indigo Taipei is a hotel and retail complex located in Taipei’s newly developed commercial and business district in Dazhi. Hotel Indigo aims to become the new highlight landmark of the district. The design concept uses Dazhi’s local historical context, where the brick and tile industry and kilns once prospered.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/4zXGioV2qxk/hotel-indigo-taipei-kris-yao-artech",
+          "publishedOn": "2021-06-19T02:00:00.000Z",
+          "wordCount": 886,
+          "title": "Hotel Indigo Taipei / KRIS YAO | ARTECH",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60c1/3c67/f2c9/9c01/64c1/541f/medium_jpg/fi-02-hotel-indigo-taipei-c-jeffrey-cheng.jpg?1623276670"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963614/n-house-moss",
+          "author": "Hana Abdel",
+          "description": "This project was a renovation of an atmospheric vintage apartment in the Magome neighborhood of Tokyo. The owners are a married couple working for a furniture maker. We changed the original two-bedroom layout to a light-filled one-bedroom with living room, dining area, and kitchen. The clients’ requests were simple: good light, a large living room, and minimal use of colors. Working with the limitations of a 55-square-meter apartment, our intention while conceiving this design was to add richness and depth to the space. We focused on the following four elements:",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/CrFhzvPOHEQ/n-house-moss",
+          "publishedOn": "2021-06-18T22:00:00.000Z",
+          "wordCount": 1023,
+          "title": "N House / moss.",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cc/8660/5373/1401/64c5/06a6/medium_jpg/dsc5266.jpg?1624016605"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963277/persepolis-entrance-pavilion-thealliance",
+          "author": "Pilar Caballero",
+          "description": "Persepolis Entrance Pavilion is a 200 sqm open-space, multi-functional pavilion located at the entrance of Iran’s renown UNESCO World Heritage Site, The Persepolis. The form finding process is guided by an indirect modelling algorithm dealing with axial lines of the space at its core, developed by our team which indirectly guides form finding and geometry. Through this strategy, \"Medial Surfaces\" are derived by controlling axial lines which eliminates direct control over the surface's geometry.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/BzYi65hnd60/persepolis-entrance-pavilion-thealliance",
+          "publishedOn": "2021-06-18T20:00:00.000Z",
+          "wordCount": 993,
+          "title": "Persepolis Entrance Pavilion / theAlliance",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60c3/a0a7/a8ac/3901/64cf/ab13/medium_jpg/fi-06.jpg?1623433473"
+          }
+        },
         {
           "id": "https://www.archdaily.com/963529/house-lincoln-those-architects",
           "author": "Hana Abdel",
@@ -4347,15 +4829,6 @@
           "publishedOn": "2021-05-24T12:00:00.000Z",
           "wordCount": 666,
           "title": "Alice Taylor"
-        },
-        {
-          "id": "https://www.aint-bad.com/?p=244361",
-          "author": "Carson Sanders",
-          "description": "Hannah Taylor is an emerging photographer located in the mountains of East Tennessee. She utilizes available light and a documentarian style to explore landscapes within her region. Her work addresses… Read More\nThe post Hannah Taylor appeared first on AINT—BAD.",
-          "link": "https://www.aint-bad.com/article/2021/05/21/hannah-taylor/",
-          "publishedOn": "2021-05-21T12:00:00.000Z",
-          "wordCount": 724,
-          "title": "Hannah Taylor"
         }
       ]
     },
