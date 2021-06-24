@@ -164,7 +164,17 @@
       "title": "Austin Z. Henley's Blog",
       "feedUrl": "https://web.eecs.utk.edu/~azh/blog/feed.rss",
       "siteUrl": "https://web.eecs.utk.edu/~azh/blog.html",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://web.eecs.utk.edu/~azh/blog/stackoverflow.html",
+          "author": "azh@utk.edu (Austin Z. Henley)",
+          "description": "https://web.eecs.utk.edu/~azh/blog/stackoverflow.html",
+          "link": "https://web.eecs.utk.edu/~azh/blog/stackoverflow.html",
+          "publishedOn": "2021-06-23T21:00:01.000Z",
+          "wordCount": 492,
+          "title": "Stack Overflow knows your future problem"
+        }
+      ]
     },
     {
       "title": "Filip Nikolovski",
@@ -193,6 +203,62 @@
       "feedUrl": "https://rimzy.net/feed/",
       "siteUrl": "https://rimzy.net",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2169128",
+          "author": "Ron Miller",
+          "description": "Salesforce and AWS represent the two most successful cloud companies in their respective categories. Over the last few years the two cloud giants have had an evolving partnership. Today they announced plans for a new set of integration capabilities to make it easier to share data and build applications that cross the two platforms. Patrick […]",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/5cnIKKJotsk/",
+          "publishedOn": "2021-06-23T05:01:41.000Z",
+          "wordCount": 692,
+          "title": "Salesforce, AWS announce extended partnership with further two-way integration",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          }
+        },
+        {
+          "id": "https://techcrunch.com/?p=2169128",
+          "author": "Ron Miller",
+          "description": "Salesforce and AWS represent the two most successful cloud companies in their respective categories. Over the last few years the two cloud giants have had an evolving partnership. Today they announced plans for a new set of integration capabilities to make it easier to share data and build applications that cross the two platforms. Patrick […]",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/5cnIKKJotsk/",
+          "publishedOn": "2021-06-23T05:01:41.000Z",
+          "wordCount": 692,
+          "title": "Salesforce, AWS announce extended partnership with further two-way integration",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          }
+        },
+        {
+          "id": "https://techcrunch.com/?p=2169059",
+          "author": "Ingrid Lunden",
+          "description": "Diversity and inclusion have become central topics in the world of work. In the best considerations, improving them is a holistic effort, involving not just conceiving of products with this in mind, but hiring and managing talent in a diverse and inclusive way, too. A new startup called Pequity that has built a product to […]",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/WcSA6LDz9is/",
+          "publishedOn": "2021-06-23T04:00:16.000Z",
+          "wordCount": 965,
+          "title": "Pequity, a compensation platform designed for more equitable pay, raises $19M",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          }
+        },
+        {
+          "id": "https://techcrunch.com/?p=2169059",
+          "author": "Ingrid Lunden",
+          "description": "Diversity and inclusion have become central topics in the world of work. In the best considerations, improving them is a holistic effort, involving not just conceiving of products with this in mind, but hiring and managing talent in a diverse and inclusive way, too. A new startup called Pequity that has built a product to […]",
+          "link": "http://feedproxy.google.com/~r/techcrunchIt/~3/WcSA6LDz9is/",
+          "publishedOn": "2021-06-23T04:00:16.000Z",
+          "wordCount": 965,
+          "title": "Pequity, a compensation platform designed for more equitable pay, raises $19M",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          }
+        },
         {
           "id": "https://techcrunch.com/?p=2168612",
           "author": "Frederic Lardinois",
@@ -486,15 +552,6 @@
           "publishedOn": "2021-06-02T17:12:38.000Z",
           "wordCount": 4324,
           "title": "Non-empirical Physics"
-        },
-        {
-          "id": "https://www.math.columbia.edu/~woit/wordpress/?p=12341",
-          "author": "woit",
-          "description": "Reading this Nautilus article about Julian Barbour led me recently to something I don’t think I’ve ever read before, Dirac’s 1963 Scientific American article The Evolution of the Physicist’s Picture of Nature. There is a very famous quote from this … Continue reading →",
-          "link": "https://www.math.columbia.edu/~woit/wordpress/?p=12341",
-          "publishedOn": "2021-05-24T19:02:14.000Z",
-          "wordCount": 4474,
-          "title": "The Evolution of the Physicist’s Picture of Nature"
         }
       ]
     },
@@ -832,6 +889,15 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://feedproxy.google.com/~r/blogspot/gJZg/~3/dUKd8nUp3vY/improving-genomic-discovery-with.html",
+          "author": null,
+          "description": "Posted by Andrew Carroll, Product Manager and Cory McLean, Software Engineer, Google Health \nEach person’s genome, which collectively encodes the biochemical machinery they are born with, is composed of over 3 billion letters of DNA. However, only a small subset of the genome (~4-5 million positions) varies between two people. Nonetheless, each person’s unique genome interacts with the environment they experience to determine the majority of their health outcomes. A key method of understanding the relationship between genetic variants and traits is a genome-wide association study (GWAS), in which each genetic variant present in a cohort is individually examined for correlation with the trait of interest. GWAS results can be used to identify and prioritize potential therapeutic targets by i…",
+          "link": "http://feedproxy.google.com/~r/blogspot/gJZg/~3/dUKd8nUp3vY/improving-genomic-discovery-with.html",
+          "publishedOn": "2021-06-23T19:58:00.001Z",
+          "wordCount": 1978,
+          "title": "Improving Genomic Discovery with Machine Learning"
+        },
+        {
           "id": "http://feedproxy.google.com/~r/blogspot/gJZg/~3/5mwX1gN-7UE/quantum-machine-learning-and-power-of.html",
           "author": null,
           "description": "Posted by Jarrod McClean, Staff Research Scientist and Hsin-Yuan (Robert) Huang1, Intern, Google Quantum AI \nQuantum computing has rapidly advanced in both theory and practice in recent years, and with it the hope for the potential impact in real applications. One key area of interest is how quantum computers might affect machine learning. We recently demonstrated experimentally that quantum computers are able to naturally solve certain problems with complex correlations between inputs that can be incredibly hard for traditional, or “classical”, computers. This suggests that learning models made on quantum computers may be dramatically more powerful for select applications, potentially boasting faster computation, better generalization on less data, or both. Hence it is of great interest t…",
@@ -938,15 +1004,6 @@
           "publishedOn": "2021-05-26T18:54:00.002Z",
           "wordCount": 1993,
           "title": "Cross-Modal Contrastive Learning for Text-to-Image Generation"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/blogspot/gJZg/~3/XhPUzI-LqTk/understanding-contextual-facial.html",
-          "author": null,
-          "description": "Posted by Alan Cowen, Visiting Researcher and Gautam Prasad, Software Engineer, Google Research \nIt might seem reasonable to assume that people’s facial expressions are universal — so, for example, whether a person is from Brazil, India or Canada, their smile upon seeing close friends or their expression of awe at a fireworks display would look essentially the same. But is that really true? Is the association between these facial expressions and their relevant context across geographies indeed universal? What can similarities — or differences — between the situations where someone grins or frowns tell us about how people may be connected across different cultures?  \nScientists seeking to answer these questions and to uncover the extent to which people are connected across cultures and geog…",
-          "link": "http://feedproxy.google.com/~r/blogspot/gJZg/~3/XhPUzI-LqTk/understanding-contextual-facial.html",
-          "publishedOn": "2021-05-24T21:18:00.000Z",
-          "wordCount": 2456,
-          "title": "Understanding Contextual Facial Expressions Across the Globe"
         }
       ]
     },
@@ -999,15 +1056,6 @@
           "publishedOn": "2021-05-25T15:46:14.000Z",
           "wordCount": 141,
           "title": "Sandy Munro 看不懂 美的Midea 的注塑工艺"
-        },
-        {
-          "id": "tag:None,2021-05-25:/202105/stdin-003",
-          "author": "est",
-          "description": "下面内容转载自 zhihu/叶思泰\n\r\n\r\n最近打算写一个暴论：金朝汉化不成功，很大程度上也是一个“建国神话”范式。\n\r\n很多强盛的少数民族王朝都会有这种问题：开国一代人确实武功赫赫，打下了，好大一片积液，但是子孙后代往往被这样伟大的建国神话所迷惑，将一切原因归功于本民族的独特风俗习惯，而忽略了开国一代的艰辛睿智。\n\r\n金朝上下就普遍存在着这样一种认识：太祖太宗两朝吞辽灭宋武力强盛，那是因为当时的女真人风俗质朴，所以只要勒令女真人保持建国时期的风俗，就能保持军队的战斗力。\n\r\n这种刻舟求剑的建国神话痴迷和太平洋岛国土著的船货崇拜没区别，如果这些人真的细究一下本国的建国历史，就会意识到：耶律阿保机的契丹和孙万荣的契丹是完全不一致的，完颜阿骨打时代的女真和完颜函普时代也大相径庭，李元昊时代的党项和拓跋思恭相比也有本质的进步——他们开创的辉煌基业，正是在变化的基础上实现的，后世却刻舟求剑的将原因都归结于具体的一个个风俗上。\n\r\n金人为了维持女真旧俗费了很大的功夫，猛安谋克户实行父子相聚而耕的原始村社，还屡次商议重新均贫富平分地产。直接结果就是落后的生产关系导致军户经营极差，根本竞争不过周围的汉族农民，国家屡次拘刷良田供给他们，大大激化了金朝的民族矛盾。\n\r\n再就是对建国神话的痴迷导致了对女真人武力的过度想象，即使在金末时期，也妄想建立“北族超人军队”，继续实行汉族耕田供给女真人打仗的愚蠢制度。\n\r\n联想到前些年某些地方不思政务，完全忘却了为人民服务的宗旨，整天举办重走某某路、唱某某歌的活动，以为这就能天下倾心，万姓拥护，这就能不忘初心，继续奋斗了，所作所为 …",
-          "link": "https://blog.est.im/202105/stdin-003",
-          "publishedOn": "2021-05-25T10:53:19.000Z",
-          "wordCount": 37,
-          "title": "金朝汉化不成功，很大程度上也是一个“建国神话”范式"
         }
       ]
     },
@@ -1016,6 +1064,186 @@
       "feedUrl": "https://www.gcores.com/rss",
       "siteUrl": "https://www.gcores.com",
       "articles": [
+        {
+          "id": "https://www.gcores.com/articles/138391",
+          "author": "Ziog Searpeen",
+          "description": "我带着一个美丽的伤口来到世界上，这是我的全部陪嫁。\n\n——卡夫卡《乡村医生》\nN.写在前面\n本文是《浅析〈赛博朋克2077〉恶魔结局的精彩之处》（以下简称“《浅析》”）系列文章的第二章，烦请各位新读者先尝试阅读第一章的内容，以获得最佳的阅读体验。为了阅读的连贯性，笔者将第一章已经得出或已有暗示的主要论断列出。\n\n《赛博朋克2077》尝试表现的底层主题是古典的赛博朋克作品常用的主题：在一个技术和资本脱缰狂飙、巨型公司垄断一切、伦理道德接近崩坏的近未来的资本主义社会，底层人物的竭力挣扎和反抗。\n玩家感知主题可以从世界、人物和情节冲突三方面入手。三者受到共同主题的统摄，也因共同主题的制约需要彼此协调。主题的表现不应由设计者强行灌输，而应在玩家主动感受和随后的反复品味中得到。\n玩家感知主题的过程就是玩家与设计者达成交流的过程。世界与玩家的互动、人物给玩家带来的移情共鸣以及外部和情感冲突的并行都是增进交流的绝佳方法。\n恶魔结局在有限的流程时间内，没有追求涵盖《赛博朋克2077》主题的方方面面，而是尽力引导玩家思考在特定的赛博朋克世界观中个人选择和个人价值的主题。因此，设计者通过塑造典型的人物形象引发玩家的共鸣，同时设计者以点带面，将各个人物串联在一起，共同编织出恶魔结局希望展现的世界观。除此之外，结局中情感冲突的突出刻画也增添了恶魔结局的主题表现力。\n本文也是《浅析》的最后一篇文章。在本文末尾，笔者会把《浅析》参考的文献资料统一列出。此外，《浅析》的行文过程中出现了相当数量的专业术语和原理，范围横跨游戏、文学、电影、美术乃至心理学等多个领域。虽然笔者在写作时查阅了相关资料，但限于本人的水平和阅历，文中难免有错误脱漏之处，恳请各位读者指正，也欢迎各位读者在评论区交流探讨！\nI.我们如何把握细节\n什么是细节呢？想想看我们在初中语文课上学习过的短篇小说《最后一课》吧。这篇由法国小说家都德创…",
+          "link": "https://www.gcores.com/articles/138391",
+          "publishedOn": "2021-06-24T00:00:00.000Z",
+          "wordCount": 139,
+          "title": "浅析《赛博朋克2077》恶魔结局的精彩之处（二）：细节设计"
+        },
+        {
+          "id": "https://www.gcores.com/radios/138372",
+          "author": "Hardy",
+          "description": "本期时间轴制作：老斧子\n小舰巨炮的故事进入到了最后一期。在那场“终结了一切战争的战争“结束后，无论大船小船都面临着解体的命运，浅水重炮舰也是一样。然而，休战是短暂的，第二次大战蔓延至整个世界，小船儿和她们的巨炮，将会最后一次在洋面上怒吼，奉上自己的谢幕演出。",
+          "link": "https://www.gcores.com/radios/138372",
+          "publishedOn": "2021-06-23T15:00:00.000Z",
+          "wordCount": 40,
+          "title": "收下吧大英，这是我们最后的波纹：非正常军武之小舰巨炮故事 完结篇"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138515",
+          "author": "动画学术趴",
+          "description": "作者 / 拉笑儿·李\n编辑 / 思考姬\n排版 / 桔颉 \n刚刚在网飞上映的《美少女战士 Eternal》（前篇）刷了一波回忆杀。\n\n\n比起官方改编重绘的前三季，这一次的战士们回归了旧版的娃娃脸，看起来顺眼多了。\n\n\n为什么对于从小沉迷《美少女战士》系列的读者/观众来说，这样的画面总能唤起相同的回忆、让人忍不住想跟着一起喊：\n\n\n“爱与正义的水手服美少女战士！Sailor Moon——” \n\n\n\n\n\n\n “我要代替月亮惩罚你！”（口号有不同翻译版本）。 \n这种回忆滤镜被植入眼底，牵着美战迷的鼻子消费了一波又一波的产品：漫画、动画、游戏、真人影视作品…… \n\n\n\n\n\n\n\n\n从九十年代到2021年，尽管每个版本人物的脸型、五官、身材都在变化，但当观众看到“丸子头双马尾、弯月、爱心、蝴蝶结、羽毛、百褶短裙、权杖”等等的服饰图像时，还是能顿时反应过来：是《美少女战士》啊！ \n\n\n\n\n这种图象烙印之深，连剪影都极具辨识度，让人知道，是那位以月之名儆恶惩奸的超级英雄来了——那么这是为什么呢？\n\n\n\n动画作品里出现的经典服饰符号 \n事实上，在过去的三十年里，美战服饰似乎已成一种符号。不管在世界哪个角落看到类似的元素，我们都能很快地联想到：水手服、魔法少女、动画、漫展、御宅族…… \n\n(风靡全网的月野兔挑战)\n\n(《模拟人生4》的粉丝自制美少女战士衣领)\n\n(漫展里的cosplayers)\n在动画圈子里，这样的例子还有很多，其他类似的服装还有：《圣斗士星矢》、《新世纪福音战士》、《火影忍者》等等。 \n\n(《圣斗士星矢》里的黄金圣衣)\n\n(《火影忍者》里的漩涡鸣人)\n在这些动画作品中，衣服似乎比角色的生理外表（面容、身型等）更能代表角色的特征。甚至，在很多作品的设定里，角色换装后在旁人的眼中直接就是另外一个人。 \n比如，在《美少女战士》等魔法少女类的动画里，战斗状态的角色们仿佛自带致幻剂，就连…",
+          "link": "https://www.gcores.com/articles/138515",
+          "publishedOn": "2021-06-23T11:00:00.000Z",
+          "wordCount": 110,
+          "title": "从《美少女战士》切入，聊聊动画作品里出现的经典服饰符号"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138489",
+          "author": "MULAN",
+          "description": "题图链接：点击跳转\n原文链接：点击跳转\n本文是我的原创文章，最初以英文写就，以下是中文翻译版。部分引用译自英文可能存在偏差。外国人名皆保留了英文形式。\n邦妮（Bonnie）和克莱德（Clyde）大概是美国历史上最有名的罪犯组合了。以他们之名命名的电影《雌雄大盗》由Arthur Penn执导并于1967年上映。这部电影震撼了当时的观众们。而三十年后，另一部与之相似的公路片在1991年上映，而它又唤起了三十年前那份逃亡天涯的故事记忆。《末路狂花》由Ridley Scott执导，它就和《雌雄大盗》一样备受争议。两部电影都在当代报纸上激发了广泛的讨论，来自美国各地，甚至其他国家的观众都参与了当时的讨论热潮。关于这两部电影的当代电影评论揭露了人们随时间而改变关注的火热话题。即便从现代社会来看，这两部老电影仍然提供了宝贵的价值和意义。\n《雌雄大盗》\n《雌雄大盗》有三个显著的，广为讨论的特质。它有许多的暴力，犯罪，枪击，抢劫，绑架场面。然而，所有的罪恶行径都可以追溯到巴洛帮，这个存在于1930年的真实犯罪团伙，而它的首领就是邦妮·帕克（Bonnie Parker）和克莱德·巴洛（Clyde Barrow）。抛开所有的争议不谈，《雌雄大盗》依然是一部为美国，甚至世界时尚界带来新潮流的电影。\n有关《雌雄大盗》的争论激烈而旷日持久，而主要的批评于争议来源就是它的暴力场面。《纽约时报》（New York Times）的一名读者给报纸寄送了一份对于电影的个人观察。这份观察可以让我们一窥《雌雄大盗》公众讨论的大致摸样。\nMarry Ellen Roof（1968），也就是那名读者，说到：“我认识的所有看过这部电影的人要么非常喜欢，要么非常讨厌它。没有人对它保持中立，没有人能看完它还保持无动于衷”(D7)。《雌雄大盗》太热门，以至于它甚至收到了来自加拿大的评论，说这电影正在给年轻人喂食一些“缺德的垃圾…",
+          "link": "https://www.gcores.com/articles/138489",
+          "publishedOn": "2021-06-23T11:00:00.000Z",
+          "wordCount": 88,
+          "title": "以前的影评人是怎么看《雌雄大盗》和《末路狂花》的？"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138510",
+          "author": "札幌Sapporo",
+          "description": "导语：昨晚，由詹姆斯·古恩执导的全新 DC 电影《新自杀小队》放出全新预告，本片预计将于今年8月6日登陆北美院线以及 HBO Max 流媒体平台。\n\n(《新自杀小队》)\n昨晚，由詹姆斯·古恩执导的《新自杀小队》放出了全新预告，本片预计将于今年8月6日登陆北美院线以及 HBO Max 流媒体平台。官方放出的全新预告如下：\n\n\n<内嵌内容，请到原网页查看>\n\n此次预告的 BGM 来自 Grandson feat. Jessie Reyez 的一首《Rain》，将收录于《新自杀小队》的原声专辑。试听：点击这里\n\n\n<内嵌内容，请到原网页查看>\n\n此番重启的《新自杀小队》中，阿曼达·沃勒授意 Rick Flag 队长率领一群被羁押的囚犯进行一项危险任务——他们需要前往南美洲，捣毁名为约顿海姆（Jotunheim）的前纳粹监狱与“海星计划”的秘密实验室。如果任务顺利完成，这群囚犯将可以获得减刑；如若失败或违抗命令，在他们脑后植入的炸弹将瞬间爆炸。\n 《新自杀小队》中具体卡司阵容如下：\n\n玛格特·罗比 饰 哈莉·奎因\n维奥拉·戴维斯 饰 阿曼达·沃勒\n乔尔·金纳曼 饰 Rick Flag\n杰·科特尼 饰 回旋镖队长\n大卫·达斯马齐连 饰 圆点人\n丹妮拉·曼希沃 饰 捕鼠者2\n史蒂夫·阿吉 饰 鲨鱼王（西尔维斯特·史泰龙 配音）\n伊德里斯·艾尔巴 饰 血腥运动\n约翰·塞纳 饰 和平使者\n弗卢拉·博格  饰 标枪\n内森·菲利安 饰 T.D.K\n彼得·卡帕尔迪 饰 思考者\n皮特·戴维森 饰 黑色守卫\n艾莉丝·布拉加 饰 Sol Soria\n肖恩·古恩 饰 黄鼠狼\n迈克尔·鲁克 饰 布莱恩·德林\n华金·科西奥 饰 少将苏亚雷斯\n黄美玲 饰 蒙戈\n胡安·迭戈·博托 饰 鲁纳将军\n《新自杀小队》预计将于今年8月6日登陆北美院线，并将同步登陆 HBO Max 流媒体平台，敬请期待！\n\n(《新自杀小队》)",
+          "link": "https://www.gcores.com/articles/138510",
+          "publishedOn": "2021-06-23T09:56:37.000Z",
+          "wordCount": 121,
+          "title": "海星在俚语里的意思是……《新自杀小队》放出全新预告"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138508",
+          "author": "日天嗷",
+          "description": "你有没有想过坐在电脑椅上完成工作时段的所有移动？其实这种行为已经有正规赛事了，而目前正有人想将这种行为设计成游戏的核心玩法，这款游戏叫做《Last Man Sitting》。\n\n\n《Last Man Sitting》是由PixelPizza开发、发行的动作游戏。制作人Kevin在2017年就公布过本作的预告片，当时开发还处于早期阶段，所演示的也只是游戏移动、射击的特点。\n\n\n<内嵌内容，请到原网页查看>\n\n今年年初，制作人又公布了本作的全新预告片，展示了游戏的玩法（教学部分）。能看出目前游戏玩法和最初的预告所展示的还是有些变化的。Kevin承诺《Last Man Sitting》将包含4种游戏模式：Last Man Sitting、大逃杀、死斗、团队生死战，游戏支持添加AI，并支持最多4人的本地分屏游玩。未来还会继续扩充游戏内容，包括线上多人游戏、多种地图、足球模式、关卡编辑器、竞速等。\n\n\n<内嵌内容，请到原网页查看>\n\nKevin最近会在自己的社交账号（@Der_Kevin）放出一些游戏的开发进度，看来本作的动作是越来越丰富了，期待游戏能早日与玩家见面。\n\n\n\n\n\n\n\n\n<内嵌内容，请到原网页查看>",
+          "link": "https://www.gcores.com/articles/138508",
+          "publishedOn": "2021-06-23T09:49:53.000Z",
+          "wordCount": 67,
+          "title": "《Last Man Sitting》：坐在椅子上打枪的动作游戏"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138512",
+          "author": "肖尔",
+          "description": "大型农场模拟类游戏《Farming Simulator 22》公布全新预告片，游戏将于今年11月22日正式发售。据官方介绍，本作中我们将在三种不同的美国和欧洲环境中发挥创意，建造属于自己的农场。此外，游戏还提供了包括农业、畜牧业和林业等内容，还增加了季节周期。游戏中包括100多个真实的农业品牌与他们旗下的400多款机器与工具。《Farming Simulator 22》支持多人合作游玩，一同经营农场并通过大量社区创建的免费模组来扩展游戏。\n\n\n<内嵌内容，请到原网页查看>\n\n\n\n\n\n\n\n\n\n\n\n《Farming Simulator 22》将于今年11月22日登陆 Xbox Series X/S、PS5、PS4、Xbox One 与 PC 等平台。\n\n\n<内嵌内容，请到原网页查看>",
+          "link": "https://www.gcores.com/articles/138512",
+          "publishedOn": "2021-06-23T09:43:33.000Z",
+          "wordCount": 76,
+          "title": "《Farming Simulator 22》公布全新预告，将于11月22日发售"
+        },
+        {
+          "id": "https://www.gcores.com/videos/138493",
+          "author": "考拉老同学",
+          "description": "第一期的内容说的是洛斯里克。紧接着，第二个宏大的主题我选择了深渊大教堂。我要说，这是我的本能在作祟，虽然我也很想给大家聊一聊，让我同样着迷的绘画世界和环印城，法兰要塞以及伊鲁席尔等地……但是黑魂研究是一项巨大的工程，我慢慢探索，各位也耐心咀嚼吧。\n提到深渊大教堂又不得不说一个人——它臭名昭著人艾尔德里奇。\n\n\n虽然说“同类相残”和“宗教”对《黑暗之魂》系列来说并不是什么新鲜事儿。但是把这种既“美味”又“邪恶”的元素的结合在一起，确实把《黑暗之魂3》的怪诞美学推向了更高的境界，作为一个游戏玩家而言，这也是一种痛苦的折磨。在此，为了方便大家理解我今天对深渊的探讨，我梳理了5个部分去讲述这个庞大的主题：\n\n深渊大教堂所谓的深渊可能最初是一座“圣泉“，这也是大教堂坐落在这里的原因。\n人之脓变体雕像的形象来自患有“腐败病“的病人，这种病在不死人中间很流行。病患被带到大教堂是为了寻求净化，被“圣泉“治愈。\n\n\n\n艾尔德里奇来深渊大教堂也是为了寻求净化，但他带来了更糟糕的深渊诅咒。圣泉不仅被强大的深渊腐化，还产生一批深渊生物，艾尔德里奇预见的深海时代来临了。\n了解多个约等式——幽邃≈深海≈深渊。这是糟糕的简中翻译带来的概念性混乱。在我这里，幽邃就是深渊，深海只是艾尔德里奇世界观里理解的深渊。\n\n\n\n埃尔德里奇带着自己的深渊观光团入侵了冷冽谷，杀力万的征战骑士居然居然全军覆没，杀力万为此不得不献给噬神者——格温德林。\n\n深渊大教堂的起源\n深渊大教堂以前是白教的一个分支。我们在那里找到了与旧信仰有关的各种物品，包括圣女的衣物与前主神洛伊德有关的物品。\n\n\n教会的执事们穿着深红色的圣袍，在他们的衣服上印着“太阳符文”的标志，是第一火焰的象征；他们手底下的一帮信徒们穿着类似的长袍，都是带有符号化的火焰。是教会的一种统一形式，希望第一火焰能保护他们。\n还有一座小型的方尖碑竖立在教堂墓地的入口处，一…",
+          "link": "https://www.gcores.com/videos/138493",
+          "publishedOn": "2021-06-23T09:00:00.000Z",
+          "wordCount": 38,
+          "title": "《黑暗之魂》人文地理考第2期：深渊大教堂和艾尔德里奇"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138499",
+          "author": "札幌Sapporo",
+          "description": "今天，《变形金刚》全新真人电影公布片名为《变形金刚：超能勇士崛起》（Transformers: Rise of the Beasts）。\n\n\n<内嵌内容，请到原网页查看>\n\n\n\n\n\n本片与此前官方公布的内容相同，将真人电影版《变形金刚》宇宙推进至《超能勇士》（Beast Wars）这一经典系列的新阶段。目前本片确定将由《奎迪2》导演小斯蒂芬·卡普尔执导，卓比·哈罗德（《明日边缘》《亚瑟王：斗兽争霸》）担任编剧，安东尼·拉莫斯、多米尼克·菲什巴克主演。故事将发生在1994年的纽约布鲁克林，并且本片还将前往秘鲁马丘比丘取景。包括擎天柱、大黄蜂、幻影、夜莺、天灾，以及飞箭勇士、犀牛勇士以及猩猩队长等角色都将在本片中登场。\n\n\n《变形金刚：超能勇士崛起》预计将于明年6月24日上映，敬请期待。",
+          "link": "https://www.gcores.com/articles/138499",
+          "publishedOn": "2021-06-23T08:43:00.000Z",
+          "wordCount": 57,
+          "title": "《变形金刚》全新真人电影公布片名《变形金刚：超能勇士崛起》"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138435",
+          "author": "腾讯游戏学院",
+          "description": "本文首发于“TiMi Club 天美俱乐部”微信公众号\n作者：Yin\n有人说游戏设计者是魔法师，通过转化特定的信息来营造非凡的体验；有人说游戏设计者是木匠，将五花八门的素材打磨成实用可靠的艺术品。而在游戏主策划Yin眼中，游戏设计师是密林中的探路者：他们带着自己经验所打造的精密的工具箱，在茫茫丛林中以工业化的设计步骤和高效的做事理念，带领团队克服难题。\n让我们来一起看看，能够穿越密林的“指南针”，究竟是什么吧！\n\n\n以下为分享实录：\n今天，我想从这个“游戏是怎么做的？”问题出发，与大家聊聊我在过往工作中，对游戏单局玩法的实践和思考。\n以往我们做游戏的时候，明确知道游戏的最终形态，知道要做成什么样的品类，这时我们通常会体系化提需求，快速执行，实现和整合。游戏整个框架到位后，进行内容填充和调整。这个是大家认知里的常规做法——我们有想法，根据想法做计划，最后把它实现。\n但是最近两年，在欧美的游戏工作室里，我看到一条不太相同的研发思路。我想引用GDC上某位欧美游戏制作人对游戏设计和研发的描述，这段描述非常贴切，并且具有代表性：\n“如果大家问我游戏是怎么做的，很多人说我们有一个点子，根据这个点子我们出了详细计划，然后噼里啪啦地就把这个计划做出来了。但是在实际工作中，游戏研发，更像在茂密森林里寻找一条通往游戏最终形态的道路，游戏设计师就是这个道路上探路者，我们会面临很多艰难的选择，在探索中我们有很多时候会迷失，也有很多陷阱，我们决定什么时候该走了，什么时候改变路线。甚至有的时候设计师会决定放弃这片丛林。”\n\n\n现在，我们项目组正在做的游戏，也采用了“丛林探路”的方式，逐步摸索出我们确定的东西，然后逐一突破逐渐外扩。\n\n\n下面，我将以一个“游戏设计丛林探路者”的身份，从“定义设计方向”、“单局玩法打磨”和“如何做一个好的游戏策划”三个方向，来与大家共同探讨。\n第一个是玩法方向方面，主要提…",
+          "link": "https://www.gcores.com/articles/138435",
+          "publishedOn": "2021-06-23T08:00:00.000Z",
+          "wordCount": 82,
+          "title": "解析欧美一线游戏团队是怎样做单局玩法的"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138504",
+          "author": "熊吉吉",
+          "description": "6月23日，《塞尔达传说 天空之剑HD》公开了4分钟的新预告，展示了游戏的战斗、场景等内容。\n\n\n<内嵌内容，请到原网页查看>\n\n\n\n\n\n\n\n\n\n本作为2011年发售的、Wii平台上原作的HD移植版，游戏支持按键操作，也可用Joy-con还原原作的体感操作。《塞尔达传说 天空之剑HD》预计7月16日正式发售，登陆Nintendo Switch平台。",
+          "link": "https://www.gcores.com/articles/138504",
+          "publishedOn": "2021-06-23T07:27:00.000Z",
+          "wordCount": 60,
+          "title": "《塞尔达传说 天空之剑HD》公开新预告，7月16日正式发售"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138477",
+          "author": "ST灰图书馆",
+          "description": "Love the subhuman self.\n\n前言\n欢迎收看新一期由ST灰图书馆为大家带来的黑暗世界入门级指南。本期节目我将为各位介绍黑暗编年史（Chronicle of Darkness）产品线——《缚灵：食罪消业》（Geist the Sin-Eaters）。\n我极其喜欢这条产品线。\n比较遗憾的是，该产品线的拓展似乎只有一本《死之警示》（Memento Mori），不过和这条产品线相关的拓展其实还有其他几本……快出拓展！快出拓展！\n生者有死者相伴，死者有鬼魂相陪。\n无人知晓何为正确又自然的死法。\n我还愿意活着，因为……\n\n序幕\n[第二次机会]\n暴雨夜，弗兰克警探开车来到了他曾经挚友藏身的别墅。弗兰克推开门时本杰明正坐在摇椅上，就像是在等他。空气阴冷，霉味就像是虫蚤般骚挠鼻腔，房间里没有开灯，壁炉将摇椅和老友的脸照得昏红，几本精装书乱糟糟地扣在地上，弗兰克警探能认出其中几本……是玛莎的书。\n这里简直就像酒鬼的茧房。\n本杰明过去是个好人，一身学者味，直到玛莎的死。\n“你来了，弗兰克。“摇椅上的男人说，嗓音沙哑得像枯叶。\n“你是要向我自首吗？”\n“不，自首？不……我想和你说说话罢了。你认为人应当被赋予第二次机会吗？”\n“是。”弗兰克警探斩钉截铁，“我相信人是会改过的，正因为我是警探所以比常人更清楚，人是会改过的。本杰明，来我这里吧，现在还来得及。玛莎……玛莎不会希望看到你继续下去，只要告诉我那个人在哪儿就行，我会帮你，本杰明，即便要违背法律，玷污我的徽章，我会帮你的。本杰明，让我帮你。”\n这不是真情流露……也或许是。但弗兰克已经为这句话准备了太久了，久到了他不认为饱满的情感能让语气变得更真实，很久以前他认为自己能像歌剧演员一样充满热情，但他没有，他真正说出这段话时就像和朋友间的普通聊天。\n“你认为人应该被赋予第二次机会。那你认为每个人都应该被赋予第二次机会吗？每个人？包括…",
+          "link": "https://www.gcores.com/articles/138477",
+          "publishedOn": "2021-06-23T07:00:00.000Z",
+          "wordCount": 235,
+          "title": "食罪人，与幼神同行：《黑暗世界》入门级指南（十四）"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138503",
+          "author": "日天嗷",
+          "description": "东映公布了《假面骑士01》新作OVA《假面骑士Others 假面骑士巴尔坎&瓦尔基里》的预告片。本作将于8月27日在日本上映，11月10日推出DVD&BD。故事将讲述《假面骑士01》不破谏、刃唯阿的战斗，经历数次大战的二人将再次面对人工智能的威胁。两名角色都有新皮套形象，前部OVA中的假面骑士灭亡迅雷也将在本作登场。\n\n\n<内嵌内容，请到原网页查看>",
+          "link": "https://www.gcores.com/articles/138503",
+          "publishedOn": "2021-06-23T06:31:13.000Z",
+          "wordCount": 53,
+          "title": "《假面骑士Others 假面骑士巴尔坎&瓦尔基里》将于11月10日推出影碟"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138500",
+          "author": "熊吉吉",
+          "description": "6月23日，卡普空公布《大逆转裁判 编年史》玩法预告映像，通过对“法庭部分”、“推理部分”和新要素的讲解，为初次接触该系列的新玩家做了详细介绍。\n\n\n<内嵌内容，请到原网页查看>\n\n\n\n该作包含《大逆转裁判 成步堂龙之介的冒险》和《大逆转裁判2 成步堂龙之介的觉悟》两部作品，共有10个案件和8个小故事。游戏新增“故事模式”，可自动推进对话和进行选择，并新增英文语音。\n\n\n\n\n\n\n《大逆转裁判 编年史》将登陆PS4/Nintendo Switch/Steam平台，美版7月27日发售，日版7月29日发售，暂无中文消息。",
+          "link": "https://www.gcores.com/articles/138500",
+          "publishedOn": "2021-06-23T06:25:00.000Z",
+          "wordCount": 58,
+          "title": "卡普空公布《大逆转裁判 编年史》玩法预告，美版7月27日正式发售"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138501",
+          "author": "肖尔",
+          "description": "近日，世嘉官方发布了由木村 拓哉与名越 稔洋主持的《审判之逝：湮灭的记忆》特別对谈影片，其中公布了部分游戏的实机游玩演示。虽然我们在游戏中将来到横滨，但主要的舞台还是发生在校园中，并以校园霸凌为起始展开故事。在校园中由木村 拓哉扮演的八神 隆之可以参与到各种社团活动与事件中。此外，木村还表示，当第一部游戏发售后，他周围的朋友与同事都表示十分惊讶，甚至还有女演员偷偷跟他说“审判之眼我通关了哦！”\n\n\n<内嵌内容，请到原网页查看>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n《审判之逝：湮灭的记忆》将于9月24日正式发售，中文版同步推出，游戏登陆Xbox One、Xbox Series X/S、PS4、PS5。在次世代主机平台上，游戏可以提供更加精细且流畅的游玩体验。",
+          "link": "https://www.gcores.com/articles/138501",
+          "publishedOn": "2021-06-23T06:24:31.000Z",
+          "wordCount": 62,
+          "title": "木村 拓哉×名越 稔洋，世嘉公布《审判之逝：湮灭的记忆》特別对谈影片"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138466",
+          "author": "游信",
+          "description": "作者：游信编辑  lan（本文首发于公众号：三五七游戏网）\n《怪物火车》是一款极其特别的roguelike卡牌构筑游戏，包含了随机的卡牌获取、流程选择和塔防战斗等多种要素。初看起来颇有点“缝合怪”的意思，但细细品味便会发现，其不同要素间不仅融汇自洽，还给卡牌构筑类游戏带来了新的可能。\n\n\n十分不重要的游戏背景故事：整个地狱被天堂冻结，你需要乘坐火车将最后的薪火带到地狱的核心，让地狱再次燃起火焰。\n\n卡牌构筑\n本作的卡牌可以大致分为三类：法术卡、单位卡和英雄卡。法术卡和《杀戮尖塔》中的法术一样，本回合使用过后进入弃牌堆，每次抽完牌库后重新洗牌；单位卡则能在火车中放置单位以供防守，并且每张单位卡只能放置一次，阵亡后无法再使用；英雄卡则是每个氏族（种族）的特殊单位，并能随着游戏进程不断强化。\n\n\n游戏共有六个氏族，每个氏族都有不同的战斗风格：通过狂怒增加攻击力的狱魔、吞噬影裔增强自身的影卫、不断燃烧自己生命的熔尸等，其卡牌设计也将各个氏族的形象外观和玩法特点进行了巧妙结合。\n\n\n游戏开始前玩家需要选取两个氏族，并从主氏族中选取所用的英雄牌，本局游戏中将只会获得这两个氏族的卡牌。通常情况下英雄牌的强化都是和氏族的玩法息息相关，因此流派选择上都是以主氏族卡牌进行核心构筑，副氏族卡牌进行补强。\n\n(英雄卡的三种强化路线)\n氏族间的两两搭配提供了大量的流派选择。例如初始氏族狱魔，其卡组流派可以是不断强化单位牌的狂怒流，也可以是通过无穷无尽的小鬼进行场面压制的小鬼流。觉者氏族则有给单位牌加攻防和反伤的反伤流和通过回复单位触发强化的滋养流。你可以使用觉者的BUFF牌进一步强化狱魔高质量的单位牌，综合两个氏族的优点，也可以专注于单一氏族的固定流派。当然你也可以选择另辟蹊径，放弃氏族的特点，专注于卡牌间的强力搭配。 \n\n塔防布局\n本作的战斗模式为塔防，战斗场景分为由下至上的四层，最上方的薪火层即…",
+          "link": "https://www.gcores.com/articles/138466",
+          "publishedOn": "2021-06-23T06:00:00.000Z",
+          "wordCount": 45,
+          "title": "《怪物火车》：卡牌与塔防的完美结合"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138494",
+          "author": "名侦探老张",
+          "description": "由赛琳娜·戈麦斯、史蒂夫·马丁、马丁·肖特主演的Hulu新剧《大楼里只有谋杀案》发布第二支预告，将于8月31日上线 Hulu 。\n\n\n<内嵌内容，请到原网页查看>\n(《大楼里只有谋杀案》预告)\n《大楼里只有谋杀案》是一部带有喜剧性质的犯罪剧集，由史蒂夫·马丁和约翰·霍夫曼（《同妻俱乐部》） 创作剧本。讲述了由史蒂夫·马丁、马丁·肖特和赛琳娜·戈麦斯饰演在同一栋大楼里居住的三名住户，他们都痴迷于真实犯罪，但却突然发现自己也被卷入其中......\n\n\n\n\n\n\n《大楼里只有谋杀案》共十集，预计将于8月31日上线 Hulu，敬请期待。\n\n( 《大楼里只有谋杀案》海报)",
+          "link": "https://www.gcores.com/articles/138494",
+          "publishedOn": "2021-06-23T05:05:00.000Z",
+          "wordCount": 53,
+          "title": "Hulu全新喜剧剧集《大楼里只有谋杀案》释出预告"
+        },
+        {
+          "id": "https://www.gcores.com/videos/138487",
+          "author": "化身伊陆",
+          "description": "《生化危机》系列自1996年的初代作品至今已经走过25个年头了，其剧情发展也从《生化危机4》开始横冲直撞一发不可收拾，不同的编剧各显身手，导致每一部作品的剧情风格都有着巨大的变化。在《生化危机5》将系列铺垫了八年的幕后黑手威斯克干掉以后，系列中甚至也再没出现过什么像样的大反派。\n然而，真的是这样吗？本期视频将列举一系列论据，来佐证一个我的设想。",
+          "link": "https://www.gcores.com/videos/138487",
+          "publishedOn": "2021-06-23T05:00:00.000Z",
+          "wordCount": 29,
+          "title": "《生化危机》系列的最终BOSS，可能就隐藏在这些细节里面？"
+        },
+        {
+          "id": "https://www.gcores.com/articles/138453",
+          "author": "黑水镇的陌生人",
+          "description": "来自警监的消息：犯罪率有所上升了。我们得抓更多的坏人，拜托各位！\n\n——杰克逊，无线电接线员\n\n(罪恶城警察局标识)\n罪恶城警察局（Vice City Police Department/VCPD）是罪恶城的主要执法机构之一，负责维持罪恶城的治安。罪恶城的蓝本即是美国佛罗里达州迈阿密市，但罪恶城警察局的蓝本并非迈阿密市警而是迈阿密戴德县警察局（Miami-Dade Police Department）。\n罪恶城警察局会部署步行警力和巡逻车对城市的街道进行巡逻，在水域会有警方快艇巡逻，警用直升机经常会在空中进行巡逻。和自由市警察局一样，罪恶城警察局的巡逻警力可以覆盖包括陆地，水域和空中的所有区域。在警员追捕罪犯时，使用冷兵器攻击罪犯可以获得 50 美金奖励。\n1971 年，当时的尼克松政府因为深感成瘾品问题严重而发起了“禁毒战争”运动。1973 年，缉毒署（Drug Enforcement Administration/DEA）成立，专职负责打击成瘾品犯罪活动。然而，到 20 世纪 70 年代中期之后，美国政界开始对这场禁毒战争意见不一。80 年代的里根政府继续推行尼克松的政策，其第一夫人南希·里根更是提出了“向毒品说不”的运动。但这场运动实际上推行艰难，一是因为其本来的目的（即消灭成瘾品犯罪）被政治化了，有色人种被有意加以针对；二是成瘾品犯罪通常利润丰厚，使得成瘾品贩子们有足够的钱来贿赂政界和警界的官员以求保护。\n正因如此，在 1984 年，罪恶城的政界和警界充斥着腐败交易，警方的管理和城市的治安也十分混乱。从 1984 年警方车辆的涂装上就可窥见一斑。到了 1986 年，这样的情况才有所改善。\n缉捕队\n缉捕队（Vice Squad，也被称为刑警队和风化纠察队）是罪恶城警方的精英部队，主要负责调查有关性交易犯罪等罪行。他们会在三级通缉时出动，由于缉捕队员驾驶的是 Cheet…",
+          "link": "https://www.gcores.com/articles/138453",
+          "publishedOn": "2021-06-23T05:00:00.000Z",
+          "wordCount": 218,
+          "title": "《GTA》系列执法力量简介：罪恶城警察局"
+        },
+        {
+          "id": "https://www.gcores.com/articles/135556",
+          "author": "Kazuya",
+          "description": "综述  \n毁灭博士、末日博士、杜姆神君等等，他有许多绰号，本名维克托·冯·杜姆（Victor von Doom ）的角色是今天的商品测评的角色对象。早年我对这位角色没有什么特殊的感情，由于他登场年份较早（1962年7月），且在早年的影视中登场戏份很少，外加美漫来来回回重启修改设定，其实在学习了解的过程中很容易把我弄晕。\n\n\n直到最近，一方面是听到漫威要重新拍摄《神奇四侠》的真人影视，并且号称杜姆博士在里面的戏份会大幅度增加；而另一方面自然也是最近在漫画世界的一些新设定，让我开始关注这位现在从恶棍身份往反英雄定位转移的角色。此外，去年一波波孩之宝的漫威传奇系列精品高潮迭起，其中让我眼前一亮的就是今天后面要测评的，新一版毁灭博士的6寸预涂装可动公仔。\n杜姆博士（Doctor Doom）\n作为初次登场于《神奇四侠》第5期（1962年7月）的反英雄角色，维克托·冯·杜姆是出身于位于匈牙利、罗马尼亚、塞尔维亚之间的虚构东欧小国“拉托维利亚”（Latveria）。其母亲是个吉普赛女巫，迫于生活，杜姆的母亲在寻求魔法力量的时候，被恶魔孟非斯托夺走了灵魂，并且囚禁于地狱。该事件对维克托打击很大影响深远，因此杜姆从小就立志要从孟非斯托手中解放母亲的灵魂。为此，他自学各种魔法，并在科学方面显露出了十足的天分。\n机缘巧合，在离开了还处于封建统治的拉托维尼亚后，他来到美国纽约州立大学就读，并在那遇见了一生的宿敌李德·理查兹，也就是后来的神奇先生。\n\n\n在大学时维克托就刻意保持着和李德的竞争关系，直到某天他制造了一台仪器进行实验，目的是要解放地狱中母亲的灵魂。然而其设计并不完善，李德也指出了其中隐患。但是，自尊心极强的杜姆仍强行进行实验，结果造成爆炸。杜姆当场毁容，全身炸伤，出院后也因为实验带来后果极其严重而被学校退学。\n但维克托并没放弃，杜姆独自一人来到中国西藏寻找神秘力量。在风雪之中，他被一群西…",
+          "link": "https://www.gcores.com/articles/135556",
+          "publishedOn": "2021-06-23T05:00:00.000Z",
+          "wordCount": 59,
+          "title": "终生嗜好 Vol.18丨孩之宝版毁灭博士"
+        },
         {
           "id": "https://www.gcores.com/articles/138456",
           "author": "游系Sky",
@@ -2050,6 +2278,60 @@
       "siteUrl": "https://theinitium.com/newsfeed/",
       "articles": [
         {
+          "id": "https://theinitium.com/article/20210624-international-myanmar-new-norm/",
+          "author": "特約撰稿人 周浩霖（Thompson Chau） 發自仰光",
+          "description": "等人們的現金用完了，真正的絕望才會出現。",
+          "link": "https://theinitium.com/article/20210624-international-myanmar-new-norm/",
+          "publishedOn": "2021-06-23T22:59:00.000Z",
+          "wordCount": 2,
+          "title": "現場：緬甸軍變五個月，以武力威脅的「正常」城市生活能走多遠？"
+        },
+        {
+          "id": "https://theinitium.com/article/20210624-hongkong-appledaily-last-night/",
+          "author": "端傳媒記者 梁越 李慧筠 實習記者 何頌盈 黎嘉琪 梁沅婷 發自香港",
+          "description": "得知《蘋果》翌日將是最後一紙時，鄭子聰正在九龍城裁判法院，採訪一宗反修例運動的非法集結案。他把新聞轉發到同事通訊群組，輸入一句「返公司」。",
+          "link": "https://theinitium.com/article/20210624-hongkong-appledaily-last-night/",
+          "publishedOn": "2021-06-23T18:31:00.000Z",
+          "wordCount": 2,
+          "title": "最後一夜，像有雙手捂著你嘴巴：記者、讀者、賣報人告別《蘋果》"
+        },
+        {
+          "id": "https://theinitium.com/article/20210623-evening-brief/",
+          "author": null,
+          "description": "香港《蘋果日報》宣佈今天午夜後停止運作，明日（24日）出版的報章將會是最後一期。另外，警方今早拘捕一名55歲男子，指他涉嫌違反《港區國安法》；多家傳媒引述消息指， 被捕男子為《蘋果日報》社論主筆、筆名「李平」的楊清奇 。",
+          "link": "https://theinitium.com/article/20210623-evening-brief/",
+          "publishedOn": "2021-06-23T10:19:00.000Z",
+          "wordCount": 2,
+          "title": "晚報：《蘋果日報》一名社論主筆今早被捕，明天出版最後一份報紙"
+        },
+        {
+          "id": "https://theinitium.com/article/20210623-wsj-five-hong-kong-protesters-escaped-by-speedboat/",
+          "author": "華爾街日報記者 Chao Deng / Joyu Wang",
+          "description": "之前幾乎互不相識的五人乘坐一艘快艇穿越茫茫大海抵達台灣。幾個月後，在美國國務院的介入下，五人最終都到了美國尋求庇護。",
+          "link": "https://theinitium.com/article/20210623-wsj-five-hong-kong-protesters-escaped-by-speedboat/",
+          "publishedOn": "2021-06-23T04:14:00.000Z",
+          "wordCount": 2,
+          "title": "五名香港抗議者逃亡記：乘快艇抵達台灣，在美國尋得自由"
+        },
+        {
+          "id": "https://theinitium.com/article/20210623-opinion-apple-daily/",
+          "author": "謝梓楓",
+          "description": "《蘋果》終章帶來的，是主流報章的論述廣度向中間溫和取態的猛然收窄，政治異見被拒諸公共輿論之外。",
+          "link": "https://theinitium.com/article/20210623-opinion-apple-daily/",
+          "publishedOn": "2021-06-23T03:41:00.000Z",
+          "wordCount": 2,
+          "title": "《蘋果日報》，香港最後一份異議報紙的終結"
+        },
+        {
+          "id": "https://theinitium.com/article/20210623-morning-brief/",
+          "author": null,
+          "description": "BBC報導 ，聯合國阿富汗特使黛博拉·萊昂斯（Deborah Lyons）週二在紐約向聯合國安理會匯報稱，外國軍隊撤離阿富汗之際，塔利班武裝自5月以來加緊進攻，已佔領了阿富汗370個地區中的50多個，「情況非常嚴重」。",
+          "link": "https://theinitium.com/article/20210623-morning-brief/",
+          "publishedOn": "2021-06-23T02:28:00.000Z",
+          "wordCount": 2,
+          "title": "早報：聯合國特使警告，塔利班已佔領50多個地區，情況嚴重"
+        },
+        {
           "id": "https://theinitium.com/article/20210622-taiwan-why-taiwan-failed-in-pandemic/",
           "author": "端傳媒記者 何欣潔、特約撰稿人 林庭葦 發自台北",
           "description": "從第一天開始，台灣的防疫戰線，便充滿了許多意想不到的漏洞。",
@@ -2696,6 +2978,240 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/inai-vox",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/inai-vox",
+          "publishedOn": "2021-06-23T18:20:16.000Z",
+          "wordCount": 174,
+          "title": "INAI Vox — Simple text-to-speech solution"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/grip-3",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/grip-3",
+          "publishedOn": "2021-06-23T15:03:36.000Z",
+          "wordCount": 152,
+          "title": "GRIP — Marketplace to buy & sell high-performance & modified cars."
+        },
+        {
+          "id": "https://www.producthunt.com/posts/prove-id",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/prove-id",
+          "publishedOn": "2021-06-23T12:19:10.000Z",
+          "wordCount": 158,
+          "title": "Prove ID — End to end identity verification & management"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/765-investment-funds-database",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/765-investment-funds-database",
+          "publishedOn": "2021-06-23T11:13:43.000Z",
+          "wordCount": 144,
+          "title": "765 investment funds database — Find a suitable investment fund for your business."
+        },
+        {
+          "id": "https://www.producthunt.com/posts/millo-2",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/millo-2",
+          "publishedOn": "2021-06-23T10:32:56.000Z",
+          "wordCount": 161,
+          "title": "millo — Smart cordless & portable smoothie blender"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/covid19-resources-west-bengal",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/covid19-resources-west-bengal",
+          "publishedOn": "2021-06-23T10:15:27.000Z",
+          "wordCount": 165,
+          "title": "Covid19 Resources West Bengal — Get all the Covid related info of West Bengal in one place"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/business-hr-tool-kit",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/business-hr-tool-kit",
+          "publishedOn": "2021-06-23T10:15:17.000Z",
+          "wordCount": 190,
+          "title": "Business & HR Tool Kit — Run your business efficiently with this document bundle"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/sumi-news",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/sumi-news",
+          "publishedOn": "2021-06-23T09:16:36.000Z",
+          "wordCount": 129,
+          "title": "sumi.news — Peaceful news feed to read RSS, Twitter, and newsletters"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/health-stats-2-0",
+          "author": null,
+          "description": "What is Health Stats?\nHealth Stats is an Apple Health and Fitness dashboard that displays your health, activity and workout data that is stored in the Apple Health and Fitness apps on your iPhone. You can choose for which date range (today, last 7 days, lifetime, custom date range, ...), in what distance unit (km or mi) and in what energy unit (kcal or kJ) you want to view your stats. You can also rearrange the dashboard and disable stats you don't want to see. If you are the social media type of person, you can even share your stats as an image.\n\nGet a better insight on your Apple Health and Fitness data with graphs, averages, minimums, maximums and personal bests.\n\nCurrently supported data sets\nGeneral data sets:\n- Total exercise time\n- Total step count\n- Total walking and running distan…",
+          "link": "https://www.producthunt.com/posts/health-stats-2-0",
+          "publishedOn": "2021-06-23T08:45:02.000Z",
+          "wordCount": 165,
+          "title": "Health Stats 2.0 — Dashboard for Apple health and fitness"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/accessible-livechat",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/accessible-livechat",
+          "publishedOn": "2021-06-23T08:18:04.000Z",
+          "wordCount": 142,
+          "title": "Accessible LiveChat — Chat widget accessible to everyone"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/kalo-2",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/kalo-2",
+          "publishedOn": "2021-06-23T08:09:45.000Z",
+          "wordCount": 174,
+          "title": "Kalo — A social platform to shop, earn and share in one stop"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/productroad-3-0",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/productroad-3-0",
+          "publishedOn": "2021-06-23T08:03:45.000Z",
+          "wordCount": 161,
+          "title": "Productroad 3.0 — Create things your customers want and need"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/mio-illustration-pack-3",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/mio-illustration-pack-3",
+          "publishedOn": "2021-06-23T07:26:29.000Z",
+          "wordCount": 152,
+          "title": "Mio Illustration Pack — Cute, expressive and customizable illustration pack"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/scaler",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/scaler",
+          "publishedOn": "2021-06-23T07:11:39.000Z",
+          "wordCount": 160,
+          "title": "Scaler — AI discovering where e-commerce loses money"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/tweetflick",
+          "author": null,
+          "description": "fetch your desired tweet in a matter of seconds.\n\n- Ability to categorize tweets in as many as a category you want.\n\n- Want to add your notes on the top of tweet? Yes, we got you covered.\n\n What's coming next ?\n\n- Weekly digest of your saved tweets directly in your mailbox.\n\n- Auto-save tweets of your favorite people on Twitter.\n\n- Your public page on tweetflick with your publicly saved tweets.\n\n- Exporting your bookmarked tweets on Twitter to tweetflick automatically.\n\nAnd many more... \n\nWe would love to know what you guys think? Looking forward to your feedback.\n        ”\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/tweetflick",
+          "publishedOn": "2021-06-23T07:05:39.000Z",
+          "wordCount": 151,
+          "title": "Tweetflick — Save, organize & find Tweets to get the most out of Twitter"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/google-form-to-chatbot-2",
+          "author": null,
+          "description": "Google Form -▶️ Chatbot \nForms are powerful and easy to create, but fails to capture users attention.\n\nHi ProductHunters,\n\nThis is Shyjal from Collect.chat - a no-code chatbot builder. \n\nEveryone from Students, Teachers, Business folks to marketers uses Google Forms. We wanted to help them out by creating a more interactive version of the forms they made in Google Form.\n\nSo we created Form to Chatbot. It's built as a Google Form add-on. \n\nJust 3 steps:\n\n1. Install the add-on from Google Workspace Marketplace.\n\n2. Open the add-on inside the Google Form you want to convert.\n\n3. Click on Create chatbot.\n\nWhy convert at all?\n\n🥱 Filling a form feels like a task.\n😇 Chatbots are refreshingly friendly.\n\n🔗  Forms can be filled using a link only.\n🔗  💬  Chatbots can be used as links + as widgets inside websites.\n\n📈  For reports, you have to rely on Google sheets in the case of Forms.\n📊 Chatbots can generate reports & integrate with other apps to build workflows.\n\nIn a nutshell, when you convert a Form, you create a better interface to collect data with additional powers 🚀\n\nDemos of the chatbot\n\nThe form can be converted into 3 chatbot formats. \n\n1. You can see the chatbot in widget form on formtochatbot.com\n\n2. You can see the chatbot as full page at chatbot.page/demo\n\n3. You can also embed the chatbot. Click here to see a preview.\n\nDo give it a try, and let us know your feedback.\n\nCheers,\nShyjal\n        ”\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/google-form-to-chatbot-2",
+          "publishedOn": "2021-06-23T07:01:04.000Z",
+          "wordCount": 169,
+          "title": "Google Form to Chatbot — Convert Google Form into chatbot in 1 click"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/instagram-hashtag-hunter",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/instagram-hashtag-hunter",
+          "publishedOn": "2021-06-23T06:20:45.000Z",
+          "wordCount": 159,
+          "title": "Instagram Hashtag Hunter — Instagram hashtag research tool"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/seedscout",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/seedscout",
+          "publishedOn": "2021-06-23T05:33:05.000Z",
+          "wordCount": 168,
+          "title": "Seedscout — The easiest way to launch a startup focused podcast"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/frontend-toolbox",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/frontend-toolbox",
+          "publishedOn": "2021-06-23T05:32:04.000Z",
+          "wordCount": 154,
+          "title": "Frontend Toolbox — A list of handpicked resources for frontend developers"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/cymfo",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/cymfo",
+          "publishedOn": "2021-06-23T01:19:16.000Z",
+          "wordCount": 174,
+          "title": "Cymfo — Avoid your employees' burnout & offer mental health support"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/chrome-extension-kit-2-0",
+          "author": null,
+          "description": "Chrome Manifest v3, which has been a long time coming and changes things for extension devs. It also lands just as Apple is getting more serious about cross-platform extensions for Safari!\n        ”\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/chrome-extension-kit-2-0",
+          "publishedOn": "2021-06-23T00:56:38.000Z",
+          "wordCount": 169,
+          "title": "Chrome Extension Kit 2.0 — Launch your next Chrome Extension project faster than ever"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/product-ops-podcast-2",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/product-ops-podcast-2",
+          "publishedOn": "2021-06-22T22:31:44.000Z",
+          "wordCount": 172,
+          "title": "Product Ops Podcast — Learn how Product Ops is helping hyper-growth startups scale"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/vlc-mobile-remote-2",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/vlc-mobile-remote-2",
+          "publishedOn": "2021-06-22T22:07:33.000Z",
+          "wordCount": 165,
+          "title": "VLC Mobile Remote — Control your computer right from your smartphone, be lazy"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/reside-2",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/reside-2",
+          "publishedOn": "2021-06-22T21:20:23.000Z",
+          "wordCount": 154,
+          "title": "Reside — A giant search engine attached to a roommate/rental database"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/video-podcasting-software",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/video-podcasting-software",
+          "publishedOn": "2021-06-22T21:03:52.000Z",
+          "wordCount": 154,
+          "title": "Video Podcasting Software — Record studio-quality video podcast interviews remotely"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/copymonkey-ai",
+          "author": null,
+          "description": "CopyMonkey.ai \n\nJust a few months ago I and Kate @kate_nevelson got the inspiring idea and now I'm happy to share it with the PH community and discuss it in the comments!\n\nWe want to help online stores receive more value from the grueling and necessary task - maintaining product information for a dozen or even thousands of items.\n\nYou might have heard about a dozen of GPT-3 content generators for but is copy generation all that we need to finish the Content Creation Revolution?\nI don't think so.\n\n💥 That's why we are bringing a new approach towards AI content generation for e-commerce.\nWith CopyMonkey.ai you can not only generate a copy if you don't have one but also evaluate your current content and A/B/n test generated copy to find the best one.\n\n⚡️ CopyMonkey.ai will help you:\n\n -  Improve your old descriptions \nUse the Perception Score (plagiarism, emotion, readability, grammar) to find the underperforming descriptions\n\n - Generate new descriptions \nCreate missing or bad product descriptions by providing our AI with your keywords\n\n - Optimize your product copy \nFind winner product descriptions with integrated A/B/n testing\n\n🚀 BTW Copy generation is now free if you use Shopify! Jump to our website and press the button Try In Shopify.\n\nAlso, we are looking for beta users to try the Copy Evaluation feature! Exclusively for the ProductHunt community, we will pick 3 stores for absolutely free Catalog Audit.\nDrop your query on our website application form with the comment \"ProductHunt\".\n        ”\n        \nDiscussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/copymonkey-ai",
+          "publishedOn": "2021-06-22T20:12:56.000Z",
+          "wordCount": 168,
+          "title": "CopyMonkey.ai — AI content for e-commerce, more than just a GPT-3 generator"
+        },
+        {
           "id": "https://www.producthunt.com/posts/1-on-1s-by-roots",
           "author": null,
           "description": "Discussion\n        |\n        Link",
@@ -2705,6 +3221,51 @@
           "title": "1-on-1s by Roots — Prepare for, conduct, & track 1:1s from the comfort of Slack"
         },
         {
+          "id": "https://www.producthunt.com/posts/bash-2",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/bash-2",
+          "publishedOn": "2021-06-22T17:23:36.000Z",
+          "wordCount": 180,
+          "title": "Bash — Fun alternative to Zoom for games, gifs & panel discussion"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/rocketlane",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/rocketlane",
+          "publishedOn": "2021-06-22T16:41:22.000Z",
+          "wordCount": 196,
+          "title": "Rocketlane — A collaborative customer onboarding platform"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/you-dunnit",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/you-dunnit",
+          "publishedOn": "2021-06-22T15:22:57.000Z",
+          "wordCount": 164,
+          "title": "You Dunnit — Personalised murder mystery game builder"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/optherium",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/optherium",
+          "publishedOn": "2021-06-22T15:06:44.000Z",
+          "wordCount": 151,
+          "title": "Optherium — A-to-Z turnkey neobank for enterprises, banks and startups"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/not-real-twitter-2-0",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/not-real-twitter-2-0",
+          "publishedOn": "2021-06-22T14:24:49.000Z",
+          "wordCount": 172,
+          "title": "Not Real Twitter 2.0 — A no-code clone that's just like Twitter"
+        },
+        {
           "id": "https://www.producthunt.com/posts/massless-media-bot",
           "author": null,
           "description": "Discussion\n        |\n        Link",
@@ -2712,6 +3273,24 @@
           "publishedOn": "2021-06-22T11:57:19.000Z",
           "wordCount": 201,
           "title": "Massless Media Bot — Chat to edit images, documents, and videos, right from Slack"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/doodlicons",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/doodlicons",
+          "publishedOn": "2021-06-22T11:32:11.000Z",
+          "wordCount": 143,
+          "title": "Doodlicons — Carelessly  designed doodle icons for your next project"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/filkers-video-plugin",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/filkers-video-plugin",
+          "publishedOn": "2021-06-22T09:20:44.000Z",
+          "wordCount": 167,
+          "title": "Filkers Video Plugin — WordPress plugin for Woocommerce to create product videos"
         },
         {
           "id": "https://www.producthunt.com/posts/wordmark-3-0",
@@ -2748,6 +3327,15 @@
           "publishedOn": "2021-06-22T07:46:06.000Z",
           "wordCount": 174,
           "title": "Icebreakers for Slack — Buh buh buh break the ice with coworkers."
+        },
+        {
+          "id": "https://www.producthunt.com/posts/workos-me",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/workos-me",
+          "publishedOn": "2021-06-22T07:31:16.000Z",
+          "wordCount": 168,
+          "title": "WorkOS.me — All in one workspace for tasks, workflow and team works"
         },
         {
           "id": "https://www.producthunt.com/posts/workos-2",
@@ -2838,6 +3426,15 @@
           "publishedOn": "2021-06-22T06:50:05.000Z",
           "wordCount": 149,
           "title": "Kaapi — Build happy, high-performing remote teams"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/facet-e74bd16a-f39c-4576-9bbf-b41c08aefcb4",
+          "author": null,
+          "description": "Discussion\n        |\n        Link",
+          "link": "https://www.producthunt.com/posts/facet-e74bd16a-f39c-4576-9bbf-b41c08aefcb4",
+          "publishedOn": "2021-06-22T06:46:19.000Z",
+          "wordCount": 171,
+          "title": "Facet — A new space for remixable pro image editing"
         },
         {
           "id": "https://www.producthunt.com/posts/pause-4",
@@ -4363,6 +4960,210 @@
       "siteUrl": "https://www.archdaily.com/",
       "articles": [
         {
+          "id": "https://www.archdaily.com/963811/oil-setoda-horiuchi-inatomi-architects",
+          "author": "Pilar Caballero",
+          "description": "As part of a regional revitalization project in Setoda-cho　Onomichi City Hiroshima, an island along the Shimanami Kaido. A complex of two buildings that is the gateway to the Shiomachi shopping street and is located near Setoda Port.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/qxUCCBIq7FE/oil-setoda-horiuchi-inatomi-architects",
+          "publishedOn": "2021-06-23T18:00:00.000Z",
+          "wordCount": 748,
+          "title": "Oil Setoda / Horiuchi Inatomi Architects",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60d2/6f37/f91c/8126/6900/0001/medium_jpg/_FI_R8A0683.jpg?1624403727"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963828/zgz-house-ihouse-estudio",
+          "author": "Valeria Silva",
+          "description": "The project is a temporary residence, conceived as a refuge for rest when the owner is visiting the country.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/ZbtJRfCOdHI/zgz-house-ihouse-estudio",
+          "publishedOn": "2021-06-23T16:00:00.000Z",
+          "wordCount": 1065,
+          "title": "ZGZ House / iHouse estudio",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60d2/948e/f91c/8126/6900/0040/medium_jpg/03.jpg?1624413301"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963587/casa-da-mangueira-alan-chu",
+          "author": "Valeria Silva",
+          "description": "Located in the Brazilian Central Plateau, close to the Chapada dos Veadeiros National Park, the city of Alto Paraíso is the main starting point for the most emblematic attractions in the region. A mystical aura surrounds de lush landscapes of Chapada, known for the strong energy emanating for been supposedly sitting on a huge crystal plate.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/RRQCOxKj-_c/casa-da-mangueira-alan-chu",
+          "publishedOn": "2021-06-23T14:00:00.000Z",
+          "wordCount": 771,
+          "title": "Casa da Mangueira / Alan Chu",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cb/e5ef/f91c/8142/2300/0094/medium_jpg/c07__E1A2728.jpg?1623975396"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963822/scandic-grand-central-hotel-helsinki-futudesign",
+          "author": "Andreas Luco",
+          "description": "Scandic Grand Central Helsinki Hotel. A landmark of Finnish architecture, Helsinki Central railway station opens as a design hotel – Scandic Grand Central is Eliel Saarinen’s masterpiece with an extension that respects the original. The Helsinki Central Railway Station, and its administrative buildings, are amongst Eliel Saarinen’s most important achievements in Finland and a masterpiece of Finnish art nouveau.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/chPd3X8hTYY/scandic-grand-central-hotel-helsinki-futudesign",
+          "publishedOn": "2021-06-23T12:00:00.000Z",
+          "wordCount": 1131,
+          "title": "Scandic Grand Central Hotel Helsinki / Futudesign",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60d2/a332/2d3a/1301/64f5/7e6e/medium_jpg/scandic-grand-central-courtyard-futudesign-photo-marc-goodwin.jpg?1624417103"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963367/new-images-for-nuremberg-concert-hall-released",
+          "author": "Eric Baldwin",
+          "description": "Architecture firms Topotek 1, Johannes Kappler Architektur und Städtebau, and Super Future Collective have released new images for the Nuremberg Concert Hall. While the project is on hold due to the pandemic, the competition-winning design was made as an addition to the ensemble of the Meistersingerhalle. The project is driven by the 1960s architecture of the existing building, and will address acoustic issues to provide a world-class space for performance.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/FoFS9q-5BLc/new-images-for-nuremberg-concert-hall-released",
+          "publishedOn": "2021-06-23T11:00:00.000Z",
+          "wordCount": 768,
+          "title": "New Images for Nuremberg Concert Hall Released",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cd/dbe5/f91c/8182/7200/009d/medium_jpg/ext_picture_new_01092019_877777-Recovered_2.jpg?1624103883"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963799/house-in-havixbeck-kai-binnewies",
+          "author": "Paula Pintos",
+          "description": "Havixbeck is a small village close to Münster/Westfalen. The site near the center is the former garden area of the adjacent apartment house, which was not in use by the inhabitants. Because of the sloping terrain and difficult building regulations, it was long for sale. The development plan set the cubature of the building and the materials to be used. The design fits all regulations but interprets the traditional gable roof house in a modern way as a sequence of abstract, interlocking shapes. These are - in traditional order - placed upon a concrete base building and topped by a light roof construction with fully glazed fronts to both sides. The house is designed as a spilt-level building with five levels plus a garage and fits perfectly into the existing terrain. The internal organsation is made visible in the facade with room-high glazings.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/BQuwknEXbDc/house-in-havixbeck-kai-binnewies",
+          "publishedOn": "2021-06-23T10:00:00.000Z",
+          "wordCount": 955,
+          "title": "House in Havixbeck   / Kai Binnewies",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60d2/5256/f91c/8104/c700/000d/medium_jpg/efhba_03.jpg?1624396361"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963686/the-same-technology-that-will-allow-us-to-address-housing-challenges-on-earth-will-allow-us-to-venture-off-to-space-interview-with-jason-ballard-of-icon",
+          "author": "Christele Harrouk",
+          "description": "Founded in late 2017 and named one of the \"Most Innovative Companies in the World\" in 2020, ICON is a construction company that pushed the boundaries of technology, developing tools to advance humanity including robotics, software, and building materials. Relatively young, the Texas-based start-up has been delivering 3D-printed homes across the US and Mexico, trying to address global housing challenges while also developing construction systems to support future exploration of the Moon, with partners BIG and NASA.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/lHQp7pnpLU4/the-same-technology-that-will-allow-us-to-address-housing-challenges-on-earth-will-allow-us-to-venture-off-to-space-interview-with-jason-ballard-of-icon",
+          "publishedOn": "2021-06-23T07:30:00.000Z",
+          "wordCount": 3052,
+          "title": "\"The Same Technology that Will Allow Us to Address Housing Challenges on Earth, Will Allow Us to Venture Off to Space\": Interview with Jason Ballard of ICON",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cf/6571/f91c/8161/5f00/0002/medium_jpg/ICON_3D-Printed_Welcome_Center_CommunityFirstVillage_AustinTX_2019_PhotoCredit_PhilipCheung.jpg?1624204653"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963774/la-samaritaine-sanaa-plus-lagneau-architectes-plus-francois-brugel-architectes-associes-plus-sra-architectes",
+          "author": "Hana Abdel",
+          "description": "This project is the renovation of La Samaritaine, a late-19th century “Grand magasin” in Paris.The site is of great historical significance and the footprint of the building extends from Rue de Rivoli to the Quai du Louvre, overlooking the Seine.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/RYIDCz_ysjE/la-samaritaine-sanaa-plus-lagneau-architectes-plus-francois-brugel-architectes-associes-plus-sra-architectes",
+          "publishedOn": "2021-06-23T07:00:00.000Z",
+          "wordCount": 1018,
+          "title": "La Samaritaine / SANAA + LAGNEAU Architectes + Francois Brugel Architectes Associes + SRA Architectes",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60d2/271c/5373/1452/ae6d/6a74/medium_jpg/09-la-samaritaine-jared-chulski-sra-architectes-exclusif-hd.jpg?1624385424"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963758/nbbj-unveils-worlds-first-anti-high-rise-building",
+          "author": "Dima Stouhi",
+          "description": "Architecture firm NBBJ have unveiled the design of The Net, a next generation office tower in Seattle that fosters wellness and community. The firm's proposal comes as an answer to the problematics that high-rise buildings impose on individuals and urban spaces, such as lack of communal integration and the difficulties of accessing fresh air from the outdoors due to mechanical ventilation systems imposed on the facades.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/l8qE-Lvzawk/nbbj-unveils-worlds-first-anti-high-rise-building",
+          "publishedOn": "2021-06-23T06:30:00.000Z",
+          "wordCount": 864,
+          "title": "NBBJ Unveils World's First Anti High-Rise Building",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60d1/bb8b/f91c/81fa/7e00/00ab/medium_jpg/04.jpg?1624357752"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963549/innovative-residential-buildings-and-concepts-meet-the-winners-of-the-if-design-award-2021",
+          "author": "Sponsored Post",
+          "description": "Clear structures, restrained colors, and natural grace characterize the innovative residential building concepts that delighted members of the 2021 iF Design Awards jury. The awards were granted to impressive ideas that created a visual symbiosis with nature, among other concepts. These are residential buildings that fit casually into their natural surroundings—as if they themselves had emerged from their environment.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/tHl-OUzYeAE/innovative-residential-buildings-and-concepts-meet-the-winners-of-the-if-design-award-2021",
+          "publishedOn": "2021-06-23T06:15:00.000Z",
+          "wordCount": 1760,
+          "title": "Innovative Residential Buildings and Concepts: Meet the Winners of the iF Design Award 2021",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60cb/cbf5/f91c/815f/6b00/0064/medium_jpg/inhaus.jpg?1623968748"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963737/house-in-minho-germano-de-castro-pinheiro-arquitectos",
+          "author": "Susanna Moreira",
+          "description": "The greatest challenge of the project development, was the guiding intent to respect and recover the ancient memory of the site, reconciling it with the intervention we were to carry out.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/lnkhXTNaMrw/house-in-minho-germano-de-castro-pinheiro-arquitectos",
+          "publishedOn": "2021-06-23T06:00:00.000Z",
+          "wordCount": 1014,
+          "title": "House in Minho / Germano de Castro Pinheiro Arquitectos",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60d0/d14d/f91c/81fa/7e00/004b/medium_jpg/261.jpg?1624297796"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963797/geoguessr-game-uses-street-view-to-create-a-geographical-puzzle",
+          "author": "Andreea Cutieru",
+          "description": "A geographic discovery game based on Google imagery, GeoGuessr requires players to guess various locations worldwide using only the clues provided by a Street view. Created in 2013, the game has taken on new relevance amidst the pandemic, as it provides a virtual travel experience. From desolate roads to famous sites, the game teases deductive reasoning, requiring players to make use of any clue, from signs, language, flags, landscape, to pinpoint their surroundings.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/qe_O6ddTEi0/geoguessr-game-uses-street-view-to-create-a-geographical-puzzle",
+          "publishedOn": "2021-06-23T05:30:00.000Z",
+          "wordCount": 837,
+          "title": "GeoGuessr Game Uses Street View to Create a Geographical Puzzle",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60d2/d2b0/f91c/81e0/ae00/0055/medium_jpg/011.jpg?1624429224"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963202/argentine-axonometries-30-works-of-architecture-put-into-perspective",
+          "author": "Belén Maiztegui",
+          "description": "As Francis D. K. Ching explains in his book Architectural Graphics, unlike the traditional, two-dimensional orthographic drawings used to represent layouts, sections, and floorplans, which only allow a project to be glimpsed through a series of fragmented images, axonometries, or axonometric projections, offer unique, simultaneous three-dimensional views of a project with all the depth and spatiality of tried and true technical illustrations.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/hMVCeYZu77A/argentine-axonometries-30-works-of-architecture-put-into-perspective",
+          "publishedOn": "2021-06-23T05:00:00.000Z",
+          "wordCount": 1093,
+          "title": "Argentine Axonometries: 30 Works of Architecture Put Into Perspective",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60b7/cf71/f91c/8115/3200/0014/medium_jpg/Contexto_02.jpg?1622658918"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963706/back-to-basics-natural-ventilation-and-its-use-in-different-contexts",
+          "author": "Dima Stouhi",
+          "description": "Automation is everywhere around us - our homes, furniture, offices, cars, and even our clothing; we have become so accustomed to being surrounded by automated systems that we have forgotten what life was like without them. And while automation has noticeably improved the quality of interior spaces with solutions like purified air and temperature control, nothing compares to the natural cool breeze of mother nature.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/Lp573SeYtIU/back-to-basics-natural-ventilation-and-its-use-in-different-contexts",
+          "publishedOn": "2021-06-23T04:00:00.000Z",
+          "wordCount": 3040,
+          "title": "Back to Basics: Natural Ventilation and its Use in Different Contexts",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60d2/10fc/f91c/81a8/e800/0001/medium_jpg/Roland_Halbe.jpg?1624379639"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963789/six-square-house-young-projects",
+          "author": "Paula Pintos",
+          "description": "The residence is made up of six 24’x24’ gabled modules, arranged to align roof ridges and create continuity from one module to the next. In contrast, each module’s roof eaves flow upward and downward, which result in a variety of undulating surfaces and unexpected sightlines across the exterior and interior of the home. The home is clad in deep gray, slatted Accoya wood, whose striations enhance the roofscape’s dynamic edges and arcs.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/r0Ep1_DEzBM/six-square-house-young-projects",
+          "publishedOn": "2021-06-23T03:00:00.000Z",
+          "wordCount": 1391,
+          "title": "Six Square House / Young Projects",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60d2/3fbb/f91c/81d7/fc00/0021/medium_jpg/Young_Projects_Six_Square_House_Alan_Tansey_0060.jpg?1624391599"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/963782/mg08-housing-burr-studio",
+          "author": "Agustina Coulleri",
+          "description": "MG08 is an architectural intervention to generate a flexible dwelling, capable of being subdivided into different units, depending on the needs of its tenants.",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/NgpmGtUj0L4/mg08-housing-burr-studio",
+          "publishedOn": "2021-06-23T02:00:00.000Z",
+          "wordCount": 1065,
+          "title": "MG08 Housing / BURR Studio",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/60d2/02b2/2d3a/1301/64f5/7de4/medium_jpg/jose-hevia-burr-mg08-07.jpg?1624376001"
+          }
+        },
+        {
+          "id": "https://www.archdaily.com/948232/space-within-a-space-installation-amaa-collaborative-office-for-research-and-development",
+          "author": "Andreas Luco",
+          "description": "L’architettura non è spazio, […] l’architettura è un gesto del pensiero. Livio Vacchini in “Capolavori” I prefer something like the cave-like-unintentional space. something that is in between nature and artifact — formless form. Sou Fujimoto, “Essays on architecture and ceramics — vol 4”",
+          "link": "http://feedproxy.google.com/~r/ArchDaily/~3/fJG8O8W-RQA/space-within-a-space-installation-amaa-collaborative-office-for-research-and-development",
+          "publishedOn": "2021-06-23T01:00:00.000Z",
+          "wordCount": 892,
+          "title": "Space Within a Space Installation / AMAA - Collaborative Office For Research And Development",
+          "enclosure": {
+            "url": "https://images.adsttc.com/media/images/5f6b/7b1e/63c0/176b/3f00/02bb/medium_jpg/02_Cont_3001_2880px.jpg?1600879376"
+          }
+        },
+        {
           "id": "https://www.archdaily.com/963757/australia-108-fender-katsalidis-architects",
           "author": "Hana Abdel",
           "description": "Australia 108 is a sculptural Melbourne landmark by Fender Katsalidis – standing as the Southern Hemisphere’s tallest residential tower at a height of 319 metres.",
@@ -5497,6 +6298,726 @@
       "feedUrl": "https://mixmag.net/rss.xml",
       "siteUrl": "https://mixmag.net/",
       "articles": [
+        {
+          "id": "https://mixmag.net/read/new-venue-bristol-glastonbury-shangri-la-lost-horizon-news",
+          "author": null,
+          "description": "Lost Horizon HQ will be a “a creative playground” for Shangri-La to showcase art, live music and performance\nContinue reading...",
+          "link": "https://mixmag.net/read/new-venue-bristol-glastonbury-shangri-la-lost-horizon-news",
+          "publishedOn": "2021-06-23T12:00:00.000Z",
+          "wordCount": 452,
+          "title": "New venue launching in Bristol from Glastonbury’s Shangri-La"
+        },
+        {
+          "id": "https://mixmag.net/read/summer-of-love-brand-new-festival-manchester-news",
+          "author": null,
+          "description": "Manchester has a new Summer of Love\nContinue reading...",
+          "link": "https://mixmag.net/read/summer-of-love-brand-new-festival-manchester-news",
+          "publishedOn": "2021-06-23T08:00:00.000Z",
+          "wordCount": 496,
+          "title": "A brand new festival is taking place in Manchester this summer"
+        },
+        {
+          "id": "https://mixmag.net/read/slowcook-knopha-china-radio-station-baihui-news",
+          "author": null,
+          "description": "The independent station launched on Sunday\nContinue reading...",
+          "link": "https://mixmag.net/read/slowcook-knopha-china-radio-station-baihui-news",
+          "publishedOn": "2021-06-22T17:01:05.000Z",
+          "wordCount": 404,
+          "title": "​Slowcook and Knopha announce new radio station, BAIHUI"
+        },
+        {
+          "id": "https://mixmag.net/feature/china-pandemic-club-nightclub-scene-shanghai-beijing-chengdu",
+          "author": null,
+          "description": "With no international DJs allowed, domestic flight prices tumbling and a post-lockdown urge to explore, China is establishing a thriving dance music culture\nContinue reading...",
+          "link": "https://mixmag.net/feature/china-pandemic-club-nightclub-scene-shanghai-beijing-chengdu",
+          "publishedOn": "2021-06-22T14:40:00.000Z",
+          "wordCount": 2997,
+          "title": "\"A local culture created\": How the pandemic connected China's club scene"
+        },
+        {
+          "id": "https://mixmag.net/feature/bristol-shanti-celeste",
+          "author": null,
+          "description": "DJ and producer Shanti Celeste gives you her top tips for the south west city \nContinue reading...",
+          "link": "https://mixmag.net/feature/bristol-shanti-celeste",
+          "publishedOn": "2021-06-22T14:00:00.000Z",
+          "wordCount": 710,
+          "title": "Shanti Celeste: \"Bristol is very different - you get all kinds of people moving here to be creative\""
+        },
+        {
+          "id": "https://mixmag.net/read/t-pain-depressed-usher-criticism-autotune-news",
+          "author": null,
+          "description": "A new Netflix documentary saw T-Pain opening up about the incident\nContinue reading...",
+          "link": "https://mixmag.net/read/t-pain-depressed-usher-criticism-autotune-news",
+          "publishedOn": "2021-06-22T13:48:54.000Z",
+          "wordCount": 420,
+          "title": "T-Pain became depressed after Usher said he “fucked up music for real singers”"
+        },
+        {
+          "id": "https://mixmag.net/read/download-festival-pilot-event-10000-news",
+          "author": null,
+          "description": "No masks or social distancing were required\nContinue reading...",
+          "link": "https://mixmag.net/read/download-festival-pilot-event-10000-news",
+          "publishedOn": "2021-06-22T12:44:53.000Z",
+          "wordCount": 466,
+          "title": "Festival pilot event hosts 10,000 attendees in England"
+        },
+        {
+          "id": "https://mixmag.net/read/warner-david-guetta-music-catalogue-100-million-news",
+          "author": null,
+          "description": "He’s one of the youngest artists to make such an enormous sale\nContinue reading...",
+          "link": "https://mixmag.net/read/warner-david-guetta-music-catalogue-100-million-news",
+          "publishedOn": "2021-06-22T11:45:00.000Z",
+          "wordCount": 526,
+          "title": "​Warner buys David Guetta’s music catalogue for $100 million"
+        },
+        {
+          "id": "https://mixmag.net/read/a-guy-called-gerald-voodoo-ray-crowdfunder-news",
+          "author": null,
+          "description": "He has accused Rham Records of “exploitation”\nContinue reading...",
+          "link": "https://mixmag.net/read/a-guy-called-gerald-voodoo-ray-crowdfunder-news",
+          "publishedOn": "2021-06-22T10:11:15.000Z",
+          "wordCount": 459,
+          "title": "A Guy Called Gerald launches crowdfund to fight 'Voodoo Ray' royalties battle"
+        },
+        {
+          "id": "https://mixmag.net/read/man-loses-hand-illegal-rave-news",
+          "author": null,
+          "description": "Several others, including two police officers, are reported to be injured after violent clashes \nContinue reading...",
+          "link": "https://mixmag.net/read/man-loses-hand-illegal-rave-news",
+          "publishedOn": "2021-06-21T16:24:00.000Z",
+          "wordCount": 444,
+          "title": "Man loses hand after police shut down illegal rave in France"
+        },
+        {
+          "id": "https://mixmag.net/read/sherelle-debut-track-ep-news",
+          "author": null,
+          "description": "The jungle aficionado is dropping her first full release\nContinue reading...",
+          "link": "https://mixmag.net/read/sherelle-debut-track-ep-news",
+          "publishedOn": "2021-06-21T15:36:00.000Z",
+          "wordCount": 504,
+          "title": "​SHERELLE releases debut EP ‘160 Down The A406’"
+        },
+        {
+          "id": "https://mixmag.net/read/wales-venues-capacity-limits-lockdown-news",
+          "author": null,
+          "description": "Wales has continued to ease its lockdown restrictions\nContinue reading...",
+          "link": "https://mixmag.net/read/wales-venues-capacity-limits-lockdown-news",
+          "publishedOn": "2021-06-21T15:18:45.000Z",
+          "wordCount": 502,
+          "title": "Wales relaxes capacity limits at music venues"
+        },
+        {
+          "id": "https://mixmag.net/read/dj-bone-further-radion-amsterdam-news",
+          "author": null,
+          "description": "Bone will be joined by KiNK, Ben Sims, Laurent Garnier and more\nContinue reading...",
+          "link": "https://mixmag.net/read/dj-bone-further-radion-amsterdam-news",
+          "publishedOn": "2021-06-21T14:22:24.000Z",
+          "wordCount": 521,
+          "title": "​DJ Bone brings FURTHER residency back to Amsterdam's RADION"
+        },
+        {
+          "id": "https://mixmag.net/read/outkast-house-rent-airbnb-news",
+          "author": null,
+          "description": "The Atlanta home is up for grabs for just $25 a night\nContinue reading...",
+          "link": "https://mixmag.net/read/outkast-house-rent-airbnb-news",
+          "publishedOn": "2021-06-21T14:11:19.000Z",
+          "wordCount": 504,
+          "title": "​The house that OutKast recorded in is available to rent on Airbnb"
+        },
+        {
+          "id": "https://mixmag.net/read/foo-fighters-disco-cover-band-dee-gees-news",
+          "author": null,
+          "description": "The record will feature five Bee Gees covers\nContinue reading...",
+          "link": "https://mixmag.net/read/foo-fighters-disco-cover-band-dee-gees-news",
+          "publishedOn": "2021-06-21T12:35:21.000Z",
+          "wordCount": 565,
+          "title": "Foo Fighters rebrand as disco cover band The Dee Gees for new album"
+        },
+        {
+          "id": "https://mixmag.net/read/dr-dre-opening-high-school-la-news",
+          "author": null,
+          "description": "The school is aiming to offer “multidisciplinary, hands-on learning”\nContinue reading...",
+          "link": "https://mixmag.net/read/dr-dre-opening-high-school-la-news",
+          "publishedOn": "2021-06-21T12:28:00.000Z",
+          "wordCount": 459,
+          "title": "Dr. Dre is opening a new high school in LA"
+        },
+        {
+          "id": "https://mixmag.net/feature/dj-firestarr-impact-rap-mix-interview",
+          "author": null,
+          "description": "Gemma Ross speaks to DJ Firestarr, who hasn't let a global pandemic and personal crisis stop his rise to rap tastemaker status \nContinue reading...",
+          "link": "https://mixmag.net/feature/dj-firestarr-impact-rap-mix-interview",
+          "publishedOn": "2021-06-21T11:55:00.000Z",
+          "wordCount": 2260,
+          "title": "Incendiary sounds: DJ Firestarr is a UK rap powerhouse"
+        },
+        {
+          "id": "https://mixmag.net/read/listen-the-prodigy-breathe-wu-tang-clan-rza-news",
+          "author": null,
+          "description": "The re-vamped rave classic features on the Fast & Furious 9 soundtrack\nContinue reading...",
+          "link": "https://mixmag.net/read/listen-the-prodigy-breathe-wu-tang-clan-rza-news",
+          "publishedOn": "2021-06-21T07:43:00.000Z",
+          "wordCount": 385,
+          "title": "Listen to The Prodigy’s new version of ‘Breathe’ with Wu-Tang Clan’s RZA"
+        },
+        {
+          "id": "https://mixmag.net/read/unreleased-poem-tupac-news",
+          "author": null,
+          "description": "Pinkett-Smith shared the poem for the late rapper’s 50th birthday\nContinue reading...",
+          "link": "https://mixmag.net/read/unreleased-poem-tupac-news",
+          "publishedOn": "2021-06-18T15:59:45.000Z",
+          "wordCount": 300,
+          "title": "Unreleased poem from Tupac shared by Jada Pinkett-Smith"
+        },
+        {
+          "id": "https://mixmag.net/read/new-york-clubs-novaccination-negative-covid-test-entry-news",
+          "author": null,
+          "description": "The decision has been taken due to the high levels of vaccination in the State\nContinue reading...",
+          "link": "https://mixmag.net/read/new-york-clubs-novaccination-negative-covid-test-entry-news",
+          "publishedOn": "2021-06-18T15:57:00.000Z",
+          "wordCount": 450,
+          "title": "New York clubs no longer require vaccination or a negative COVID test for entry"
+        },
+        {
+          "id": "https://mixmag.net/feature/channel-tres-ellen-allien-longest-set-of-summer",
+          "author": null,
+          "description": "Channel Tres and Ellen Allien will play our 16 hour 38 minute-long stream\nContinue reading...",
+          "link": "https://mixmag.net/feature/channel-tres-ellen-allien-longest-set-of-summer",
+          "publishedOn": "2021-06-18T15:41:00.000Z",
+          "wordCount": 469,
+          "title": "Channel Tres and Ellen Allien will headline The Longest Set of Summer"
+        },
+        {
+          "id": "https://mixmag.net/read/fka-twigs-shia-labeouf-lawsuit-news",
+          "author": null,
+          "description": "A lawsuit filed by the singer last year accused the actor of domestic abuse\nContinue reading...",
+          "link": "https://mixmag.net/read/fka-twigs-shia-labeouf-lawsuit-news",
+          "publishedOn": "2021-06-18T15:21:00.000Z",
+          "wordCount": 333,
+          "title": "FKA twigs and Shia LaBeouf have “productive\" abuse lawsuit negotiations"
+        },
+        {
+          "id": "https://mixmag.net/feature/erika-de-casier-cover-mix",
+          "author": null,
+          "description": "Erika de Casier selects old and new favourites\nContinue reading...",
+          "link": "https://mixmag.net/feature/erika-de-casier-cover-mix",
+          "publishedOn": "2021-06-18T13:39:34.000Z",
+          "wordCount": 214,
+          "title": "The Cover Mix: Erika de Casier"
+        },
+        {
+          "id": "https://mixmag.net/feature/new-report-explores-the-future-of-nightlife",
+          "author": null,
+          "description": "The report looks back at the effects of the pandemic and forward into the future of live events\nContinue reading...",
+          "link": "https://mixmag.net/feature/new-report-explores-the-future-of-nightlife",
+          "publishedOn": "2021-06-18T11:22:53.000Z",
+          "wordCount": 1065,
+          "title": "New report explores the future of nightlife"
+        },
+        {
+          "id": "https://mixmag.net/read/notting-hill-carnival-2021-cancelled-news",
+          "author": null,
+          "description": "The decision was made due to the ‘ongoing uncertainty’ on the pandemic\nContinue reading...",
+          "link": "https://mixmag.net/read/notting-hill-carnival-2021-cancelled-news",
+          "publishedOn": "2021-06-18T10:27:45.000Z",
+          "wordCount": 451,
+          "title": "Notting Hill Carnival has been cancelled for a second year running"
+        },
+        {
+          "id": "https://mixmag.net/read/longest-set-summer-live-streams",
+          "author": null,
+          "description": "Pure vibes and joyous energy in The Longest Set of Summer with House Gospel Choir, ABSOLUTE., SYREETA and more\nContinue reading...",
+          "link": "https://mixmag.net/read/longest-set-summer-live-streams",
+          "publishedOn": "2021-06-17T17:29:00.000Z",
+          "wordCount": 440,
+          "title": "We’re bringing you a 16 hour 38 minute stream to match the longest day of the year"
+        },
+        {
+          "id": "https://mixmag.net/read/diana-ross-new-album-thank-you-news",
+          "author": null,
+          "description": "‘Thank You’ is Diana Ross' 25th album\nContinue reading...",
+          "link": "https://mixmag.net/read/diana-ross-new-album-thank-you-news",
+          "publishedOn": "2021-06-17T13:40:00.000Z",
+          "wordCount": 400,
+          "title": "Diana Ross is releasing her first album in 15 years"
+        },
+        {
+          "id": "https://mixmag.net/read/new-report-race-representation-music-industry-news",
+          "author": null,
+          "description": "In the US, white male executives outnumber Black women by nearly 18 to one \nContinue reading...",
+          "link": "https://mixmag.net/read/new-report-race-representation-music-industry-news",
+          "publishedOn": "2021-06-17T13:29:00.000Z",
+          "wordCount": 568,
+          "title": "New report sheds light on music industry’s lack of racial diversity"
+        },
+        {
+          "id": "https://mixmag.net/read/women-electronic-music-book-news",
+          "author": null,
+          "description": "Composers from across the globe will feature\nContinue reading...",
+          "link": "https://mixmag.net/read/women-electronic-music-book-news",
+          "publishedOn": "2021-06-17T11:39:00.000Z",
+          "wordCount": 487,
+          "title": "A new book is spotlighting 95 pioneering women of electronic music"
+        },
+        {
+          "id": "https://mixmag.net/read/free-the-night-nightlife-campaign-northern-ireland-news",
+          "author": null,
+          "description": "The collective of creatives aim to strengthen the night-time economy\nContinue reading...",
+          "link": "https://mixmag.net/read/free-the-night-nightlife-campaign-northern-ireland-news",
+          "publishedOn": "2021-06-17T10:39:00.000Z",
+          "wordCount": 632,
+          "title": "Free The Night nightlife campaign launches in Northern Ireland"
+        },
+        {
+          "id": "https://mixmag.net/read/berlin-easing-clubbing-restrictions-june-18-news",
+          "author": null,
+          "description": "Berlin is allowed to dance again\nContinue reading...",
+          "link": "https://mixmag.net/read/berlin-easing-clubbing-restrictions-june-18-news",
+          "publishedOn": "2021-06-17T10:05:00.000Z",
+          "wordCount": 369,
+          "title": "Berlin announces plans for easing clubbing restrictions"
+        },
+        {
+          "id": "https://mixmag.net/read/new-1500-capacity-club-newcastle-the-lofts-news",
+          "author": null,
+          "description": "The Lofts opens on the August bank holiday with Pete Tong headlining\nContinue reading...",
+          "link": "https://mixmag.net/read/new-1500-capacity-club-newcastle-the-lofts-news",
+          "publishedOn": "2021-06-17T09:00:00.000Z",
+          "wordCount": 455,
+          "title": "A new 1500-capacity club is opening in Newcastle"
+        },
+        {
+          "id": "https://mixmag.net/read/derry-jika-jika-drumcode-special-festival-news",
+          "author": null,
+          "description": "The August event is a Drumcode special\nContinue reading...",
+          "link": "https://mixmag.net/read/derry-jika-jika-drumcode-special-festival-news",
+          "publishedOn": "2021-06-16T17:02:48.000Z",
+          "wordCount": 482,
+          "title": "​Derry’s Jika Jika Festival returns with Adam Beyer and Joseph Capriati"
+        },
+        {
+          "id": "https://mixmag.net/read/dr-dre-medical-news-news",
+          "author": null,
+          "description": "“I’m feeling fantastic”\nContinue reading...",
+          "link": "https://mixmag.net/read/dr-dre-medical-news-news",
+          "publishedOn": "2021-06-16T16:52:18.000Z",
+          "wordCount": 373,
+          "title": "Dr. Dre opens up about suffering brain aneurysm"
+        },
+        {
+          "id": "https://mixmag.net/feature/lord-apex-uk-rap-underground-interview",
+          "author": null,
+          "description": "Tope Olufemi speaks to the West London rapper about putting on young producers, unreleased Madlib collaborations, and going Super Saiyan on stage\nContinue reading...",
+          "link": "https://mixmag.net/feature/lord-apex-uk-rap-underground-interview",
+          "publishedOn": "2021-06-16T15:56:00.000Z",
+          "wordCount": 1553,
+          "title": "Lord Apex is shaping the UK rap underground"
+        },
+        {
+          "id": "https://mixmag.net/read/dekmantel-2021-line-up-news",
+          "author": null,
+          "description": "The festival looks set to go ahead after lockdown restrictions ease in The Netherlands on June 30\nContinue reading...",
+          "link": "https://mixmag.net/read/dekmantel-2021-line-up-news",
+          "publishedOn": "2021-06-16T14:50:00.000Z",
+          "wordCount": 468,
+          "title": "​Dekmantel announces full line-up for 2021 festival"
+        },
+        {
+          "id": "https://mixmag.net/read/awakenings-reinier-zonneveld-join-13000-capacity-ade-show-news",
+          "author": null,
+          "description": "It marks the biggest ADE event to date\nContinue reading...",
+          "link": "https://mixmag.net/read/awakenings-reinier-zonneveld-join-13000-capacity-ade-show-news",
+          "publishedOn": "2021-06-16T14:27:00.000Z",
+          "wordCount": 474,
+          "title": "​Awakenings and Reinier Zonneveld plan 13,000 capacity ADE show"
+        },
+        {
+          "id": "https://mixmag.net/read/asap-rocky-trump-sweden-news",
+          "author": null,
+          "description": "Trump wasn't helpful in freeing A$AP Rocky after all, says the rapper\nContinue reading...",
+          "link": "https://mixmag.net/read/asap-rocky-trump-sweden-news",
+          "publishedOn": "2021-06-16T11:17:32.000Z",
+          "wordCount": 538,
+          "title": "Trump made A$AP Rocky’s Sweden case ‘a little worse’ he says"
+        },
+        {
+          "id": "https://mixmag.net/feature/exit-festival-celebrates-20-years-of-all-encompassing-line-ups",
+          "author": null,
+          "description": "The Serbian festival has finalised four stage line-ups for its landmark event\nContinue reading...",
+          "link": "https://mixmag.net/feature/exit-festival-celebrates-20-years-of-all-encompassing-line-ups",
+          "publishedOn": "2021-06-16T10:26:00.000Z",
+          "wordCount": 717,
+          "title": "EXIT Festival celebrates 20 years of all-encompassing line-ups"
+        },
+        {
+          "id": "https://mixmag.net/read/smallest-mobile-nightclub-wins-guinness-world-record-doof-shed-news",
+          "author": null,
+          "description": "The Doof Shed's dancefloor is 74cm x 153cm\nContinue reading...",
+          "link": "https://mixmag.net/read/smallest-mobile-nightclub-wins-guinness-world-record-doof-shed-news",
+          "publishedOn": "2021-06-16T10:17:00.000Z",
+          "wordCount": 550,
+          "title": "​'Smallest mobile nightclub’ sets Guinness World Record"
+        },
+        {
+          "id": "https://mixmag.net/read/yves-tumor-jackie-single-tour-news",
+          "author": null,
+          "description": "Yves Tumor has also announced an extensive transatlantic tour\nContinue reading...",
+          "link": "https://mixmag.net/read/yves-tumor-jackie-single-tour-news",
+          "publishedOn": "2021-06-15T17:26:11.000Z",
+          "wordCount": 361,
+          "title": "Yves Tumor releases new single ‘Jackie’"
+        },
+        {
+          "id": "https://mixmag.net/read/the-prodigy-rza-wu-tang-clan-breathe-news",
+          "author": null,
+          "description": "What a collab\nContinue reading...",
+          "link": "https://mixmag.net/read/the-prodigy-rza-wu-tang-clan-breathe-news",
+          "publishedOn": "2021-06-15T17:00:00.000Z",
+          "wordCount": 360,
+          "title": "The Prodigy announce revamped ‘Breathe’ with Wu-Tang Clan’s RZA"
+        },
+        {
+          "id": "https://mixmag.net/read/andres-new-single-praises-news",
+          "author": null,
+          "description": "The vinyl features a live version of 'New For U'\nContinue reading...",
+          "link": "https://mixmag.net/read/andres-new-single-praises-news",
+          "publishedOn": "2021-06-15T16:21:23.000Z",
+          "wordCount": 299,
+          "title": "Andrés announces new single ‘Praises’"
+        },
+        {
+          "id": "https://mixmag.net/read/dj-stingray-new-record-label-micron-audio-news",
+          "author": null,
+          "description": "The label will release a reissue of his 2012 record ‘F.T.N.W.O’\nContinue reading...",
+          "link": "https://mixmag.net/read/dj-stingray-new-record-label-micron-audio-news",
+          "publishedOn": "2021-06-15T15:50:00.000Z",
+          "wordCount": 475,
+          "title": "​DJ Stingray launches new record label Micron Audio"
+        },
+        {
+          "id": "https://mixmag.net/read/new-exhibition-new-york-musical-history-news",
+          "author": null,
+          "description": "“New York, New Music 1980-1986” documents the city’s musical impact\nContinue reading...",
+          "link": "https://mixmag.net/read/new-exhibition-new-york-musical-history-news",
+          "publishedOn": "2021-06-15T15:18:11.000Z",
+          "wordCount": 352,
+          "title": "A new exhibit exploring New York’s influential music history has opened"
+        },
+        {
+          "id": "https://mixmag.net/read/human-traffic-2-film-investors-news",
+          "author": null,
+          "description": "£250,000 has been raised from private investors so far\nContinue reading...",
+          "link": "https://mixmag.net/read/human-traffic-2-film-investors-news",
+          "publishedOn": "2021-06-15T14:25:45.000Z",
+          "wordCount": 508,
+          "title": "Human Traffic 2 production team is looking for investors"
+        },
+        {
+          "id": "https://mixmag.net/read/uk-festivals-urgent-support-reopening-delayed-news",
+          "author": null,
+          "description": "The Association of Independent Festivals is calling for government-backed insurance\nContinue reading...",
+          "link": "https://mixmag.net/read/uk-festivals-urgent-support-reopening-delayed-news",
+          "publishedOn": "2021-06-15T14:02:38.000Z",
+          "wordCount": 851,
+          "title": "UK festivals call for urgent support as June 21 reopening delayed by a month"
+        },
+        {
+          "id": "https://mixmag.net/read/boris-johnson-july-19-restrictions-news",
+          "author": null,
+          "description": "He said July 19 would be the “terminus date” for the remaining restrictions on social contact\nContinue reading...",
+          "link": "https://mixmag.net/read/boris-johnson-july-19-restrictions-news",
+          "publishedOn": "2021-06-15T13:42:18.000Z",
+          "wordCount": 617,
+          "title": "Boris Johnson insists July 19 will be end of restrictions in England"
+        },
+        {
+          "id": "https://mixmag.net/read/tsha-new-ep-onlyl-ninja-tune-news",
+          "author": null,
+          "description": "Coming via Ninja Tune this August\nContinue reading...",
+          "link": "https://mixmag.net/read/tsha-new-ep-onlyl-ninja-tune-news",
+          "publishedOn": "2021-06-15T13:20:06.000Z",
+          "wordCount": 383,
+          "title": "​TSHA announces new EP ‘OnlyL’"
+        },
+        {
+          "id": "https://mixmag.net/read/juneteenth-bandcamp-fundraiser-racial-justice-news",
+          "author": null,
+          "description": "The fundraiser will go ahead on June 18\nContinue reading...",
+          "link": "https://mixmag.net/read/juneteenth-bandcamp-fundraiser-racial-justice-news",
+          "publishedOn": "2021-06-15T13:14:00.000Z",
+          "wordCount": 490,
+          "title": "Bandcamp announces Juneteenth fundraiser to raise money for racial justice"
+        },
+        {
+          "id": "https://mixmag.net/read/new-series-independent-record-stores-news",
+          "author": null,
+          "description": "The documentary series will coincide with this summer’s Record Store Days\nContinue reading...",
+          "link": "https://mixmag.net/read/new-series-independent-record-stores-news",
+          "publishedOn": "2021-06-15T11:08:12.000Z",
+          "wordCount": 348,
+          "title": "A new series exploring the UK’s independent record stores is out now"
+        },
+        {
+          "id": "https://mixmag.net/read/lockdown-extension-ntia-news",
+          "author": null,
+          "description": "Many venues are in jeopardy after ‘Freedom Day’ postponed\nContinue reading...",
+          "link": "https://mixmag.net/read/lockdown-extension-ntia-news",
+          "publishedOn": "2021-06-15T10:40:00.000Z",
+          "wordCount": 475,
+          "title": "Prime Minister has “switched the lights off” for nightlife with lockdown extension, says NTIA"
+        },
+        {
+          "id": "https://mixmag.net/read/nightlife-businesses-close-within-weeks-lockdown-delay-news",
+          "author": null,
+          "description": "The delay will ‘decimate’ the night-time economy according to a new survey\nContinue reading...",
+          "link": "https://mixmag.net/read/nightlife-businesses-close-within-weeks-lockdown-delay-news",
+          "publishedOn": "2021-06-15T10:37:00.000Z",
+          "wordCount": 635,
+          "title": "​One in four nightlife businesses will close within weeks due to lockdown pushback"
+        },
+        {
+          "id": "https://mixmag.net/read/berlin-queer-collective-gegen-three-compilations-10th-anniversary-news",
+          "author": null,
+          "description": "Featuring Ellen Allien, Oliver Deutschmann and Paula Temple\nContinue reading...",
+          "link": "https://mixmag.net/read/berlin-queer-collective-gegen-three-compilations-10th-anniversary-news",
+          "publishedOn": "2021-06-15T09:40:28.000Z",
+          "wordCount": 489,
+          "title": "Berlin queer collective Gegen will release three compilations for its 10th anniversary"
+        },
+        {
+          "id": "https://mixmag.net/read/daytimers-compilation-supporting-covid-relief-india-news",
+          "author": null,
+          "description": "Profits raised from DT002 will aid Indian charities fighting COVID\nContinue reading...",
+          "link": "https://mixmag.net/read/daytimers-compilation-supporting-covid-relief-india-news",
+          "publishedOn": "2021-06-14T16:16:59.000Z",
+          "wordCount": 289,
+          "title": "Daytimers announce second compilation supporting COVID relief efforts in India"
+        },
+        {
+          "id": "https://mixmag.net/read/lollapalooza-free-tickets-tovaccinated-news",
+          "author": null,
+          "description": "The Chicago festival will run vaccination sites in the city on June 26\nContinue reading...",
+          "link": "https://mixmag.net/read/lollapalooza-free-tickets-tovaccinated-news",
+          "publishedOn": "2021-06-14T15:11:35.000Z",
+          "wordCount": 511,
+          "title": "​Lollapalooza offer free tickets as an incentive to get vaccinated"
+        },
+        {
+          "id": "https://mixmag.net/read/wu-tang-clan-american-saga-season-2-news",
+          "author": null,
+          "description": "Two years after the first season premiered\nContinue reading...",
+          "link": "https://mixmag.net/read/wu-tang-clan-american-saga-season-2-news",
+          "publishedOn": "2021-06-14T14:56:08.000Z",
+          "wordCount": 361,
+          "title": "‘Wu-Tang Clan: An American Saga’ will return for a second season in September"
+        },
+        {
+          "id": "https://mixmag.net/read/sophie-jayda-g-bicep-aim-awards-2021-nominees-news",
+          "author": null,
+          "description": "Tiffany Calver and Jamz Supernova will host the ceremony this year\nContinue reading...",
+          "link": "https://mixmag.net/read/sophie-jayda-g-bicep-aim-awards-2021-nominees-news",
+          "publishedOn": "2021-06-14T14:51:14.000Z",
+          "wordCount": 511,
+          "title": "SOPHIE, Jayda G and Bicep nominated for AIM Awards 2021"
+        },
+        {
+          "id": "https://mixmag.net/feature/erika-de-casier-cover-interview-sensational",
+          "author": null,
+          "description": "Upon the release of her new album 'Sensational', Erika de Casier speaks to Patrick Hinton about growing in confidence as an artist and person, fuelled by the success of her debut and impact of seismic global events\nContinue reading...",
+          "link": "https://mixmag.net/feature/erika-de-casier-cover-interview-sensational",
+          "publishedOn": "2021-06-14T13:26:00.000Z",
+          "wordCount": 3042,
+          "title": "Fired up: How Erika de Casier grew into an R&B sensation"
+        },
+        {
+          "id": "https://mixmag.net/read/maceo-plex-remix-faithless-insomnia-news",
+          "author": null,
+          "description": "The Epic Mix and Dub Mix are out now via Ministry of Sound\nContinue reading...",
+          "link": "https://mixmag.net/read/maceo-plex-remix-faithless-insomnia-news",
+          "publishedOn": "2021-06-14T12:45:37.000Z",
+          "wordCount": 401,
+          "title": "Maceo Plex drops two remixes of Faithless’ ‘Insomnia’"
+        },
+        {
+          "id": "https://mixmag.net/read/sony-music-cancel-debts-news",
+          "author": null,
+          "description": "Many artists will now be able to earn royalties when their songs are played on streaming services\nContinue reading...",
+          "link": "https://mixmag.net/read/sony-music-cancel-debts-news",
+          "publishedOn": "2021-06-14T10:37:46.000Z",
+          "wordCount": 481,
+          "title": "Sony Music cancel debts for thousands of their signed artists"
+        },
+        {
+          "id": "https://mixmag.net/read/june-21-lockdown-easing-delay-four-weeks-news",
+          "author": null,
+          "description": "The decision has already been signed off by the government\nContinue reading...",
+          "link": "https://mixmag.net/read/june-21-lockdown-easing-delay-four-weeks-news",
+          "publishedOn": "2021-06-14T09:58:00.000Z",
+          "wordCount": 497,
+          "title": "Lockdown easing to be delayed by four weeks beyond June 21"
+        },
+        {
+          "id": "https://mixmag.net/read/watch-sef-kombo-kitty-amor-play-a-set-at-grow-east-london-live-streams",
+          "author": null,
+          "description": "We've teamed up with THE FACE and Beefeater Gin to celebrate independent music venues around the UK\nContinue reading...",
+          "link": "https://mixmag.net/read/watch-sef-kombo-kitty-amor-play-a-set-at-grow-east-london-live-streams",
+          "publishedOn": "2021-06-13T05:00:00.000Z",
+          "wordCount": 373,
+          "title": "Watch Sef Kombo & Kitty Amor play a set at Grow, east London"
+        },
+        {
+          "id": "https://mixmag.net/read/watch-flohio-corsica-studios-south-london-live-streams",
+          "author": null,
+          "description": "We've teamed up with THE FACE and Beefeater Gin to celebrate independent music venues around the UK\nContinue reading...",
+          "link": "https://mixmag.net/read/watch-flohio-corsica-studios-south-london-live-streams",
+          "publishedOn": "2021-06-12T05:00:00.000Z",
+          "wordCount": 392,
+          "title": "Watch rapper FLOHIO perform at Corsica Studios, south London"
+        },
+        {
+          "id": "https://mixmag.net/read/red-axes-dori-sadovnik-solo-album-kapitan-news",
+          "author": null,
+          "description": "Watch a documentary about the making of the album below\nContinue reading...",
+          "link": "https://mixmag.net/read/red-axes-dori-sadovnik-solo-album-kapitan-news",
+          "publishedOn": "2021-06-11T17:16:36.000Z",
+          "wordCount": 358,
+          "title": "Red Axes' Dori Sadovnik announces solo album as Kapitan"
+        },
+        {
+          "id": "https://mixmag.net/feature/unum-festival-albania-unrestricted-review",
+          "author": null,
+          "description": "The Albanian five-dayer gave a dizzying insight into the return of partying\nContinue reading...",
+          "link": "https://mixmag.net/feature/unum-festival-albania-unrestricted-review",
+          "publishedOn": "2021-06-11T16:23:00.000Z",
+          "wordCount": 1791,
+          "title": "We went to UNUM, the first unrestricted European festival since the pandemic began"
+        },
+        {
+          "id": "https://mixmag.net/read/special-request-remix-orbital-chime-news",
+          "author": null,
+          "description": "The track was made for the new documentary Better Days: The Story Of UK Rave\nContinue reading...",
+          "link": "https://mixmag.net/read/special-request-remix-orbital-chime-news",
+          "publishedOn": "2021-06-11T14:10:25.000Z",
+          "wordCount": 497,
+          "title": "​Special Request remixes Orbital classic ‘Chime’"
+        },
+        {
+          "id": "https://mixmag.net/read/sonos-radio-brian-eno-unreleased-the-lighthouse-news",
+          "author": null,
+          "description": "Fans will have the opportunity to listen to a wealth of unreleased work from Eno\nContinue reading...",
+          "link": "https://mixmag.net/read/sonos-radio-brian-eno-unreleased-the-lighthouse-news",
+          "publishedOn": "2021-06-11T12:13:00.000Z",
+          "wordCount": 553,
+          "title": "Brian Eno shares unreleased music on new Sonos Radio show"
+        },
+        {
+          "id": "https://mixmag.net/read/moodymann-circoloco-rockstar-records-news",
+          "author": null,
+          "description": "The Detroit DJ adds to the ‘Monday Dreamin’ Green’ EP\nContinue reading...",
+          "link": "https://mixmag.net/read/moodymann-circoloco-rockstar-records-news",
+          "publishedOn": "2021-06-11T11:39:00.000Z",
+          "wordCount": 505,
+          "title": "​Moodymann joins CircoLoco x Rockstar Games' new label, CircoLoco Records"
+        },
+        {
+          "id": "https://mixmag.net/read/watch-swing-ting-set-soup-manchester-live-streams",
+          "author": null,
+          "description": "We've teamed up with THE FACE and Beefeater Gin to celebrate independent music venues around the UK\nContinue reading...",
+          "link": "https://mixmag.net/read/watch-swing-ting-set-soup-manchester-live-streams",
+          "publishedOn": "2021-06-11T11:27:00.000Z",
+          "wordCount": 431,
+          "title": "Watch Swing Ting play a set at SOUP, Manchester"
+        },
+        {
+          "id": "https://mixmag.net/read/june-21-delay-gigs-club-nights-lockdown-news",
+          "author": null,
+          "description": "A quarter of Brits say the number one thing they’re looking forward to is live music\nContinue reading...",
+          "link": "https://mixmag.net/read/june-21-delay-gigs-club-nights-lockdown-news",
+          "publishedOn": "2021-06-11T11:08:16.000Z",
+          "wordCount": 590,
+          "title": "More than 5,000 club nights and gigs face cancellation if June 21 reopening is delayed"
+        },
+        {
+          "id": "https://mixmag.net/read/elton-john-warns-looming-catastrophe-brexit-touring-rules-news",
+          "author": null,
+          "description": "The “gaping hole” in the UK’s trade deal harm future generations according to John\nContinue reading...",
+          "link": "https://mixmag.net/read/elton-john-warns-looming-catastrophe-brexit-touring-rules-news",
+          "publishedOn": "2021-06-11T10:47:00.000Z",
+          "wordCount": 565,
+          "title": "Elton John warns of “looming catastrophe” due to Brexit-based touring rules"
+        },
+        {
+          "id": "https://mixmag.net/read/new-version-vindaloo-england-bez-danny-dyer-news",
+          "author": null,
+          "description": "‘Vindaloo Two’ also features Rowetta, the London Community Gospel Choir and original lyricist Keith Allen\nContinue reading...",
+          "link": "https://mixmag.net/read/new-version-vindaloo-england-bez-danny-dyer-news",
+          "publishedOn": "2021-06-11T10:41:00.000Z",
+          "wordCount": 476,
+          "title": "A new version of ‘Vindaloo’ featuring Bez and Danny Dyer has been released"
+        },
+        {
+          "id": "https://mixmag.net/feature/noel-gallagher-interview-acid-house-the-hacienda-andrew-weatherall",
+          "author": null,
+          "description": "Ralph Moore speaks to Noel Gallagher about acid house, intoxicated revelations at The Haçienda, and nearly working with the chug master Andrew Weatherall\nContinue reading...",
+          "link": "https://mixmag.net/feature/noel-gallagher-interview-acid-house-the-hacienda-andrew-weatherall",
+          "publishedOn": "2021-06-11T02:31:00.000Z",
+          "wordCount": 2439,
+          "title": "Noel Gallagher: “I took an E and then electronic music made sense!”"
+        },
+        {
+          "id": "https://mixmag.net/read/government-challenged-june-21-delay-nightlife-news",
+          "author": null,
+          "description": "95% of businesses have made financial commitments to reopen this month\nContinue reading...",
+          "link": "https://mixmag.net/read/government-challenged-june-21-delay-nightlife-news",
+          "publishedOn": "2021-06-11T00:40:00.000Z",
+          "wordCount": 573,
+          "title": "​The government will be challenged on June 21 delay by clubs and nightlife businesses"
+        },
+        {
+          "id": "https://mixmag.net/feature/celebrating-independent-music-venues-uk-streams",
+          "author": null,
+          "description": "We've partnered with THE FACE and Beefeater Gin to present sets from Shanti Celeste, Swing Ting, FLOHIO and Sef Kombo & Kitty Amor\nContinue reading...",
+          "link": "https://mixmag.net/feature/celebrating-independent-music-venues-uk-streams",
+          "publishedOn": "2021-06-10T15:18:00.000Z",
+          "wordCount": 372,
+          "title": "Watch four streams celebrating independent music venues across the UK"
+        },
+        {
+          "id": "https://mixmag.net/read/dj-seinfeld-new-album-mirrors-news",
+          "author": null,
+          "description": "‘U Already Know’ is the new single from the Swedish producer\nContinue reading...",
+          "link": "https://mixmag.net/read/dj-seinfeld-new-album-mirrors-news",
+          "publishedOn": "2021-06-10T12:55:02.000Z",
+          "wordCount": 535,
+          "title": "​DJ Seinfeld announces new album ‘Mirrors’"
+        },
+        {
+          "id": "https://mixmag.net/read/dance-music-themed-gourmet-burger-restuarant-ibiza-news",
+          "author": null,
+          "description": "Grab the Edam Beyer or the Avocado Villalobos from iBeefaBurger\nContinue reading...",
+          "link": "https://mixmag.net/read/dance-music-themed-gourmet-burger-restuarant-ibiza-news",
+          "publishedOn": "2021-06-10T11:44:00.000Z",
+          "wordCount": 528,
+          "title": "A dance music themed gourmet burger joint has opened in Ibiza"
+        },
+        {
+          "id": "https://mixmag.net/read/us-congress-spotify-controversial-discovery-mode-news",
+          "author": null,
+          "description": "The House Judiciary Committee warned it “may set in motion a ‘race to the bottom’\"  for artists and labels\nContinue reading...",
+          "link": "https://mixmag.net/read/us-congress-spotify-controversial-discovery-mode-news",
+          "publishedOn": "2021-06-10T11:28:00.000Z",
+          "wordCount": 538,
+          "title": "US Congress query Spotify on controversial Discovery Mode"
+        },
+        {
+          "id": "https://mixmag.net/read/bec-techno-dj-lab",
+          "author": null,
+          "description": "Chugging, fluid techno in The Lab this week\nContinue reading...",
+          "link": "https://mixmag.net/read/bec-techno-dj-lab",
+          "publishedOn": "2021-06-10T11:15:00.000Z",
+          "wordCount": 326,
+          "title": "BEC in The Lab LDN"
+        },
         {
           "id": "https://mixmag.net/feature/jamz-supernova-interview-bbc-6-music",
           "author": null,
@@ -6735,6 +8256,15 @@
       "siteUrl": "https://www.aint-bad.com",
       "articles": [
         {
+          "id": "https://www.aint-bad.com/?p=229722",
+          "author": "Emerald Arguelles",
+          "description": "Raised in the Southern states of Tennessee and Texas, André Ramos-Woodard is a contemporary artist who uses their work to emphasize the repercussions of contemporary and historical discrimination. Primarily working… Read More\nThe post André Ramos-Woodard appeared first on AINT—BAD.",
+          "link": "https://www.aint-bad.com/article/issue-no-15/2021/06/23/andre-ramos-woodard-2/",
+          "publishedOn": "2021-06-23T12:00:00.000Z",
+          "wordCount": 653,
+          "title": "André Ramos-Woodard"
+        },
+        {
           "id": "https://www.aint-bad.com/?p=229559",
           "author": "Emerald Arguelles",
           "description": "Donavon Smallwood (b. 1994) is a self-trained American photographer focusing on creating intimate portraiture and images investigating nature & civilization through absolute idealism. He studied comparative literature and documentary film… Read More\nThe post Donavon Smallwood appeared first on AINT—BAD.",
@@ -6895,15 +8425,6 @@
           "publishedOn": "2021-05-26T12:00:00.000Z",
           "wordCount": 4269,
           "title": "In Conversation With: Will Day"
-        },
-        {
-          "id": "https://www.aint-bad.com/?p=244329",
-          "author": "Carson Sanders",
-          "description": "Allison Plass is an American Fine Art photographer living in NYC. She received her MA in Art History at UC Santa Barbara with a focus on gender and identity in… Read More\nThe post Allison Plass appeared first on AINT—BAD.",
-          "link": "https://www.aint-bad.com/article/2021/05/25/allison-plass/",
-          "publishedOn": "2021-05-25T12:00:00.000Z",
-          "wordCount": 662,
-          "title": "Allison Plass"
         }
       ]
     },
@@ -6928,6 +8449,15 @@
       "feedUrl": "https://www.criterion.com/feeds/the-daily",
       "siteUrl": "https://www.criterion.com/feeds/the-daily",
       "articles": [
+        {
+          "id": "https://www.criterion.com/current/posts/7436-one-work-two-days",
+          "author": null,
+          "description": "<figure class=\"figure-opt\"> <img src=\"https://criterion-production.s3.amazonaws.com/WqP6OkWLErZ0xNaErcOwcBTVPS7JhV.jpg\" alt=\"\" /> <figcaption> C. W. Winter and Anders Edström’s <i>The Works and Days (of Tayoko Shiojiri in the Shiotani Basin)</i> (2020) </figcaption> </figure>  \t\t<p><span class=\"dc\">O</span>n July 24 and 25, <a href=\"https://www.acropoliscinema.com/items/theworksanddays\" title=\"\" target=\"_blank\">Acropolis Cinema</a> will offer viewers in Los Angeles the opportunity to immerse themselves in the visual and audial rhythms of daily life in a village of forty-seven inhabitants in the mountains of Japan’s Kyoto Prefecture. C. W. Winter and Anders Edström’s eight-hour fiction feature <a href=\"https://www.theworksanddaysfilm.com/\" title=\"\" target=\"_blank\"><i>The Works and Days (of Tayoko Shiojiri in the Shiotani Basin)</i></a> is a portrait of a farmer and his family over the course of five seasons.</p><div>The title is a nod to <a href=\"https://chs.harvard.edu/primary-source/hesiod-works-and-days-sb/\" title=\"\" target=\"_blank\"><i>Works and Days,</i></a> a sort of farmer’s almanac written around 700 BC, in which the Greek poet Hesiod offers agricultural advice to his brother. Acropolis founder <a href=\"https://www.filmcomment.com/article/currents-the-works-and-days-of-tayoko-shiojiri-in-the-shiotani-basin/\" title=\"\" target=\"_blank\">Jordan Cronk</a> wrote in <i>Film Comment</i> last year that “where such daunting length might suggest something tedious or one-note, <i>The Works and Days</i> is constantly shape-shifting, mixing ravishing landscape imagery and scenes of day-to-day labor with bustling dinner sequences and moments of alcohol-fueled camaraderie among an extended coterie of friends and fellow farmers.”</div><div><span><br></span></div><div>Winter—a Californian who studied under Thom Andersen, James Benning, and Allan Sekula and now teaches at Oxford—and Edström—a Swedish photographer whose work has been published in <i>Purple</i> and <i>Fantastic Man</i> and exhibited at the Centre Georges Pompidou in Paris—first worked together on <a href=\"https://jugendohnefilm.com/tag/one-plus-one-2/\" title=\"\" target=\"_blank\"><i>One Plus One 2</i></a> (2003), a documentary on the work of guitarist Derek Bailey conceived as a response to Jean-Luc Godard’s <i>One Plus One</i> (1968). Winter and Edström’s first fiction feature, <a href=\"https://www.theanchoragefilm.com/\" title=\"\" target=\"_blank\"><i>The Anchorage</i></a> (2009), won the Golden Leopard in Locarno’s Filmmakers of the Present competition. “Pairing textured cinematography with intricate sound design,” wrote <a href=\"https://www.nytimes.com/2010/08/22/movies/22hybrid.html\" title=\"\" target=\"_blank\">Dennis Lim</a> in the <i>New York Times</i> in 2010, <i>The Anchorage,</i> which depicts three days in the life of a middle-aged woman on a remote island in the Stockholm archipelago, is “an immersive depiction of a solitary, self-sufficient life, one that the actor to an extent shares with her character.”</div><div><span><br></span></div><div><i>The Works and Days</i> premiered early last year at the Berlinale, where it won a Golden Bear in the inaugural edition of the Encounters competitive program launched by then-incoming artistic director Carlo Chatrian. <a href=\"https://cinema-scope.com/cinema-scope-magazine/the-land-demands-your-effort-c-w-winter-and-anders-edstrom-on-the-works-and-days-of-tayoko-shiojiri-in-the-shiotani-basin/\" title=\"\" target=\"_blank\">Mark Peranson,</a> a programmer for the festival and the editor-in-chief of <i>Cinema Scope,</i> spoke with Winter and Edström for the magazine’s summer 2020 issue. “One thing that we were aware of going in is that much of our fiction gets mistaken for documentary,” says Winter. “And so a couple of our casting decisions were made to help disabuse the viewer of this sort of misreading. This led to the casting of the actor Ryo Kase, a friend of Anders’s from Tokyo, who we thought our sort of audience would recognize from films by Abbas Kiarostami, Hong Sangsoo, and Martin Scorsese. We felt his recurring presence would force an audience to question the nature of the filming and its construction.”</div> \t \t\t<figure class=\"figure-opt is-youtube-embed\"> \t\t\t<div class=\"video-contain\"> \t\t\t\t<div class=\"fluid-width-video-wrapper embed-responsive\"> \t\t\t\t\t<iframe src=\"//www.youtube.com/embed/rgttrBxTLFY?rel=0\" frameborder=\"0\" allowfullscreen=\"\" name=\"fitvid0\"></iframe> \t\t\t\t<div class=\"ovl\"></div></div> \t\t\t</div> \t\t\t \t\t</figure> \t \t\t<p>At Jugend ohne Film, an online journal publishing in English and German, editor Patrick Holzapfel has put together a <a href=\"https://jugendohnefilm.com/fokus/\" title=\"\" target=\"_blank\">special focus</a> on <i>The Works and Days</i> that includes his <a href=\"https://jugendohnefilm.com/trying-to-get-the-table-a-dialogue-with-c-w-winter-and-anders-edstroem/\" title=\"\" target=\"_blank\">conversation</a> with the filmmakers. “When we look at farmers and people doing physical labor,” says Winter, “so much of what they are doing is the duration of habit. It’s a habit that does not only come from their own life span of doing a skill but habit that was handed down across 11,500 years of farming. This brings us to the Hesiod poem <i>Works and Days</i> and this idea of farmers spending time in their geography. With Tayoko you see these kinds of habits. When we think about someone like Bresson, who would need up to seventy takes to get an actor to turn a doorknob with flat effect, we don’t need those seventy takes, because we are looking at actions that are trained by real labor, real exigencies. So they are ready to go on take one.”</p><div><i>For news and items of interest throughout the day, every day, follow <a href=\"https://twitter.com/criteriondaily\" title=\"\" target=\"_blank\">@CriterionDaily.</a></i></div>",
+          "link": "https://www.criterion.com/current/posts/7436-one-work-two-days",
+          "publishedOn": "2021-06-23T19:38:27.000Z",
+          "wordCount": 984,
+          "title": "One Work, Two Days"
+        },
         {
           "id": "https://www.criterion.com/current/posts/7435-june-books",
           "author": null,
@@ -7147,18 +8677,9 @@
           "publishedOn": "2021-05-31T11:00:27.000Z",
           "wordCount": 3015,
           "title": "How to Write Creative Fiction: Umberto Eco’s Four Rules"
-        },
-        {
-          "id": "https://fs.blog/?p=44159",
-          "author": "Rosie",
-          "description": "At Farnam Street, we aim to master the best of what other people have figured out. Not surprisingly, it’s quite a lot. The past is full of useful lessons that have much to teach us. Sometimes, we just need to remember what we’re looking for and why. Life can be overwhelming. It seems like there’s […]\nThe post Better Thinking & Incentives: Lessons From Shakespeare appeared first on Farnam Street.",
-          "link": "https://fs.blog/2021/05/lessons-shakespeare/",
-          "publishedOn": "2021-05-24T12:55:41.000Z",
-          "wordCount": 1758,
-          "title": "Better Thinking & Incentives: Lessons From Shakespeare"
         }
       ]
     }
   ],
-  "cliVersion": "1.10.2"
+  "cliVersion": "1.11.0"
 }
